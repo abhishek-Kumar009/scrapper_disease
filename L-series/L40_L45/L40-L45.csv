@@ -1,0 +1,38 @@
+,category,condition
+0,L40.0,Psoriasis vulgaris
+1,L40.1,Generalized pustular psoriasis
+2,L40.2,Acrodermatitis continua
+3,L40.3,Pustulosis palmaris et plantaris
+4,L40.4,Guttate psoriasis
+5,L40.50,"Arthropathic psoriasis, unspecified"
+6,L40.51,Distal interphalangeal psoriatic arthropathy
+7,L40.52,Psoriatic arthritis mutilans
+8,L40.53,Psoriatic spondylitis
+9,L40.54,Psoriatic juvenile arthropathy
+10,L40.59,Other psoriatic arthropathy
+11,L40.8,Other psoriasis
+12,L40.9,"Psoriasis, unspecified"
+13,L41.0,Pityriasis lichenoides et varioliformis acuta
+14,L41.1,Pityriasis lichenoides chronica
+15,L41.3,Small plaque parapsoriasis
+16,L41.4,Large plaque parapsoriasis
+17,L41.5,Retiform parapsoriasis
+18,L41.8,Other parapsoriasis
+19,L41.9,"Parapsoriasis, unspecified"
+20,Pityriasis rosea (L42),L42  Pityriasis rosea
+21,L42,Pityriasis rosea
+22,L43.0,Hypertrophic lichen planus
+23,L43.1,Bullous lichen planus
+24,L43.2,Lichenoid drug reaction
+25,L43.3,Subacute (active) lichen planus
+26,L43.8,Other lichen planus
+27,L43.9,"Lichen planus, unspecified"
+28,L44.0,Pityriasis rubra pilaris
+29,L44.1,Lichen nitidus
+30,L44.2,Lichen striatus
+31,L44.3,Lichen ruber moniliformis
+32,L44.4,Infantile papular acrodermatitis [GianottiCrosti]
+33,L44.8,Other specified papulosquamous disorders
+34,L44.9,"Papulosquamous disorder, unspecified"
+35,Papulosquamous disorders in diseases classified elsewhere (L45),L45  Papulosquamous disorders in diseases classified elsewhere
+36,L45,Papulosquamous disorders in diseases classified elsewhere

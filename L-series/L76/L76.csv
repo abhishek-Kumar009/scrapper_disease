@@ -1,0 +1,13 @@
+,category,condition
+0,L76.01,"Intraop hemor/hemtom of skin, subcu comp a dermatologic proc"
+1,L76.02,"Intraop hemor/hemtom of skin, subcu comp oth procedure"
+2,L76.11,"Acc pnctr & lac of skin, subcu during a dermatologic proc"
+3,L76.12,"Accidental pnctr & lac of skin, subcu during oth procedure"
+4,L76.21,"Postproc hemor of skin, subcu fol a dermatologic procedure"
+5,L76.22,"Postproc hemorrhage of skin, subcu following other procedure"
+6,L76.31,"Postproc hematoma of skin, subcu fol a dermatologic proc"
+7,L76.32,"Postproc hematoma of skin, subcu following other procedure"
+8,L76.33,"Postproc seroma of skin, subcu fol a dermatologic procedure"
+9,L76.34,"Postproc seroma of skin, subcu following other procedure"
+10,L76.81,"Oth intraoperative complications of skin, subcu"
+11,L76.82,"Oth postprocedural complications of skin, subcu"

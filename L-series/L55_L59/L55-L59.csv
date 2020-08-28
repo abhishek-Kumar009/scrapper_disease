@@ -1,0 +1,27 @@
+,category,condition
+0,L55.0,Sunburn of first degree
+1,L55.1,Sunburn of second degree
+2,L55.2,Sunburn of third degree
+3,L55.9,"Sunburn, unspecified"
+4,L56.0,Drug phototoxic response
+5,L56.1,Drug photoallergic response
+6,L56.2,Photocontact dermatitis [berloque dermatitis]
+7,L56.3,Solar urticaria
+8,L56.4,Polymorphous light eruption
+9,L56.5,Disseminated superficial actinic porokeratosis (DSAP)
+10,L56.8,Oth acute skin changes due to ultraviolet radiation
+11,L56.9,"Acute skin change due to ultraviolet radiation, unspecified"
+12,L57.0,Actinic keratosis
+13,L57.1,Actinic reticuloid
+14,L57.2,Cutis rhomboidalis nuchae
+15,L57.3,Poikiloderma of Civatte
+16,L57.4,Cutis laxa senilis
+17,L57.5,Actinic granuloma
+18,L57.8,Oth skin changes due to chr expsr to nonionizing radiation
+19,L57.9,"Skin changes due to chr expsr to nonionizing radiation, unsp"
+20,L58.0,Acute radiodermatitis
+21,L58.1,Chronic radiodermatitis
+22,L58.9,"Radiodermatitis, unspecified"
+23,L59.0,Erythema ab igne [dermatitis ab igne]
+24,L59.8,"Oth disrd of the skin, subcu related to radiation"
+25,L59.9,"Disorder of the skin, subcu related to radiation, unsp"

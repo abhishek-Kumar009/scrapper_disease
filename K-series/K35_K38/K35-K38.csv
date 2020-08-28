@@ -1,0 +1,20 @@
+,category,condition
+0,K35.20,"Acute appendicitis with gen peritonitis, without abscess"
+1,K35.21,"Acute appendicitis with gen peritonitis, with abscess"
+2,K35.30,"Acute appendicitis with loc peritonitis, w/o perf or gangr"
+3,K35.31,"Acute appendicitis with loc peritonitis and gangr, w/o perf"
+4,K35.32,"Acute appendicitis with perf and loc peritonitis, w/o abscs"
+5,K35.33,"Acute appendicitis with perf and loc peritonitis, with abscs"
+6,K35.80,Unspecified acute appendicitis
+7,K35.890,Other acute appendicitis without perforation or gangrene
+8,K35.891,"Other acute appendicitis without perforation, with gangrene"
+9,Other appendicitis (K36),K36  Other appendicitis
+10,K36,Other appendicitis
+11,Unspecified appendicitis (K37),K37  Unspecified appendicitis
+12,K37,Unspecified appendicitis
+13,K38.0,Hyperplasia of appendix
+14,K38.1,Appendicular concretions
+15,K38.2,Diverticulum of appendix
+16,K38.3,Fistula of appendix
+17,K38.8,Other specified diseases of appendix
+18,K38.9,"Disease of appendix, unspecified"

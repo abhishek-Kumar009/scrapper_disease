@@ -1,0 +1,68 @@
+,category,condition
+0,L20.0,Besnier's prurigo
+1,L20.81,Atopic neurodermatitis
+2,L20.82,Flexural eczema
+3,L20.83,Infantile (acute) (chronic) eczema
+4,L20.84,Intrinsic (allergic) eczema
+5,L20.89,Other atopic dermatitis
+6,L20.9,"Atopic dermatitis, unspecified"
+7,L21.0,Seborrhea capitis
+8,L21.1,Seborrheic infantile dermatitis
+9,L21.8,Other seborrheic dermatitis
+10,L21.9,"Seborrheic dermatitis, unspecified"
+11,Diaper dermatitis (L22),L22  Diaper dermatitis
+12,L22,Diaper dermatitis
+13,L23.0,Allergic contact dermatitis due to metals
+14,L23.1,Allergic contact dermatitis due to adhesives
+15,L23.2,Allergic contact dermatitis due to cosmetics
+16,L23.3,Allergic contact dermatitis due to drugs in contact w skin
+17,L23.4,Allergic contact dermatitis due to dyes
+18,L23.5,Allergic contact dermatitis due to other chemical products
+19,L23.6,Allergic contact dermatitis due to food in contact w skin
+20,L23.7,"Allergic contact dermatitis due to plants, except food"
+21,L23.81,Allergic contact dermatitis due to animal (cat) (dog) dander
+22,L23.89,Allergic contact dermatitis due to other agents
+23,L23.9,"Allergic contact dermatitis, unspecified cause"
+24,L24.0,Irritant contact dermatitis due to detergents
+25,L24.1,Irritant contact dermatitis due to oils and greases
+26,L24.2,Irritant contact dermatitis due to solvents
+27,L24.3,Irritant contact dermatitis due to cosmetics
+28,L24.4,Irritant contact dermatitis due to drugs in contact w skin
+29,L24.5,Irritant contact dermatitis due to other chemical products
+30,L24.6,Irritant contact dermatitis due to food in contact with skin
+31,L24.7,"Irritant contact dermatitis due to plants, except food"
+32,L24.81,Irritant contact dermatitis due to metals
+33,L24.89,Irritant contact dermatitis due to other agents
+34,L24.9,"Irritant contact dermatitis, unspecified cause"
+35,L25.0,Unspecified contact dermatitis due to cosmetics
+36,L25.1,Unsp contact dermatitis due to drugs in contact with skin
+37,L25.2,Unspecified contact dermatitis due to dyes
+38,L25.3,Unsp contact dermatitis due to other chemical products
+39,L25.4,Unsp contact dermatitis due to food in contact with skin
+40,L25.5,"Unspecified contact dermatitis due to plants, except food"
+41,L25.8,Unspecified contact dermatitis due to other agents
+42,L25.9,"Unspecified contact dermatitis, unspecified cause"
+43,Exfoliative dermatitis (L26),L26  Exfoliative dermatitis
+44,L26,Exfoliative dermatitis
+45,L27.0,Gen skin eruption due to drugs and meds taken internally
+46,L27.1,Loc skin eruption due to drugs and meds taken internally
+47,L27.2,Dermatitis due to ingested food
+48,L27.8,Dermatitis due to other substances taken internally
+49,L27.9,Dermatitis due to unspecified substance taken internally
+50,L28.0,Lichen simplex chronicus
+51,L28.1,Prurigo nodularis
+52,L28.2,Other prurigo
+53,L29.0,Pruritus ani
+54,L29.1,Pruritus scroti
+55,L29.2,Pruritus vulvae
+56,L29.3,"Anogenital pruritus, unspecified"
+57,L29.8,Other pruritus
+58,L29.9,"Pruritus, unspecified"
+59,L30.0,Nummular dermatitis
+60,L30.1,Dyshidrosis [pompholyx]
+61,L30.2,Cutaneous autosensitization
+62,L30.3,Infective dermatitis
+63,L30.4,Erythema intertrigo
+64,L30.5,Pityriasis alba
+65,L30.8,Other specified dermatitis
+66,L30.9,"Dermatitis, unspecified"

@@ -1,0 +1,62 @@
+,category,condition
+0,K70.0,Alcoholic fatty liver
+1,K70.10,Alcoholic hepatitis without ascites
+2,K70.11,Alcoholic hepatitis with ascites
+3,K70.2,Alcoholic fibrosis and sclerosis of liver
+4,K70.30,Alcoholic cirrhosis of liver without ascites
+5,K70.31,Alcoholic cirrhosis of liver with ascites
+6,K70.40,Alcoholic hepatic failure without coma
+7,K70.41,Alcoholic hepatic failure with coma
+8,K70.9,"Alcoholic liver disease, unspecified"
+9,K71.0,Toxic liver disease with cholestasis
+10,K71.10,"Toxic liver disease with hepatic necrosis, without coma"
+11,K71.11,"Toxic liver disease with hepatic necrosis, with coma"
+12,K71.2,Toxic liver disease with acute hepatitis
+13,K71.3,Toxic liver disease with chronic persistent hepatitis
+14,K71.4,Toxic liver disease with chronic lobular hepatitis
+15,K71.50,Toxic liver disease w chronic active hepatitis w/o ascites
+16,K71.51,Toxic liver disease w chronic active hepatitis with ascites
+17,K71.6,"Toxic liver disease with hepatitis, not elsewhere classified"
+18,K71.7,Toxic liver disease with fibrosis and cirrhosis of liver
+19,K71.8,Toxic liver disease with other disorders of liver
+20,K71.9,"Toxic liver disease, unspecified"
+21,K72.00,Acute and subacute hepatic failure without coma
+22,K72.01,Acute and subacute hepatic failure with coma
+23,K72.10,Chronic hepatic failure without coma
+24,K72.11,Chronic hepatic failure with coma
+25,K72.90,"Hepatic failure, unspecified without coma"
+26,K72.91,"Hepatic failure, unspecified with coma"
+27,K73.0,"Chronic persistent hepatitis, not elsewhere classified"
+28,K73.1,"Chronic lobular hepatitis, not elsewhere classified"
+29,K73.2,"Chronic active hepatitis, not elsewhere classified"
+30,K73.8,"Other chronic hepatitis, not elsewhere classified"
+31,K73.9,"Chronic hepatitis, unspecified"
+32,K74.0,Hepatic fibrosis
+33,K74.1,Hepatic sclerosis
+34,K74.2,Hepatic fibrosis with hepatic sclerosis
+35,K74.3,Primary biliary cirrhosis
+36,K74.4,Secondary biliary cirrhosis
+37,K74.5,"Biliary cirrhosis, unspecified"
+38,K74.60,Unspecified cirrhosis of liver
+39,K74.69,Other cirrhosis of liver
+40,K75.0,Abscess of liver
+41,K75.1,Phlebitis of portal vein
+42,K75.2,Nonspecific reactive hepatitis
+43,K75.3,"Granulomatous hepatitis, not elsewhere classified"
+44,K75.4,Autoimmune hepatitis
+45,K75.81,Nonalcoholic steatohepatitis (NASH)
+46,K75.89,Other specified inflammatory liver diseases
+47,K75.9,"Inflammatory liver disease, unspecified"
+48,K76.0,"Fatty (change of) liver, not elsewhere classified"
+49,K76.1,Chronic passive congestion of liver
+50,K76.2,Central hemorrhagic necrosis of liver
+51,K76.3,Infarction of liver
+52,K76.4,Peliosis hepatis
+53,K76.5,Hepatic venoocclusive disease
+54,K76.6,Portal hypertension
+55,K76.7,Hepatorenal syndrome
+56,K76.81,Hepatopulmonary syndrome
+57,K76.89,Other specified diseases of liver
+58,K76.9,"Liver disease, unspecified"
+59,Liver disorders in diseases classified elsewhere (K77),K77  Liver disorders in diseases classified elsewhere
+60,K77,Liver disorders in diseases classified elsewhere

@@ -1,0 +1,28 @@
+,category,condition
+0,L10.0,Pemphigus vulgaris
+1,L10.1,Pemphigus vegetans
+2,L10.2,Pemphigus foliaceous
+3,L10.3,Brazilian pemphigus [fogo selvagem]
+4,L10.4,Pemphigus erythematosus
+5,L10.5,Druginduced pemphigus
+6,L10.81,Paraneoplastic pemphigus
+7,L10.89,Other pemphigus
+8,L10.9,"Pemphigus, unspecified"
+9,L11.0,Acquired keratosis follicularis
+10,L11.1,Transient acantholytic dermatosis [Grover]
+11,L11.8,Other specified acantholytic disorders
+12,L11.9,"Acantholytic disorder, unspecified"
+13,L12.0,Bullous pemphigoid
+14,L12.1,Cicatricial pemphigoid
+15,L12.2,Chronic bullous disease of childhood
+16,L12.30,"Acquired epidermolysis bullosa, unspecified"
+17,L12.31,Epidermolysis bullosa due to drug
+18,L12.35,Other acquired epidermolysis bullosa
+19,L12.8,Other pemphigoid
+20,L12.9,"Pemphigoid, unspecified"
+21,L13.0,Dermatitis herpetiformis
+22,L13.1,Subcorneal pustular dermatitis
+23,L13.8,Other specified bullous disorders
+24,L13.9,"Bullous disorder, unspecified"
+25,Bullous disorders in diseases classified elsewhere (L14),L14  Bullous disorders in diseases classified elsewhere
+26,L14,Bullous disorders in diseases classified elsewhere

@@ -1,0 +1,203 @@
+,category,condition
+0,K00.0,Anodontia
+1,K00.1,Supernumerary teeth
+2,K00.2,Abnormalities of size and form of teeth
+3,K00.3,Mottled teeth
+4,K00.4,Disturbances in tooth formation
+5,K00.5,"Hereditary disturbances in tooth structure, NEC"
+6,K00.6,Disturbances in tooth eruption
+7,K00.7,Teething syndrome
+8,K00.8,Other disorders of tooth development
+9,K00.9,"Disorder of tooth development, unspecified"
+10,K01.0,Embedded teeth
+11,K01.1,Impacted teeth
+12,K02.3,Arrested dental caries
+13,K02.51,Dental caries on pit and fissure surface limited to enamel
+14,K02.52,Dental caries on pit and fissure surfc penetrat into dentin
+15,K02.53,Dental caries on pit and fissure surface penetrat into pulp
+16,K02.61,Dental caries on smooth surface limited to enamel
+17,K02.62,Dental caries on smooth surface penetrating into dentin
+18,K02.63,Dental caries on smooth surface penetrating into pulp
+19,K02.7,Dental root caries
+20,K02.9,"Dental caries, unspecified"
+21,K03.0,Excessive attrition of teeth
+22,K03.1,Abrasion of teeth
+23,K03.2,Erosion of teeth
+24,K03.3,Pathological resorption of teeth
+25,K03.4,Hypercementosis
+26,K03.5,Ankylosis of teeth
+27,K03.6,Deposits [accretions] on teeth
+28,K03.7,Posteruptive color changes of dental hard tissues
+29,K03.81,Cracked tooth
+30,K03.89,Other specified diseases of hard tissues of teeth
+31,K03.9,"Disease of hard tissues of teeth, unspecified"
+32,K04.01,Reversible pulpitis
+33,K04.02,Irreversible pulpitis
+34,K04.1,Necrosis of pulp
+35,K04.2,Pulp degeneration
+36,K04.3,Abnormal hard tissue formation in pulp
+37,K04.4,Acute apical periodontitis of pulpal origin
+38,K04.5,Chronic apical periodontitis
+39,K04.6,Periapical abscess with sinus
+40,K04.7,Periapical abscess without sinus
+41,K04.8,Radicular cyst
+42,K04.90,Unspecified diseases of pulp and periapical tissues
+43,K04.99,Other diseases of pulp and periapical tissues
+44,K05.00,"Acute gingivitis, plaque induced"
+45,K05.01,"Acute gingivitis, nonplaque induced"
+46,K05.10,"Chronic gingivitis, plaque induced"
+47,K05.11,"Chronic gingivitis, nonplaque induced"
+48,K05.20,"Aggressive periodontitis, unspecified"
+49,K05.211,"Aggressive periodontitis, localized, slight"
+50,K05.212,"Aggressive periodontitis, localized, moderate"
+51,K05.213,"Aggressive periodontitis, localized, severe"
+52,K05.219,"Aggressive periodontitis, localized, unspecified severity"
+53,K05.221,"Aggressive periodontitis, generalized, slight"
+54,K05.222,"Aggressive periodontitis, generalized, moderate"
+55,K05.223,"Aggressive periodontitis, generalized, severe"
+56,K05.229,"Aggressive periodontitis, generalized, unspecified severity"
+57,K05.30,"Chronic periodontitis, unspecified"
+58,K05.311,"Chronic periodontitis, localized, slight"
+59,K05.312,"Chronic periodontitis, localized, moderate"
+60,K05.313,"Chronic periodontitis, localized, severe"
+61,K05.319,"Chronic periodontitis, localized, unspecified severity"
+62,K05.321,"Chronic periodontitis, generalized, slight"
+63,K05.322,"Chronic periodontitis, generalized, moderate"
+64,K05.323,"Chronic periodontitis, generalized, severe"
+65,K05.329,"Chronic periodontitis, generalized, unspecified severity"
+66,K05.4,Periodontosis
+67,K05.5,Other periodontal diseases
+68,K05.6,"Periodontal disease, unspecified"
+69,K06.010,"Localized gingival recession, unspecified"
+70,K06.011,"Localized gingival recession, minimal"
+71,K06.012,"Localized gingival recession, moderate"
+72,K06.013,"Localized gingival recession, severe"
+73,K06.020,"Generalized gingival recession, unspecified"
+74,K06.021,"Generalized gingival recession, minimal"
+75,K06.022,"Generalized gingival recession, moderate"
+76,K06.023,"Generalized gingival recession, severe"
+77,K06.1,Gingival enlargement
+78,K06.2,Gingival & edentulous alveolar ridge lesions assoc w trauma
+79,K06.3,Horizontal alveolar bone loss
+80,K06.8,Oth disrd of gingiva and edentulous alveolar ridge
+81,K06.9,"Disorder of gingiva and edentulous alveolar ridge, unsp"
+82,K08.0,Exfoliation of teeth due to systemic causes
+83,K08.101,"Complete loss of teeth, unspecified cause, class I"
+84,K08.102,"Complete loss of teeth, unspecified cause, class II"
+85,K08.103,"Complete loss of teeth, unspecified cause, class III"
+86,K08.104,"Complete loss of teeth, unspecified cause, class IV"
+87,K08.109,"Complete loss of teeth, unspecified cause, unspecified class"
+88,K08.111,"Complete loss of teeth due to trauma, class I"
+89,K08.112,"Complete loss of teeth due to trauma, class II"
+90,K08.113,"Complete loss of teeth due to trauma, class III"
+91,K08.114,"Complete loss of teeth due to trauma, class IV"
+92,K08.119,"Complete loss of teeth due to trauma, unspecified class"
+93,K08.121,"Complete loss of teeth due to periodontal diseases, class I"
+94,K08.122,"Complete loss of teeth due to periodontal diseases, class II"
+95,K08.123,"Complete loss of teeth due to periodontal dis, class III"
+96,K08.124,"Complete loss of teeth due to periodontal diseases, class IV"
+97,K08.129,"Complete loss of teeth due to periodontal dis, unsp class"
+98,K08.131,"Complete loss of teeth due to caries, class I"
+99,K08.132,"Complete loss of teeth due to caries, class II"
+100,K08.133,"Complete loss of teeth due to caries, class III"
+101,K08.134,"Complete loss of teeth due to caries, class IV"
+102,K08.139,"Complete loss of teeth due to caries, unspecified class"
+103,K08.191,"Complete loss of teeth due to other specified cause, class I"
+104,K08.192,"Complete loss of teeth due to oth cause, class II"
+105,K08.193,"Complete loss of teeth due to oth cause, class III"
+106,K08.194,"Complete loss of teeth due to oth cause, class IV"
+107,K08.199,"Complete loss of teeth due to oth cause, unspecified class"
+108,K08.20,Unspecified atrophy of edentulous alveolar ridge
+109,K08.21,Minimal atrophy of the mandible
+110,K08.22,Moderate atrophy of the mandible
+111,K08.23,Severe atrophy of the mandible
+112,K08.24,Minimal atrophy of maxilla
+113,K08.25,Moderate atrophy of the maxilla
+114,K08.26,Severe atrophy of the maxilla
+115,K08.3,Retained dental root
+116,K08.401,"Partial loss of teeth, unspecified cause, class I"
+117,K08.402,"Partial loss of teeth, unspecified cause, class II"
+118,K08.403,"Partial loss of teeth, unspecified cause, class III"
+119,K08.404,"Partial loss of teeth, unspecified cause, class IV"
+120,K08.409,"Partial loss of teeth, unspecified cause, unspecified class"
+121,K08.411,"Partial loss of teeth due to trauma, class I"
+122,K08.412,"Partial loss of teeth due to trauma, class II"
+123,K08.413,"Partial loss of teeth due to trauma, class III"
+124,K08.414,"Partial loss of teeth due to trauma, class IV"
+125,K08.419,"Partial loss of teeth due to trauma, unspecified class"
+126,K08.421,"Partial loss of teeth due to periodontal diseases, class I"
+127,K08.422,"Partial loss of teeth due to periodontal diseases, class II"
+128,K08.423,"Partial loss of teeth due to periodontal diseases, class III"
+129,K08.424,"Partial loss of teeth due to periodontal diseases, class IV"
+130,K08.429,"Partial loss of teeth due to periodontal dis, unsp class"
+131,K08.431,"Partial loss of teeth due to caries, class I"
+132,K08.432,"Partial loss of teeth due to caries, class II"
+133,K08.433,"Partial loss of teeth due to caries, class III"
+134,K08.434,"Partial loss of teeth due to caries, class IV"
+135,K08.439,"Partial loss of teeth due to caries, unspecified class"
+136,K08.491,"Partial loss of teeth due to other specified cause, class I"
+137,K08.492,"Partial loss of teeth due to other specified cause, class II"
+138,K08.493,"Partial loss of teeth due to oth cause, class III"
+139,K08.494,"Partial loss of teeth due to other specified cause, class IV"
+140,K08.499,"Partial loss of teeth due to oth cause, unspecified class"
+141,K08.50,"Unsatisfactory restoration of tooth, unspecified"
+142,K08.51,Open restoration margins of tooth
+143,K08.52,Unrepairable overhanging of dental restorative materials
+144,K08.530,Fractured dental restorative material w/o loss of material
+145,K08.531,Fractured dental restorative material with loss of material
+146,K08.539,"Fractured dental restorative material, unspecified"
+147,K08.54,Contour of exist restor of tooth biolog incompat w oral hlth
+148,K08.55,Allergy to existing dental restorative material
+149,K08.56,Poor aesthetic of existing restoration of tooth
+150,K08.59,Other unsatisfactory restoration of tooth
+151,K08.81,Primary occlusal trauma
+152,K08.82,Secondary occlusal trauma
+153,K08.89,Other specified disorders of teeth and supporting structures
+154,K08.9,"Disorder of teeth and supporting structures, unspecified"
+155,K09.0,Developmental odontogenic cysts
+156,K09.1,Developmental (nonodontogenic) cysts of oral region
+157,K09.8,"Other cysts of oral region, not elsewhere classified"
+158,K09.9,"Cyst of oral region, unspecified"
+159,K11.0,Atrophy of salivary gland
+160,K11.1,Hypertrophy of salivary gland
+161,K11.20,"Sialoadenitis, unspecified"
+162,K11.21,Acute sialoadenitis
+163,K11.22,Acute recurrent sialoadenitis
+164,K11.23,Chronic sialoadenitis
+165,K11.3,Abscess of salivary gland
+166,K11.4,Fistula of salivary gland
+167,K11.5,Sialolithiasis
+168,K11.6,Mucocele of salivary gland
+169,K11.7,Disturbances of salivary secretion
+170,K11.8,Other diseases of salivary glands
+171,K11.9,"Disease of salivary gland, unspecified"
+172,K12.0,Recurrent oral aphthae
+173,K12.1,Other forms of stomatitis
+174,K12.2,Cellulitis and abscess of mouth
+175,K12.30,"Oral mucositis (ulcerative), unspecified"
+176,K12.31,Oral mucositis (ulcerative) due to antineoplastic therapy
+177,K12.32,Oral mucositis (ulcerative) due to other drugs
+178,K12.33,Oral mucositis (ulcerative) due to radiation
+179,K12.39,Other oral mucositis (ulcerative)
+180,K13.0,Diseases of lips
+181,K13.1,Cheek and lip biting
+182,K13.21,"Leukoplakia of oral mucosa, including tongue"
+183,K13.22,Minimal keratinized residual ridge mucosa
+184,K13.23,Excessive keratinized residual ridge mucosa
+185,K13.24,Leukokeratosis nicotina palati
+186,K13.29,"Other disturbances of oral epithelium, including tongue"
+187,K13.3,Hairy leukoplakia
+188,K13.4,Granuloma and granulomalike lesions of oral mucosa
+189,K13.5,Oral submucous fibrosis
+190,K13.6,Irritative hyperplasia of oral mucosa
+191,K13.70,Unspecified lesions of oral mucosa
+192,K13.79,Other lesions of oral mucosa
+193,K14.0,Glossitis
+194,K14.1,Geographic tongue
+195,K14.2,Median rhomboid glossitis
+196,K14.3,Hypertrophy of tongue papillae
+197,K14.4,Atrophy of tongue papillae
+198,K14.5,Plicated tongue
+199,K14.6,Glossodynia
+200,K14.8,Other diseases of tongue
+201,K14.9,"Disease of tongue, unspecified"

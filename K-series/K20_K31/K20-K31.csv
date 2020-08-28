@@ -1,0 +1,93 @@
+,category,condition
+0,K20.0,Eosinophilic esophagitis
+1,K20.8,Other esophagitis
+2,K20.9,"Esophagitis, unspecified"
+3,K21.0,Gastroesophageal reflux disease with esophagitis
+4,K21.9,Gastroesophageal reflux disease without esophagitis
+5,K22.0,Achalasia of cardia
+6,K22.10,Ulcer of esophagus without bleeding
+7,K22.11,Ulcer of esophagus with bleeding
+8,K22.2,Esophageal obstruction
+9,K22.3,Perforation of esophagus
+10,K22.4,Dyskinesia of esophagus
+11,K22.5,"Diverticulum of esophagus, acquired"
+12,K22.6,Gastroesophageal lacerationhemorrhage syndrome
+13,K22.70,Barrett's esophagus without dysplasia
+14,K22.710,Barrett's esophagus with low grade dysplasia
+15,K22.711,Barrett's esophagus with high grade dysplasia
+16,K22.719,"Barrett's esophagus with dysplasia, unspecified"
+17,K22.8,Other specified diseases of esophagus
+18,K22.9,"Disease of esophagus, unspecified"
+19,Disorders of esophagus in diseases classified elsewhere (K23),K23  Disorders of esophagus in diseases classified elsewhere
+20,K23,Disorders of esophagus in diseases classified elsewhere
+21,K25.0,Acute gastric ulcer with hemorrhage
+22,K25.1,Acute gastric ulcer with perforation
+23,K25.2,Acute gastric ulcer with both hemorrhage and perforation
+24,K25.3,Acute gastric ulcer without hemorrhage or perforation
+25,K25.4,Chronic or unspecified gastric ulcer with hemorrhage
+26,K25.5,Chronic or unspecified gastric ulcer with perforation
+27,K25.6,Chronic or unsp gastric ulcer w both hemorrhage and perf
+28,K25.7,Chronic gastric ulcer without hemorrhage or perforation
+29,K25.9,"Gastric ulcer, unsp as acute or chronic, w/o hemor or perf"
+30,K26.0,Acute duodenal ulcer with hemorrhage
+31,K26.1,Acute duodenal ulcer with perforation
+32,K26.2,Acute duodenal ulcer with both hemorrhage and perforation
+33,K26.3,Acute duodenal ulcer without hemorrhage or perforation
+34,K26.4,Chronic or unspecified duodenal ulcer with hemorrhage
+35,K26.5,Chronic or unspecified duodenal ulcer with perforation
+36,K26.6,Chronic or unsp duodenal ulcer w both hemorrhage and perf
+37,K26.7,Chronic duodenal ulcer without hemorrhage or perforation
+38,K26.9,"Duodenal ulcer, unsp as acute or chronic, w/o hemor or perf"
+39,K27.0,"Acute peptic ulcer, site unspecified, with hemorrhage"
+40,K27.1,"Acute peptic ulcer, site unspecified, with perforation"
+41,K27.2,"Acute peptic ulcer, site unsp, w both hemorrhage and perf"
+42,K27.3,"Acute peptic ulcer, site unsp, w/o hemorrhage or perforation"
+43,K27.4,"Chronic or unsp peptic ulcer, site unsp, with hemorrhage"
+44,K27.5,"Chronic or unsp peptic ulcer, site unsp, with perforation"
+45,K27.6,"Chr or unsp peptic ulcer, site unsp, w both hemor and perf"
+46,K27.7,"Chronic peptic ulcer, site unsp, w/o hemorrhage or perf"
+47,K27.9,"Peptic ulc, site unsp, unsp as ac or chr, w/o hemor or perf"
+48,K28.0,Acute gastrojejunal ulcer with hemorrhage
+49,K28.1,Acute gastrojejunal ulcer with perforation
+50,K28.2,Acute gastrojejunal ulcer w both hemorrhage and perforation
+51,K28.3,Acute gastrojejunal ulcer without hemorrhage or perforation
+52,K28.4,Chronic or unspecified gastrojejunal ulcer with hemorrhage
+53,K28.5,Chronic or unspecified gastrojejunal ulcer with perforation
+54,K28.6,Chronic or unsp gastrojejunal ulcer w both hemor and perf
+55,K28.7,Chronic gastrojejunal ulcer w/o hemorrhage or perforation
+56,K28.9,"Gastrojejunal ulcer, unsp as acute or chr, w/o hemor or perf"
+57,K29.00,Acute gastritis without bleeding
+58,K29.01,Acute gastritis with bleeding
+59,K29.20,Alcoholic gastritis without bleeding
+60,K29.21,Alcoholic gastritis with bleeding
+61,K29.30,Chronic superficial gastritis without bleeding
+62,K29.31,Chronic superficial gastritis with bleeding
+63,K29.40,Chronic atrophic gastritis without bleeding
+64,K29.41,Chronic atrophic gastritis with bleeding
+65,K29.50,Unspecified chronic gastritis without bleeding
+66,K29.51,Unspecified chronic gastritis with bleeding
+67,K29.60,Other gastritis without bleeding
+68,K29.61,Other gastritis with bleeding
+69,K29.70,"Gastritis, unspecified, without bleeding"
+70,K29.71,"Gastritis, unspecified, with bleeding"
+71,K29.80,Duodenitis without bleeding
+72,K29.81,Duodenitis with bleeding
+73,K29.90,"Gastroduodenitis, unspecified, without bleeding"
+74,K29.91,"Gastroduodenitis, unspecified, with bleeding"
+75,Functional dyspepsia (K30),K30  Functional dyspepsia
+76,K30,Functional dyspepsia
+77,K31.0,Acute dilatation of stomach
+78,K31.1,Adult hypertrophic pyloric stenosis
+79,K31.2,Hourglass stricture and stenosis of stomach
+80,K31.3,"Pylorospasm, not elsewhere classified"
+81,K31.4,Gastric diverticulum
+82,K31.5,Obstruction of duodenum
+83,K31.6,Fistula of stomach and duodenum
+84,K31.7,Polyp of stomach and duodenum
+85,K31.811,Angiodysplasia of stomach and duodenum with bleeding
+86,K31.819,Angiodysplasia of stomach and duodenum without bleeding
+87,K31.82,Dieulafoy lesion (hemorrhagic) of stomach and duodenum
+88,K31.83,Achlorhydria
+89,K31.84,Gastroparesis
+90,K31.89,Other diseases of stomach and duodenum
+91,K31.9,"Disease of stomach and duodenum, unspecified"

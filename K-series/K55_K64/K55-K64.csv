@@ -1,0 +1,128 @@
+,category,condition
+0,K55.011,Focal (segmental) acute ischemia of small intestine
+1,K55.012,Diffuse acute (reversible) ischemia of small intestine
+2,K55.019,"Acute ischemia of small intestine, extent unspecified"
+3,K55.021,Focal (segmental) acute infarction of small intestine
+4,K55.022,Diffuse acute infarction of small intestine
+5,K55.029,"Acute infarction of small intestine, extent unspecified"
+6,K55.031,Focal (segmental) acute ischemia of large intestine
+7,K55.032,Diffuse acute (reversible) ischemia of large intestine
+8,K55.039,"Acute ischemia of large intestine, extent unspecified"
+9,K55.041,Focal (segmental) acute infarction of large intestine
+10,K55.042,Diffuse acute infarction of large intestine
+11,K55.049,"Acute infarction of large intestine, extent unspecified"
+12,K55.051,"Focal acute ischemia of intestine, part unspecified"
+13,K55.052,"Diffuse acute ischemia of intestine, part unspecified"
+14,K55.059,"Acute ischemia of intestine, part and extent unspecified"
+15,K55.061,"Focal acute infarction of intestine, part unspecified"
+16,K55.062,"Diffuse acute infarction of intestine, part unspecified"
+17,K55.069,"Acute infarction of intestine, part and extent unspecified"
+18,K55.1,Chronic vascular disorders of intestine
+19,K55.20,Angiodysplasia of colon without hemorrhage
+20,K55.21,Angiodysplasia of colon with hemorrhage
+21,K55.30,"Necrotizing enterocolitis, unspecified"
+22,K55.31,Stage 1 necrotizing enterocolitis
+23,K55.32,Stage 2 necrotizing enterocolitis
+24,K55.33,Stage 3 necrotizing enterocolitis
+25,K55.8,Other vascular disorders of intestine
+26,K55.9,"Vascular disorder of intestine, unspecified"
+27,K56.0,Paralytic ileus
+28,K56.1,Intussusception
+29,K56.2,Volvulus
+30,K56.3,Gallstone ileus
+31,K56.41,Fecal impaction
+32,K56.49,Other impaction of intestine
+33,K56.50,"Intestnl adhesions, unsp as to partial versus complete obst"
+34,K56.51,"Intestinal adhesions [bands], with partial obstruction"
+35,K56.52,Intestinal adhesions [bands] with complete obstruction
+36,K56.600,"Partial intestinal obstruction, unspecified as to cause"
+37,K56.601,"Complete intestinal obstruction, unspecified as to cause"
+38,K56.609,"Unsp intestnl obst, unsp as to partial versus complete obst"
+39,K56.690,Other partial intestinal obstruction
+40,K56.691,Other complete intestinal obstruction
+41,K56.699,Other intestnl obst unsp as to partial versus complete obst
+42,K56.7,"Ileus, unspecified"
+43,K57.00,Dvtrcli of sm int w perforation and abscess w/o bleeding
+44,K57.01,Dvtrcli of sm int w perforation and abscess w bleeding
+45,K57.10,Dvrtclos of sm int w/o perforation or abscess w/o bleeding
+46,K57.11,Dvrtclos of sm int w/o perforation or abscess w bleeding
+47,K57.12,Dvtrcli of sm int w/o perforation or abscess w/o bleeding
+48,K57.13,Dvtrcli of sm int w/o perforation or abscess w bleeding
+49,K57.20,Dvtrcli of lg int w perforation and abscess w/o bleeding
+50,K57.21,Dvtrcli of lg int w perforation and abscess w bleeding
+51,K57.30,Dvrtclos of lg int w/o perforation or abscess w/o bleeding
+52,K57.31,Dvrtclos of lg int w/o perforation or abscess w bleeding
+53,K57.32,Dvtrcli of lg int w/o perforation or abscess w/o bleeding
+54,K57.33,Dvtrcli of lg int w/o perforation or abscess w bleeding
+55,K57.40,Dvtrcli of both small and lg int w perf and abscs w/o bleed
+56,K57.41,Dvtrcli of both small and lg int w perf and abscess w bleed
+57,K57.50,Dvrtclos of both sm and lg int w/o perf or abscs w/o bleed
+58,K57.51,Dvrtclos of both small and lg int w/o perf or abscs w bleed
+59,K57.52,Dvtrcli of both small and lg int w/o perf or abscs w/o bleed
+60,K57.53,Dvtrcli of both small and lg int w/o perf or abscess w bleed
+61,K57.80,"Dvtrcli of intest, part unsp, w perf and abscess w/o bleed"
+62,K57.81,"Dvtrcli of intest, part unsp, w perf and abscess w bleeding"
+63,K57.90,"Dvrtclos of intest, part unsp, w/o perf or abscess w/o bleed"
+64,K57.91,"Dvrtclos of intest, part unsp, w/o perf or abscess w bleed"
+65,K57.92,"Dvtrcli of intest, part unsp, w/o perf or abscess w/o bleed"
+66,K57.93,"Dvtrcli of intest, part unsp, w/o perf or abscess w bleeding"
+67,K58.0,Irritable bowel syndrome with diarrhea
+68,K58.1,Irritable bowel syndrome with constipation
+69,K58.2,Mixed irritable bowel syndrome
+70,K58.8,Other irritable bowel syndrome
+71,K58.9,Irritable bowel syndrome without diarrhea
+72,K59.00,"Constipation, unspecified"
+73,K59.01,Slow transit constipation
+74,K59.02,Outlet dysfunction constipation
+75,K59.03,Drug induced constipation
+76,K59.04,Chronic idiopathic constipation
+77,K59.09,Other constipation
+78,K59.1,Functional diarrhea
+79,K59.2,"Neurogenic bowel, not elsewhere classified"
+80,K59.31,Toxic megacolon
+81,K59.39,Other megacolon
+82,K59.4,Anal spasm
+83,K59.8,Other specified functional intestinal disorders
+84,K59.9,"Functional intestinal disorder, unspecified"
+85,K60.0,Acute anal fissure
+86,K60.1,Chronic anal fissure
+87,K60.2,"Anal fissure, unspecified"
+88,K60.3,Anal fistula
+89,K60.4,Rectal fistula
+90,K60.5,Anorectal fistula
+91,K61.0,Anal abscess
+92,K61.1,Rectal abscess
+93,K61.2,Anorectal abscess
+94,K61.31,Horseshoe abscess
+95,K61.39,Other ischiorectal abscess
+96,K61.4,Intrasphincteric abscess
+97,K61.5,Supralevator abscess
+98,K62.0,Anal polyp
+99,K62.1,Rectal polyp
+100,K62.2,Anal prolapse
+101,K62.3,Rectal prolapse
+102,K62.4,Stenosis of anus and rectum
+103,K62.5,Hemorrhage of anus and rectum
+104,K62.6,Ulcer of anus and rectum
+105,K62.7,Radiation proctitis
+106,K62.81,Anal sphincter tear (healed) (nontraumatic) (old)
+107,K62.82,Dysplasia of anus
+108,K62.89,Other specified diseases of anus and rectum
+109,K62.9,"Disease of anus and rectum, unspecified"
+110,K63.0,Abscess of intestine
+111,K63.1,Perforation of intestine (nontraumatic)
+112,K63.2,Fistula of intestine
+113,K63.3,Ulcer of intestine
+114,K63.4,Enteroptosis
+115,K63.5,Polyp of colon
+116,K63.81,Dieulafoy lesion of intestine
+117,K63.89,Other specified diseases of intestine
+118,K63.9,"Disease of intestine, unspecified"
+119,K64.0,First degree hemorrhoids
+120,K64.1,Second degree hemorrhoids
+121,K64.2,Third degree hemorrhoids
+122,K64.3,Fourth degree hemorrhoids
+123,K64.4,Residual hemorrhoidal skin tags
+124,K64.5,Perianal venous thrombosis
+125,K64.8,Other hemorrhoids
+126,K64.9,Unspecified hemorrhoids

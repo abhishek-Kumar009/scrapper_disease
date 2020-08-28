@@ -1,0 +1,18 @@
+,category,condition
+0,K65.0,Generalized (acute) peritonitis
+1,K65.1,Peritoneal abscess
+2,K65.2,Spontaneous bacterial peritonitis
+3,K65.3,Choleperitonitis
+4,K65.4,Sclerosing mesenteritis
+5,K65.8,Other peritonitis
+6,K65.9,"Peritonitis, unspecified"
+7,K66.0,Peritoneal adhesions (postprocedural) (postinfection)
+8,K66.1,Hemoperitoneum
+9,K66.8,Other specified disorders of peritoneum
+10,K66.9,"Disorder of peritoneum, unspecified"
+11,Disorders of peritoneum in infectious diseases classd elswhr (K67),K67  Disorders of peritoneum in infectious diseases classd elswhr
+12,K67,Disorders of peritoneum in infectious diseases classd elswhr
+13,K68.11,Postprocedural retroperitoneal abscess
+14,K68.12,Psoas muscle abscess
+15,K68.19,Other retroperitoneal abscess
+16,K68.9,Other disorders of retroperitoneum

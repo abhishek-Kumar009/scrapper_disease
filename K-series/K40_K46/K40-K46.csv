@@ -1,0 +1,46 @@
+,category,condition
+0,K40.00,"Bi inguinal hernia, w obst, w/o gangrene, not spcf as recur"
+1,K40.01,"Bilateral inguinal hernia, w obst, w/o gangrene, recurrent"
+2,K40.10,"Bi inguinal hernia, w gangrene, not specified as recurrent"
+3,K40.11,"Bilateral inguinal hernia, with gangrene, recurrent"
+4,K40.20,"Bi inguinal hernia, w/o obst or gangrene, not spcf as recur"
+5,K40.21,"Bilateral inguinal hernia, w/o obst or gangrene, recurrent"
+6,K40.30,"Unil inguinal hernia, w obst, w/o gangr, not spcf as recur"
+7,K40.31,"Unilateral inguinal hernia, w obst, w/o gangrene, recurrent"
+8,K40.40,"Unil inguinal hernia, w gangrene, not specified as recurrent"
+9,K40.41,"Unilateral inguinal hernia, with gangrene, recurrent"
+10,K40.90,"Unil inguinal hernia, w/o obst or gangr, not spcf as recur"
+11,K40.91,"Unilateral inguinal hernia, w/o obst or gangrene, recurrent"
+12,K41.00,"Bi femoral hernia, w obst, w/o gangrene, not spcf as recur"
+13,K41.01,"Bilateral femoral hernia, w obst, w/o gangrene, recurrent"
+14,K41.10,"Bi femoral hernia, w gangrene, not specified as recurrent"
+15,K41.11,"Bilateral femoral hernia, with gangrene, recurrent"
+16,K41.20,"Bi femoral hernia, w/o obst or gangrene, not spcf as recur"
+17,K41.21,"Bilateral femoral hernia, w/o obst or gangrene, recurrent"
+18,K41.30,"Unil femoral hernia, w obst, w/o gangrene, not spcf as recur"
+19,K41.31,"Unilateral femoral hernia, w obst, w/o gangrene, recurrent"
+20,K41.40,"Unil femoral hernia, w gangrene, not specified as recurrent"
+21,K41.41,"Unilateral femoral hernia, with gangrene, recurrent"
+22,K41.90,"Unil femoral hernia, w/o obst or gangrene, not spcf as recur"
+23,K41.91,"Unilateral femoral hernia, w/o obst or gangrene, recurrent"
+24,K42.0,"Umbilical hernia with obstruction, without gangrene"
+25,K42.1,Umbilical hernia with gangrene
+26,K42.9,Umbilical hernia without obstruction or gangrene
+27,K43.0,"Incisional hernia with obstruction, without gangrene"
+28,K43.1,Incisional hernia with gangrene
+29,K43.2,Incisional hernia without obstruction or gangrene
+30,K43.3,"Parastomal hernia with obstruction, without gangrene"
+31,K43.4,Parastomal hernia with gangrene
+32,K43.5,Parastomal hernia without obstruction or gangrene
+33,K43.6,"Other and unsp ventral hernia with obstruction, w/o gangrene"
+34,K43.7,Other and unspecified ventral hernia with gangrene
+35,K43.9,Ventral hernia without obstruction or gangrene
+36,K44.0,"Diaphragmatic hernia with obstruction, without gangrene"
+37,K44.1,Diaphragmatic hernia with gangrene
+38,K44.9,Diaphragmatic hernia without obstruction or gangrene
+39,K45.0,"Oth abdominal hernia with obstruction, without gangrene"
+40,K45.1,Other specified abdominal hernia with gangrene
+41,K45.8,Oth abdominal hernia without obstruction or gangrene
+42,K46.0,"Unsp abdominal hernia with obstruction, without gangrene"
+43,K46.1,Unspecified abdominal hernia with gangrene
+44,K46.9,Unspecified abdominal hernia without obstruction or gangrene

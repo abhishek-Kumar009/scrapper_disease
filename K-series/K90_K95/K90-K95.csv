@@ -1,0 +1,64 @@
+,category,condition
+0,K90.0,Celiac disease
+1,K90.1,Tropical sprue
+2,K90.2,"Blind loop syndrome, not elsewhere classified"
+3,K90.3,Pancreatic steatorrhea
+4,K90.41,Nonceliac gluten sensitivity
+5,K90.49,"Malabsorption due to intolerance, not elsewhere classified"
+6,K90.81,Whipple's disease
+7,K90.89,Other intestinal malabsorption
+8,K90.9,"Intestinal malabsorption, unspecified"
+9,K91.0,Vomiting following gastrointestinal surgery
+10,K91.1,Postgastric surgery syndromes
+11,K91.2,"Postsurgical malabsorption, not elsewhere classified"
+12,K91.30,"Postproc intestinal obst, unsp as to partial versus complete"
+13,K91.31,Postprocedural partial intestinal obstruction
+14,K91.32,Postprocedural complete intestinal obstruction
+15,K91.5,Postcholecystectomy syndrome
+16,K91.61,Intraop hemor/hemtom of dgstv sys org comp a dgstv sys proc
+17,K91.62,Intraop hemor/hemtom of a dgstv sys org comp oth procedure
+18,K91.71,Accidental pnctr & lac of a dgstv sys org dur dgstv sys proc
+19,K91.72,Acc pnctr & lac of a dgstv sys org during oth procedure
+20,K91.81,Other intraoperative complications of digestive system
+21,K91.82,Postprocedural hepatic failure
+22,K91.83,Postprocedural hepatorenal syndrome
+23,K91.840,Postproc hemor of a dgstv sys org fol a dgstv sys procedure
+24,K91.841,Postproc hemor of a dgstv sys org following other procedure
+25,K91.850,Pouchitis
+26,K91.858,Other complications of intestinal pouch
+27,K91.86,Retained cholelithiasis following cholecystectomy
+28,K91.870,Postproc hematoma of a dgstv sys org fol a dgstv sys proc
+29,K91.871,Postproc hematoma of a dgstv sys org fol other procedure
+30,K91.872,Postproc seroma of a dgstv sys org fol a dgstv sys procedure
+31,K91.873,Postproc seroma of a dgstv sys org following other procedure
+32,K91.89,Oth postprocedural complications and disorders of dgstv sys
+33,K92.0,Hematemesis
+34,K92.1,Melena
+35,K92.2,"Gastrointestinal hemorrhage, unspecified"
+36,K92.81,Gastrointestinal mucositis (ulcerative)
+37,K92.89,Other specified diseases of the digestive system
+38,K92.9,"Disease of digestive system, unspecified"
+39,K94.00,"Colostomy complication, unspecified"
+40,K94.01,Colostomy hemorrhage
+41,K94.02,Colostomy infection
+42,K94.03,Colostomy malfunction
+43,K94.09,Other complications of colostomy
+44,K94.10,"Enterostomy complication, unspecified"
+45,K94.11,Enterostomy hemorrhage
+46,K94.12,Enterostomy infection
+47,K94.13,Enterostomy malfunction
+48,K94.19,Other complications of enterostomy
+49,K94.20,"Gastrostomy complication, unspecified"
+50,K94.21,Gastrostomy hemorrhage
+51,K94.22,Gastrostomy infection
+52,K94.23,Gastrostomy malfunction
+53,K94.29,Other complications of gastrostomy
+54,K94.30,"Esophagostomy complications, unspecified"
+55,K94.31,Esophagostomy hemorrhage
+56,K94.32,Esophagostomy infection
+57,K94.33,Esophagostomy malfunction
+58,K94.39,Other complications of esophagostomy
+59,K95.01,Infection due to gastric band procedure
+60,K95.09,Other complications of gastric band procedure
+61,K95.81,Infection due to other bariatric procedure
+62,K95.89,Other complications of other bariatric procedure

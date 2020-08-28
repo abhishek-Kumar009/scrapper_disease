@@ -1,0 +1,83 @@
+,category,condition
+0,L60.0,Ingrowing nail
+1,L60.1,Onycholysis
+2,L60.2,Onychogryphosis
+3,L60.3,Nail dystrophy
+4,L60.4,Beau's lines
+5,L60.5,Yellow nail syndrome
+6,L60.8,Other nail disorders
+7,L60.9,"Nail disorder, unspecified"
+8,Nail disorders in diseases classified elsewhere (L62),L62  Nail disorders in diseases classified elsewhere
+9,L62,Nail disorders in diseases classified elsewhere
+10,L63.0,Alopecia (capitis) totalis
+11,L63.1,Alopecia universalis
+12,L63.2,Ophiasis
+13,L63.8,Other alopecia areata
+14,L63.9,"Alopecia areata, unspecified"
+15,L64.0,Druginduced androgenic alopecia
+16,L64.8,Other androgenic alopecia
+17,L64.9,"Androgenic alopecia, unspecified"
+18,L65.0,Telogen effluvium
+19,L65.1,Anagen effluvium
+20,L65.2,Alopecia mucinosa
+21,L65.8,Other specified nonscarring hair loss
+22,L65.9,"Nonscarring hair loss, unspecified"
+23,L66.0,Pseudopelade
+24,L66.1,Lichen planopilaris
+25,L66.2,Folliculitis decalvans
+26,L66.3,Perifolliculitis capitis abscedens
+27,L66.4,Folliculitis ulerythematosa reticulata
+28,L66.8,Other cicatricial alopecia
+29,L66.9,"Cicatricial alopecia, unspecified"
+30,L67.0,Trichorrhexis nodosa
+31,L67.1,Variations in hair color
+32,L67.8,Other hair color and hair shaft abnormalities
+33,L67.9,"Hair color and hair shaft abnormality, unspecified"
+34,L68.0,Hirsutism
+35,L68.1,Acquired hypertrichosis lanuginosa
+36,L68.2,Localized hypertrichosis
+37,L68.3,Polytrichia
+38,L68.8,Other hypertrichosis
+39,L68.9,"Hypertrichosis, unspecified"
+40,L70.0,Acne vulgaris
+41,L70.1,Acne conglobata
+42,L70.2,Acne varioliformis
+43,L70.3,Acne tropica
+44,L70.4,Infantile acne
+45,L70.5,Acne excoriee
+46,L70.8,Other acne
+47,L70.9,"Acne, unspecified"
+48,L71.0,Perioral dermatitis
+49,L71.1,Rhinophyma
+50,L71.8,Other rosacea
+51,L71.9,"Rosacea, unspecified"
+52,L72.0,Epidermal cyst
+53,L72.11,Pilar cyst
+54,L72.12,Trichodermal cyst
+55,L72.2,Steatocystoma multiplex
+56,L72.3,Sebaceous cyst
+57,L72.8,Other follicular cysts of the skin and subcutaneous tissue
+58,L72.9,"Follicular cyst of the skin and subcutaneous tissue, unsp"
+59,L73.0,Acne keloid
+60,L73.1,Pseudofolliculitis barbae
+61,L73.2,Hidradenitis suppurativa
+62,L73.8,Other specified follicular disorders
+63,L73.9,"Follicular disorder, unspecified"
+64,L74.0,Miliaria rubra
+65,L74.1,Miliaria crystallina
+66,L74.2,Miliaria profunda
+67,L74.3,"Miliaria, unspecified"
+68,L74.4,Anhidrosis
+69,L74.510,"Primary focal hyperhidrosis, axilla"
+70,L74.511,"Primary focal hyperhidrosis, face"
+71,L74.512,"Primary focal hyperhidrosis, palms"
+72,L74.513,"Primary focal hyperhidrosis, soles"
+73,L74.519,"Primary focal hyperhidrosis, unspecified"
+74,L74.52,Secondary focal hyperhidrosis
+75,L74.8,Other eccrine sweat disorders
+76,L74.9,"Eccrine sweat disorder, unspecified"
+77,L75.0,Bromhidrosis
+78,L75.1,Chromhidrosis
+79,L75.2,Apocrine miliaria
+80,L75.8,Other apocrine sweat disorders
+81,L75.9,"Apocrine sweat disorder, unspecified"

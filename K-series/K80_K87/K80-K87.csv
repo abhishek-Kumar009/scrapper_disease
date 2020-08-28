@@ -1,0 +1,90 @@
+,category,condition
+0,K80.00,Calculus of gallbladder w acute cholecyst w/o obstruction
+1,K80.01,Calculus of gallbladder w acute cholecystitis w obstruction
+2,K80.10,Calculus of gallbladder w chronic cholecyst w/o obstruction
+3,K80.11,Calculus of gallbladder w chronic cholecyst w obstruction
+4,K80.12,Calculus of GB w acute and chronic cholecyst w/o obstruction
+5,K80.13,Calculus of GB w acute and chronic cholecyst w obstruction
+6,K80.18,Calculus of gallbladder w oth cholecystitis w/o obstruction
+7,K80.19,Calculus of gallbladder w oth cholecystitis with obstruction
+8,K80.20,Calculus of gallbladder w/o cholecystitis w/o obstruction
+9,K80.21,Calculus of gallbladder w/o cholecystitis with obstruction
+10,K80.30,"Calculus of bile duct w cholangitis, unsp, w/o obstruction"
+11,K80.31,"Calculus of bile duct w cholangitis, unsp, with obstruction"
+12,K80.32,Calculus of bile duct with acute cholangitis w/o obstruction
+13,K80.33,Calculus of bile duct w acute cholangitis with obstruction
+14,K80.34,Calculus of bile duct w chronic cholangitis w/o obstruction
+15,K80.35,Calculus of bile duct w chronic cholangitis with obstruction
+16,K80.36,Calculus of bile duct w acute and chr cholangitis w/o obst
+17,K80.37,Calculus of bile duct w acute and chronic cholangitis w obst
+18,K80.40,"Calculus of bile duct w cholecystitis, unsp, w/o obstruction"
+19,K80.41,"Calculus of bile duct w cholecystitis, unsp, w obstruction"
+20,K80.42,Calculus of bile duct w acute cholecystitis w/o obstruction
+21,K80.43,Calculus of bile duct w acute cholecystitis with obstruction
+22,K80.44,Calculus of bile duct w chronic cholecyst w/o obstruction
+23,K80.45,Calculus of bile duct w chronic cholecystitis w obstruction
+24,K80.46,Calculus of bile duct w acute and chronic cholecyst w/o obst
+25,K80.47,Calculus of bile duct w acute and chronic cholecyst w obst
+26,K80.50,Calculus of bile duct w/o cholangitis or cholecyst w/o obst
+27,K80.51,Calculus of bile duct w/o cholangitis or cholecyst w obst
+28,K80.60,"Calculus of GB and bile duct w cholecyst, unsp, w/o obst"
+29,K80.61,"Calculus of GB and bile duct w cholecyst, unsp, w obst"
+30,K80.62,Calculus of GB and bile duct w acute cholecyst w/o obst
+31,K80.63,Calculus of GB and bile duct w acute cholecyst w obstruction
+32,K80.64,Calculus of GB and bile duct w chronic cholecyst w/o obst
+33,K80.65,Calculus of GB and bile duct w chronic cholecyst w obst
+34,K80.66,Calculus of GB and bile duct w ac and chr cholecyst w/o obst
+35,K80.67,Calculus of GB and bile duct w ac and chr cholecyst w obst
+36,K80.70,Calculus of GB and bile duct w/o cholecyst w/o obstruction
+37,K80.71,Calculus of GB and bile duct w/o cholecyst w obstruction
+38,K80.80,Other cholelithiasis without obstruction
+39,K80.81,Other cholelithiasis with obstruction
+40,K81.0,Acute cholecystitis
+41,K81.1,Chronic cholecystitis
+42,K81.2,Acute cholecystitis with chronic cholecystitis
+43,K81.9,"Cholecystitis, unspecified"
+44,K82.0,Obstruction of gallbladder
+45,K82.1,Hydrops of gallbladder
+46,K82.2,Perforation of gallbladder
+47,K82.3,Fistula of gallbladder
+48,K82.4,Cholesterolosis of gallbladder
+49,K82.8,Other specified diseases of gallbladder
+50,K82.9,"Disease of gallbladder, unspecified"
+51,K82.A1,Gangrene of gallbladder in cholecystitis
+52,K82.A2,Perforation of gallbladder in cholecystitis
+53,K83.01,Primary sclerosing cholangitis
+54,K83.09,Other cholangitis
+55,K83.1,Obstruction of bile duct
+56,K83.2,Perforation of bile duct
+57,K83.3,Fistula of bile duct
+58,K83.4,Spasm of sphincter of Oddi
+59,K83.5,Biliary cyst
+60,K83.8,Other specified diseases of biliary tract
+61,K83.9,"Disease of biliary tract, unspecified"
+62,K85.00,Idiopathic acute pancreatitis without necrosis or infection
+63,K85.01,Idiopathic acute pancreatitis with uninfected necrosis
+64,K85.02,Idiopathic acute pancreatitis with infected necrosis
+65,K85.10,Biliary acute pancreatitis without necrosis or infection
+66,K85.11,Biliary acute pancreatitis with uninfected necrosis
+67,K85.12,Biliary acute pancreatitis with infected necrosis
+68,K85.20,Alcohol induced acute pancreatitis without necrosis or infct
+69,K85.21,Alcohol induced acute pancreatitis with uninfected necrosis
+70,K85.22,Alcohol induced acute pancreatitis with infected necrosis
+71,K85.30,Drug induced acute pancreatitis without necrosis or infct
+72,K85.31,Drug induced acute pancreatitis with uninfected necrosis
+73,K85.32,Drug induced acute pancreatitis with infected necrosis
+74,K85.80,Other acute pancreatitis without necrosis or infection
+75,K85.81,Other acute pancreatitis with uninfected necrosis
+76,K85.82,Other acute pancreatitis with infected necrosis
+77,K85.90,"Acute pancreatitis without necrosis or infection, unsp"
+78,K85.91,"Acute pancreatitis with uninfected necrosis, unspecified"
+79,K85.92,"Acute pancreatitis with infected necrosis, unspecified"
+80,K86.0,Alcoholinduced chronic pancreatitis
+81,K86.1,Other chronic pancreatitis
+82,K86.2,Cyst of pancreas
+83,K86.3,Pseudocyst of pancreas
+84,K86.81,Exocrine pancreatic insufficiency
+85,K86.89,Other specified diseases of pancreas
+86,K86.9,"Disease of pancreas, unspecified"
+87,"Disord of GB, biliary trac and pancreas in dis classd elswhr (K87)","K87  Disord of GB, biliary trac and pancreas in dis classd elswhr"
+88,K87,"Disord of GB, biliary trac and pancreas in dis classd elswhr"

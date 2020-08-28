@@ -1,0 +1,92 @@
+,category,condition
+0,K50.00,Crohn's disease of small intestine without complications
+1,K50.011,Crohn's disease of small intestine with rectal bleeding
+2,K50.012,Crohn's disease of small intestine w intestinal obstruction
+3,K50.013,Crohn's disease of small intestine with fistula
+4,K50.014,Crohn's disease of small intestine with abscess
+5,K50.018,Crohn's disease of small intestine with other complication
+6,K50.019,Crohn's disease of small intestine with unsp complications
+7,K50.10,Crohn's disease of large intestine without complications
+8,K50.111,Crohn's disease of large intestine with rectal bleeding
+9,K50.112,Crohn's disease of large intestine w intestinal obstruction
+10,K50.113,Crohn's disease of large intestine with fistula
+11,K50.114,Crohn's disease of large intestine with abscess
+12,K50.118,Crohn's disease of large intestine with other complication
+13,K50.119,Crohn's disease of large intestine with unsp complications
+14,K50.80,Crohn's disease of both small and lg int w/o complications
+15,K50.811,Crohn's disease of both small and lg int w rectal bleeding
+16,K50.812,Crohn's disease of both small and lg int w intestinal obst
+17,K50.813,Crohn's disease of both small and large intestine w fistula
+18,K50.814,Crohn's disease of both small and large intestine w abscess
+19,K50.818,Crohn's disease of both small and lg int w oth complication
+20,K50.819,Crohn's disease of both small and lg int w unsp comp
+21,K50.90,"Crohn's disease, unspecified, without complications"
+22,K50.911,"Crohn's disease, unspecified, with rectal bleeding"
+23,K50.912,"Crohn's disease, unspecified, with intestinal obstruction"
+24,K50.913,"Crohn's disease, unspecified, with fistula"
+25,K50.914,"Crohn's disease, unspecified, with abscess"
+26,K50.918,"Crohn's disease, unspecified, with other complication"
+27,K50.919,"Crohn's disease, unspecified, with unspecified complications"
+28,K51.00,Ulcerative (chronic) pancolitis without complications
+29,K51.011,Ulcerative (chronic) pancolitis with rectal bleeding
+30,K51.012,Ulcerative (chronic) pancolitis with intestinal obstruction
+31,K51.013,Ulcerative (chronic) pancolitis with fistula
+32,K51.014,Ulcerative (chronic) pancolitis with abscess
+33,K51.018,Ulcerative (chronic) pancolitis with other complication
+34,K51.019,Ulcerative (chronic) pancolitis with unsp complications
+35,K51.20,Ulcerative (chronic) proctitis without complications
+36,K51.211,Ulcerative (chronic) proctitis with rectal bleeding
+37,K51.212,Ulcerative (chronic) proctitis with intestinal obstruction
+38,K51.213,Ulcerative (chronic) proctitis with fistula
+39,K51.214,Ulcerative (chronic) proctitis with abscess
+40,K51.218,Ulcerative (chronic) proctitis with other complication
+41,K51.219,Ulcerative (chronic) proctitis with unsp complications
+42,K51.30,Ulcerative (chronic) rectosigmoiditis without complications
+43,K51.311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding
+44,K51.312,Ulcerative (chronic) rectosigmoiditis w intestinal obst
+45,K51.313,Ulcerative (chronic) rectosigmoiditis with fistula
+46,K51.314,Ulcerative (chronic) rectosigmoiditis with abscess
+47,K51.318,Ulcerative (chronic) rectosigmoiditis with oth complication
+48,K51.319,Ulcerative (chronic) rectosigmoiditis w unsp complications
+49,K51.40,Inflammatory polyps of colon without complications
+50,K51.411,Inflammatory polyps of colon with rectal bleeding
+51,K51.412,Inflammatory polyps of colon with intestinal obstruction
+52,K51.413,Inflammatory polyps of colon with fistula
+53,K51.414,Inflammatory polyps of colon with abscess
+54,K51.418,Inflammatory polyps of colon with other complication
+55,K51.419,Inflammatory polyps of colon with unspecified complications
+56,K51.50,Left sided colitis without complications
+57,K51.511,Left sided colitis with rectal bleeding
+58,K51.512,Left sided colitis with intestinal obstruction
+59,K51.513,Left sided colitis with fistula
+60,K51.514,Left sided colitis with abscess
+61,K51.518,Left sided colitis with other complication
+62,K51.519,Left sided colitis with unspecified complications
+63,K51.80,Other ulcerative colitis without complications
+64,K51.811,Other ulcerative colitis with rectal bleeding
+65,K51.812,Other ulcerative colitis with intestinal obstruction
+66,K51.813,Other ulcerative colitis with fistula
+67,K51.814,Other ulcerative colitis with abscess
+68,K51.818,Other ulcerative colitis with other complication
+69,K51.819,Other ulcerative colitis with unspecified complications
+70,K51.90,"Ulcerative colitis, unspecified, without complications"
+71,K51.911,"Ulcerative colitis, unspecified with rectal bleeding"
+72,K51.912,"Ulcerative colitis, unspecified with intestinal obstruction"
+73,K51.913,"Ulcerative colitis, unspecified with fistula"
+74,K51.914,"Ulcerative colitis, unspecified with abscess"
+75,K51.918,"Ulcerative colitis, unspecified with other complication"
+76,K51.919,"Ulcerative colitis, unsp with unspecified complications"
+77,K52.0,Gastroenteritis and colitis due to radiation
+78,K52.1,Toxic gastroenteritis and colitis
+79,K52.21,Food proteininduced enterocolitis syndrome
+80,K52.22,Food proteininduced enteropathy
+81,K52.29,Other allergic and dietetic gastroenteritis and colitis
+82,K52.3,Indeterminate colitis
+83,K52.81,Eosinophilic gastritis or gastroenteritis
+84,K52.82,Eosinophilic colitis
+85,K52.831,Collagenous colitis
+86,K52.832,Lymphocytic colitis
+87,K52.838,Other microscopic colitis
+88,K52.839,"Microscopic colitis, unspecified"
+89,K52.89,Other specified noninfective gastroenteritis and colitis
+90,K52.9,"Noninfective gastroenteritis and colitis, unspecified"

@@ -1,0 +1,36 @@
+,category,condition
+0,L49.0,Exfoliatn due to erythemat cond w < 10 pct of body surface
+1,L49.1,Exfoliatn due to erythemat cond w 1019 pct of body surface
+2,L49.2,Exfoliatn due to erythemat cond w 2029 pct of body surface
+3,L49.3,Exfoliatn due to erythemat cond w 3039 pct of body surface
+4,L49.4,Exfoliatn due to erythemat cond w 4049 pct of body surface
+5,L49.5,Exfoliatn due to erythemat cond w 5059 pct of body surface
+6,L49.6,Exfoliatn due to erythemat cond w 6069 pct of body surface
+7,L49.7,Exfoliatn due to erythemat cond w 7079 pct of body surface
+8,L49.8,Exfoliatn due to erythemat cond w 8089 pct of body surface
+9,L49.9,Exfoliatn d/t erythemat cond w 90 or more pct of body surfc
+10,L50.0,Allergic urticaria
+11,L50.1,Idiopathic urticaria
+12,L50.2,Urticaria due to cold and heat
+13,L50.3,Dermatographic urticaria
+14,L50.4,Vibratory urticaria
+15,L50.5,Cholinergic urticaria
+16,L50.6,Contact urticaria
+17,L50.8,Other urticaria
+18,L50.9,"Urticaria, unspecified"
+19,L51.0,Nonbullous erythema multiforme
+20,L51.1,StevensJohnson syndrome
+21,L51.2,Toxic epidermal necrolysis [Lyell]
+22,L51.3,StevensJohnson syndtox epdrml necrolysis overlap syndrome
+23,L51.8,Other erythema multiforme
+24,L51.9,"Erythema multiforme, unspecified"
+25,Erythema nodosum (L52),L52  Erythema nodosum
+26,L52,Erythema nodosum
+27,L53.0,Toxic erythema
+28,L53.1,Erythema annulare centrifugum
+29,L53.2,Erythema marginatum
+30,L53.3,Other chronic figurate erythema
+31,L53.8,Other specified erythematous conditions
+32,L53.9,"Erythematous condition, unspecified"
+33,Erythema in diseases classified elsewhere (L54),L54  Erythema in diseases classified elsewhere
+34,L54,Erythema in diseases classified elsewhere
