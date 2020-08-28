@@ -1,0 +1,445 @@
+,category,condition
+4,L80,Vitiligo
+5,L81.0,Postinflammatory hyperpigmentation
+6,L81.1,Chloasma
+7,L81.2,Freckles
+8,L81.3,Cafe au lait spots
+9,L81.4,Other melanin hyperpigmentation
+10,L81.5,"Leukoderma, not elsewhere classified"
+11,L81.6,Other disorders of diminished melanin formation
+12,L81.7,Pigmented purpuric dermatosis
+13,L81.8,Other specified disorders of pigmentation
+14,L81.9,"Disorder of pigmentation, unspecified"
+15,L82.0,Inflamed seborrheic keratosis
+16,L82.1,Other seborrheic keratosis
+17,Acanthosis nigricans (L83),L83  Acanthosis nigricans
+18,L83,Acanthosis nigricans
+19,Corns and callosities (L84),L84  Corns and callosities
+20,L84,Corns and callosities
+21,L85.0,Acquired ichthyosis
+22,L85.1,Acquired keratosis [keratoderma] palmaris et plantaris
+23,L85.2,Keratosis punctata (palmaris et plantaris)
+24,L85.3,Xerosis cutis
+25,L85.8,Other specified epidermal thickening
+26,L85.9,"Epidermal thickening, unspecified"
+27,Keratoderma in diseases classified elsewhere (L86),L86  Keratoderma in diseases classified elsewhere
+28,L86,Keratoderma in diseases classified elsewhere
+29,L87.0,Keratos follicularis et parafollicularis in cutem penetrans
+30,L87.1,Reactive perforating collagenosis
+31,L87.2,Elastosis perforans serpiginosa
+32,L87.8,Other transepidermal elimination disorders
+33,L87.9,"Transepidermal elimination disorder, unspecified"
+34,Pyoderma gangrenosum (L88),L88  Pyoderma gangrenosum
+35,L88,Pyoderma gangrenosum
+36,L89.000,"Pressure ulcer of unspecified elbow, unstageable"
+37,L89.001,"Pressure ulcer of unspecified elbow, stage 1"
+38,L89.002,"Pressure ulcer of unspecified elbow, stage 2"
+39,L89.003,"Pressure ulcer of unspecified elbow, stage 3"
+40,L89.004,"Pressure ulcer of unspecified elbow, stage 4"
+41,L89.006,Pressureinduced deep tissue damage of unspecified elbow  NEW CODE
+42,L89.009,"Pressure ulcer of unspecified elbow, unspecified stage"
+43,L89.010,"Pressure ulcer of right elbow, unstageable"
+44,L89.011,"Pressure ulcer of right elbow, stage 1"
+45,L89.012,"Pressure ulcer of right elbow, stage 2"
+46,L89.013,"Pressure ulcer of right elbow, stage 3"
+47,L89.014,"Pressure ulcer of right elbow, stage 4"
+48,L89.016,Pressureinduced deep tissue damage of right elbow  NEW CODE
+49,L89.019,"Pressure ulcer of right elbow, unspecified stage"
+50,L89.020,"Pressure ulcer of left elbow, unstageable"
+51,L89.021,"Pressure ulcer of left elbow, stage 1"
+52,L89.022,"Pressure ulcer of left elbow, stage 2"
+53,L89.023,"Pressure ulcer of left elbow, stage 3"
+54,L89.024,"Pressure ulcer of left elbow, stage 4"
+55,L89.026,Pressureinduced deep tissue damage of left elbow  NEW CODE
+56,L89.029,"Pressure ulcer of left elbow, unspecified stage"
+57,L89.100,"Pressure ulcer of unspecified part of back, unstageable"
+58,L89.101,"Pressure ulcer of unspecified part of back, stage 1"
+59,L89.102,"Pressure ulcer of unspecified part of back, stage 2"
+60,L89.103,"Pressure ulcer of unspecified part of back, stage 3"
+61,L89.104,"Pressure ulcer of unspecified part of back, stage 4"
+62,L89.106,Pressrinduc deep tissue damage of unspecified part of back  NEW CODE
+63,L89.109,"Pressure ulcer of unsp part of back, unspecified stage"
+64,L89.110,"Pressure ulcer of right upper back, unstageable"
+65,L89.111,"Pressure ulcer of right upper back, stage 1"
+66,L89.112,"Pressure ulcer of right upper back, stage 2"
+67,L89.113,"Pressure ulcer of right upper back, stage 3"
+68,L89.114,"Pressure ulcer of right upper back, stage 4"
+69,L89.116,Pressureinduced deep tissue damage of right upper back  NEW CODE
+70,L89.119,"Pressure ulcer of right upper back, unspecified stage"
+71,L89.120,"Pressure ulcer of left upper back, unstageable"
+72,L89.121,"Pressure ulcer of left upper back, stage 1"
+73,L89.122,"Pressure ulcer of left upper back, stage 2"
+74,L89.123,"Pressure ulcer of left upper back, stage 3"
+75,L89.124,"Pressure ulcer of left upper back, stage 4"
+76,L89.126,Pressureinduced deep tissue damage of left upper back  NEW CODE
+77,L89.129,"Pressure ulcer of left upper back, unspecified stage"
+78,L89.130,"Pressure ulcer of right lower back, unstageable"
+79,L89.131,"Pressure ulcer of right lower back, stage 1"
+80,L89.132,"Pressure ulcer of right lower back, stage 2"
+81,L89.133,"Pressure ulcer of right lower back, stage 3"
+82,L89.134,"Pressure ulcer of right lower back, stage 4"
+83,L89.136,Pressureinduced deep tissue damage of right lower back  NEW CODE
+84,L89.139,"Pressure ulcer of right lower back, unspecified stage"
+85,L89.140,"Pressure ulcer of left lower back, unstageable"
+86,L89.141,"Pressure ulcer of left lower back, stage 1"
+87,L89.142,"Pressure ulcer of left lower back, stage 2"
+88,L89.143,"Pressure ulcer of left lower back, stage 3"
+89,L89.144,"Pressure ulcer of left lower back, stage 4"
+90,L89.146,Pressureinduced deep tissue damage of left lower back  NEW CODE
+91,L89.149,"Pressure ulcer of left lower back, unspecified stage"
+92,L89.150,"Pressure ulcer of sacral region, unstageable"
+93,L89.151,"Pressure ulcer of sacral region, stage 1"
+94,L89.152,"Pressure ulcer of sacral region, stage 2"
+95,L89.153,"Pressure ulcer of sacral region, stage 3"
+96,L89.154,"Pressure ulcer of sacral region, stage 4"
+97,L89.156,Pressureinduced deep tissue damage of sacral region  NEW CODE
+98,L89.159,"Pressure ulcer of sacral region, unspecified stage"
+99,L89.200,"Pressure ulcer of unspecified hip, unstageable"
+100,L89.201,"Pressure ulcer of unspecified hip, stage 1"
+101,L89.202,"Pressure ulcer of unspecified hip, stage 2"
+102,L89.203,"Pressure ulcer of unspecified hip, stage 3"
+103,L89.204,"Pressure ulcer of unspecified hip, stage 4"
+104,L89.206,Pressureinduced deep tissue damage of unspecified hip  NEW CODE
+105,L89.209,"Pressure ulcer of unspecified hip, unspecified stage"
+106,L89.210,"Pressure ulcer of right hip, unstageable"
+107,L89.211,"Pressure ulcer of right hip, stage 1"
+108,L89.212,"Pressure ulcer of right hip, stage 2"
+109,L89.213,"Pressure ulcer of right hip, stage 3"
+110,L89.214,"Pressure ulcer of right hip, stage 4"
+111,L89.216,Pressureinduced deep tissue damage of right hip  NEW CODE
+112,L89.219,"Pressure ulcer of right hip, unspecified stage"
+113,L89.220,"Pressure ulcer of left hip, unstageable"
+114,L89.221,"Pressure ulcer of left hip, stage 1"
+115,L89.222,"Pressure ulcer of left hip, stage 2"
+116,L89.223,"Pressure ulcer of left hip, stage 3"
+117,L89.224,"Pressure ulcer of left hip, stage 4"
+118,L89.226,Pressureinduced deep tissue damage of left hip  NEW CODE
+119,L89.229,"Pressure ulcer of left hip, unspecified stage"
+120,L89.300,"Pressure ulcer of unspecified buttock, unstageable"
+121,L89.301,"Pressure ulcer of unspecified buttock, stage 1"
+122,L89.302,"Pressure ulcer of unspecified buttock, stage 2"
+123,L89.303,"Pressure ulcer of unspecified buttock, stage 3"
+124,L89.304,"Pressure ulcer of unspecified buttock, stage 4"
+125,L89.306,Pressureinduced deep tissue damage of unspecified buttock  NEW CODE
+126,L89.309,"Pressure ulcer of unspecified buttock, unspecified stage"
+127,L89.310,"Pressure ulcer of right buttock, unstageable"
+128,L89.311,"Pressure ulcer of right buttock, stage 1"
+129,L89.312,"Pressure ulcer of right buttock, stage 2"
+130,L89.313,"Pressure ulcer of right buttock, stage 3"
+131,L89.314,"Pressure ulcer of right buttock, stage 4"
+132,L89.316,Pressureinduced deep tissue damage of right buttock  NEW CODE
+133,L89.319,"Pressure ulcer of right buttock, unspecified stage"
+134,L89.320,"Pressure ulcer of left buttock, unstageable"
+135,L89.321,"Pressure ulcer of left buttock, stage 1"
+136,L89.322,"Pressure ulcer of left buttock, stage 2"
+137,L89.323,"Pressure ulcer of left buttock, stage 3"
+138,L89.324,"Pressure ulcer of left buttock, stage 4"
+139,L89.326,Pressureinduced deep tissue damage of left buttock  NEW CODE
+140,L89.329,"Pressure ulcer of left buttock, unspecified stage"
+141,L89.40,"Pressr ulc of contig site of back, buttock and hip, unsp stg"
+142,L89.41,"Pressr ulcer of contig site of back, buttock and hip, stg 1"
+143,L89.42,"Pressr ulcer of contig site of back, buttock and hip, stg 2"
+144,L89.43,"Pressr ulcer of contig site of back, buttock and hip, stg 3"
+145,L89.44,"Pressr ulcer of contig site of back, buttock and hip, stg 4"
+146,L89.45,"Pressr ulc of contig site of back,buttock & hip, unstageable"
+147,L89.46,"Pressrinduc dp tiss damag of contig site of back, butt & hp  NEW CODE"
+148,L89.500,"Pressure ulcer of unspecified ankle, unstageable"
+149,L89.501,"Pressure ulcer of unspecified ankle, stage 1"
+150,L89.502,"Pressure ulcer of unspecified ankle, stage 2"
+151,L89.503,"Pressure ulcer of unspecified ankle, stage 3"
+152,L89.504,"Pressure ulcer of unspecified ankle, stage 4"
+153,L89.506,Pressureinduced deep tissue damage of unspecified ankle  NEW CODE
+154,L89.509,"Pressure ulcer of unspecified ankle, unspecified stage"
+155,L89.510,"Pressure ulcer of right ankle, unstageable"
+156,L89.511,"Pressure ulcer of right ankle, stage 1"
+157,L89.512,"Pressure ulcer of right ankle, stage 2"
+158,L89.513,"Pressure ulcer of right ankle, stage 3"
+159,L89.514,"Pressure ulcer of right ankle, stage 4"
+160,L89.516,Pressureinduced deep tissue damage of right ankle  NEW CODE
+161,L89.519,"Pressure ulcer of right ankle, unspecified stage"
+162,L89.520,"Pressure ulcer of left ankle, unstageable"
+163,L89.521,"Pressure ulcer of left ankle, stage 1"
+164,L89.522,"Pressure ulcer of left ankle, stage 2"
+165,L89.523,"Pressure ulcer of left ankle, stage 3"
+166,L89.524,"Pressure ulcer of left ankle, stage 4"
+167,L89.526,Pressureinduced deep tissue damage of left ankle  NEW CODE
+168,L89.529,"Pressure ulcer of left ankle, unspecified stage"
+169,L89.600,"Pressure ulcer of unspecified heel, unstageable"
+170,L89.601,"Pressure ulcer of unspecified heel, stage 1"
+171,L89.602,"Pressure ulcer of unspecified heel, stage 2"
+172,L89.603,"Pressure ulcer of unspecified heel, stage 3"
+173,L89.604,"Pressure ulcer of unspecified heel, stage 4"
+174,L89.606,Pressureinduced deep tissue damage of unspecified heel  NEW CODE
+175,L89.609,"Pressure ulcer of unspecified heel, unspecified stage"
+176,L89.610,"Pressure ulcer of right heel, unstageable"
+177,L89.611,"Pressure ulcer of right heel, stage 1"
+178,L89.612,"Pressure ulcer of right heel, stage 2"
+179,L89.613,"Pressure ulcer of right heel, stage 3"
+180,L89.614,"Pressure ulcer of right heel, stage 4"
+181,L89.616,Pressureinduced deep tissue damage of right heel  NEW CODE
+182,L89.619,"Pressure ulcer of right heel, unspecified stage"
+183,L89.620,"Pressure ulcer of left heel, unstageable"
+184,L89.621,"Pressure ulcer of left heel, stage 1"
+185,L89.622,"Pressure ulcer of left heel, stage 2"
+186,L89.623,"Pressure ulcer of left heel, stage 3"
+187,L89.624,"Pressure ulcer of left heel, stage 4"
+188,L89.626,Pressureinduced deep tissue damage of left heel  NEW CODE
+189,L89.629,"Pressure ulcer of left heel, unspecified stage"
+190,L89.810,"Pressure ulcer of head, unstageable"
+191,L89.811,"Pressure ulcer of head, stage 1"
+192,L89.812,"Pressure ulcer of head, stage 2"
+193,L89.813,"Pressure ulcer of head, stage 3"
+194,L89.814,"Pressure ulcer of head, stage 4"
+195,L89.816,Pressureinduced deep tissue damage of head  NEW CODE
+196,L89.819,"Pressure ulcer of head, unspecified stage"
+197,L89.890,"Pressure ulcer of other site, unstageable"
+198,L89.891,"Pressure ulcer of other site, stage 1"
+199,L89.892,"Pressure ulcer of other site, stage 2"
+200,L89.893,"Pressure ulcer of other site, stage 3"
+201,L89.894,"Pressure ulcer of other site, stage 4"
+202,L89.896,Pressureinduced deep tissue damage of other site  NEW CODE
+203,L89.899,"Pressure ulcer of other site, unspecified stage"
+204,L89.90,"Pressure ulcer of unspecified site, unspecified stage"
+205,L89.91,"Pressure ulcer of unspecified site, stage 1"
+206,L89.92,"Pressure ulcer of unspecified site, stage 2"
+207,L89.93,"Pressure ulcer of unspecified site, stage 3"
+208,L89.94,"Pressure ulcer of unspecified site, stage 4"
+209,L89.95,"Pressure ulcer of unspecified site, unstageable"
+210,L89.96,Pressureinduced deep tissue damage of unspecified site  NEW CODE
+211,L90.0,Lichen sclerosus et atrophicus
+212,L90.1,Anetoderma of SchweningerBuzzi
+213,L90.2,Anetoderma of JadassohnPellizzari
+214,L90.3,Atrophoderma of Pasini and Pierini
+215,L90.4,Acrodermatitis chronica atrophicans
+216,L90.5,Scar conditions and fibrosis of skin
+217,L90.6,Striae atrophicae
+218,L90.8,Other atrophic disorders of skin
+219,L90.9,"Atrophic disorder of skin, unspecified"
+220,L91.0,Hypertrophic scar
+221,L91.8,Other hypertrophic disorders of the skin
+222,L91.9,"Hypertrophic disorder of the skin, unspecified"
+223,L92.0,Granuloma annulare
+224,L92.1,"Necrobiosis lipoidica, not elsewhere classified"
+225,L92.2,Granuloma faciale [eosinophilic granuloma of skin]
+226,L92.3,Foreign body granuloma of the skin and subcutaneous tissue
+227,L92.8,"Oth granulomatous disorders of the skin, subcu"
+228,L92.9,"Granulomatous disorder of the skin, subcu, unsp"
+229,L93.0,Discoid lupus erythematosus
+230,L93.1,Subacute cutaneous lupus erythematosus
+231,L93.2,Other local lupus erythematosus
+232,L94.0,Localized scleroderma [morphea]
+233,L94.1,Linear scleroderma
+234,L94.2,Calcinosis cutis
+235,L94.3,Sclerodactyly
+236,L94.4,Gottron's papules
+237,L94.5,Poikiloderma vasculare atrophicans
+238,L94.6,Ainhum
+239,L94.8,Other specified localized connective tissue disorders
+240,L94.9,"Localized connective tissue disorder, unspecified"
+241,L95.0,Livedoid vasculitis
+242,L95.1,Erythema elevatum diutinum
+243,L95.8,Other vasculitis limited to the skin
+244,L95.9,"Vasculitis limited to the skin, unspecified"
+245,L97.101,Nonprs chronic ulcer of unsp thigh limited to brkdwn skin
+246,L97.102,Nonpressure chronic ulcer of unsp thigh w fat layer exposed
+247,L97.103,Nonprs chronic ulcer of unsp thigh w necrosis of muscle
+248,L97.104,Nonpressure chronic ulcer of unsp thigh w necrosis of bone
+249,L97.105,Nonprs chr ulc of unsp thigh with msl invl w/o evd of necr
+250,L97.106,Nonprs chr ulc of unsp thigh with bone invl w/o evd of necr
+251,L97.108,Nonprs chronic ulcer of unspecified thigh with oth severity
+252,L97.109,Nonpressure chronic ulcer of unsp thigh with unsp severity
+253,L97.111,Nonprs chronic ulcer of right thigh limited to brkdwn skin
+254,L97.112,Nonprs chronic ulcer of right thigh w fat layer exposed
+255,L97.113,Nonprs chronic ulcer of right thigh w necrosis of muscle
+256,L97.114,Nonpressure chronic ulcer of right thigh w necrosis of bone
+257,L97.115,Nonprs chr ulcer of r thigh with msl invl w/o evd of necr
+258,L97.116,Nonprs chr ulcer of r thigh with bone invl w/o evd of necr
+259,L97.118,Nonpressure chronic ulcer of right thigh with oth severity
+260,L97.119,Nonpressure chronic ulcer of right thigh with unsp severity
+261,L97.121,Nonprs chronic ulcer of left thigh limited to brkdwn skin
+262,L97.122,Nonpressure chronic ulcer of left thigh w fat layer exposed
+263,L97.123,Nonprs chronic ulcer of left thigh w necrosis of muscle
+264,L97.124,Nonpressure chronic ulcer of left thigh w necrosis of bone
+265,L97.125,Nonprs chr ulc of left thigh with msl invl w/o evd of necr
+266,L97.126,Nonprs chr ulc of left thigh with bone invl w/o evd of necr
+267,L97.128,Nonpressure chronic ulcer of left thigh with oth severity
+268,L97.129,Nonpressure chronic ulcer of left thigh with unsp severity
+269,L97.201,Nonprs chronic ulcer of unsp calf limited to brkdwn skin
+270,L97.202,Nonpressure chronic ulcer of unsp calf w fat layer exposed
+271,L97.203,Nonpressure chronic ulcer of unsp calf w necrosis of muscle
+272,L97.204,Nonpressure chronic ulcer of unsp calf w necrosis of bone
+273,L97.205,Nonprs chr ulcer of unsp calf with msl invl w/o evd of necr
+274,L97.206,Nonprs chr ulc of unsp calf with bone invl w/o evd of necr
+275,L97.208,Nonprs chronic ulcer of unspecified calf with oth severity
+276,L97.209,Nonpressure chronic ulcer of unsp calf with unsp severity
+277,L97.211,Nonprs chronic ulcer of right calf limited to brkdwn skin
+278,L97.212,Nonpressure chronic ulcer of right calf w fat layer exposed
+279,L97.213,Nonprs chronic ulcer of right calf w necrosis of muscle
+280,L97.214,Nonpressure chronic ulcer of right calf w necrosis of bone
+281,L97.215,Nonprs chr ulcer of r calf with msl invl w/o evd of necr
+282,L97.216,Nonprs chr ulcer of r calf with bone invl w/o evd of necr
+283,L97.218,Nonpressure chronic ulcer of right calf with oth severity
+284,L97.219,Nonpressure chronic ulcer of right calf with unsp severity
+285,L97.221,Nonprs chronic ulcer of left calf limited to brkdwn skin
+286,L97.222,Nonpressure chronic ulcer of left calf w fat layer exposed
+287,L97.223,Nonpressure chronic ulcer of left calf w necrosis of muscle
+288,L97.224,Nonpressure chronic ulcer of left calf w necrosis of bone
+289,L97.225,Nonprs chr ulcer of left calf with msl invl w/o evd of necr
+290,L97.226,Nonprs chr ulc of left calf with bone invl w/o evd of necr
+291,L97.228,Nonpressure chronic ulcer of left calf with oth severity
+292,L97.229,Nonpressure chronic ulcer of left calf with unsp severity
+293,L97.301,Nonprs chronic ulcer of unsp ankle limited to brkdwn skin
+294,L97.302,Nonpressure chronic ulcer of unsp ankle w fat layer exposed
+295,L97.303,Nonprs chronic ulcer of unsp ankle w necrosis of muscle
+296,L97.304,Nonpressure chronic ulcer of unsp ankle w necrosis of bone
+297,L97.305,Nonprs chr ulcer of unsp ankl with msl invl w/o evd of necr
+298,L97.306,Nonprs chr ulc of unsp ankl with bone invl w/o evd of necr
+299,L97.308,Nonprs chronic ulcer of unspecified ankle with oth severity
+300,L97.309,Nonpressure chronic ulcer of unsp ankle with unsp severity
+301,L97.311,Nonprs chronic ulcer of right ankle limited to brkdwn skin
+302,L97.312,Nonprs chronic ulcer of right ankle w fat layer exposed
+303,L97.313,Nonprs chronic ulcer of right ankle w necrosis of muscle
+304,L97.314,Nonpressure chronic ulcer of right ankle w necrosis of bone
+305,L97.315,Nonprs chr ulcer of r ankle with msl invl w/o evd of necr
+306,L97.316,Nonprs chr ulcer of r ankle with bone invl w/o evd of necr
+307,L97.318,Nonpressure chronic ulcer of right ankle with oth severity
+308,L97.319,Nonpressure chronic ulcer of right ankle with unsp severity
+309,L97.321,Nonprs chronic ulcer of left ankle limited to brkdwn skin
+310,L97.322,Nonpressure chronic ulcer of left ankle w fat layer exposed
+311,L97.323,Nonprs chronic ulcer of left ankle w necrosis of muscle
+312,L97.324,Nonpressure chronic ulcer of left ankle w necrosis of bone
+313,L97.325,Nonprs chr ulcer of l ankle with msl invl w/o evd of necr
+314,L97.326,Nonprs chr ulcer of l ankle with bone invl w/o evd of necr
+315,L97.328,Nonpressure chronic ulcer of left ankle with oth severity
+316,L97.329,Nonpressure chronic ulcer of left ankle with unsp severity
+317,L97.401,Nonprs chr ulcer of unsp heel and midft lmt to brkdwn skin
+318,L97.402,Nonprs chr ulcer of unsp heel and midfoot w fat layer expos
+319,L97.403,Nonprs chr ulcer of unsp heel and midfoot w necros muscle
+320,L97.404,Nonprs chronic ulcer of unsp heel and midfoot w necros bone
+321,L97.405,Nonprs chr ulc unsp heel/midft w msl invl w/o evd of necr
+322,L97.406,Nonprs chr ulc unsp heel/midft w bne invl w/o evd of necr
+323,L97.408,Nonprs chronic ulcer of unsp heel/midft with oth severity
+324,L97.409,Nonprs chronic ulcer of unsp heel and midfoot w unsp severt
+325,L97.411,Nonprs chr ulcer of right heel and midft lmt to brkdwn skin
+326,L97.412,Nonprs chr ulcer of right heel and midft w fat layer expos
+327,L97.413,Nonprs chr ulcer of right heel and midfoot w necros muscle
+328,L97.414,Nonprs chr ulcer of right heel and midfoot w necros bone
+329,L97.415,Nonprs chr ulc of r heel/midft w msl invl w/o evd of necr
+330,L97.416,Nonprs chr ulc of r heel/midft w bne invl w/o evd of necr
+331,L97.418,Nonprs chronic ulcer of right heel/midft with oth severity
+332,L97.419,Nonprs chr ulcer of right heel and midfoot w unsp severt
+333,L97.421,Nonprs chr ulcer of left heel and midft lmt to brkdwn skin
+334,L97.422,Nonprs chr ulcer of left heel and midfoot w fat layer expos
+335,L97.423,Nonprs chr ulcer of left heel and midfoot w necros muscle
+336,L97.424,Nonprs chronic ulcer of left heel and midfoot w necros bone
+337,L97.425,Nonprs chr ulc of l heel/midft w msl invl w/o evd of necr
+338,L97.426,Nonprs chr ulc of l heel/midft w bne invl w/o evd of necr
+339,L97.428,Nonprs chronic ulcer of left heel/midft with oth severity
+340,L97.429,Nonprs chronic ulcer of left heel and midfoot w unsp severt
+341,L97.501,Nonprs chr ulcer oth prt unsp foot limited to brkdwn skin
+342,L97.502,Nonprs chronic ulcer oth prt unsp foot w fat layer exposed
+343,L97.503,Nonprs chronic ulcer oth prt unsp foot w necrosis of muscle
+344,L97.504,Nonprs chronic ulcer oth prt unsp foot w necrosis of bone
+345,L97.505,Nonprs chr ulc oth prt unsp ft w msl invl w/o evd of necr
+346,L97.506,Nonprs chr ulc oth prt unsp ft w bne invl w/o evd of necr
+347,L97.508,Nonprs chronic ulcer oth prt unsp foot with oth severity
+348,L97.509,Nonpressure chronic ulcer oth prt unsp foot w unsp severity
+349,L97.511,Nonprs chronic ulcer oth prt r foot limited to brkdwn skin
+350,L97.512,Nonprs chronic ulcer oth prt right foot w fat layer exposed
+351,L97.513,Nonprs chronic ulcer oth prt right foot w necros muscle
+352,L97.514,Nonprs chronic ulcer oth prt right foot w necrosis of bone
+353,L97.515,Nonprs chr ulc oth prt r foot with msl invl w/o evd of necr
+354,L97.516,Nonprs chr ulc oth prt r foot with bne invl w/o evd of necr
+355,L97.518,Nonprs chronic ulcer oth prt right foot with oth severity
+356,L97.519,Nonprs chronic ulcer oth prt right foot w unsp severity
+357,L97.521,Nonprs chronic ulcer oth prt l foot limited to brkdwn skin
+358,L97.522,Nonprs chronic ulcer oth prt left foot w fat layer exposed
+359,L97.523,Nonprs chronic ulcer oth prt left foot w necrosis of muscle
+360,L97.524,Nonprs chronic ulcer oth prt left foot w necrosis of bone
+361,L97.525,Nonprs chr ulc oth prt l foot with msl invl w/o evd of necr
+362,L97.526,Nonprs chr ulc oth prt l foot with bne invl w/o evd of necr
+363,L97.528,Nonprs chronic ulcer oth prt left foot with oth severity
+364,L97.529,Nonpressure chronic ulcer oth prt left foot w unsp severity
+365,L97.801,Nonprs chr ulcer oth prt unsp low leg lmt to brkdwn skin
+366,L97.802,Nonprs chr ulcer oth prt unsp low leg w fat layer exposed
+367,L97.803,Nonprs chronic ulcer oth prt unsp lower leg w necros muscle
+368,L97.804,Nonprs chronic ulcer oth prt unsp lower leg w necros bone
+369,L97.805,Nonprs chr ulc oth prt unsp lw leg w msl invl w/o evd necr
+370,L97.806,Nonprs chr ulc oth prt unsp lw leg w bne invl w/o evd necr
+371,L97.808,Nonprs chronic ulcer oth prt unsp low leg with oth severity
+372,L97.809,Nonprs chronic ulcer oth prt unsp lower leg w unsp severity
+373,L97.811,Nonprs chr ulcer oth prt r low leg limited to brkdwn skin
+374,L97.812,Nonprs chronic ulcer oth prt r low leg w fat layer exposed
+375,L97.813,Nonprs chronic ulcer oth prt r low leg w necrosis of muscle
+376,L97.814,Nonprs chronic ulcer oth prt r low leg w necrosis of bone
+377,L97.815,Nonprs chr ulc oth prt r low leg w msl invl w/o evd of necr
+378,L97.816,Nonprs chr ulc oth prt r low leg w bne invl w/o evd of necr
+379,L97.818,Nonprs chronic ulcer oth prt r low leg with oth severity
+380,L97.819,Nonpressure chronic ulcer oth prt r low leg w unsp severity
+381,L97.821,Nonprs chr ulcer oth prt l low leg limited to brkdwn skin
+382,L97.822,Nonprs chronic ulcer oth prt l low leg w fat layer exposed
+383,L97.823,Nonprs chronic ulcer oth prt l low leg w necrosis of muscle
+384,L97.824,Nonprs chronic ulcer oth prt l low leg w necrosis of bone
+385,L97.825,Nonprs chr ulc oth prt l low leg w msl invl w/o evd of necr
+386,L97.826,Nonprs chr ulc oth prt l low leg w bne invl w/o evd of necr
+387,L97.828,Nonprs chronic ulcer oth prt l low leg with oth severity
+388,L97.829,Nonpressure chronic ulcer oth prt l low leg w unsp severity
+389,L97.901,Nonprs chr ulc unsp prt of unsp low leg lmt to brkdwn skin
+390,L97.902,Nonprs chr ulc unsp prt of unsp low leg w fat layer exposed
+391,L97.903,Nonprs chronic ulc unsp prt of unsp low leg w necros muscle
+392,L97.904,Nonprs chronic ulc unsp prt of unsp lower leg w necros bone
+393,L97.905,Nonprs chr ulc unsp prt unsp lw leg w msl invl w/o evd necr
+394,L97.906,Nonprs chr ulc unsp prt unsp lw leg w bne invl w/o evd necr
+395,L97.908,Nonprs chronic ulc unsp prt of unsp low leg with oth severt
+396,L97.909,Nonprs chronic ulc unsp prt of unsp low leg w unsp severity
+397,L97.911,Nonprs chr ulc unsp prt of r low leg limited to brkdwn skin
+398,L97.912,Nonprs chr ulc unsp prt of r low leg w fat layer exposed
+399,L97.913,Nonprs chronic ulc unsp prt of r low leg w necros muscle
+400,L97.914,Nonprs chronic ulc unsp prt of r low leg w necrosis of bone
+401,L97.915,Nonprs chr ulc unsp prt r lw leg w msl invl w/o evd of necr
+402,L97.916,Nonprs chr ulc unsp prt r lw leg w bne invl w/o evd of necr
+403,L97.918,Nonprs chronic ulc unsp prt of r low leg with oth severity
+404,L97.919,Nonprs chronic ulc unsp prt of r low leg w unsp severity
+405,L97.921,Nonprs chr ulc unsp prt of l low leg limited to brkdwn skin
+406,L97.922,Nonprs chr ulc unsp prt of l low leg w fat layer exposed
+407,L97.923,Nonprs chronic ulc unsp prt of l low leg w necros muscle
+408,L97.924,Nonprs chronic ulc unsp prt of l low leg w necrosis of bone
+409,L97.925,Nonprs chr ulc unsp prt l lw leg w msl invl w/o evd of necr
+410,L97.926,Nonprs chr ulc unsp prt l lw leg w bne invl w/o evd of necr
+411,L97.928,Nonprs chronic ulc unsp prt of l low leg with oth severity
+412,L97.929,Nonprs chronic ulc unsp prt of l low leg w unsp severity
+413,L98.0,Pyogenic granuloma
+414,L98.1,Factitial dermatitis
+415,L98.2,Febrile neutrophilic dermatosis [Sweet]
+416,L98.3,Eosinophilic cellulitis [Wells]
+417,L98.411,Nonpressure chronic ulcer of buttock limited to brkdwn skin
+418,L98.412,Nonpressure chronic ulcer of buttock with fat layer exposed
+419,L98.413,Nonpressure chronic ulcer of buttock w necrosis of muscle
+420,L98.414,Nonpressure chronic ulcer of buttock with necrosis of bone
+421,L98.415,Nonprs chr ulcer of buttock with msl invl w/o evd of necr
+422,L98.416,Nonprs chr ulcer of buttock with bone invl w/o evd of necr
+423,L98.418,Nonpressure chronic ulcer of buttock with oth severity
+424,L98.419,Nonpressure chronic ulcer of buttock with unsp severity
+425,L98.421,Nonpressure chronic ulcer of back limited to brkdwn skin
+426,L98.422,Nonpressure chronic ulcer of back with fat layer exposed
+427,L98.423,Nonpressure chronic ulcer of back with necrosis of muscle
+428,L98.424,Nonpressure chronic ulcer of back with necrosis of bone
+429,L98.425,Nonprs chr ulcer of back with muscle invl w/o evd of necr
+430,L98.426,Nonprs chr ulcer of back with bone invl without evd of necr
+431,L98.428,Nonpressure chronic ulcer of back with oth severity
+432,L98.429,Nonpressure chronic ulcer of back with unspecified severity
+433,L98.491,Nonprs chronic ulcer skin/ sites limited to brkdwn skin
+434,L98.492,Nonprs chronic ulcer of skin of sites w fat layer exposed
+435,L98.493,Nonprs chronic ulcer of skin of sites w necrosis of muscle
+436,L98.494,Nonprs chronic ulcer of skin of sites w necrosis of bone
+437,L98.495,Nonprs chr ulc skin/ oth site with msl invl w/o evd of necr
+438,L98.496,Nonprs chr ulc skin/ oth site with bne invl w/o evd of necr
+439,L98.498,Nonprs chronic ulcer skin/ other sites with oth severity
+440,L98.499,Nonpressure chronic ulcer of skin of sites w unsp severity
+441,L98.5,Mucinosis of the skin
+442,L98.6,"Oth infiltrative disorders of the skin, subcu"
+443,L98.7,Excessive and redundant skin and subcutaneous tissue
+444,L98.8,Oth disrd of the skin and subcutaneous tissue
+445,L98.9,"Disorder of the skin and subcutaneous tissue, unspecified"
+446,"Oth disorders of skin, subcu in diseases classd elswhr (L99)","L99  Oth disorders of skin, subcu in diseases classd elswhr"
+447,L99,"Oth disorders of skin, subcu in diseases classd elswhr"
