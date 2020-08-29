@@ -1,0 +1,56 @@
+,category,condition
+0,B25.0,Cytomegaloviral pneumonitis
+1,B25.1,Cytomegaloviral hepatitis
+2,B25.2,Cytomegaloviral pancreatitis
+3,B25.8,Other cytomegaloviral diseases
+4,B25.9,"Cytomegaloviral disease, unspecified"
+5,B26.0,Mumps orchitis
+6,B26.1,Mumps meningitis
+7,B26.2,Mumps encephalitis
+8,B26.3,Mumps pancreatitis
+9,B26.81,Mumps hepatitis
+10,B26.82,Mumps myocarditis
+11,B26.83,Mumps nephritis
+12,B26.84,Mumps polyneuropathy
+13,B26.85,Mumps arthritis
+14,B26.89,Other mumps complications
+15,B26.9,Mumps without complication
+16,B27.00,Gammaherpesviral mononucleosis without complication
+17,B27.01,Gammaherpesviral mononucleosis with polyneuropathy
+18,B27.02,Gammaherpesviral mononucleosis with meningitis
+19,B27.09,Gammaherpesviral mononucleosis with other complications
+20,B27.10,Cytomegaloviral mononucleosis without complications
+21,B27.11,Cytomegaloviral mononucleosis with polyneuropathy
+22,B27.12,Cytomegaloviral mononucleosis with meningitis
+23,B27.19,Cytomegaloviral mononucleosis with other complication
+24,B27.80,Other infectious mononucleosis without complication
+25,B27.81,Other infectious mononucleosis with polyneuropathy
+26,B27.82,Other infectious mononucleosis with meningitis
+27,B27.89,Other infectious mononucleosis with other complication
+28,B27.90,"Infectious mononucleosis, unspecified without complication"
+29,B27.91,"Infectious mononucleosis, unspecified with polyneuropathy"
+30,B27.92,"Infectious mononucleosis, unspecified with meningitis"
+31,B27.99,"Infectious mononucleosis, unsp with other complication"
+32,B30.0,Keratoconjunctivitis due to adenovirus
+33,B30.1,Conjunctivitis due to adenovirus
+34,B30.2,Viral pharyngoconjunctivitis
+35,B30.3,Acute epidemic hemorrhagic conjunctivitis (enteroviral)
+36,B30.8,Other viral conjunctivitis
+37,B30.9,"Viral conjunctivitis, unspecified"
+38,B33.0,Epidemic myalgia
+39,B33.1,Ross River disease
+40,B33.20,"Viral carditis, unspecified"
+41,B33.21,Viral endocarditis
+42,B33.22,Viral myocarditis
+43,B33.23,Viral pericarditis
+44,B33.24,Viral cardiomyopathy
+45,B33.3,"Retrovirus infections, not elsewhere classified"
+46,B33.4,Hantavirus (cardio)pulmonary syndrome [HPS] [HCPS]
+47,B33.8,Other specified viral diseases
+48,B34.0,"Adenovirus infection, unspecified"
+49,B34.1,"Enterovirus infection, unspecified"
+50,B34.2,"Coronavirus infection, unspecified"
+51,B34.3,"Parvovirus infection, unspecified"
+52,B34.4,"Papovavirus infection, unspecified"
+53,B34.8,Other viral infections of unspecified site
+54,B34.9,"Viral infection, unspecified"

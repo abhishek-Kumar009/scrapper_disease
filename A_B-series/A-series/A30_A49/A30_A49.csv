@@ -1,0 +1,119 @@
+,category,condition
+0,A30.0,Indeterminate leprosy
+1,A30.1,Tuberculoid leprosy
+2,A30.2,Borderline tuberculoid leprosy
+3,A30.3,Borderline leprosy
+4,A30.4,Borderline lepromatous leprosy
+5,A30.5,Lepromatous leprosy
+6,A30.8,Other forms of leprosy
+7,A30.9,"Leprosy, unspecified"
+8,A31.0,Pulmonary mycobacterial infection
+9,A31.1,Cutaneous mycobacterial infection
+10,A31.2,Dissem mycobacterium aviumintracellulare complex (DMAC)
+11,A31.8,Other mycobacterial infections
+12,A31.9,"Mycobacterial infection, unspecified"
+13,A32.0,Cutaneous listeriosis
+14,A32.11,Listerial meningitis
+15,A32.12,Listerial meningoencephalitis
+16,A32.7,Listerial sepsis
+17,A32.81,Oculoglandular listeriosis
+18,A32.82,Listerial endocarditis
+19,A32.89,Other forms of listeriosis
+20,A32.9,"Listeriosis, unspecified"
+21,Tetanus neonatorum (A33),A33  Tetanus neonatorum
+22,A33,Tetanus neonatorum
+23,Obstetrical tetanus (A34),A34  Obstetrical tetanus
+24,A34,Obstetrical tetanus
+25,Other tetanus (A35),A35  Other tetanus
+26,A35,Other tetanus
+27,A36.0,Pharyngeal diphtheria
+28,A36.1,Nasopharyngeal diphtheria
+29,A36.2,Laryngeal diphtheria
+30,A36.3,Cutaneous diphtheria
+31,A36.81,Diphtheritic cardiomyopathy
+32,A36.82,Diphtheritic radiculomyelitis
+33,A36.83,Diphtheritic polyneuritis
+34,A36.84,Diphtheritic tubulointerstitial nephropathy
+35,A36.85,Diphtheritic cystitis
+36,A36.86,Diphtheritic conjunctivitis
+37,A36.89,Other diphtheritic complications
+38,A36.9,"Diphtheria, unspecified"
+39,A37.00,Whooping cough due to Bordetella pertussis without pneumonia
+40,A37.01,Whooping cough due to Bordetella pertussis with pneumonia
+41,A37.10,Whooping cough due to Bordetella parapertussis w/o pneumonia
+42,A37.11,Whooping cough due to Bordetella parapertussis w pneumonia
+43,A37.80,Whooping cough due to other Bordetella species w/o pneumonia
+44,A37.81,Whooping cough due to oth Bordetella species with pneumonia
+45,A37.90,"Whooping cough, unspecified species without pneumonia"
+46,A37.91,"Whooping cough, unspecified species with pneumonia"
+47,A38.0,Scarlet fever with otitis media
+48,A38.1,Scarlet fever with myocarditis
+49,A38.8,Scarlet fever with other complications
+50,A38.9,"Scarlet fever, uncomplicated"
+51,A39.0,Meningococcal meningitis
+52,A39.1,WaterhouseFriderichsen syndrome
+53,A39.2,Acute meningococcemia
+54,A39.3,Chronic meningococcemia
+55,A39.4,"Meningococcemia, unspecified"
+56,A39.50,"Meningococcal carditis, unspecified"
+57,A39.51,Meningococcal endocarditis
+58,A39.52,Meningococcal myocarditis
+59,A39.53,Meningococcal pericarditis
+60,A39.81,Meningococcal encephalitis
+61,A39.82,Meningococcal retrobulbar neuritis
+62,A39.83,Meningococcal arthritis
+63,A39.84,Postmeningococcal arthritis
+64,A39.89,Other meningococcal infections
+65,A39.9,"Meningococcal infection, unspecified"
+66,A40.0,"Sepsis due to streptococcus, group A"
+67,A40.1,"Sepsis due to streptococcus, group B"
+68,A40.3,Sepsis due to Streptococcus pneumoniae
+69,A40.8,Other streptococcal sepsis
+70,A40.9,"Streptococcal sepsis, unspecified"
+71,A41.01,Sepsis due to Methicillin susceptible Staphylococcus aureus
+72,A41.02,Sepsis due to Methicillin resistant Staphylococcus aureus
+73,A41.1,Sepsis due to other specified staphylococcus
+74,A41.2,Sepsis due to unspecified staphylococcus
+75,A41.3,Sepsis due to Hemophilus influenzae
+76,A41.4,Sepsis due to anaerobes
+77,A41.50,"Gramnegative sepsis, unspecified"
+78,A41.51,Sepsis due to Escherichia coli [E. coli]
+79,A41.52,Sepsis due to Pseudomonas
+80,A41.53,Sepsis due to Serratia
+81,A41.59,Other Gramnegative sepsis
+82,A41.81,Sepsis due to Enterococcus
+83,A41.89,Other specified sepsis
+84,A41.9,"Sepsis, unspecified organism"
+85,A42.0,Pulmonary actinomycosis
+86,A42.1,Abdominal actinomycosis
+87,A42.2,Cervicofacial actinomycosis
+88,A42.7,Actinomycotic sepsis
+89,A42.81,Actinomycotic meningitis
+90,A42.82,Actinomycotic encephalitis
+91,A42.89,Other forms of actinomycosis
+92,A42.9,"Actinomycosis, unspecified"
+93,A43.0,Pulmonary nocardiosis
+94,A43.1,Cutaneous nocardiosis
+95,A43.8,Other forms of nocardiosis
+96,A43.9,"Nocardiosis, unspecified"
+97,A44.0,Systemic bartonellosis
+98,A44.1,Cutaneous and mucocutaneous bartonellosis
+99,A44.8,Other forms of bartonellosis
+100,A44.9,"Bartonellosis, unspecified"
+101,Erysipelas (A46),A46  Erysipelas
+102,A46,Erysipelas
+103,A48.0,Gas gangrene
+104,A48.1,Legionnaires' disease
+105,A48.2,Nonpneumonic Legionnaires' disease [Pontiac fever]
+106,A48.3,Toxic shock syndrome
+107,A48.4,Brazilian purpuric fever
+108,A48.51,Infant botulism
+109,A48.52,Wound botulism
+110,A48.8,Other specified bacterial diseases
+111,A49.01,"Methicillin suscep staph infection, unsp site"
+112,A49.02,"Methicillin resis staph infection, unsp site"
+113,A49.1,"Streptococcal infection, unspecified site"
+114,A49.2,"Hemophilus influenzae infection, unspecified site"
+115,A49.3,"Mycoplasma infection, unspecified site"
+116,A49.8,Other bacterial infections of unspecified site
+117,A49.9,"Bacterial infection, unspecified"

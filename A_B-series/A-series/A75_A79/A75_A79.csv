@@ -1,0 +1,22 @@
+,category,condition
+0,A75.0,Epidemic louseborne typhus fever d/t Rickettsia prowazekii
+1,A75.1,Recrudescent typhus [Brill's disease]
+2,A75.2,Typhus fever due to Rickettsia typhi
+3,A75.3,Typhus fever due to Rickettsia tsutsugamushi
+4,A75.9,"Typhus fever, unspecified"
+5,A77.0,Spotted fever due to Rickettsia rickettsii
+6,A77.1,Spotted fever due to Rickettsia conorii
+7,A77.2,Spotted fever due to Rickettsia siberica
+8,A77.3,Spotted fever due to Rickettsia australis
+9,A77.40,"Ehrlichiosis, unspecified"
+10,A77.41,Ehrlichiosis chafeensis [E. chafeensis]
+11,A77.49,Other ehrlichiosis
+12,A77.8,Other spotted fevers
+13,A77.9,"Spotted fever, unspecified"
+14,Q fever (A78),A78  Q fever
+15,A78,Q fever
+16,A79.0,Trench fever
+17,A79.1,Rickettsialpox due to Rickettsia akari
+18,A79.81,Rickettsiosis due to Ehrlichia sennetsu
+19,A79.89,Other specified rickettsioses
+20,A79.9,"Rickettsiosis, unspecified"

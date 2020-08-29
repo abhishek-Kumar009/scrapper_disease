@@ -1,0 +1,38 @@
+,category,condition
+4,A90,Dengue fever [classical dengue]
+5,Dengue hemorrhagic fever (A91),A91  Dengue hemorrhagic fever
+6,A91,Dengue hemorrhagic fever
+7,A92.0,Chikungunya virus disease
+8,A92.1,O'nyongnyong fever
+9,A92.2,Venezuelan equine fever
+10,A92.30,"West Nile virus infection, unspecified"
+11,A92.31,West Nile virus infection with encephalitis
+12,A92.32,West Nile virus infection with oth neurologic manifestation
+13,A92.39,West Nile virus infection with other complications
+14,A92.4,Rift Valley fever
+15,A92.5,Zika virus disease
+16,A92.8,Other specified mosquitoborne viral fevers
+17,A92.9,"Mosquitoborne viral fever, unspecified"
+18,A93.0,Oropouche virus disease
+19,A93.1,Sandfly fever
+20,A93.2,Colorado tick fever
+21,A93.8,Other specified arthropodborne viral fevers
+22,Unspecified arthropod-borne viral fever (A94),A94  Unspecified arthropodborne viral fever
+23,A94,Unspecified arthropodborne viral fever
+24,A95.0,Sylvatic yellow fever
+25,A95.1,Urban yellow fever
+26,A95.9,"Yellow fever, unspecified"
+27,A96.0,Junin hemorrhagic fever
+28,A96.1,Machupo hemorrhagic fever
+29,A96.2,Lassa fever
+30,A96.8,Other arenaviral hemorrhagic fevers
+31,A96.9,"Arenaviral hemorrhagic fever, unspecified"
+32,A98.0,CrimeanCongo hemorrhagic fever
+33,A98.1,Omsk hemorrhagic fever
+34,A98.2,Kyasanur Forest disease
+35,A98.3,Marburg virus disease
+36,A98.4,Ebola virus disease
+37,A98.5,Hemorrhagic fever with renal syndrome
+38,A98.8,Other specified viral hemorrhagic fevers
+39,Unspecified viral hemorrhagic fever (A99),A99  Unspecified viral hemorrhagic fever
+40,A99,Unspecified viral hemorrhagic fever

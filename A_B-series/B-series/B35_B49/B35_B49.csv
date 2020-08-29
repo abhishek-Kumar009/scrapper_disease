@@ -1,0 +1,105 @@
+,category,condition
+0,B35.0,Tinea barbae and tinea capitis
+1,B35.1,Tinea unguium
+2,B35.2,Tinea manuum
+3,B35.3,Tinea pedis
+4,B35.4,Tinea corporis
+5,B35.5,Tinea imbricata
+6,B35.6,Tinea cruris
+7,B35.8,Other dermatophytoses
+8,B35.9,"Dermatophytosis, unspecified"
+9,B36.0,Pityriasis versicolor
+10,B36.1,Tinea nigra
+11,B36.2,White piedra
+12,B36.3,Black piedra
+13,B36.8,Other specified superficial mycoses
+14,B36.9,"Superficial mycosis, unspecified"
+15,B37.0,Candidal stomatitis
+16,B37.1,Pulmonary candidiasis
+17,B37.2,Candidiasis of skin and nail
+18,B37.3,Candidiasis of vulva and vagina
+19,B37.41,Candidal cystitis and urethritis
+20,B37.42,Candidal balanitis
+21,B37.49,Other urogenital candidiasis
+22,B37.5,Candidal meningitis
+23,B37.6,Candidal endocarditis
+24,B37.7,Candidal sepsis
+25,B37.81,Candidal esophagitis
+26,B37.82,Candidal enteritis
+27,B37.83,Candidal cheilitis
+28,B37.84,Candidal otitis externa
+29,B37.89,Other sites of candidiasis
+30,B37.9,"Candidiasis, unspecified"
+31,B38.0,Acute pulmonary coccidioidomycosis
+32,B38.1,Chronic pulmonary coccidioidomycosis
+33,B38.2,"Pulmonary coccidioidomycosis, unspecified"
+34,B38.3,Cutaneous coccidioidomycosis
+35,B38.4,Coccidioidomycosis meningitis
+36,B38.7,Disseminated coccidioidomycosis
+37,B38.81,Prostatic coccidioidomycosis
+38,B38.89,Other forms of coccidioidomycosis
+39,B38.9,"Coccidioidomycosis, unspecified"
+40,B39.0,Acute pulmonary histoplasmosis capsulati
+41,B39.1,Chronic pulmonary histoplasmosis capsulati
+42,B39.2,"Pulmonary histoplasmosis capsulati, unspecified"
+43,B39.3,Disseminated histoplasmosis capsulati
+44,B39.4,"Histoplasmosis capsulati, unspecified"
+45,B39.5,Histoplasmosis duboisii
+46,B39.9,"Histoplasmosis, unspecified"
+47,B40.0,Acute pulmonary blastomycosis
+48,B40.1,Chronic pulmonary blastomycosis
+49,B40.2,"Pulmonary blastomycosis, unspecified"
+50,B40.3,Cutaneous blastomycosis
+51,B40.7,Disseminated blastomycosis
+52,B40.81,Blastomycotic meningoencephalitis
+53,B40.89,Other forms of blastomycosis
+54,B40.9,"Blastomycosis, unspecified"
+55,B41.0,Pulmonary paracoccidioidomycosis
+56,B41.7,Disseminated paracoccidioidomycosis
+57,B41.8,Other forms of paracoccidioidomycosis
+58,B41.9,"Paracoccidioidomycosis, unspecified"
+59,B42.0,Pulmonary sporotrichosis
+60,B42.1,Lymphocutaneous sporotrichosis
+61,B42.7,Disseminated sporotrichosis
+62,B42.81,Cerebral sporotrichosis
+63,B42.82,Sporotrichosis arthritis
+64,B42.89,Other forms of sporotrichosis
+65,B42.9,"Sporotrichosis, unspecified"
+66,B43.0,Cutaneous chromomycosis
+67,B43.1,Pheomycotic brain abscess
+68,B43.2,Subcutaneous pheomycotic abscess and cyst
+69,B43.8,Other forms of chromomycosis
+70,B43.9,"Chromomycosis, unspecified"
+71,B44.0,Invasive pulmonary aspergillosis
+72,B44.1,Other pulmonary aspergillosis
+73,B44.2,Tonsillar aspergillosis
+74,B44.7,Disseminated aspergillosis
+75,B44.81,Allergic bronchopulmonary aspergillosis
+76,B44.89,Other forms of aspergillosis
+77,B44.9,"Aspergillosis, unspecified"
+78,B45.0,Pulmonary cryptococcosis
+79,B45.1,Cerebral cryptococcosis
+80,B45.2,Cutaneous cryptococcosis
+81,B45.3,Osseous cryptococcosis
+82,B45.7,Disseminated cryptococcosis
+83,B45.8,Other forms of cryptococcosis
+84,B45.9,"Cryptococcosis, unspecified"
+85,B46.0,Pulmonary mucormycosis
+86,B46.1,Rhinocerebral mucormycosis
+87,B46.2,Gastrointestinal mucormycosis
+88,B46.3,Cutaneous mucormycosis
+89,B46.4,Disseminated mucormycosis
+90,B46.5,"Mucormycosis, unspecified"
+91,B46.8,Other zygomycoses
+92,B46.9,"Zygomycosis, unspecified"
+93,B47.0,Eumycetoma
+94,B47.1,Actinomycetoma
+95,B47.9,"Mycetoma, unspecified"
+96,B48.0,Lobomycosis
+97,B48.1,Rhinosporidiosis
+98,B48.2,Allescheriasis
+99,B48.3,Geotrichosis
+100,B48.4,Penicillosis
+101,B48.8,Other specified mycoses
+102,Unspecified mycosis (B49),B49  Unspecified mycosis
+103,B49,Unspecified mycosis

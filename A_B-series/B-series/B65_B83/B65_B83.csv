@@ -1,0 +1,90 @@
+,category,condition
+0,B65.0,Schistosomiasis due to Schistosoma haematobium
+1,B65.1,Schistosomiasis due to Schistosoma mansoni
+2,B65.2,Schistosomiasis due to Schistosoma japonicum
+3,B65.3,Cercarial dermatitis
+4,B65.8,Other schistosomiasis
+5,B65.9,"Schistosomiasis, unspecified"
+6,B66.0,Opisthorchiasis
+7,B66.1,Clonorchiasis
+8,B66.2,Dicroceliasis
+9,B66.3,Fascioliasis
+10,B66.4,Paragonimiasis
+11,B66.5,Fasciolopsiasis
+12,B66.8,Other specified fluke infections
+13,B66.9,"Fluke infection, unspecified"
+14,B67.0,Echinococcus granulosus infection of liver
+15,B67.1,Echinococcus granulosus infection of lung
+16,B67.2,Echinococcus granulosus infection of bone
+17,B67.31,"Echinococcus granulosus infection, thyroid gland"
+18,B67.32,"Echinococcus granulosus infection, multiple sites"
+19,B67.39,"Echinococcus granulosus infection, other sites"
+20,B67.4,"Echinococcus granulosus infection, unspecified"
+21,B67.5,Echinococcus multilocularis infection of liver
+22,B67.61,"Echinococcus multilocularis infection, multiple sites"
+23,B67.69,"Echinococcus multilocularis infection, other sites"
+24,B67.7,"Echinococcus multilocularis infection, unspecified"
+25,B67.8,"Echinococcosis, unspecified, of liver"
+26,B67.90,"Echinococcosis, unspecified"
+27,B67.99,Other echinococcosis
+28,B68.0,Taenia solium taeniasis
+29,B68.1,Taenia saginata taeniasis
+30,B68.9,"Taeniasis, unspecified"
+31,B69.0,Cysticercosis of central nervous system
+32,B69.1,Cysticercosis of eye
+33,B69.81,Myositis in cysticercosis
+34,B69.89,Cysticercosis of other sites
+35,B69.9,"Cysticercosis, unspecified"
+36,B70.0,Diphyllobothriasis
+37,B70.1,Sparganosis
+38,B71.0,Hymenolepiasis
+39,B71.1,Dipylidiasis
+40,B71.8,Other specified cestode infections
+41,B71.9,"Cestode infection, unspecified"
+42,Dracunculiasis (B72),B72  Dracunculiasis
+43,B72,Dracunculiasis
+44,B73.00,"Onchocerciasis with eye involvement, unspecified"
+45,B73.01,Onchocerciasis with endophthalmitis
+46,B73.02,Onchocerciasis with glaucoma
+47,B73.09,Onchocerciasis with other eye involvement
+48,B73.1,Onchocerciasis without eye disease
+49,B74.0,Filariasis due to Wuchereria bancrofti
+50,B74.1,Filariasis due to Brugia malayi
+51,B74.2,Filariasis due to Brugia timori
+52,B74.3,Loiasis
+53,B74.4,Mansonelliasis
+54,B74.8,Other filariases
+55,B74.9,"Filariasis, unspecified"
+56,Trichinellosis (B75),B75  Trichinellosis
+57,B75,Trichinellosis
+58,B76.0,Ancylostomiasis
+59,B76.1,Necatoriasis
+60,B76.8,Other hookworm diseases
+61,B76.9,"Hookworm disease, unspecified"
+62,B77.0,Ascariasis with intestinal complications
+63,B77.81,Ascariasis pneumonia
+64,B77.89,Ascariasis with other complications
+65,B77.9,"Ascariasis, unspecified"
+66,B78.0,Intestinal strongyloidiasis
+67,B78.1,Cutaneous strongyloidiasis
+68,B78.7,Disseminated strongyloidiasis
+69,B78.9,"Strongyloidiasis, unspecified"
+70,Trichuriasis (B79),B79  Trichuriasis
+71,B79,Trichuriasis
+72,Enterobiasis (B80),B80  Enterobiasis
+73,B80,Enterobiasis
+74,B81.0,Anisakiasis
+75,B81.1,Intestinal capillariasis
+76,B81.2,Trichostrongyliasis
+77,B81.3,Intestinal angiostrongyliasis
+78,B81.4,Mixed intestinal helminthiases
+79,B81.8,Other specified intestinal helminthiases
+80,B82.0,"Intestinal helminthiasis, unspecified"
+81,B82.9,"Intestinal parasitism, unspecified"
+82,B83.0,Visceral larva migrans
+83,B83.1,Gnathostomiasis
+84,B83.2,Angiostrongyliasis due to Parastrongylus cantonensis
+85,B83.3,Syngamiasis
+86,B83.4,Internal hirudiniasis
+87,B83.8,Other specified helminthiases
+88,B83.9,"Helminthiasis, unspecified"

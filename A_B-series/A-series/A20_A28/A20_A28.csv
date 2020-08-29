@@ -1,0 +1,48 @@
+,category,condition
+0,A20.0,Bubonic plague
+1,A20.1,Cellulocutaneous plague
+2,A20.2,Pneumonic plague
+3,A20.3,Plague meningitis
+4,A20.7,Septicemic plague
+5,A20.8,Other forms of plague
+6,A20.9,"Plague, unspecified"
+7,A21.0,Ulceroglandular tularemia
+8,A21.1,Oculoglandular tularemia
+9,A21.2,Pulmonary tularemia
+10,A21.3,Gastrointestinal tularemia
+11,A21.7,Generalized tularemia
+12,A21.8,Other forms of tularemia
+13,A21.9,"Tularemia, unspecified"
+14,A22.0,Cutaneous anthrax
+15,A22.1,Pulmonary anthrax
+16,A22.2,Gastrointestinal anthrax
+17,A22.7,Anthrax sepsis
+18,A22.8,Other forms of anthrax
+19,A22.9,"Anthrax, unspecified"
+20,A23.0,Brucellosis due to Brucella melitensis
+21,A23.1,Brucellosis due to Brucella abortus
+22,A23.2,Brucellosis due to Brucella suis
+23,A23.3,Brucellosis due to Brucella canis
+24,A23.8,Other brucellosis
+25,A23.9,"Brucellosis, unspecified"
+26,A24.0,Glanders
+27,A24.1,Acute and fulminating melioidosis
+28,A24.2,Subacute and chronic melioidosis
+29,A24.3,Other melioidosis
+30,A24.9,"Melioidosis, unspecified"
+31,A25.0,Spirillosis
+32,A25.1,Streptobacillosis
+33,A25.9,"Ratbite fever, unspecified"
+34,A26.0,Cutaneous erysipeloid
+35,A26.7,Erysipelothrix sepsis
+36,A26.8,Other forms of erysipeloid
+37,A26.9,"Erysipeloid, unspecified"
+38,A27.0,Leptospirosis icterohemorrhagica
+39,A27.81,Aseptic meningitis in leptospirosis
+40,A27.89,Other forms of leptospirosis
+41,A27.9,"Leptospirosis, unspecified"
+42,A28.0,Pasteurellosis
+43,A28.1,Catscratch disease
+44,A28.2,Extraintestinal yersiniosis
+45,A28.8,"Oth zoonotic bacterial diseases, not elsewhere classified"
+46,A28.9,"Zoonotic bacterial disease, unspecified"

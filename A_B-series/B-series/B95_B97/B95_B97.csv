@@ -1,0 +1,46 @@
+,category,condition
+0,B95.0,"Streptococcus, group A, causing diseases classd elswhr"
+1,B95.1,"Streptococcus, group B, causing diseases classd elswhr"
+2,B95.2,Enterococcus as the cause of diseases classified elsewhere
+3,B95.3,Streptococcus pneumoniae causing diseases classd elswhr
+4,B95.4,Oth streptococcus as the cause of diseases classd elswhr
+5,B95.5,Unsp streptococcus as the cause of diseases classd elswhr
+6,B95.61,Methicillin suscep staph infct causing dis classd elswhr
+7,B95.62,Methicillin resis staph infct causing diseases classd elswhr
+8,B95.7,Oth staphylococcus as the cause of diseases classd elswhr
+9,B95.8,Unsp staphylococcus as the cause of diseases classd elswhr
+10,B96.0,Mycoplasma pneumoniae as the cause of diseases classd elswhr
+11,B96.1,Klebsiella pneumoniae as the cause of diseases classd elswhr
+12,B96.20,Unsp Escherichia coli as the cause of diseases classd elswhr
+13,B96.21,Shig tox E coli [STEC] O157 causing diseases classd elswhr  UPDATED CODE
+14,B96.22,Oth shiga toxin E coli [STEC] causing diseases classd elswhr  UPDATED CODE
+15,B96.23,Unsp shig tox E coli [STEC] causing diseases classd elswhr  UPDATED CODE
+16,B96.29,Oth Escherichia coli as the cause of diseases classd elswhr
+17,B96.3,Hemophilus influenzae as the cause of diseases classd elswhr
+18,B96.4,Proteus (mirabilis) (morganii) causing dis classd elswhr
+19,B96.5,Pseudomonas (mallei) causing diseases classd elswhr
+20,B96.6,Bacteroides fragilis as the cause of diseases classd elswhr
+21,B96.7,Clostridium perfringens causing diseases classd elswhr
+22,B96.81,Helicobacter pylori as the cause of diseases classd elswhr
+23,B96.82,Vibrio vulnificus as the cause of diseases classd elswhr
+24,B96.89,Oth bacterial agents as the cause of diseases classd elswhr
+25,B97.0,Adenovirus as the cause of diseases classified elsewhere
+26,B97.10,Unsp enterovirus as the cause of diseases classd elswhr
+27,B97.11,Coxsackievirus as the cause of diseases classified elsewhere
+28,B97.12,Echovirus as the cause of diseases classified elsewhere
+29,B97.19,Oth enterovirus as the cause of diseases classd elswhr
+30,B97.21,SARSassociated coronavirus causing diseases classd elswhr
+31,B97.29,Oth coronavirus as the cause of diseases classd elswhr
+32,B97.30,Unsp retrovirus as the cause of diseases classd elswhr
+33,B97.31,Lentivirus as the cause of diseases classified elsewhere
+34,B97.32,Oncovirus as the cause of diseases classified elsewhere
+35,B97.33,HTLVI as the cause of diseases classified elsewhere
+36,B97.34,HTLVII as the cause of diseases classified elsewhere
+37,B97.35,HIV 2 as the cause of diseases classified elsewhere
+38,B97.39,Oth retrovirus as the cause of diseases classified elsewhere
+39,B97.4,Respiratory syncytial virus causing diseases classd elswhr
+40,B97.5,Reovirus as the cause of diseases classified elsewhere
+41,B97.6,Parvovirus as the cause of diseases classified elsewhere
+42,B97.7,Papillomavirus as the cause of diseases classified elsewhere
+43,B97.81,Human metapneumovirus as the cause of diseases classd elswhr
+44,B97.89,Oth viral agents as the cause of diseases classd elswhr

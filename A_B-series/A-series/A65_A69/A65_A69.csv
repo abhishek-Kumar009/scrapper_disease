@@ -1,0 +1,29 @@
+,category,condition
+4,A65,Nonvenereal syphilis
+5,A66.0,Initial lesions of yaws
+6,A66.1,Multiple papillomata and wet crab yaws
+7,A66.2,Other early skin lesions of yaws
+8,A66.3,Hyperkeratosis of yaws
+9,A66.4,Gummata and ulcers of yaws
+10,A66.5,Gangosa
+11,A66.6,Bone and joint lesions of yaws
+12,A66.7,Other manifestations of yaws
+13,A66.8,Latent yaws
+14,A66.9,"Yaws, unspecified"
+15,A67.0,Primary lesions of pinta
+16,A67.1,Intermediate lesions of pinta
+17,A67.2,Late lesions of pinta
+18,A67.3,Mixed lesions of pinta
+19,A67.9,"Pinta, unspecified"
+20,A68.0,Louseborne relapsing fever
+21,A68.1,Tickborne relapsing fever
+22,A68.9,"Relapsing fever, unspecified"
+23,A69.0,Necrotizing ulcerative stomatitis
+24,A69.1,Other Vincent's infections
+25,A69.20,"Lyme disease, unspecified"
+26,A69.21,Meningitis due to Lyme disease
+27,A69.22,Other neurologic disorders in Lyme disease
+28,A69.23,Arthritis due to Lyme disease
+29,A69.29,Other conditions associated with Lyme disease
+30,A69.8,Other specified spirochetal infections
+31,A69.9,"Spirochetal infection, unspecified"

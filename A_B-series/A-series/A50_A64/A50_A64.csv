@@ -1,0 +1,147 @@
+,category,condition
+0,A50.01,Early congenital syphilitic oculopathy
+1,A50.02,Early congenital syphilitic osteochondropathy
+2,A50.03,Early congenital syphilitic pharyngitis
+3,A50.04,Early congenital syphilitic pneumonia
+4,A50.05,Early congenital syphilitic rhinitis
+5,A50.06,Early cutaneous congenital syphilis
+6,A50.07,Early mucocutaneous congenital syphilis
+7,A50.08,Early visceral congenital syphilis
+8,A50.09,"Other early congenital syphilis, symptomatic"
+9,A50.1,"Early congenital syphilis, latent"
+10,A50.2,"Early congenital syphilis, unspecified"
+11,A50.30,"Late congenital syphilitic oculopathy, unspecified"
+12,A50.31,Late congenital syphilitic interstitial keratitis
+13,A50.32,Late congenital syphilitic chorioretinitis
+14,A50.39,Other late congenital syphilitic oculopathy
+15,A50.40,"Late congenital neurosyphilis, unspecified"
+16,A50.41,Late congenital syphilitic meningitis
+17,A50.42,Late congenital syphilitic encephalitis
+18,A50.43,Late congenital syphilitic polyneuropathy
+19,A50.44,Late congenital syphilitic optic nerve atrophy
+20,A50.45,Juvenile general paresis
+21,A50.49,Other late congenital neurosyphilis
+22,A50.51,Clutton's joints
+23,A50.52,Hutchinson's teeth
+24,A50.53,Hutchinson's triad
+25,A50.54,Late congenital cardiovascular syphilis
+26,A50.55,Late congenital syphilitic arthropathy
+27,A50.56,Late congenital syphilitic osteochondropathy
+28,A50.57,Syphilitic saddle nose
+29,A50.59,"Other late congenital syphilis, symptomatic"
+30,A50.6,"Late congenital syphilis, latent"
+31,A50.7,"Late congenital syphilis, unspecified"
+32,A50.9,"Congenital syphilis, unspecified"
+33,A51.0,Primary genital syphilis
+34,A51.1,Primary anal syphilis
+35,A51.2,Primary syphilis of other sites
+36,A51.31,Condyloma latum
+37,A51.32,Syphilitic alopecia
+38,A51.39,Other secondary syphilis of skin
+39,A51.41,Secondary syphilitic meningitis
+40,A51.42,Secondary syphilitic female pelvic disease
+41,A51.43,Secondary syphilitic oculopathy
+42,A51.44,Secondary syphilitic nephritis
+43,A51.45,Secondary syphilitic hepatitis
+44,A51.46,Secondary syphilitic osteopathy
+45,A51.49,Other secondary syphilitic conditions
+46,A51.5,"Early syphilis, latent"
+47,A51.9,"Early syphilis, unspecified"
+48,A52.00,"Cardiovascular syphilis, unspecified"
+49,A52.01,Syphilitic aneurysm of aorta
+50,A52.02,Syphilitic aortitis
+51,A52.03,Syphilitic endocarditis
+52,A52.04,Syphilitic cerebral arteritis
+53,A52.05,Other cerebrovascular syphilis
+54,A52.06,Other syphilitic heart involvement
+55,A52.09,Other cardiovascular syphilis
+56,A52.10,"Symptomatic neurosyphilis, unspecified"
+57,A52.11,Tabes dorsalis
+58,A52.12,Other cerebrospinal syphilis
+59,A52.13,Late syphilitic meningitis
+60,A52.14,Late syphilitic encephalitis
+61,A52.15,Late syphilitic neuropathy
+62,A52.16,Charcot's arthropathy (tabetic)
+63,A52.17,General paresis
+64,A52.19,Other symptomatic neurosyphilis
+65,A52.2,Asymptomatic neurosyphilis
+66,A52.3,"Neurosyphilis, unspecified"
+67,A52.71,Late syphilitic oculopathy
+68,A52.72,Syphilis of lung and bronchus
+69,A52.73,Symptomatic late syphilis of other respiratory organs
+70,A52.74,Syphilis of liver and other viscera
+71,A52.75,Syphilis of kidney and ureter
+72,A52.76,Other genitourinary symptomatic late syphilis
+73,A52.77,Syphilis of bone and joint
+74,A52.78,Syphilis of other musculoskeletal tissue
+75,A52.79,Other symptomatic late syphilis
+76,A52.8,"Late syphilis, latent"
+77,A52.9,"Late syphilis, unspecified"
+78,A53.0,"Latent syphilis, unspecified as early or late"
+79,A53.9,"Syphilis, unspecified"
+80,A54.00,"Gonococcal infection of lower genitourinary tract, unsp"
+81,A54.01,"Gonococcal cystitis and urethritis, unspecified"
+82,A54.02,"Gonococcal vulvovaginitis, unspecified"
+83,A54.03,"Gonococcal cervicitis, unspecified"
+84,A54.09,Other gonococcal infection of lower genitourinary tract
+85,A54.1,Gonocl infct of lower GU tract w periureth and acc glnd abcs
+86,A54.21,Gonococcal infection of kidney and ureter
+87,A54.22,Gonococcal prostatitis
+88,A54.23,Gonococcal infection of other male genital organs
+89,A54.24,Gonococcal female pelvic inflammatory disease
+90,A54.29,Other gonococcal genitourinary infections
+91,A54.30,"Gonococcal infection of eye, unspecified"
+92,A54.31,Gonococcal conjunctivitis
+93,A54.32,Gonococcal iridocyclitis
+94,A54.33,Gonococcal keratitis
+95,A54.39,Other gonococcal eye infection
+96,A54.40,"Gonococcal infection of musculoskeletal system, unspecified"
+97,A54.41,Gonococcal spondylopathy
+98,A54.42,Gonococcal arthritis
+99,A54.43,Gonococcal osteomyelitis
+100,A54.49,Gonococcal infection of other musculoskeletal tissue
+101,A54.5,Gonococcal pharyngitis
+102,A54.6,Gonococcal infection of anus and rectum
+103,A54.81,Gonococcal meningitis
+104,A54.82,Gonococcal brain abscess
+105,A54.83,Gonococcal heart infection
+106,A54.84,Gonococcal pneumonia
+107,A54.85,Gonococcal peritonitis
+108,A54.86,Gonococcal sepsis
+109,A54.89,Other gonococcal infections
+110,A54.9,"Gonococcal infection, unspecified"
+111,Chlamydial lymphogranuloma (venereum) (A55),A55  Chlamydial lymphogranuloma (venereum)
+112,A55,Chlamydial lymphogranuloma (venereum)
+113,A56.00,"Chlamydial infection of lower genitourinary tract, unsp"
+114,A56.01,Chlamydial cystitis and urethritis
+115,A56.02,Chlamydial vulvovaginitis
+116,A56.09,Other chlamydial infection of lower genitourinary tract
+117,A56.11,Chlamydial female pelvic inflammatory disease
+118,A56.19,Other chlamydial genitourinary infection
+119,A56.2,"Chlamydial infection of genitourinary tract, unspecified"
+120,A56.3,Chlamydial infection of anus and rectum
+121,A56.4,Chlamydial infection of pharynx
+122,A56.8,Sexually transmitted chlamydial infection of other sites
+123,Chancroid (A57),A57  Chancroid
+124,A57,Chancroid
+125,Granuloma inguinale (A58),A58  Granuloma inguinale
+126,A58,Granuloma inguinale
+127,A59.00,"Urogenital trichomoniasis, unspecified"
+128,A59.01,Trichomonal vulvovaginitis
+129,A59.02,Trichomonal prostatitis
+130,A59.03,Trichomonal cystitis and urethritis
+131,A59.09,Other urogenital trichomoniasis
+132,A59.8,Trichomoniasis of other sites
+133,A59.9,"Trichomoniasis, unspecified"
+134,A60.00,"Herpesviral infection of urogenital system, unspecified"
+135,A60.01,Herpesviral infection of penis
+136,A60.02,Herpesviral infection of other male genital organs
+137,A60.03,Herpesviral cervicitis
+138,A60.04,Herpesviral vulvovaginitis
+139,A60.09,Herpesviral infection of other urogenital tract
+140,A60.1,Herpesviral infection of perianal skin and rectum
+141,A60.9,"Anogenital herpesviral infection, unspecified"
+142,A63.0,Anogenital (venereal) warts
+143,A63.8,Other specified predominantly sexually transmitted diseases
+144,Unspecified sexually transmitted disease (A64),A64  Unspecified sexually transmitted disease
+145,A64,Unspecified sexually transmitted disease

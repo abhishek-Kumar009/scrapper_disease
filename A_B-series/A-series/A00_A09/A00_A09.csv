@@ -1,0 +1,81 @@
+,category,condition
+0,A00.0,"Cholera due to Vibrio cholerae 01, biovar cholerae"
+1,A00.1,"Cholera due to Vibrio cholerae 01, biovar eltor"
+2,A00.9,"Cholera, unspecified"
+3,A01.00,"Typhoid fever, unspecified"
+4,A01.01,Typhoid meningitis
+5,A01.02,Typhoid fever with heart involvement
+6,A01.03,Typhoid pneumonia
+7,A01.04,Typhoid arthritis
+8,A01.05,Typhoid osteomyelitis
+9,A01.09,Typhoid fever with other complications
+10,A01.1,Paratyphoid fever A
+11,A01.2,Paratyphoid fever B
+12,A01.3,Paratyphoid fever C
+13,A01.4,"Paratyphoid fever, unspecified"
+14,A02.0,Salmonella enteritis
+15,A02.1,Salmonella sepsis
+16,A02.20,"Localized salmonella infection, unspecified"
+17,A02.21,Salmonella meningitis
+18,A02.22,Salmonella pneumonia
+19,A02.23,Salmonella arthritis
+20,A02.24,Salmonella osteomyelitis
+21,A02.25,Salmonella pyelonephritis
+22,A02.29,Salmonella with other localized infection
+23,A02.8,Other specified salmonella infections
+24,A02.9,"Salmonella infection, unspecified"
+25,A03.0,Shigellosis due to Shigella dysenteriae
+26,A03.1,Shigellosis due to Shigella flexneri
+27,A03.2,Shigellosis due to Shigella boydii
+28,A03.3,Shigellosis due to Shigella sonnei
+29,A03.8,Other shigellosis
+30,A03.9,"Shigellosis, unspecified"
+31,A04.0,Enteropathogenic Escherichia coli infection
+32,A04.1,Enterotoxigenic Escherichia coli infection
+33,A04.2,Enteroinvasive Escherichia coli infection
+34,A04.3,Enterohemorrhagic Escherichia coli infection
+35,A04.4,Other intestinal Escherichia coli infections
+36,A04.5,Campylobacter enteritis
+37,A04.6,Enteritis due to Yersinia enterocolitica
+38,A04.71,"Enterocolitis due to Clostridium difficile, recurrent"
+39,A04.72,"Enterocolitis d/t Clostridium difficile, not spcf as recur"
+40,A04.8,Other specified bacterial intestinal infections
+41,A04.9,"Bacterial intestinal infection, unspecified"
+42,A05.0,Foodborne staphylococcal intoxication
+43,A05.1,Botulism food poisoning
+44,A05.2,Foodborne Clostridium perfringens intoxication
+45,A05.3,Foodborne Vibrio parahaemolyticus intoxication
+46,A05.4,Foodborne Bacillus cereus intoxication
+47,A05.5,Foodborne Vibrio vulnificus intoxication
+48,A05.8,Other specified bacterial foodborne intoxications
+49,A05.9,"Bacterial foodborne intoxication, unspecified"
+50,A06.0,Acute amebic dysentery
+51,A06.1,Chronic intestinal amebiasis
+52,A06.2,Amebic nondysenteric colitis
+53,A06.3,Ameboma of intestine
+54,A06.4,Amebic liver abscess
+55,A06.5,Amebic lung abscess
+56,A06.6,Amebic brain abscess
+57,A06.7,Cutaneous amebiasis
+58,A06.81,Amebic cystitis
+59,A06.82,Other amebic genitourinary infections
+60,A06.89,Other amebic infections
+61,A06.9,"Amebiasis, unspecified"
+62,A07.0,Balantidiasis
+63,A07.1,Giardiasis [lambliasis]
+64,A07.2,Cryptosporidiosis
+65,A07.3,Isosporiasis
+66,A07.4,Cyclosporiasis
+67,A07.8,Other specified protozoal intestinal diseases
+68,A07.9,"Protozoal intestinal disease, unspecified"
+69,A08.0,Rotaviral enteritis
+70,A08.11,Acute gastroenteropathy due to Norwalk agent
+71,A08.19,Acute gastroenteropathy due to other small round viruses
+72,A08.2,Adenoviral enteritis
+73,A08.31,Calicivirus enteritis
+74,A08.32,Astrovirus enteritis
+75,A08.39,Other viral enteritis
+76,A08.4,"Viral intestinal infection, unspecified"
+77,A08.8,Other specified intestinal infections
+78,"Infectious gastroenteritis and colitis, unspecified (A09)","A09  Infectious gastroenteritis and colitis, unspecified"
+79,A09,"Infectious gastroenteritis and colitis, unspecified"

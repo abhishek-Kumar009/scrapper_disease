@@ -1,0 +1,57 @@
+,category,condition
+0,B50.0,Plasmodium falciparum malaria with cerebral complications
+1,B50.8,Other severe and complicated Plasmodium falciparum malaria
+2,B50.9,"Plasmodium falciparum malaria, unspecified"
+3,B51.0,Plasmodium vivax malaria with rupture of spleen
+4,B51.8,Plasmodium vivax malaria with other complications
+5,B51.9,Plasmodium vivax malaria without complication
+6,B52.0,Plasmodium malariae malaria with nephropathy
+7,B52.8,Plasmodium malariae malaria with other complications
+8,B52.9,Plasmodium malariae malaria without complication
+9,B53.0,Plasmodium ovale malaria
+10,B53.1,Malaria due to simian plasmodia
+11,B53.8,"Other malaria, not elsewhere classified"
+12,Unspecified malaria (B54),B54  Unspecified malaria
+13,B54,Unspecified malaria
+14,B55.0,Visceral leishmaniasis
+15,B55.1,Cutaneous leishmaniasis
+16,B55.2,Mucocutaneous leishmaniasis
+17,B55.9,"Leishmaniasis, unspecified"
+18,B56.0,Gambiense trypanosomiasis
+19,B56.1,Rhodesiense trypanosomiasis
+20,B56.9,"African trypanosomiasis, unspecified"
+21,B57.0,Acute Chagas' disease with heart involvement
+22,B57.1,Acute Chagas' disease without heart involvement
+23,B57.2,Chagas' disease (chronic) with heart involvement
+24,B57.30,"Chagas' disease with digestive system involvement, unsp"
+25,B57.31,Megaesophagus in Chagas' disease
+26,B57.32,Megacolon in Chagas' disease
+27,B57.39,Other digestive system involvement in Chagas' disease
+28,B57.40,"Chagas' disease with nervous system involvement, unspecified"
+29,B57.41,Meningitis in Chagas' disease
+30,B57.42,Meningoencephalitis in Chagas' disease
+31,B57.49,Other nervous system involvement in Chagas' disease
+32,B57.5,Chagas' disease (chronic) with other organ involvement
+33,B58.00,"Toxoplasma oculopathy, unspecified"
+34,B58.01,Toxoplasma chorioretinitis
+35,B58.09,Other toxoplasma oculopathy
+36,B58.1,Toxoplasma hepatitis
+37,B58.2,Toxoplasma meningoencephalitis
+38,B58.3,Pulmonary toxoplasmosis
+39,B58.81,Toxoplasma myocarditis
+40,B58.82,Toxoplasma myositis
+41,B58.83,Toxoplasma tubulointerstitial nephropathy
+42,B58.89,Toxoplasmosis with other organ involvement
+43,B58.9,"Toxoplasmosis, unspecified"
+44,Pneumocystosis (B59),B59  Pneumocystosis
+45,B59,Pneumocystosis
+46,B60.0,Babesiosis
+47,B60.10,"Acanthamebiasis, unspecified"
+48,B60.11,Meningoencephalitis due to Acanthamoeba (culbertsoni)
+49,B60.12,Conjunctivitis due to Acanthamoeba
+50,B60.13,Keratoconjunctivitis due to Acanthamoeba
+51,B60.19,Other acanthamebic disease
+52,B60.2,Naegleriasis
+53,B60.8,Other specified protozoal diseases
+54,Unspecified protozoal disease (B64),B64  Unspecified protozoal disease
+55,B64,Unspecified protozoal disease

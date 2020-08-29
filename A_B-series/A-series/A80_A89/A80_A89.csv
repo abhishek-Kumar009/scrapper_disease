@@ -1,0 +1,50 @@
+,category,condition
+0,A80.0,"Acute paralytic poliomyelitis, vaccineassociated"
+1,A80.1,"Acute paralytic poliomyelitis, wild virus, imported"
+2,A80.2,"Acute paralytic poliomyelitis, wild virus, indigenous"
+3,A80.30,"Acute paralytic poliomyelitis, unspecified"
+4,A80.39,Other acute paralytic poliomyelitis
+5,A80.4,Acute nonparalytic poliomyelitis
+6,A80.9,"Acute poliomyelitis, unspecified"
+7,A81.00,"CreutzfeldtJakob disease, unspecified"
+8,A81.01,Variant CreutzfeldtJakob disease
+9,A81.09,Other CreutzfeldtJakob disease
+10,A81.1,Subacute sclerosing panencephalitis
+11,A81.2,Progressive multifocal leukoencephalopathy
+12,A81.81,Kuru
+13,A81.82,GerstmannStrausslerScheinker syndrome
+14,A81.83,Fatal familial insomnia
+15,A81.89,Other atypical virus infections of central nervous system
+16,A81.9,"Atypical virus infection of central nervous system, unsp"
+17,A82.0,Sylvatic rabies
+18,A82.1,Urban rabies
+19,A82.9,"Rabies, unspecified"
+20,A83.0,Japanese encephalitis
+21,A83.1,Western equine encephalitis
+22,A83.2,Eastern equine encephalitis
+23,A83.3,St Louis encephalitis
+24,A83.4,Australian encephalitis
+25,A83.5,California encephalitis
+26,A83.6,Rocio virus disease
+27,A83.8,Other mosquitoborne viral encephalitis
+28,A83.9,"Mosquitoborne viral encephalitis, unspecified"
+29,A84.0,Far Eastern tickborne encephalitis
+30,A84.1,Central European tickborne encephalitis
+31,A84.8,Other tickborne viral encephalitis
+32,A84.9,"Tickborne viral encephalitis, unspecified"
+33,A85.0,Enteroviral encephalitis
+34,A85.1,Adenoviral encephalitis
+35,A85.2,"Arthropodborne viral encephalitis, unspecified"
+36,A85.8,Other specified viral encephalitis
+37,Unspecified viral encephalitis (A86),A86  Unspecified viral encephalitis
+38,A86,Unspecified viral encephalitis
+39,A87.0,Enteroviral meningitis
+40,A87.1,Adenoviral meningitis
+41,A87.2,Lymphocytic choriomeningitis
+42,A87.8,Other viral meningitis
+43,A87.9,"Viral meningitis, unspecified"
+44,A88.0,Enteroviral exanthematous fever [Boston exanthem]
+45,A88.1,Epidemic vertigo
+46,A88.8,Other specified viral infections of central nervous system
+47,Unspecified viral infection of central nervous system (A89),A89  Unspecified viral infection of central nervous system
+48,A89,Unspecified viral infection of central nervous system

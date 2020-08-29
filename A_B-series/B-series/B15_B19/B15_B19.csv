@@ -1,0 +1,24 @@
+,category,condition
+0,B15.0,Hepatitis A with hepatic coma
+1,B15.9,Hepatitis A without hepatic coma
+2,B16.0,Acute hepatitis B with deltaagent with hepatic coma
+3,B16.1,Acute hepatitis B with deltaagent without hepatic coma
+4,B16.2,Acute hepatitis B without deltaagent with hepatic coma
+5,B16.9,Acute hepatitis B w/o deltaagent and without hepatic coma
+6,B17.0,Acute delta(super) infection of hepatitis B carrier
+7,B17.10,Acute hepatitis C without hepatic coma
+8,B17.11,Acute hepatitis C with hepatic coma
+9,B17.2,Acute hepatitis E
+10,B17.8,Other specified acute viral hepatitis
+11,B17.9,"Acute viral hepatitis, unspecified"
+12,B18.0,Chronic viral hepatitis B with deltaagent
+13,B18.1,Chronic viral hepatitis B without deltaagent
+14,B18.2,Chronic viral hepatitis C
+15,B18.8,Other chronic viral hepatitis
+16,B18.9,"Chronic viral hepatitis, unspecified"
+17,B19.0,Unspecified viral hepatitis with hepatic coma
+18,B19.10,Unspecified viral hepatitis B without hepatic coma
+19,B19.11,Unspecified viral hepatitis B with hepatic coma
+20,B19.20,Unspecified viral hepatitis C without hepatic coma
+21,B19.21,Unspecified viral hepatitis C with hepatic coma
+22,B19.9,Unspecified viral hepatitis without hepatic coma

@@ -1,0 +1,25 @@
+,category,condition
+0,B85.0,Pediculosis due to Pediculus humanus capitis
+1,B85.1,Pediculosis due to Pediculus humanus corporis
+2,B85.2,"Pediculosis, unspecified"
+3,B85.3,Phthiriasis
+4,B85.4,Mixed pediculosis and phthiriasis
+5,Scabies (B86),B86  Scabies
+6,B86,Scabies
+7,B87.0,Cutaneous myiasis
+8,B87.1,Wound myiasis
+9,B87.2,Ocular myiasis
+10,B87.3,Nasopharyngeal myiasis
+11,B87.4,Aural myiasis
+12,B87.81,Genitourinary myiasis
+13,B87.82,Intestinal myiasis
+14,B87.89,Myiasis of other sites
+15,B87.9,"Myiasis, unspecified"
+16,B88.0,Other acariasis
+17,B88.1,Tungiasis [sandflea infestation]
+18,B88.2,Other arthropod infestations
+19,B88.3,External hirudiniasis
+20,B88.8,Other specified infestations
+21,B88.9,"Infestation, unspecified"
+22,Unspecified parasitic disease (B89),B89  Unspecified parasitic disease
+23,B89,Unspecified parasitic disease

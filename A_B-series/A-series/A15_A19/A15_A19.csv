@@ -1,0 +1,52 @@
+,category,condition
+0,A15.0,Tuberculosis of lung
+1,A15.4,Tuberculosis of intrathoracic lymph nodes
+2,A15.5,"Tuberculosis of larynx, trachea and bronchus"
+3,A15.6,Tuberculous pleurisy
+4,A15.7,Primary respiratory tuberculosis
+5,A15.8,Other respiratory tuberculosis
+6,A15.9,Respiratory tuberculosis unspecified
+7,A17.0,Tuberculous meningitis
+8,A17.1,Meningeal tuberculoma
+9,A17.81,Tuberculoma of brain and spinal cord
+10,A17.82,Tuberculous meningoencephalitis
+11,A17.83,Tuberculous neuritis
+12,A17.89,Other tuberculosis of nervous system
+13,A17.9,"Tuberculosis of nervous system, unspecified"
+14,A18.01,Tuberculosis of spine
+15,A18.02,Tuberculous arthritis of other joints
+16,A18.03,Tuberculosis of other bones
+17,A18.09,Other musculoskeletal tuberculosis
+18,A18.10,"Tuberculosis of genitourinary system, unspecified"
+19,A18.11,Tuberculosis of kidney and ureter
+20,A18.12,Tuberculosis of bladder
+21,A18.13,Tuberculosis of other urinary organs
+22,A18.14,Tuberculosis of prostate
+23,A18.15,Tuberculosis of other male genital organs
+24,A18.16,Tuberculosis of cervix
+25,A18.17,Tuberculous female pelvic inflammatory disease
+26,A18.18,Tuberculosis of other female genital organs
+27,A18.2,Tuberculous peripheral lymphadenopathy
+28,A18.31,Tuberculous peritonitis
+29,A18.32,Tuberculous enteritis
+30,A18.39,Retroperitoneal tuberculosis
+31,A18.4,Tuberculosis of skin and subcutaneous tissue
+32,A18.50,"Tuberculosis of eye, unspecified"
+33,A18.51,Tuberculous episcleritis
+34,A18.52,Tuberculous keratitis
+35,A18.53,Tuberculous chorioretinitis
+36,A18.54,Tuberculous iridocyclitis
+37,A18.59,Other tuberculosis of eye
+38,A18.6,Tuberculosis of (inner) (middle) ear
+39,A18.7,Tuberculosis of adrenal glands
+40,A18.81,Tuberculosis of thyroid gland
+41,A18.82,Tuberculosis of other endocrine glands
+42,A18.83,"Tuberculosis of digestive tract organs, NEC"
+43,A18.84,Tuberculosis of heart
+44,A18.85,Tuberculosis of spleen
+45,A18.89,Tuberculosis of other sites
+46,A19.0,Acute miliary tuberculosis of a single specified site
+47,A19.1,Acute miliary tuberculosis of multiple sites
+48,A19.2,"Acute miliary tuberculosis, unspecified"
+49,A19.8,Other miliary tuberculosis
+50,A19.9,"Miliary tuberculosis, unspecified"

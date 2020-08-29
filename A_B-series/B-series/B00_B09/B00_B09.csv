@@ -1,0 +1,86 @@
+,category,condition
+0,B00.0,Eczema herpeticum
+1,B00.1,Herpesviral vesicular dermatitis
+2,B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis
+3,B00.3,Herpesviral meningitis
+4,B00.4,Herpesviral encephalitis
+5,B00.50,"Herpesviral ocular disease, unspecified"
+6,B00.51,Herpesviral iridocyclitis
+7,B00.52,Herpesviral keratitis
+8,B00.53,Herpesviral conjunctivitis
+9,B00.59,Other herpesviral disease of eye
+10,B00.7,Disseminated herpesviral disease
+11,B00.81,Herpesviral hepatitis
+12,B00.82,Herpes simplex myelitis
+13,B00.89,Other herpesviral infection
+14,B00.9,"Herpesviral infection, unspecified"
+15,B01.0,Varicella meningitis
+16,B01.11,Varicella encephalitis and encephalomyelitis
+17,B01.12,Varicella myelitis
+18,B01.2,Varicella pneumonia
+19,B01.81,Varicella keratitis
+20,B01.89,Other varicella complications
+21,B01.9,Varicella without complication
+22,B02.0,Zoster encephalitis
+23,B02.1,Zoster meningitis
+24,B02.21,Postherpetic geniculate ganglionitis
+25,B02.22,Postherpetic trigeminal neuralgia
+26,B02.23,Postherpetic polyneuropathy
+27,B02.24,Postherpetic myelitis
+28,B02.29,Other postherpetic nervous system involvement
+29,B02.30,"Zoster ocular disease, unspecified"
+30,B02.31,Zoster conjunctivitis
+31,B02.32,Zoster iridocyclitis
+32,B02.33,Zoster keratitis
+33,B02.34,Zoster scleritis
+34,B02.39,Other herpes zoster eye disease
+35,B02.7,Disseminated zoster
+36,B02.8,Zoster with other complications
+37,B02.9,Zoster without complications
+38,Smallpox (B03),B03  Smallpox
+39,B03,Smallpox
+40,Monkeypox (B04),B04  Monkeypox
+41,B04,Monkeypox
+42,B05.0,Measles complicated by encephalitis
+43,B05.1,Measles complicated by meningitis
+44,B05.2,Measles complicated by pneumonia
+45,B05.3,Measles complicated by otitis media
+46,B05.4,Measles with intestinal complications
+47,B05.81,Measles keratitis and keratoconjunctivitis
+48,B05.89,Other measles complications
+49,B05.9,Measles without complication
+50,B06.00,"Rubella with neurological complication, unspecified"
+51,B06.01,Rubella encephalitis
+52,B06.02,Rubella meningitis
+53,B06.09,Other neurological complications of rubella
+54,B06.81,Rubella pneumonia
+55,B06.82,Rubella arthritis
+56,B06.89,Other rubella complications
+57,B06.9,Rubella without complication
+58,B07.0,Plantar wart
+59,B07.8,Other viral warts
+60,B07.9,"Viral wart, unspecified"
+61,B08.010,Cowpox
+62,B08.011,Vaccinia not from vaccine
+63,B08.02,Orf virus disease
+64,B08.03,Pseudocowpox [milker's node]
+65,B08.04,"Paravaccinia, unspecified"
+66,B08.09,Other orthopoxvirus infections
+67,B08.1,Molluscum contagiosum
+68,B08.20,"Exanthema subitum [sixth disease], unspecified"
+69,B08.21,Exanthema subitum [sixth disease] due to human herpesvirus 6
+70,B08.22,Exanthema subitum [sixth disease] due to human herpesvirus 7
+71,B08.3,Erythema infectiosum [fifth disease]
+72,B08.4,Enteroviral vesicular stomatitis with exanthem
+73,B08.5,Enteroviral vesicular pharyngitis
+74,B08.60,"Parapoxvirus infection, unspecified"
+75,B08.61,Bovine stomatitis
+76,B08.62,Sealpox
+77,B08.69,Other parapoxvirus infections
+78,B08.70,"Yatapoxvirus infection, unspecified"
+79,B08.71,Tanapox virus disease
+80,B08.72,Yaba pox virus disease
+81,B08.79,Other yatapoxvirus infections
+82,B08.8,Oth viral infections with skin and mucous membrane lesions
+83,Unsp viral infection with skin and mucous membrane lesions (B09),B09  Unsp viral infection with skin and mucous membrane lesions
+84,B09,Unsp viral infection with skin and mucous membrane lesions
