@@ -1,0 +1,150 @@
+,category,condition
+0,C43.0,Malignant melanoma of lip
+1,C43.10,"Malignant melanoma of unspecified eyelid, including canthus"
+2,C43.111,"Malignant melanoma of right upper eyelid, including canthus"
+3,C43.112,"Malignant melanoma of right lower eyelid, including canthus"
+4,C43.121,"Malignant melanoma of left upper eyelid, including canthus"
+5,C43.122,"Malignant melanoma of left lower eyelid, including canthus"
+6,C43.20,Malignant melanoma of unsp ear and external auricular canal
+7,C43.21,Malignant melanoma of right ear and external auricular canal
+8,C43.22,Malignant melanoma of left ear and external auricular canal
+9,C43.30,Malignant melanoma of unspecified part of face
+10,C43.31,Malignant melanoma of nose
+11,C43.39,Malignant melanoma of other parts of face
+12,C43.4,Malignant melanoma of scalp and neck
+13,C43.51,Malignant melanoma of anal skin
+14,C43.52,Malignant melanoma of skin of breast
+15,C43.59,Malignant melanoma of other part of trunk
+16,C43.60,"Malignant melanoma of unsp upper limb, including shoulder"
+17,C43.61,"Malignant melanoma of right upper limb, including shoulder"
+18,C43.62,"Malignant melanoma of left upper limb, including shoulder"
+19,C43.70,"Malignant melanoma of unspecified lower limb, including hip"
+20,C43.71,"Malignant melanoma of right lower limb, including hip"
+21,C43.72,"Malignant melanoma of left lower limb, including hip"
+22,C43.8,Malignant melanoma of overlapping sites of skin
+23,C43.9,"Malignant melanoma of skin, unspecified"
+24,C44.00,Unspecified malignant neoplasm of skin of lip
+25,C44.01,Basal cell carcinoma of skin of lip
+26,C44.02,Squamous cell carcinoma of skin of lip
+27,C44.09,Other specified malignant neoplasm of skin of lip
+28,C44.101,"Unsp malignant neoplasm skin/ unsp eyelid, including canthus"
+29,C44.1021,"Unsp malig neoplasm skin/ right upper eyelid, inc canthus"
+30,C44.1022,"Unsp malig neoplasm skin/ right lower eyelid, inc canthus"
+31,C44.1091,"Unsp malignant neoplasm skin/ left upper eyelid, inc canthus"
+32,C44.1092,"Unsp malignant neoplasm skin/ left lower eyelid, inc canthus"
+33,C44.111,"Basal cell carcinoma skin/ unsp eyelid, including canthus"
+34,C44.1121,"Basal cell carcinoma skin/ right upper eyelid, inc canthus"
+35,C44.1122,"Basal cell carcinoma skin/ right lower eyelid, inc canthus"
+36,C44.1191,"Basal cell carcinoma skin/ left upper eyelid, inc canthus"
+37,C44.1192,"Basal cell carcinoma skin/ left lower eyelid, inc canthus"
+38,C44.121,"Squamous cell carcinoma skin/ unsp eyelid, including canthus"
+39,C44.1221,"Squamous cell carcinoma skin/ r upper eyelid, inc canthus"
+40,C44.1222,"Squamous cell carcinoma skin/ right low eyelid, inc canthus"
+41,C44.1291,"Squamous cell carcinoma skin/ left upper eyelid, inc canthus"
+42,C44.1292,"Squamous cell carcinoma skin/ left lower eyelid, inc canthus"
+43,C44.131,"Sebaceous cell carcinoma skin/ unsplid, including canthus"
+44,C44.1321,"Sebaceous cell carcinoma skin/ r upper eyelid, inc canthus"
+45,C44.1322,"Sebaceous cell carcinoma skin/ right low eyelid, inc canthus"
+46,C44.1391,"Sebaceous cell carcinoma skin/ left upr eyelid, inc canthus"
+47,C44.1392,"Sebaceous cell carcinoma skin/ left low eyelid, inc canthus"
+48,C44.191,"Oth malignant neoplasm skin/ unsp eyelid, including canthus"
+49,C44.1921,"Oth malignant neoplasm skin/ right upper eyelid, inc canthus"
+50,C44.1922,"Oth malignant neoplasm skin/ right lower eyelid, inc canthus"
+51,C44.1991,"Oth malignant neoplasm skin/ left upper eyelid, inc canthus"
+52,C44.1992,"Oth malignant neoplasm skin/ left lower eyelid, inc canthus"
+53,C44.201,Unsp malig neoplasm skin/ unsp ear and external auric canal
+54,C44.202,Unsp malig neoplasm skin/ right ear and external auric canal
+55,C44.209,Unsp malig neoplasm skin/ left ear and external auric canal
+56,C44.211,Basal cell carcinoma skin/ unsp ear and external auric canal
+57,C44.212,Basal cell carcinoma skin/ r ear and external auric canal
+58,C44.219,Basal cell carcinoma skin/ left ear and external auric canal
+59,C44.221,Squamous cell carcinoma skin/ unsp ear and extrn auric canal
+60,C44.222,Squamous cell carcinoma skin/ r ear and external auric canal
+61,C44.229,Squamous cell carcinoma skin/ left ear and extrn auric canal
+62,C44.291,Oth malig neoplasm skin/ unsp ear and external auric canal
+63,C44.292,Oth malig neoplasm skin/ right ear and external auric canal
+64,C44.299,Oth malig neoplasm skin/ left ear and external auric canal
+65,C44.300,Unsp malignant neoplasm of skin of unspecified part of face
+66,C44.301,Unspecified malignant neoplasm of skin of nose
+67,C44.309,Unsp malignant neoplasm of skin of other parts of face
+68,C44.310,Basal cell carcinoma of skin of unspecified parts of face
+69,C44.311,Basal cell carcinoma of skin of nose
+70,C44.319,Basal cell carcinoma of skin of other parts of face
+71,C44.320,Squamous cell carcinoma of skin of unspecified parts of face
+72,C44.321,Squamous cell carcinoma of skin of nose
+73,C44.329,Squamous cell carcinoma of skin of other parts of face
+74,C44.390,Oth malignant neoplasm of skin of unspecified parts of face
+75,C44.391,Other specified malignant neoplasm of skin of nose
+76,C44.399,Oth malignant neoplasm of skin of other parts of face
+77,C44.40,Unspecified malignant neoplasm of skin of scalp and neck
+78,C44.41,Basal cell carcinoma of skin of scalp and neck
+79,C44.42,Squamous cell carcinoma of skin of scalp and neck
+80,C44.49,Other specified malignant neoplasm of skin of scalp and neck
+81,C44.500,Unspecified malignant neoplasm of anal skin
+82,C44.501,Unspecified malignant neoplasm of skin of breast
+83,C44.509,Unsp malignant neoplasm of skin of other part of trunk
+84,C44.510,Basal cell carcinoma of anal skin
+85,C44.511,Basal cell carcinoma of skin of breast
+86,C44.519,Basal cell carcinoma of skin of other part of trunk
+87,C44.520,Squamous cell carcinoma of anal skin
+88,C44.521,Squamous cell carcinoma of skin of breast
+89,C44.529,Squamous cell carcinoma of skin of other part of trunk
+90,C44.590,Other specified malignant neoplasm of anal skin
+91,C44.591,Other specified malignant neoplasm of skin of breast
+92,C44.599,Oth malignant neoplasm of skin of other part of trunk
+93,C44.601,"Unsp malignant neoplasm skin/ unsp upper limb, inc shoulder"
+94,C44.602,"Unsp malignant neoplasm skin/ right upper limb, inc shoulder"
+95,C44.609,"Unsp malignant neoplasm skin/ left upper limb, inc shoulder"
+96,C44.611,"Basal cell carcinoma skin/ unsp upper limb, inc shoulder"
+97,C44.612,"Basal cell carcinoma skin/ right upper limb, inc shoulder"
+98,C44.619,"Basal cell carcinoma skin/ left upper limb, inc shoulder"
+99,C44.621,"Squamous cell carcinoma skin/ unsp upper limb, inc shoulder"
+100,C44.622,"Squamous cell carcinoma skin/ right upper limb, inc shoulder"
+101,C44.629,"Squamous cell carcinoma skin/ left upper limb, inc shoulder"
+102,C44.691,"Oth malignant neoplasm skin/ unsp upper limb, inc shoulder"
+103,C44.692,"Oth malignant neoplasm skin/ right upper limb, inc shoulder"
+104,C44.699,"Oth malignant neoplasm skin/ left upper limb, inc shoulder"
+105,C44.701,"Unsp malignant neoplasm skin/ unsp lower limb, including hip"
+106,C44.702,"Unsp malignant neoplasm skin/ right lower limb, inc hip"
+107,C44.709,"Unsp malignant neoplasm skin/ left lower limb, including hip"
+108,C44.711,"Basal cell carcinoma skin/ unsp lower limb, including hip"
+109,C44.712,"Basal cell carcinoma skin/ right lower limb, including hip"
+110,C44.719,"Basal cell carcinoma skin/ left lower limb, including hip"
+111,C44.721,"Squamous cell carcinoma skin/ unsp lower limb, including hip"
+112,C44.722,"Squamous cell carcinoma skin/ right lower limb, inc hip"
+113,C44.729,"Squamous cell carcinoma skin/ left lower limb, including hip"
+114,C44.791,"Oth malignant neoplasm skin/ unsp lower limb, including hip"
+115,C44.792,"Oth malignant neoplasm skin/ right lower limb, including hip"
+116,C44.799,"Oth malignant neoplasm skin/ left lower limb, including hip"
+117,C44.80,Unspecified malignant neoplasm of overlapping sites of skin
+118,C44.81,Basal cell carcinoma of overlapping sites of skin
+119,C44.82,Squamous cell carcinoma of overlapping sites of skin
+120,C44.89,Oth malignant neoplasm of overlapping sites of skin
+121,C44.90,"Unspecified malignant neoplasm of skin, unspecified"
+122,C44.91,"Basal cell carcinoma of skin, unspecified"
+123,C44.92,"Squamous cell carcinoma of skin, unspecified"
+124,C44.99,"Other specified malignant neoplasm of skin, unspecified"
+125,C4A.0,Merkel cell carcinoma of lip
+126,C4A.10,"Merkel cell carcinoma of unsp eyelid, including canthus"
+127,C4A.111,"Merkel cell carcinoma of right upper eyelid, inc canthus"
+128,C4A.112,"Merkel cell carcinoma of right lower eyelid, inc canthus"
+129,C4A.121,"Merkel cell carcinoma of left upper eyelid, inc canthus"
+130,C4A.122,"Merkel cell carcinoma of left lower eyelid, inc canthus"
+131,C4A.20,Merkel cell carcinoma of unsp ear and external auric canal
+132,C4A.21,Merkel cell carcinoma of right ear and external auric canal
+133,C4A.22,Merkel cell carcinoma of left ear and external auric canal
+134,C4A.30,Merkel cell carcinoma of unspecified part of face
+135,C4A.31,Merkel cell carcinoma of nose
+136,C4A.39,Merkel cell carcinoma of other parts of face
+137,C4A.4,Merkel cell carcinoma of scalp and neck
+138,C4A.51,Merkel cell carcinoma of anal skin
+139,C4A.52,Merkel cell carcinoma of skin of breast
+140,C4A.59,Merkel cell carcinoma of other part of trunk
+141,C4A.60,"Merkel cell carcinoma of unsp upper limb, including shoulder"
+142,C4A.61,"Merkel cell carcinoma of right upper limb, inc shoulder"
+143,C4A.62,"Merkel cell carcinoma of left upper limb, including shoulder"
+144,C4A.70,"Merkel cell carcinoma of unsp lower limb, including hip"
+145,C4A.71,"Merkel cell carcinoma of right lower limb, including hip"
+146,C4A.72,"Merkel cell carcinoma of left lower limb, including hip"
+147,C4A.8,Merkel cell carcinoma of overlapping sites
+148,C4A.9,"Merkel cell carcinoma, unspecified"

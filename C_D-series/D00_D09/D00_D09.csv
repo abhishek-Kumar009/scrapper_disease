@@ -1,0 +1,107 @@
+,category,condition
+0,D00.00,"Carcinoma in situ of oral cavity, unspecified site"
+1,D00.01,Carcinoma in situ of labial mucosa and vermilion border
+2,D00.02,Carcinoma in situ of buccal mucosa
+3,D00.03,Carcinoma in situ of gingiva and edentulous alveolar ridge
+4,D00.04,Carcinoma in situ of soft palate
+5,D00.05,Carcinoma in situ of hard palate
+6,D00.06,Carcinoma in situ of floor of mouth
+7,D00.07,Carcinoma in situ of tongue
+8,D00.08,Carcinoma in situ of pharynx
+9,D00.1,Carcinoma in situ of esophagus
+10,D00.2,Carcinoma in situ of stomach
+11,D01.0,Carcinoma in situ of colon
+12,D01.1,Carcinoma in situ of rectosigmoid junction
+13,D01.2,Carcinoma in situ of rectum
+14,D01.3,Carcinoma in situ of anus and anal canal
+15,D01.40,Carcinoma in situ of unspecified part of intestine
+16,D01.49,Carcinoma in situ of other parts of intestine
+17,D01.5,"Carcinoma in situ of liver, gallbladder and bile ducts"
+18,D01.7,Carcinoma in situ of other specified digestive organs
+19,D01.9,"Carcinoma in situ of digestive organ, unspecified"
+20,D02.0,Carcinoma in situ of larynx
+21,D02.1,Carcinoma in situ of trachea
+22,D02.20,Carcinoma in situ of unspecified bronchus and lung
+23,D02.21,Carcinoma in situ of right bronchus and lung
+24,D02.22,Carcinoma in situ of left bronchus and lung
+25,D02.3,Carcinoma in situ of other parts of respiratory system
+26,D02.4,"Carcinoma in situ of respiratory system, unspecified"
+27,D03.0,Melanoma in situ of lip
+28,D03.10,"Melanoma in situ of unspecified eyelid, including canthus"
+29,D03.111,"Melanoma in situ of right upper eyelid, including canthus"
+30,D03.112,"Melanoma in situ of right lower eyelid, including canthus"
+31,D03.121,"Melanoma in situ of left upper eyelid, including canthus"
+32,D03.122,"Melanoma in situ of left lower eyelid, including canthus"
+33,D03.20,Melanoma in situ of unsp ear and external auricular canal
+34,D03.21,Melanoma in situ of right ear and external auricular canal
+35,D03.22,Melanoma in situ of left ear and external auricular canal
+36,D03.30,Melanoma in situ of unspecified part of face
+37,D03.39,Melanoma in situ of other parts of face
+38,D03.4,Melanoma in situ of scalp and neck
+39,D03.51,Melanoma in situ of anal skin
+40,D03.52,Melanoma in situ of breast (skin) (soft tissue)
+41,D03.59,Melanoma in situ of other part of trunk
+42,D03.60,"Melanoma in situ of unsp upper limb, including shoulder"
+43,D03.61,"Melanoma in situ of right upper limb, including shoulder"
+44,D03.62,"Melanoma in situ of left upper limb, including shoulder"
+45,D03.70,"Melanoma in situ of unspecified lower limb, including hip"
+46,D03.71,"Melanoma in situ of right lower limb, including hip"
+47,D03.72,"Melanoma in situ of left lower limb, including hip"
+48,D03.8,Melanoma in situ of other sites
+49,D03.9,"Melanoma in situ, unspecified"
+50,D04.0,Carcinoma in situ of skin of lip
+51,D04.10,"Carcinoma in situ of skin of unsp eyelid, including canthus"
+52,D04.111,"Ca in situ skin of right upper eyelid, including canthus"
+53,D04.112,"Ca in situ skin of right lower eyelid, including canthus"
+54,D04.121,"Ca in situ skin of left upper eyelid, including canthus"
+55,D04.122,"Ca in situ skin of left lower eyelid, including canthus"
+56,D04.20,Ca in situ skin of unsp ear and external auricular canal
+57,D04.21,Ca in situ skin of right ear and external auricular canal
+58,D04.22,Ca in situ skin of left ear and external auricular canal
+59,D04.30,Carcinoma in situ of skin of unspecified part of face
+60,D04.39,Carcinoma in situ of skin of other parts of face
+61,D04.4,Carcinoma in situ of skin of scalp and neck
+62,D04.5,Carcinoma in situ of skin of trunk
+63,D04.60,"Ca in situ skin of unsp upper limb, including shoulder"
+64,D04.61,"Ca in situ skin of right upper limb, including shoulder"
+65,D04.62,"Ca in situ skin of left upper limb, including shoulder"
+66,D04.70,"Carcinoma in situ of skin of unsp lower limb, including hip"
+67,D04.71,"Carcinoma in situ of skin of right lower limb, including hip"
+68,D04.72,"Carcinoma in situ of skin of left lower limb, including hip"
+69,D04.8,Carcinoma in situ of skin of other sites
+70,D04.9,"Carcinoma in situ of skin, unspecified"
+71,D05.00,Lobular carcinoma in situ of unspecified breast
+72,D05.01,Lobular carcinoma in situ of right breast
+73,D05.02,Lobular carcinoma in situ of left breast
+74,D05.10,Intraductal carcinoma in situ of unspecified breast
+75,D05.11,Intraductal carcinoma in situ of right breast
+76,D05.12,Intraductal carcinoma in situ of left breast
+77,D05.80,Oth type of carcinoma in situ of unspecified breast
+78,D05.81,Other specified type of carcinoma in situ of right breast
+79,D05.82,Other specified type of carcinoma in situ of left breast
+80,D05.90,Unspecified type of carcinoma in situ of unspecified breast
+81,D05.91,Unspecified type of carcinoma in situ of right breast
+82,D05.92,Unspecified type of carcinoma in situ of left breast
+83,D06.0,Carcinoma in situ of endocervix
+84,D06.1,Carcinoma in situ of exocervix
+85,D06.7,Carcinoma in situ of other parts of cervix
+86,D06.9,"Carcinoma in situ of cervix, unspecified"
+87,D07.0,Carcinoma in situ of endometrium
+88,D07.1,Carcinoma in situ of vulva
+89,D07.2,Carcinoma in situ of vagina
+90,D07.30,Carcinoma in situ of unspecified female genital organs
+91,D07.39,Carcinoma in situ of other female genital organs
+92,D07.4,Carcinoma in situ of penis
+93,D07.5,Carcinoma in situ of prostate
+94,D07.60,Carcinoma in situ of unspecified male genital organs
+95,D07.61,Carcinoma in situ of scrotum
+96,D07.69,Carcinoma in situ of other male genital organs
+97,D09.0,Carcinoma in situ of bladder
+98,D09.10,Carcinoma in situ of unspecified urinary organ
+99,D09.19,Carcinoma in situ of other urinary organs
+100,D09.20,Carcinoma in situ of unspecified eye
+101,D09.21,Carcinoma in situ of right eye
+102,D09.22,Carcinoma in situ of left eye
+103,D09.3,Carcinoma in situ of thyroid and other endocrine glands
+104,D09.8,Carcinoma in situ of other specified sites
+105,D09.9,"Carcinoma in situ, unspecified"

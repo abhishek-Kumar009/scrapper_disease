@@ -1,0 +1,24 @@
+,category,condition
+0,C64.1,"Malignant neoplasm of right kidney, except renal pelvis"
+1,C64.2,"Malignant neoplasm of left kidney, except renal pelvis"
+2,C64.9,"Malignant neoplasm of unsp kidney, except renal pelvis"
+3,C65.1,Malignant neoplasm of right renal pelvis
+4,C65.2,Malignant neoplasm of left renal pelvis
+5,C65.9,Malignant neoplasm of unspecified renal pelvis
+6,C66.1,Malignant neoplasm of right ureter
+7,C66.2,Malignant neoplasm of left ureter
+8,C66.9,Malignant neoplasm of unspecified ureter
+9,C67.0,Malignant neoplasm of trigone of bladder
+10,C67.1,Malignant neoplasm of dome of bladder
+11,C67.2,Malignant neoplasm of lateral wall of bladder
+12,C67.3,Malignant neoplasm of anterior wall of bladder
+13,C67.4,Malignant neoplasm of posterior wall of bladder
+14,C67.5,Malignant neoplasm of bladder neck
+15,C67.6,Malignant neoplasm of ureteric orifice
+16,C67.7,Malignant neoplasm of urachus
+17,C67.8,Malignant neoplasm of overlapping sites of bladder
+18,C67.9,"Malignant neoplasm of bladder, unspecified"
+19,C68.0,Malignant neoplasm of urethra
+20,C68.1,Malignant neoplasm of paraurethral glands
+21,C68.8,Malignant neoplasm of overlapping sites of urinary organs
+22,C68.9,"Malignant neoplasm of urinary organ, unspecified"

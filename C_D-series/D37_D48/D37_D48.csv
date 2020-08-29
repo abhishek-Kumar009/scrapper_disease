@@ -1,0 +1,107 @@
+,category,condition
+0,D37.01,Neoplasm of uncertain behavior of lip
+1,D37.02,Neoplasm of uncertain behavior of tongue
+2,D37.030,Neoplasm of uncertain behavior of the parotid salivary gland
+3,D37.031,Neoplasm of uncrt behavior of the sublingual salivary gland
+4,D37.032,Neoplasm of uncrt behav of the submandibular salivary gland
+5,D37.039,"Neoplasm of uncrt behavior of the major salivary gland, unsp"
+6,D37.04,Neoplasm of uncertain behavior of the minor salivary glands
+7,D37.05,Neoplasm of uncertain behavior of pharynx
+8,D37.09,Neoplasm of uncertain behavior of sites of the oral cavity
+9,D37.1,Neoplasm of uncertain behavior of stomach
+10,D37.2,Neoplasm of uncertain behavior of small intestine
+11,D37.3,Neoplasm of uncertain behavior of appendix
+12,D37.4,Neoplasm of uncertain behavior of colon
+13,D37.5,Neoplasm of uncertain behavior of rectum
+14,D37.6,"Neoplasm of uncertain behavior of liver, GB & bile duct"
+15,D37.8,Neoplasm of uncertain behavior of oth digestive organs
+16,D37.9,"Neoplasm of uncertain behavior of digestive organ, unsp"
+17,D38.0,Neoplasm of uncertain behavior of larynx
+18,D38.1,"Neoplasm of uncertain behavior of trachea, bronchus and lung"
+19,D38.2,Neoplasm of uncertain behavior of pleura
+20,D38.3,Neoplasm of uncertain behavior of mediastinum
+21,D38.4,Neoplasm of uncertain behavior of thymus
+22,D38.5,Neoplasm of uncertain behavior of other respiratory organs
+23,D38.6,"Neoplasm of uncertain behavior of respiratory organ, unsp"
+24,D39.0,Neoplasm of uncertain behavior of uterus
+25,D39.10,Neoplasm of uncertain behavior of unspecified ovary
+26,D39.11,Neoplasm of uncertain behavior of right ovary
+27,D39.12,Neoplasm of uncertain behavior of left ovary
+28,D39.2,Neoplasm of uncertain behavior of placenta
+29,D39.8,Neoplasm of uncertain behavior of oth female genital organs
+30,D39.9,"Neoplasm of uncertain behavior of female genital organ, unsp"
+31,D40.0,Neoplasm of uncertain behavior of prostate
+32,D40.10,Neoplasm of uncertain behavior of unspecified testis
+33,D40.11,Neoplasm of uncertain behavior of right testis
+34,D40.12,Neoplasm of uncertain behavior of left testis
+35,D40.8,Neoplasm of uncertain behavior of oth male genital organs
+36,D40.9,"Neoplasm of uncertain behavior of male genital organ, unsp"
+37,D41.00,Neoplasm of uncertain behavior of unspecified kidney
+38,D41.01,Neoplasm of uncertain behavior of right kidney
+39,D41.02,Neoplasm of uncertain behavior of left kidney
+40,D41.10,Neoplasm of uncertain behavior of unspecified renal pelvis
+41,D41.11,Neoplasm of uncertain behavior of right renal pelvis
+42,D41.12,Neoplasm of uncertain behavior of left renal pelvis
+43,D41.20,Neoplasm of uncertain behavior of unspecified ureter
+44,D41.21,Neoplasm of uncertain behavior of right ureter
+45,D41.22,Neoplasm of uncertain behavior of left ureter
+46,D41.3,Neoplasm of uncertain behavior of urethra
+47,D41.4,Neoplasm of uncertain behavior of bladder
+48,D41.8,Neoplasm of uncertain behavior of oth urinary organs
+49,D41.9,Neoplasm of uncertain behavior of unspecified urinary organ
+50,D42.0,Neoplasm of uncertain behavior of cerebral meninges
+51,D42.1,Neoplasm of uncertain behavior of spinal meninges
+52,D42.9,"Neoplasm of uncertain behavior of meninges, unspecified"
+53,D43.0,"Neoplasm of uncertain behavior of brain, supratentorial"
+54,D43.1,"Neoplasm of uncertain behavior of brain, infratentorial"
+55,D43.2,"Neoplasm of uncertain behavior of brain, unspecified"
+56,D43.3,Neoplasm of uncertain behavior of cranial nerves
+57,D43.4,Neoplasm of uncertain behavior of spinal cord
+58,D43.8,Neoplasm of uncertain behavior of prt central nervous system
+59,D43.9,"Neoplasm of uncertain behavior of cnsl, unsp"
+60,D44.0,Neoplasm of uncertain behavior of thyroid gland
+61,D44.10,Neoplasm of uncertain behavior of unspecified adrenal gland
+62,D44.11,Neoplasm of uncertain behavior of right adrenal gland
+63,D44.12,Neoplasm of uncertain behavior of left adrenal gland
+64,D44.2,Neoplasm of uncertain behavior of parathyroid gland
+65,D44.3,Neoplasm of uncertain behavior of pituitary gland
+66,D44.4,Neoplasm of uncertain behavior of craniopharyngeal duct
+67,D44.5,Neoplasm of uncertain behavior of pineal gland
+68,D44.6,Neoplasm of uncertain behavior of carotid body
+69,D44.7,Neoplasm of uncrt behav of aortic body and oth paraganglia
+70,D44.9,Neoplasm of uncertain behavior of unsp endocrine gland
+71,Polycythemia vera (D45),D45  Polycythemia vera
+72,D45,Polycythemia vera
+73,D46.0,"Refractory anemia without ring sideroblasts, so stated"
+74,D46.1,Refractory anemia with ring sideroblasts
+75,D46.20,"Refractory anemia with excess of blasts, unspecified"
+76,D46.21,Refractory anemia with excess of blasts 1
+77,D46.22,Refractory anemia with excess of blasts 2
+78,D46.4,"Refractory anemia, unspecified"
+79,D46.9,"Myelodysplastic syndrome, unspecified"
+80,D46.A,Refractory cytopenia with multilineage dysplasia
+81,D46.B,Refract cytopenia w multilin dysplasia and ring sideroblasts
+82,D46.C,Myelodysplastic syndrome w isolated del(5q) chromsoml abnlt
+83,D46.Z,Other myelodysplastic syndromes
+84,D47.01,Cutaneous mastocytosis
+85,D47.02,Systemic mastocytosis
+86,D47.09,Other mast cell neoplasms of uncertain behavior
+87,D47.1,Chronic myeloproliferative disease
+88,D47.2,Monoclonal gammopathy
+89,D47.3,Essential (hemorrhagic) thrombocythemia
+90,D47.4,Osteomyelofibrosis
+91,D47.9,"Neoplm of uncrt behav of lymphoid,hematpoetc & rel tiss,unsp"
+92,D47.Z1,Posttransplant lymphoproliferative disorder (PTLD)
+93,D47.Z2,Castleman disease
+94,D47.Z9,"Oth neoplm of uncrt behav of lymphoid, hematpoetc & rel tiss"
+95,D48.0,Neoplasm of uncertain behavior of bone/artic cartl
+96,D48.1,Neoplasm of uncertain behavior of connctv/soft tiss
+97,D48.2,Neoplm of uncrt behav of prph nerves and autonm nervous sys
+98,D48.3,Neoplasm of uncertain behavior of retroperitoneum
+99,D48.4,Neoplasm of uncertain behavior of peritoneum
+100,D48.5,Neoplasm of uncertain behavior of skin
+101,D48.60,Neoplasm of uncertain behavior of unspecified breast
+102,D48.61,Neoplasm of uncertain behavior of right breast
+103,D48.62,Neoplasm of uncertain behavior of left breast
+104,D48.7,Neoplasm of uncertain behavior of other specified sites
+105,D48.9,"Neoplasm of uncertain behavior, unspecified"

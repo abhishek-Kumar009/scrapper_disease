@@ -1,0 +1,53 @@
+,category,condition
+0,C45.0,Mesothelioma of pleura
+1,C45.1,Mesothelioma of peritoneum
+2,C45.2,Mesothelioma of pericardium
+3,C45.7,Mesothelioma of other sites
+4,C45.9,"Mesothelioma, unspecified"
+5,C46.0,Kaposi's sarcoma of skin
+6,C46.1,Kaposi's sarcoma of soft tissue
+7,C46.2,Kaposi's sarcoma of palate
+8,C46.3,Kaposi's sarcoma of lymph nodes
+9,C46.4,Kaposi's sarcoma of gastrointestinal sites
+10,C46.50,Kaposi's sarcoma of unspecified lung
+11,C46.51,Kaposi's sarcoma of right lung
+12,C46.52,Kaposi's sarcoma of left lung
+13,C46.7,Kaposi's sarcoma of other sites
+14,C46.9,"Kaposi's sarcoma, unspecified"
+15,C47.0,"Malignant neoplasm of prph nerves of head, face and neck"
+16,C47.10,"Malig neoplm of prph nerves of unsp upper limb, inc shoulder"
+17,C47.11,"Malig neoplm of prph nerves of right upper limb, inc shldr"
+18,C47.12,"Malig neoplm of prph nerves of left upper limb, inc shoulder"
+19,C47.20,"Malig neoplasm of prph nerves of unsp lower limb, inc hip"
+20,C47.21,"Malig neoplasm of prph nerves of right lower limb, inc hip"
+21,C47.22,"Malig neoplasm of prph nerves of left lower limb, inc hip"
+22,C47.3,Malignant neoplasm of peripheral nerves of thorax
+23,C47.4,Malignant neoplasm of peripheral nerves of abdomen
+24,C47.5,Malignant neoplasm of peripheral nerves of pelvis
+25,C47.6,"Malignant neoplasm of peripheral nerves of trunk, unsp"
+26,C47.8,Malig neoplm of ovrlp sites of prph nrv and autonm nrv sys
+27,C47.9,"Malig neoplasm of prph nerves and autonm nervous sys, unsp"
+28,C48.0,Malignant neoplasm of retroperitoneum
+29,C48.1,Malignant neoplasm of specified parts of peritoneum
+30,C48.2,"Malignant neoplasm of peritoneum, unspecified"
+31,C48.8,Malig neoplasm of ovrlp sites of retroperiton and peritoneum
+32,C49.0,"Malig neoplm of conn and soft tissue of head, face and neck"
+33,C49.10,"Malig neoplm of conn & soft tiss of unsp upr lmb, inc shldr"
+34,C49.11,"Malig neoplm of conn and soft tiss of r upr limb, inc shldr"
+35,C49.12,"Malig neoplm of conn and soft tiss of l upr limb, inc shldr"
+36,C49.20,"Malig neoplm of conn and soft tiss of unsp low limb, inc hip"
+37,C49.21,"Malig neoplm of conn and soft tiss of r low limb, inc hip"
+38,C49.22,"Malig neoplm of conn and soft tiss of left low limb, inc hip"
+39,C49.3,Malignant neoplasm of connective and soft tissue of thorax
+40,C49.4,Malignant neoplasm of connective and soft tissue of abdomen
+41,C49.5,Malignant neoplasm of connective and soft tissue of pelvis
+42,C49.6,"Malignant neoplasm of conn and soft tissue of trunk, unsp"
+43,C49.8,Malignant neoplasm of ovrlp sites of conn and soft tissue
+44,C49.9,"Malignant neoplasm of connective and soft tissue, unsp"
+45,C49.A0,"Gastrointestinal stromal tumor, unspecified site"
+46,C49.A1,Gastrointestinal stromal tumor of esophagus
+47,C49.A2,Gastrointestinal stromal tumor of stomach
+48,C49.A3,Gastrointestinal stromal tumor of small intestine
+49,C49.A4,Gastrointestinal stromal tumor of large intestine
+50,C49.A5,Gastrointestinal stromal tumor of rectum
+51,C49.A9,Gastrointestinal stromal tumor of other sites

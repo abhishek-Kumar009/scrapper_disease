@@ -1,0 +1,19 @@
+,category,condition
+4,C73,Malignant neoplasm of thyroid gland
+5,C74.00,Malignant neoplasm of cortex of unspecified adrenal gland
+6,C74.01,Malignant neoplasm of cortex of right adrenal gland
+7,C74.02,Malignant neoplasm of cortex of left adrenal gland
+8,C74.10,Malignant neoplasm of medulla of unspecified adrenal gland
+9,C74.11,Malignant neoplasm of medulla of right adrenal gland
+10,C74.12,Malignant neoplasm of medulla of left adrenal gland
+11,C74.90,Malignant neoplasm of unsp part of unspecified adrenal gland
+12,C74.91,Malignant neoplasm of unsp part of right adrenal gland
+13,C74.92,Malignant neoplasm of unspecified part of left adrenal gland
+14,C75.0,Malignant neoplasm of parathyroid gland
+15,C75.1,Malignant neoplasm of pituitary gland
+16,C75.2,Malignant neoplasm of craniopharyngeal duct
+17,C75.3,Malignant neoplasm of pineal gland
+18,C75.4,Malignant neoplasm of carotid body
+19,C75.5,Malignant neoplasm of aortic body and other paraganglia
+20,C75.8,"Malignant neoplasm with pluriglandular involvement, unsp"
+21,C75.9,"Malignant neoplasm of endocrine gland, unspecified"

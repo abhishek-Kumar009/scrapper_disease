@@ -1,0 +1,43 @@
+,category,condition
+0,C30.0,Malignant neoplasm of nasal cavity
+1,C30.1,Malignant neoplasm of middle ear
+2,C31.0,Malignant neoplasm of maxillary sinus
+3,C31.1,Malignant neoplasm of ethmoidal sinus
+4,C31.2,Malignant neoplasm of frontal sinus
+5,C31.3,Malignant neoplasm of sphenoid sinus
+6,C31.8,Malignant neoplasm of overlapping sites of accessory sinuses
+7,C31.9,"Malignant neoplasm of accessory sinus, unspecified"
+8,C32.0,Malignant neoplasm of glottis
+9,C32.1,Malignant neoplasm of supraglottis
+10,C32.2,Malignant neoplasm of subglottis
+11,C32.3,Malignant neoplasm of laryngeal cartilage
+12,C32.8,Malignant neoplasm of overlapping sites of larynx
+13,C32.9,"Malignant neoplasm of larynx, unspecified"
+14,Malignant neoplasm of trachea (C33),C33  Malignant neoplasm of trachea
+15,C33,Malignant neoplasm of trachea
+16,C34.00,Malignant neoplasm of unspecified main bronchus
+17,C34.01,Malignant neoplasm of right main bronchus
+18,C34.02,Malignant neoplasm of left main bronchus
+19,C34.10,"Malignant neoplasm of upper lobe, unsp bronchus or lung"
+20,C34.11,"Malignant neoplasm of upper lobe, right bronchus or lung"
+21,C34.12,"Malignant neoplasm of upper lobe, left bronchus or lung"
+22,C34.2,"Malignant neoplasm of middle lobe, bronchus or lung"
+23,C34.30,"Malignant neoplasm of lower lobe, unsp bronchus or lung"
+24,C34.31,"Malignant neoplasm of lower lobe, right bronchus or lung"
+25,C34.32,"Malignant neoplasm of lower lobe, left bronchus or lung"
+26,C34.80,Malignant neoplasm of ovrlp sites of unsp bronchus and lung
+27,C34.81,Malignant neoplasm of ovrlp sites of right bronchus and lung
+28,C34.82,Malignant neoplasm of ovrlp sites of left bronchus and lung
+29,C34.90,Malignant neoplasm of unsp part of unsp bronchus or lung
+30,C34.91,Malignant neoplasm of unsp part of right bronchus or lung
+31,C34.92,Malignant neoplasm of unsp part of left bronchus or lung
+32,Malignant neoplasm of thymus (C37),C37  Malignant neoplasm of thymus
+33,C37,Malignant neoplasm of thymus
+34,C38.0,Malignant neoplasm of heart
+35,C38.1,Malignant neoplasm of anterior mediastinum
+36,C38.2,Malignant neoplasm of posterior mediastinum
+37,C38.3,"Malignant neoplasm of mediastinum, part unspecified"
+38,C38.4,Malignant neoplasm of pleura
+39,C38.8,"Malig neoplm of ovrlp sites of heart, mediastinum and pleura"
+40,C39.0,"Malignant neoplasm of upper respiratory tract, part unsp"
+41,C39.9,"Malignant neoplasm of lower respiratory tract, part unsp"

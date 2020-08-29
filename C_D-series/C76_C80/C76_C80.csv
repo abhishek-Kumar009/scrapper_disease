@@ -1,0 +1,59 @@
+,category,condition
+0,C76.0,"Malignant neoplasm of head, face and neck"
+1,C76.1,Malignant neoplasm of thorax
+2,C76.2,Malignant neoplasm of abdomen
+3,C76.3,Malignant neoplasm of pelvis
+4,C76.40,Malignant neoplasm of unspecified upper limb
+5,C76.41,Malignant neoplasm of right upper limb
+6,C76.42,Malignant neoplasm of left upper limb
+7,C76.50,Malignant neoplasm of unspecified lower limb
+8,C76.51,Malignant neoplasm of right lower limb
+9,C76.52,Malignant neoplasm of left lower limb
+10,C76.8,Malignant neoplasm of other specified illdefined sites
+11,C77.0,"Sec and unsp malig neoplasm of nodes of head, face and neck"
+12,C77.1,Secondary and unsp malignant neoplasm of intrathorac nodes
+13,C77.2,Secondary and unsp malignant neoplasm of intraabd nodes
+14,C77.3,Sec and unsp malig neoplasm of axilla and upper limb nodes
+15,C77.4,Sec and unsp malig neoplasm of inguinal and lower limb nodes
+16,C77.5,Secondary and unsp malignant neoplasm of intrapelv nodes
+17,C77.8,Sec and unsp malig neoplasm of nodes of multiple regions
+18,C77.9,"Secondary and unsp malignant neoplasm of lymph node, unsp"
+19,C78.00,Secondary malignant neoplasm of unspecified lung
+20,C78.01,Secondary malignant neoplasm of right lung
+21,C78.02,Secondary malignant neoplasm of left lung
+22,C78.1,Secondary malignant neoplasm of mediastinum
+23,C78.2,Secondary malignant neoplasm of pleura
+24,C78.30,Secondary malignant neoplasm of unsp respiratory organ
+25,C78.39,Secondary malignant neoplasm of other respiratory organs
+26,C78.4,Secondary malignant neoplasm of small intestine
+27,C78.5,Secondary malignant neoplasm of large intestine and rectum
+28,C78.6,Secondary malignant neoplasm of retroperiton and peritoneum
+29,C78.7,Secondary malig neoplasm of liver and intrahepatic bile duct
+30,C78.80,Secondary malignant neoplasm of unspecified digestive organ
+31,C78.89,Secondary malignant neoplasm of other digestive organs
+32,C79.00,Secondary malignant neoplasm of unsp kidney and renal pelvis
+33,C79.01,Secondary malignant neoplasm of r kidney and renal pelvis
+34,C79.02,Secondary malignant neoplasm of left kidney and renal pelvis
+35,C79.10,Secondary malignant neoplasm of unspecified urinary organs
+36,C79.11,Secondary malignant neoplasm of bladder
+37,C79.19,Secondary malignant neoplasm of other urinary organs
+38,C79.2,Secondary malignant neoplasm of skin
+39,C79.31,Secondary malignant neoplasm of brain
+40,C79.32,Secondary malignant neoplasm of cerebral meninges
+41,C79.40,Secondary malignant neoplasm of unsp part of nervous system
+42,C79.49,Secondary malignant neoplasm of oth parts of nervous system
+43,C79.51,Secondary malignant neoplasm of bone
+44,C79.52,Secondary malignant neoplasm of bone marrow
+45,C79.60,Secondary malignant neoplasm of unspecified ovary
+46,C79.61,Secondary malignant neoplasm of right ovary
+47,C79.62,Secondary malignant neoplasm of left ovary
+48,C79.70,Secondary malignant neoplasm of unspecified adrenal gland
+49,C79.71,Secondary malignant neoplasm of right adrenal gland
+50,C79.72,Secondary malignant neoplasm of left adrenal gland
+51,C79.81,Secondary malignant neoplasm of breast
+52,C79.82,Secondary malignant neoplasm of genital organs
+53,C79.89,Secondary malignant neoplasm of other specified sites
+54,C79.9,Secondary malignant neoplasm of unspecified site
+55,C80.0,"Disseminated malignant neoplasm, unspecified"
+56,C80.1,"Malignant (primary) neoplasm, unspecified"
+57,C80.2,Malignant neoplasm associated with transplanted organ

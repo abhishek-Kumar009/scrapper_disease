@@ -1,0 +1,55 @@
+,category,condition
+0,C69.00,Malignant neoplasm of unspecified conjunctiva
+1,C69.01,Malignant neoplasm of right conjunctiva
+2,C69.02,Malignant neoplasm of left conjunctiva
+3,C69.10,Malignant neoplasm of unspecified cornea
+4,C69.11,Malignant neoplasm of right cornea
+5,C69.12,Malignant neoplasm of left cornea
+6,C69.20,Malignant neoplasm of unspecified retina
+7,C69.21,Malignant neoplasm of right retina
+8,C69.22,Malignant neoplasm of left retina
+9,C69.30,Malignant neoplasm of unspecified choroid
+10,C69.31,Malignant neoplasm of right choroid
+11,C69.32,Malignant neoplasm of left choroid
+12,C69.40,Malignant neoplasm of unspecified ciliary body
+13,C69.41,Malignant neoplasm of right ciliary body
+14,C69.42,Malignant neoplasm of left ciliary body
+15,C69.50,Malignant neoplasm of unspecified lacrimal gland and duct
+16,C69.51,Malignant neoplasm of right lacrimal gland and duct
+17,C69.52,Malignant neoplasm of left lacrimal gland and duct
+18,C69.60,Malignant neoplasm of unspecified orbit
+19,C69.61,Malignant neoplasm of right orbit
+20,C69.62,Malignant neoplasm of left orbit
+21,C69.80,Malignant neoplasm of ovrlp sites of unsp eye and adnexa
+22,C69.81,Malignant neoplasm of ovrlp sites of right eye and adnexa
+23,C69.82,Malignant neoplasm of ovrlp sites of left eye and adnexa
+24,C69.90,Malignant neoplasm of unspecified site of unspecified eye
+25,C69.91,Malignant neoplasm of unspecified site of right eye
+26,C69.92,Malignant neoplasm of unspecified site of left eye
+27,C70.0,Malignant neoplasm of cerebral meninges
+28,C70.1,Malignant neoplasm of spinal meninges
+29,C70.9,"Malignant neoplasm of meninges, unspecified"
+30,C71.0,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+31,C71.1,Malignant neoplasm of frontal lobe
+32,C71.2,Malignant neoplasm of temporal lobe
+33,C71.3,Malignant neoplasm of parietal lobe
+34,C71.4,Malignant neoplasm of occipital lobe
+35,C71.5,Malignant neoplasm of cerebral ventricle
+36,C71.6,Malignant neoplasm of cerebellum
+37,C71.7,Malignant neoplasm of brain stem
+38,C71.8,Malignant neoplasm of overlapping sites of brain
+39,C71.9,"Malignant neoplasm of brain, unspecified"
+40,C72.0,Malignant neoplasm of spinal cord
+41,C72.1,Malignant neoplasm of cauda equina
+42,C72.20,Malignant neoplasm of unspecified olfactory nerve
+43,C72.21,Malignant neoplasm of right olfactory nerve
+44,C72.22,Malignant neoplasm of left olfactory nerve
+45,C72.30,Malignant neoplasm of unspecified optic nerve
+46,C72.31,Malignant neoplasm of right optic nerve
+47,C72.32,Malignant neoplasm of left optic nerve
+48,C72.40,Malignant neoplasm of unspecified acoustic nerve
+49,C72.41,Malignant neoplasm of right acoustic nerve
+50,C72.42,Malignant neoplasm of left acoustic nerve
+51,C72.50,Malignant neoplasm of unspecified cranial nerve
+52,C72.59,Malignant neoplasm of other cranial nerves
+53,C72.9,"Malignant neoplasm of central nervous system, unspecified"

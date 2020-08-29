@@ -1,0 +1,24 @@
+,category,condition
+0,C7A.00,Malignant carcinoid tumor of unspecified site
+1,C7A.010,Malignant carcinoid tumor of the duodenum
+2,C7A.011,Malignant carcinoid tumor of the jejunum
+3,C7A.012,Malignant carcinoid tumor of the ileum
+4,C7A.019,"Malignant carcinoid tumor of the sm int, unsp portion"
+5,C7A.020,Malignant carcinoid tumor of the appendix
+6,C7A.021,Malignant carcinoid tumor of the cecum
+7,C7A.022,Malignant carcinoid tumor of the ascending colon
+8,C7A.023,Malignant carcinoid tumor of the transverse colon
+9,C7A.024,Malignant carcinoid tumor of the descending colon
+10,C7A.025,Malignant carcinoid tumor of the sigmoid colon
+11,C7A.026,Malignant carcinoid tumor of the rectum
+12,C7A.029,"Malignant carcinoid tumor of the lg int, unsp portion"
+13,C7A.090,Malignant carcinoid tumor of the bronchus and lung
+14,C7A.091,Malignant carcinoid tumor of the thymus
+15,C7A.092,Malignant carcinoid tumor of the stomach
+16,C7A.093,Malignant carcinoid tumor of the kidney
+17,C7A.094,"Malignant carcinoid tumor of the foregut, unspecified"
+18,C7A.095,"Malignant carcinoid tumor of the midgut, unspecified"
+19,C7A.096,"Malignant carcinoid tumor of the hindgut, unspecified"
+20,C7A.098,Malignant carcinoid tumors of other sites
+21,C7A.1,Malignant poorly differentiated neuroendocrine tumors
+22,C7A.8,Other malignant neuroendocrine tumors

@@ -1,0 +1,23 @@
+,category,condition
+0,D3A.00,Benign carcinoid tumor of unspecified site
+1,D3A.010,Benign carcinoid tumor of the duodenum
+2,D3A.011,Benign carcinoid tumor of the jejunum
+3,D3A.012,Benign carcinoid tumor of the ileum
+4,D3A.019,"Benign carcinoid tumor of the small intestine, unsp portion"
+5,D3A.020,Benign carcinoid tumor of the appendix
+6,D3A.021,Benign carcinoid tumor of the cecum
+7,D3A.022,Benign carcinoid tumor of the ascending colon
+8,D3A.023,Benign carcinoid tumor of the transverse colon
+9,D3A.024,Benign carcinoid tumor of the descending colon
+10,D3A.025,Benign carcinoid tumor of the sigmoid colon
+11,D3A.026,Benign carcinoid tumor of the rectum
+12,D3A.029,"Benign carcinoid tumor of the large intestine, unsp portion"
+13,D3A.090,Benign carcinoid tumor of the bronchus and lung
+14,D3A.091,Benign carcinoid tumor of the thymus
+15,D3A.092,Benign carcinoid tumor of the stomach
+16,D3A.093,Benign carcinoid tumor of the kidney
+17,D3A.094,"Benign carcinoid tumor of the foregut, unspecified"
+18,D3A.095,"Benign carcinoid tumor of the midgut, unspecified"
+19,D3A.096,"Benign carcinoid tumor of the hindgut, unspecified"
+20,D3A.098,Benign carcinoid tumors of other sites
+21,D3A.8,Other benign neuroendocrine tumors

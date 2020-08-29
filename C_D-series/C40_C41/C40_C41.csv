@@ -1,0 +1,25 @@
+,category,condition
+0,C40.00,Malig neoplasm of scapula and long bones of unsp upper limb
+1,C40.01,Malig neoplasm of scapula and long bones of right upper limb
+2,C40.02,Malig neoplasm of scapula and long bones of left upper limb
+3,C40.10,Malignant neoplasm of short bones of unspecified upper limb
+4,C40.11,Malignant neoplasm of short bones of right upper limb
+5,C40.12,Malignant neoplasm of short bones of left upper limb
+6,C40.20,Malignant neoplasm of long bones of unspecified lower limb
+7,C40.21,Malignant neoplasm of long bones of right lower limb
+8,C40.22,Malignant neoplasm of long bones of left lower limb
+9,C40.30,Malignant neoplasm of short bones of unspecified lower limb
+10,C40.31,Malignant neoplasm of short bones of right lower limb
+11,C40.32,Malignant neoplasm of short bones of left lower limb
+12,C40.80,Malig neoplm of ovrlp sites of bone/artic cartl of unsp limb
+13,C40.81,Malig neoplm of ovrlp sites of bone/artic cartl of r limb
+14,C40.82,Malig neoplm of ovrlp sites of bone/artic cartl of left limb
+15,C40.90,Malig neoplasm of unsp bones and artic cartlg of unsp limb
+16,C40.91,Malig neoplasm of unsp bones and artic cartlg of right limb
+17,C40.92,Malig neoplasm of unsp bones and artic cartlg of left limb
+18,C41.0,Malignant neoplasm of bones of skull and face
+19,C41.1,Malignant neoplasm of mandible
+20,C41.2,Malignant neoplasm of vertebral column
+21,C41.3,"Malignant neoplasm of ribs, sternum and clavicle"
+22,C41.4,"Malignant neoplasm of pelvic bones, sacrum and coccyx"
+23,C41.9,"Malignant neoplasm of bone and articular cartilage, unsp"

@@ -1,0 +1,69 @@
+,category,condition
+0,C00.0,Malignant neoplasm of external upper lip
+1,C00.1,Malignant neoplasm of external lower lip
+2,C00.2,"Malignant neoplasm of external lip, unspecified"
+3,C00.3,"Malignant neoplasm of upper lip, inner aspect"
+4,C00.4,"Malignant neoplasm of lower lip, inner aspect"
+5,C00.5,"Malignant neoplasm of lip, unspecified, inner aspect"
+6,C00.6,"Malignant neoplasm of commissure of lip, unspecified"
+7,C00.8,Malignant neoplasm of overlapping sites of lip
+8,C00.9,"Malignant neoplasm of lip, unspecified"
+9,Malignant neoplasm of base of tongue (C01),C01  Malignant neoplasm of base of tongue
+10,C01,Malignant neoplasm of base of tongue
+11,C02.0,Malignant neoplasm of dorsal surface of tongue
+12,C02.1,Malignant neoplasm of border of tongue
+13,C02.2,Malignant neoplasm of ventral surface of tongue
+14,C02.3,"Malig neoplasm of anterior twothirds of tongue, part unsp"
+15,C02.4,Malignant neoplasm of lingual tonsil
+16,C02.8,Malignant neoplasm of overlapping sites of tongue
+17,C02.9,"Malignant neoplasm of tongue, unspecified"
+18,C03.0,Malignant neoplasm of upper gum
+19,C03.1,Malignant neoplasm of lower gum
+20,C03.9,"Malignant neoplasm of gum, unspecified"
+21,C04.0,Malignant neoplasm of anterior floor of mouth
+22,C04.1,Malignant neoplasm of lateral floor of mouth
+23,C04.8,Malignant neoplasm of overlapping sites of floor of mouth
+24,C04.9,"Malignant neoplasm of floor of mouth, unspecified"
+25,C05.0,Malignant neoplasm of hard palate
+26,C05.1,Malignant neoplasm of soft palate
+27,C05.2,Malignant neoplasm of uvula
+28,C05.8,Malignant neoplasm of overlapping sites of palate
+29,C05.9,"Malignant neoplasm of palate, unspecified"
+30,C06.0,Malignant neoplasm of cheek mucosa
+31,C06.1,Malignant neoplasm of vestibule of mouth
+32,C06.2,Malignant neoplasm of retromolar area
+33,C06.80,Malignant neoplasm of ovrlp sites of unsp parts of mouth
+34,C06.89,Malignant neoplasm of overlapping sites of oth prt mouth
+35,C06.9,"Malignant neoplasm of mouth, unspecified"
+36,Malignant neoplasm of parotid gland (C07),C07  Malignant neoplasm of parotid gland
+37,C07,Malignant neoplasm of parotid gland
+38,C08.0,Malignant neoplasm of submandibular gland
+39,C08.1,Malignant neoplasm of sublingual gland
+40,C08.9,"Malignant neoplasm of major salivary gland, unspecified"
+41,C09.0,Malignant neoplasm of tonsillar fossa
+42,C09.1,Malig neoplasm of tonsillar pillar (anterior) (posterior)
+43,C09.8,Malignant neoplasm of overlapping sites of tonsil
+44,C09.9,"Malignant neoplasm of tonsil, unspecified"
+45,C10.0,Malignant neoplasm of vallecula
+46,C10.1,Malignant neoplasm of anterior surface of epiglottis
+47,C10.2,Malignant neoplasm of lateral wall of oropharynx
+48,C10.3,Malignant neoplasm of posterior wall of oropharynx
+49,C10.4,Malignant neoplasm of branchial cleft
+50,C10.8,Malignant neoplasm of overlapping sites of oropharynx
+51,C10.9,"Malignant neoplasm of oropharynx, unspecified"
+52,C11.0,Malignant neoplasm of superior wall of nasopharynx
+53,C11.1,Malignant neoplasm of posterior wall of nasopharynx
+54,C11.2,Malignant neoplasm of lateral wall of nasopharynx
+55,C11.3,Malignant neoplasm of anterior wall of nasopharynx
+56,C11.8,Malignant neoplasm of overlapping sites of nasopharynx
+57,C11.9,"Malignant neoplasm of nasopharynx, unspecified"
+58,Malignant neoplasm of pyriform sinus (C12),C12  Malignant neoplasm of pyriform sinus
+59,C12,Malignant neoplasm of pyriform sinus
+60,C13.0,Malignant neoplasm of postcricoid region
+61,C13.1,"Malig neoplasm of aryepiglottic fold, hypopharyngeal aspect"
+62,C13.2,Malignant neoplasm of posterior wall of hypopharynx
+63,C13.8,Malignant neoplasm of overlapping sites of hypopharynx
+64,C13.9,"Malignant neoplasm of hypopharynx, unspecified"
+65,C14.0,"Malignant neoplasm of pharynx, unspecified"
+66,C14.2,Malignant neoplasm of Waldeyer's ring
+67,C14.8,"Malig neoplm of ovrlp sites of lip, oral cavity and pharynx"

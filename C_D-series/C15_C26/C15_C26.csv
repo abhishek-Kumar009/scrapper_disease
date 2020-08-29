@@ -1,0 +1,64 @@
+,category,condition
+0,C15.3,Malignant neoplasm of upper third of esophagus
+1,C15.4,Malignant neoplasm of middle third of esophagus
+2,C15.5,Malignant neoplasm of lower third of esophagus
+3,C15.8,Malignant neoplasm of overlapping sites of esophagus
+4,C15.9,"Malignant neoplasm of esophagus, unspecified"
+5,C16.0,Malignant neoplasm of cardia
+6,C16.1,Malignant neoplasm of fundus of stomach
+7,C16.2,Malignant neoplasm of body of stomach
+8,C16.3,Malignant neoplasm of pyloric antrum
+9,C16.4,Malignant neoplasm of pylorus
+10,C16.5,"Malignant neoplasm of lesser curvature of stomach, unsp"
+11,C16.6,"Malignant neoplasm of greater curvature of stomach, unsp"
+12,C16.8,Malignant neoplasm of overlapping sites of stomach
+13,C16.9,"Malignant neoplasm of stomach, unspecified"
+14,C17.0,Malignant neoplasm of duodenum
+15,C17.1,Malignant neoplasm of jejunum
+16,C17.2,Malignant neoplasm of ileum
+17,C17.3,"Meckel's diverticulum, malignant"
+18,C17.8,Malignant neoplasm of overlapping sites of small intestine
+19,C17.9,"Malignant neoplasm of small intestine, unspecified"
+20,C18.0,Malignant neoplasm of cecum
+21,C18.1,Malignant neoplasm of appendix
+22,C18.2,Malignant neoplasm of ascending colon
+23,C18.3,Malignant neoplasm of hepatic flexure
+24,C18.4,Malignant neoplasm of transverse colon
+25,C18.5,Malignant neoplasm of splenic flexure
+26,C18.6,Malignant neoplasm of descending colon
+27,C18.7,Malignant neoplasm of sigmoid colon
+28,C18.8,Malignant neoplasm of overlapping sites of colon
+29,C18.9,"Malignant neoplasm of colon, unspecified"
+30,Malignant neoplasm of rectosigmoid junction (C19),C19  Malignant neoplasm of rectosigmoid junction
+31,C19,Malignant neoplasm of rectosigmoid junction
+32,Malignant neoplasm of rectum (C20),C20  Malignant neoplasm of rectum
+33,C20,Malignant neoplasm of rectum
+34,C21.0,"Malignant neoplasm of anus, unspecified"
+35,C21.1,Malignant neoplasm of anal canal
+36,C21.2,Malignant neoplasm of cloacogenic zone
+37,C21.8,"Malig neoplasm of ovrlp sites of rectum, anus and anal canal"
+38,C22.0,Liver cell carcinoma
+39,C22.1,Intrahepatic bile duct carcinoma
+40,C22.2,Hepatoblastoma
+41,C22.3,Angiosarcoma of liver
+42,C22.4,Other sarcomas of liver
+43,C22.7,Other specified carcinomas of liver
+44,C22.8,"Malignant neoplasm of liver, primary, unspecified as to type"
+45,C22.9,"Malig neoplasm of liver, not specified as primary or sec"
+46,Malignant neoplasm of gallbladder (C23),C23  Malignant neoplasm of gallbladder
+47,C23,Malignant neoplasm of gallbladder
+48,C24.0,Malignant neoplasm of extrahepatic bile duct
+49,C24.1,Malignant neoplasm of ampulla of Vater
+50,C24.8,Malignant neoplasm of overlapping sites of biliary tract
+51,C24.9,"Malignant neoplasm of biliary tract, unspecified"
+52,C25.0,Malignant neoplasm of head of pancreas
+53,C25.1,Malignant neoplasm of body of pancreas
+54,C25.2,Malignant neoplasm of tail of pancreas
+55,C25.3,Malignant neoplasm of pancreatic duct
+56,C25.4,Malignant neoplasm of endocrine pancreas
+57,C25.7,Malignant neoplasm of other parts of pancreas
+58,C25.8,Malignant neoplasm of overlapping sites of pancreas
+59,C25.9,"Malignant neoplasm of pancreas, unspecified"
+60,C26.0,"Malignant neoplasm of intestinal tract, part unspecified"
+61,C26.1,Malignant neoplasm of spleen
+62,C26.9,Malignant neoplasm of illdefined sites within the dgstv sys

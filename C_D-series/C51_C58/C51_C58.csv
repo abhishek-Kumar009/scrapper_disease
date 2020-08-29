@@ -1,0 +1,39 @@
+,category,condition
+0,C51.0,Malignant neoplasm of labium majus
+1,C51.1,Malignant neoplasm of labium minus
+2,C51.2,Malignant neoplasm of clitoris
+3,C51.8,Malignant neoplasm of overlapping sites of vulva
+4,C51.9,"Malignant neoplasm of vulva, unspecified"
+5,Malignant neoplasm of vagina (C52),C52  Malignant neoplasm of vagina
+6,C52,Malignant neoplasm of vagina
+7,C53.0,Malignant neoplasm of endocervix
+8,C53.1,Malignant neoplasm of exocervix
+9,C53.8,Malignant neoplasm of overlapping sites of cervix uteri
+10,C53.9,"Malignant neoplasm of cervix uteri, unspecified"
+11,C54.0,Malignant neoplasm of isthmus uteri
+12,C54.1,Malignant neoplasm of endometrium
+13,C54.2,Malignant neoplasm of myometrium
+14,C54.3,Malignant neoplasm of fundus uteri
+15,C54.8,Malignant neoplasm of overlapping sites of corpus uteri
+16,C54.9,"Malignant neoplasm of corpus uteri, unspecified"
+17,"Malignant neoplasm of uterus, part unspecified (C55)","C55  Malignant neoplasm of uterus, part unspecified"
+18,C55,"Malignant neoplasm of uterus, part unspecified"
+19,C56.1,Malignant neoplasm of right ovary
+20,C56.2,Malignant neoplasm of left ovary
+21,C56.9,Malignant neoplasm of unspecified ovary
+22,C57.00,Malignant neoplasm of unspecified fallopian tube
+23,C57.01,Malignant neoplasm of right fallopian tube
+24,C57.02,Malignant neoplasm of left fallopian tube
+25,C57.10,Malignant neoplasm of unspecified broad ligament
+26,C57.11,Malignant neoplasm of right broad ligament
+27,C57.12,Malignant neoplasm of left broad ligament
+28,C57.20,Malignant neoplasm of unspecified round ligament
+29,C57.21,Malignant neoplasm of right round ligament
+30,C57.22,Malignant neoplasm of left round ligament
+31,C57.3,Malignant neoplasm of parametrium
+32,C57.4,"Malignant neoplasm of uterine adnexa, unspecified"
+33,C57.7,Malignant neoplasm of other specified female genital organs
+34,C57.8,Malignant neoplasm of ovrlp sites of female genital organs
+35,C57.9,"Malignant neoplasm of female genital organ, unspecified"
+36,Malignant neoplasm of placenta (C58),C58  Malignant neoplasm of placenta
+37,C58,Malignant neoplasm of placenta

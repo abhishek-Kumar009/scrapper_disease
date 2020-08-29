@@ -1,0 +1,245 @@
+,category,condition
+0,D10.0,Benign neoplasm of lip
+1,D10.1,Benign neoplasm of tongue
+2,D10.2,Benign neoplasm of floor of mouth
+3,D10.30,Benign neoplasm of unspecified part of mouth
+4,D10.39,Benign neoplasm of other parts of mouth
+5,D10.4,Benign neoplasm of tonsil
+6,D10.5,Benign neoplasm of other parts of oropharynx
+7,D10.6,Benign neoplasm of nasopharynx
+8,D10.7,Benign neoplasm of hypopharynx
+9,D10.9,"Benign neoplasm of pharynx, unspecified"
+10,D11.0,Benign neoplasm of parotid gland
+11,D11.7,Benign neoplasm of other major salivary glands
+12,D11.9,"Benign neoplasm of major salivary gland, unspecified"
+13,D12.0,Benign neoplasm of cecum
+14,D12.1,Benign neoplasm of appendix
+15,D12.2,Benign neoplasm of ascending colon
+16,D12.3,Benign neoplasm of transverse colon
+17,D12.4,Benign neoplasm of descending colon
+18,D12.5,Benign neoplasm of sigmoid colon
+19,D12.6,"Benign neoplasm of colon, unspecified"
+20,D12.7,Benign neoplasm of rectosigmoid junction
+21,D12.8,Benign neoplasm of rectum
+22,D12.9,Benign neoplasm of anus and anal canal
+23,D13.0,Benign neoplasm of esophagus
+24,D13.1,Benign neoplasm of stomach
+25,D13.2,Benign neoplasm of duodenum
+26,D13.30,Benign neoplasm of unspecified part of small intestine
+27,D13.39,Benign neoplasm of other parts of small intestine
+28,D13.4,Benign neoplasm of liver
+29,D13.5,Benign neoplasm of extrahepatic bile ducts
+30,D13.6,Benign neoplasm of pancreas
+31,D13.7,Benign neoplasm of endocrine pancreas
+32,D13.9,Benign neoplasm of illdefined sites within the dgstv sys
+33,D14.0,"Benign neoplasm of mid ear, nasl cav and accessory sinuses"
+34,D14.1,Benign neoplasm of larynx
+35,D14.2,Benign neoplasm of trachea
+36,D14.30,Benign neoplasm of unspecified bronchus and lung
+37,D14.31,Benign neoplasm of right bronchus and lung
+38,D14.32,Benign neoplasm of left bronchus and lung
+39,D14.4,"Benign neoplasm of respiratory system, unspecified"
+40,D15.0,Benign neoplasm of thymus
+41,D15.1,Benign neoplasm of heart
+42,D15.2,Benign neoplasm of mediastinum
+43,D15.7,Benign neoplasm of other specified intrathoracic organs
+44,D15.9,"Benign neoplasm of intrathoracic organ, unspecified"
+45,D16.00,Benign neoplasm of scapula and long bones of unsp upper limb
+46,D16.01,Benign neoplm of scapula and long bones of right upper limb
+47,D16.02,Benign neoplasm of scapula and long bones of left upper limb
+48,D16.10,Benign neoplasm of short bones of unspecified upper limb
+49,D16.11,Benign neoplasm of short bones of right upper limb
+50,D16.12,Benign neoplasm of short bones of left upper limb
+51,D16.20,Benign neoplasm of long bones of unspecified lower limb
+52,D16.21,Benign neoplasm of long bones of right lower limb
+53,D16.22,Benign neoplasm of long bones of left lower limb
+54,D16.30,Benign neoplasm of short bones of unspecified lower limb
+55,D16.31,Benign neoplasm of short bones of right lower limb
+56,D16.32,Benign neoplasm of short bones of left lower limb
+57,D16.4,Benign neoplasm of bones of skull and face
+58,D16.5,Benign neoplasm of lower jaw bone
+59,D16.6,Benign neoplasm of vertebral column
+60,D16.7,"Benign neoplasm of ribs, sternum and clavicle"
+61,D16.8,"Benign neoplasm of pelvic bones, sacrum and coccyx"
+62,D16.9,"Benign neoplasm of bone and articular cartilage, unspecified"
+63,D17.0,"Ben lipomatous neoplm of skin, subcu of head, face and neck"
+64,D17.1,"Benign lipomatous neoplasm of skin, subcu of trunk"
+65,D17.20,"Benign lipomatous neoplasm of skin, subcu of unsp limb"
+66,D17.21,"Benign lipomatous neoplasm of skin, subcu of right arm"
+67,D17.22,"Benign lipomatous neoplasm of skin, subcu of left arm"
+68,D17.23,"Benign lipomatous neoplasm of skin, subcu of right leg"
+69,D17.24,"Benign lipomatous neoplasm of skin, subcu of left leg"
+70,D17.30,"Benign lipomatous neoplasm of skin, subcu of unsp sites"
+71,D17.39,"Benign lipomatous neoplasm of skin, subcu of sites"
+72,D17.4,Benign lipomatous neoplasm of intrathoracic organs
+73,D17.5,Benign lipomatous neoplasm of intraabdominal organs
+74,D17.6,Benign lipomatous neoplasm of spermatic cord
+75,D17.71,Benign lipomatous neoplasm of kidney
+76,D17.72,Benign lipomatous neoplasm of other genitourinary organ
+77,D17.79,Benign lipomatous neoplasm of other sites
+78,D17.9,"Benign lipomatous neoplasm, unspecified"
+79,D18.00,Hemangioma unspecified site
+80,D18.01,Hemangioma of skin and subcutaneous tissue
+81,D18.02,Hemangioma of intracranial structures
+82,D18.03,Hemangioma of intraabdominal structures
+83,D18.09,Hemangioma of other sites
+84,D18.1,"Lymphangioma, any site"
+85,D19.0,Benign neoplasm of mesothelial tissue of pleura
+86,D19.1,Benign neoplasm of mesothelial tissue of peritoneum
+87,D19.7,Benign neoplasm of mesothelial tissue of other sites
+88,D19.9,"Benign neoplasm of mesothelial tissue, unspecified"
+89,D20.0,Benign neoplasm of soft tissue of retroperitoneum
+90,D20.1,Benign neoplasm of soft tissue of peritoneum
+91,D21.0,"Benign neoplasm of connctv/soft tiss of head, face and neck"
+92,D21.10,"Ben neoplm of connctv/soft tiss of unsp upr limb, inc shldr"
+93,D21.11,"Ben neoplm of connctv/soft tiss of r upper limb, inc shldr"
+94,D21.12,"Ben neoplm of connctv/soft tiss of left upr limb, inc shldr"
+95,D21.20,"Ben neoplm of connctv/soft tiss of unsp lower limb, inc hip"
+96,D21.21,"Ben neoplm of connctv/soft tiss of right lower limb, inc hip"
+97,D21.22,"Ben neoplm of connctv/soft tiss of left lower limb, inc hip"
+98,D21.3,Benign neoplasm of connective and oth soft tissue of thorax
+99,D21.4,Benign neoplasm of connective and oth soft tissue of abdomen
+100,D21.5,Benign neoplasm of connective and oth soft tissue of pelvis
+101,D21.6,"Benign neoplasm of connctv/soft tiss of trunk, unsp"
+102,D21.9,"Benign neoplasm of connective and other soft tissue, unsp"
+103,D22.0,Melanocytic nevi of lip
+104,D22.10,"Melanocytic nevi of unspecified eyelid, including canthus"
+105,D22.111,"Melanocytic nevi of right upper eyelid, including canthus"
+106,D22.112,"Melanocytic nevi of right lower eyelid, including canthus"
+107,D22.121,"Melanocytic nevi of left upper eyelid, including canthus"
+108,D22.122,"Melanocytic nevi of left lower eyelid, including canthus"
+109,D22.20,Melanocytic nevi of unsp ear and external auricular canal
+110,D22.21,Melanocytic nevi of right ear and external auricular canal
+111,D22.22,Melanocytic nevi of left ear and external auricular canal
+112,D22.30,Melanocytic nevi of unspecified part of face
+113,D22.39,Melanocytic nevi of other parts of face
+114,D22.4,Melanocytic nevi of scalp and neck
+115,D22.5,Melanocytic nevi of trunk
+116,D22.60,"Melanocytic nevi of unsp upper limb, including shoulder"
+117,D22.61,"Melanocytic nevi of right upper limb, including shoulder"
+118,D22.62,"Melanocytic nevi of left upper limb, including shoulder"
+119,D22.70,"Melanocytic nevi of unspecified lower limb, including hip"
+120,D22.71,"Melanocytic nevi of right lower limb, including hip"
+121,D22.72,"Melanocytic nevi of left lower limb, including hip"
+122,D22.9,"Melanocytic nevi, unspecified"
+123,D23.0,Other benign neoplasm of skin of lip
+124,D23.10,"Oth benign neoplasm skin/ unsp eyelid, including canthus"
+125,D23.111,"Other benign neoplasm skin/ right upper eyelid, inc canthus"
+126,D23.112,"Other benign neoplasm skin/ right lower eyelid, inc canthus"
+127,D23.121,"Other benign neoplasm skin/ left upper eyelid, inc canthus"
+128,D23.122,"Other benign neoplasm skin/ left lower eyelid, inc canthus"
+129,D23.20,Oth benign neoplasm skin/ unsp ear and external auric canal
+130,D23.21,Oth benign neoplasm skin/ right ear and external auric canal
+131,D23.22,Oth benign neoplasm skin/ left ear and external auric canal
+132,D23.30,Other benign neoplasm of skin of unspecified part of face
+133,D23.39,Other benign neoplasm of skin of other parts of face
+134,D23.4,Other benign neoplasm of skin of scalp and neck
+135,D23.5,Other benign neoplasm of skin of trunk
+136,D23.60,"Oth benign neoplasm skin/ unsp upper limb, inc shoulder"
+137,D23.61,"Oth benign neoplasm skin/ right upper limb, inc shoulder"
+138,D23.62,"Oth benign neoplasm skin/ left upper limb, inc shoulder"
+139,D23.70,"Oth benign neoplasm skin/ unsp lower limb, including hip"
+140,D23.71,"Oth benign neoplasm skin/ right lower limb, including hip"
+141,D23.72,"Oth benign neoplasm skin/ left lower limb, including hip"
+142,D23.9,"Other benign neoplasm of skin, unspecified"
+143,D24.1,Benign neoplasm of right breast
+144,D24.2,Benign neoplasm of left breast
+145,D24.9,Benign neoplasm of unspecified breast
+146,D25.0,Submucous leiomyoma of uterus
+147,D25.1,Intramural leiomyoma of uterus
+148,D25.2,Subserosal leiomyoma of uterus
+149,D25.9,"Leiomyoma of uterus, unspecified"
+150,D26.0,Other benign neoplasm of cervix uteri
+151,D26.1,Other benign neoplasm of corpus uteri
+152,D26.7,Other benign neoplasm of other parts of uterus
+153,D26.9,"Other benign neoplasm of uterus, unspecified"
+154,D27.0,Benign neoplasm of right ovary
+155,D27.1,Benign neoplasm of left ovary
+156,D27.9,Benign neoplasm of unspecified ovary
+157,D28.0,Benign neoplasm of vulva
+158,D28.1,Benign neoplasm of vagina
+159,D28.2,Benign neoplasm of uterine tubes and ligaments
+160,D28.7,Benign neoplasm of other specified female genital organs
+161,D28.9,"Benign neoplasm of female genital organ, unspecified"
+162,D29.0,Benign neoplasm of penis
+163,D29.1,Benign neoplasm of prostate
+164,D29.20,Benign neoplasm of unspecified testis
+165,D29.21,Benign neoplasm of right testis
+166,D29.22,Benign neoplasm of left testis
+167,D29.30,Benign neoplasm of unspecified epididymis
+168,D29.31,Benign neoplasm of right epididymis
+169,D29.32,Benign neoplasm of left epididymis
+170,D29.4,Benign neoplasm of scrotum
+171,D29.8,Benign neoplasm of other specified male genital organs
+172,D29.9,"Benign neoplasm of male genital organ, unspecified"
+173,D30.00,Benign neoplasm of unspecified kidney
+174,D30.01,Benign neoplasm of right kidney
+175,D30.02,Benign neoplasm of left kidney
+176,D30.10,Benign neoplasm of unspecified renal pelvis
+177,D30.11,Benign neoplasm of right renal pelvis
+178,D30.12,Benign neoplasm of left renal pelvis
+179,D30.20,Benign neoplasm of unspecified ureter
+180,D30.21,Benign neoplasm of right ureter
+181,D30.22,Benign neoplasm of left ureter
+182,D30.3,Benign neoplasm of bladder
+183,D30.4,Benign neoplasm of urethra
+184,D30.8,Benign neoplasm of other specified urinary organs
+185,D30.9,"Benign neoplasm of urinary organ, unspecified"
+186,D31.00,Benign neoplasm of unspecified conjunctiva
+187,D31.01,Benign neoplasm of right conjunctiva
+188,D31.02,Benign neoplasm of left conjunctiva
+189,D31.10,Benign neoplasm of unspecified cornea
+190,D31.11,Benign neoplasm of right cornea
+191,D31.12,Benign neoplasm of left cornea
+192,D31.20,Benign neoplasm of unspecified retina
+193,D31.21,Benign neoplasm of right retina
+194,D31.22,Benign neoplasm of left retina
+195,D31.30,Benign neoplasm of unspecified choroid
+196,D31.31,Benign neoplasm of right choroid
+197,D31.32,Benign neoplasm of left choroid
+198,D31.40,Benign neoplasm of unspecified ciliary body
+199,D31.41,Benign neoplasm of right ciliary body
+200,D31.42,Benign neoplasm of left ciliary body
+201,D31.50,Benign neoplasm of unspecified lacrimal gland and duct
+202,D31.51,Benign neoplasm of right lacrimal gland and duct
+203,D31.52,Benign neoplasm of left lacrimal gland and duct
+204,D31.60,Benign neoplasm of unspecified site of unspecified orbit
+205,D31.61,Benign neoplasm of unspecified site of right orbit
+206,D31.62,Benign neoplasm of unspecified site of left orbit
+207,D31.90,Benign neoplasm of unspecified part of unspecified eye
+208,D31.91,Benign neoplasm of unspecified part of right eye
+209,D31.92,Benign neoplasm of unspecified part of left eye
+210,D32.0,Benign neoplasm of cerebral meninges
+211,D32.1,Benign neoplasm of spinal meninges
+212,D32.9,"Benign neoplasm of meninges, unspecified"
+213,D33.0,"Benign neoplasm of brain, supratentorial"
+214,D33.1,"Benign neoplasm of brain, infratentorial"
+215,D33.2,"Benign neoplasm of brain, unspecified"
+216,D33.3,Benign neoplasm of cranial nerves
+217,D33.4,Benign neoplasm of spinal cord
+218,D33.7,Benign neoplasm of oth parts of central nervous system
+219,D33.9,"Benign neoplasm of central nervous system, unspecified"
+220,Benign neoplasm of thyroid gland (D34),D34  Benign neoplasm of thyroid gland
+221,D34,Benign neoplasm of thyroid gland
+222,D35.00,Benign neoplasm of unspecified adrenal gland
+223,D35.01,Benign neoplasm of right adrenal gland
+224,D35.02,Benign neoplasm of left adrenal gland
+225,D35.1,Benign neoplasm of parathyroid gland
+226,D35.2,Benign neoplasm of pituitary gland
+227,D35.3,Benign neoplasm of craniopharyngeal duct
+228,D35.4,Benign neoplasm of pineal gland
+229,D35.5,Benign neoplasm of carotid body
+230,D35.6,Benign neoplasm of aortic body and other paraganglia
+231,D35.7,Benign neoplasm of other specified endocrine glands
+232,D35.9,"Benign neoplasm of endocrine gland, unspecified"
+233,D36.0,Benign neoplasm of lymph nodes
+234,D36.10,"Benign neoplasm of prph nerves and autonm nervous sys, unsp"
+235,D36.11,Ben neoplm of prph nerves and autonm nrv sys of face/hed/nk
+236,D36.12,"Ben neoplm of prph nrv & autonm nrv sys, upr lmb, inc shldr"
+237,D36.13,"Ben neoplm of prph nrv & autonm nrv sys of low lmb, inc hip"
+238,D36.14,Benign neoplm of prph nerves and autonm nrv sys of thorax
+239,D36.15,Benign neoplm of prph nerves and autonm nervous sys of abd
+240,D36.16,Benign neoplm of prph nerves and autonm nrv sys of pelvis
+241,D36.17,"Ben neoplm of prph nerves and autonm nrv sys of trunk, unsp"
+242,D36.7,Benign neoplasm of other specified sites
+243,D36.9,"Benign neoplasm, unspecified site"

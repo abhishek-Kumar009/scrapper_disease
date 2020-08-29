@@ -1,0 +1,27 @@
+,category,condition
+0,C60.0,Malignant neoplasm of prepuce
+1,C60.1,Malignant neoplasm of glans penis
+2,C60.2,Malignant neoplasm of body of penis
+3,C60.8,Malignant neoplasm of overlapping sites of penis
+4,C60.9,"Malignant neoplasm of penis, unspecified"
+5,Malignant neoplasm of prostate (C61),C61  Malignant neoplasm of prostate
+6,C61,Malignant neoplasm of prostate
+7,C62.00,Malignant neoplasm of unspecified undescended testis
+8,C62.01,Malignant neoplasm of undescended right testis
+9,C62.02,Malignant neoplasm of undescended left testis
+10,C62.10,Malignant neoplasm of unspecified descended testis
+11,C62.11,Malignant neoplasm of descended right testis
+12,C62.12,Malignant neoplasm of descended left testis
+13,C62.90,"Malig neoplasm of unsp testis, unsp descended or undescended"
+14,C62.91,"Malig neoplm of right testis, unsp descended or undescended"
+15,C62.92,"Malig neoplasm of left testis, unsp descended or undescended"
+16,C63.00,Malignant neoplasm of unspecified epididymis
+17,C63.01,Malignant neoplasm of right epididymis
+18,C63.02,Malignant neoplasm of left epididymis
+19,C63.10,Malignant neoplasm of unspecified spermatic cord
+20,C63.11,Malignant neoplasm of right spermatic cord
+21,C63.12,Malignant neoplasm of left spermatic cord
+22,C63.2,Malignant neoplasm of scrotum
+23,C63.7,Malignant neoplasm of other specified male genital organs
+24,C63.8,Malignant neoplasm of ovrlp sites of male genital organs
+25,C63.9,"Malignant neoplasm of male genital organ, unspecified"
