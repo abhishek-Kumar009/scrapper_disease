@@ -1,0 +1,29 @@
+,category,condition
+0,D60.0,Chronic acquired pure red cell aplasia
+1,D60.1,Transient acquired pure red cell aplasia
+2,D60.8,Other acquired pure red cell aplasias
+3,D60.9,"Acquired pure red cell aplasia, unspecified"
+4,D61.01,Constitutional (pure) red blood cell aplasia
+5,D61.09,Other constitutional aplastic anemia
+6,D61.1,Druginduced aplastic anemia
+7,D61.2,Aplastic anemia due to other external agents
+8,D61.3,Idiopathic aplastic anemia
+9,D61.810,Antineoplastic chemotherapy induced pancytopenia
+10,D61.811,Other druginduced pancytopenia
+11,D61.818,Other pancytopenia
+12,D61.82,Myelophthisis
+13,D61.89,Oth aplastic anemias and other bone marrow failure syndromes
+14,D61.9,"Aplastic anemia, unspecified"
+15,Acute posthemorrhagic anemia (D62),D62  Acute posthemorrhagic anemia
+16,D62,Acute posthemorrhagic anemia
+17,D63.0,Anemia in neoplastic disease
+18,D63.1,Anemia in chronic kidney disease
+19,D63.8,Anemia in other chronic diseases classified elsewhere
+20,D64.0,Hereditary sideroblastic anemia
+21,D64.1,Secondary sideroblastic anemia due to disease
+22,D64.2,Secondary sideroblastic anemia due to drugs and toxins
+23,D64.3,Other sideroblastic anemias
+24,D64.4,Congenital dyserythropoietic anemia
+25,D64.81,Anemia due to antineoplastic chemotherapy
+26,D64.89,Other specified anemias
+27,D64.9,"Anemia, unspecified"

@@ -1,0 +1,13 @@
+,category,condition
+0,D78.01,Intraop hemor/hemtom of the spleen comp a proc on the spleen
+1,D78.02,Intraop hemor/hemtom of the spleen comp oth procedure
+2,D78.11,Accidental pnctr & lac of the spleen dur proc on the spleen
+3,D78.12,Accidental pnctr & lac of the spleen during oth procedure
+4,D78.21,Postprocedural hemorrhage of the spleen fol proc on spleen
+5,D78.22,Postproc hemorrhage of the spleen following other procedure
+6,D78.31,Postprocedural hematoma of the spleen fol proc on spleen
+7,D78.32,Postproc hematoma of the spleen following other procedure
+8,D78.33,Postprocedural seroma of the spleen fol proc on spleen
+9,D78.34,Postproc seroma of the spleen following other procedure
+10,D78.81,Other intraoperative complications of the spleen
+11,D78.89,Other postprocedural complications of the spleen

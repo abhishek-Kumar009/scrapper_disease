@@ -1,0 +1,49 @@
+,category,condition
+0,D70.0,Congenital agranulocytosis
+1,D70.1,Agranulocytosis secondary to cancer chemotherapy
+2,D70.2,Other druginduced agranulocytosis
+3,D70.3,Neutropenia due to infection
+4,D70.4,Cyclic neutropenia
+5,D70.8,Other neutropenia
+6,D70.9,"Neutropenia, unspecified"
+7,Functional disorders of polymorphonuclear neutrophils (D71),D71  Functional disorders of polymorphonuclear neutrophils
+8,D71,Functional disorders of polymorphonuclear neutrophils
+9,D72.0,Genetic anomalies of leukocytes
+10,D72.1,Eosinophilia
+11,D72.810,Lymphocytopenia
+12,D72.818,Other decreased white blood cell count
+13,D72.819,"Decreased white blood cell count, unspecified"
+14,D72.820,Lymphocytosis (symptomatic)
+15,D72.821,Monocytosis (symptomatic)
+16,D72.822,Plasmacytosis
+17,D72.823,Leukemoid reaction
+18,D72.824,Basophilia
+19,D72.825,Bandemia
+20,D72.828,Other elevated white blood cell count
+21,D72.829,"Elevated white blood cell count, unspecified"
+22,D72.89,Other specified disorders of white blood cells
+23,D72.9,"Disorder of white blood cells, unspecified"
+24,D73.0,Hyposplenism
+25,D73.1,Hypersplenism
+26,D73.2,Chronic congestive splenomegaly
+27,D73.3,Abscess of spleen
+28,D73.4,Cyst of spleen
+29,D73.5,Infarction of spleen
+30,D73.81,Neutropenic splenomegaly
+31,D73.89,Other diseases of spleen
+32,D73.9,"Disease of spleen, unspecified"
+33,D74.0,Congenital methemoglobinemia
+34,D74.8,Other methemoglobinemias
+35,D74.9,"Methemoglobinemia, unspecified"
+36,D75.0,Familial erythrocytosis
+37,D75.1,Secondary polycythemia
+38,D75.81,Myelofibrosis
+39,D75.82,Heparin induced thrombocytopenia (HIT)
+40,D75.89,Other specified diseases of blood and bloodforming organs
+41,D75.9,"Disease of blood and bloodforming organs, unspecified"
+42,D75.A,Glucose6phosphate dehydrgnse (G6PD) defic without anemia  NEW CODE
+43,D76.1,Hemophagocytic lymphohistiocytosis
+44,D76.2,"Hemophagocytic syndrome, infectionassociated"
+45,D76.3,Other histiocytosis syndromes
+46,Oth disord of bld/bld-frm organs in diseases classd elswhr (D77),D77  Oth disord of bld/bldfrm organs in diseases classd elswhr
+47,D77,Oth disord of bld/bldfrm organs in diseases classd elswhr

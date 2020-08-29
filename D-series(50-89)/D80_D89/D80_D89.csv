@@ -1,0 +1,72 @@
+,category,condition
+0,D80.0,Hereditary hypogammaglobulinemia
+1,D80.1,Nonfamilial hypogammaglobulinemia
+2,D80.2,Selective deficiency of immunoglobulin A [IgA]
+3,D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses
+4,D80.4,Selective deficiency of immunoglobulin M [IgM]
+5,D80.5,Immunodeficiency with increased immunoglobulin M [IgM]
+6,D80.6,Antibody defic w nearnorm immunoglob or w hyperimmunoglob
+7,D80.7,Transient hypogammaglobulinemia of infancy
+8,D80.8,Other immunodeficiencies with predominantly antibody defects
+9,D80.9,"Immunodeficiency with predominantly antibody defects, unsp"
+10,D81.0,Severe combined immunodeficiency with reticular dysgenesis
+11,D81.1,Severe combined immunodeficiency w low T and Bcell numbers
+12,D81.2,Severe combined immunodef w low or normal Bcell numbers
+13,D81.30,"Adenosine deaminase deficiency, unspecified  NEW CODE"
+14,D81.31,Severe combined immunodef due to adenosine deaminase defic  NEW CODE
+15,D81.32,Adenosine deaminase 2 deficiency  NEW CODE
+16,D81.39,Other adenosine deaminase deficiency  NEW CODE
+17,D81.4,Nezelof's syndrome
+18,D81.5,Purine nucleoside phosphorylase [PNP] deficiency
+19,D81.6,Major histocompatibility complex class I deficiency
+20,D81.7,Major histocompatibility complex class II deficiency
+21,D81.810,Biotinidase deficiency
+22,D81.818,Other biotindependent carboxylase deficiency
+23,D81.819,"Biotindependent carboxylase deficiency, unspecified"
+24,D81.89,Other combined immunodeficiencies
+25,D81.9,"Combined immunodeficiency, unspecified"
+26,D82.0,WiskottAldrich syndrome
+27,D82.1,Di George's syndrome
+28,D82.2,Immunodeficiency with shortlimbed stature
+29,D82.3,Immunodef fol heredit defctv response to EpsteinBarr virus
+30,D82.4,Hyperimmunoglobulin E [IgE] syndrome
+31,D82.8,Immunodeficiency associated with oth major defects
+32,D82.9,"Immunodeficiency associated with major defect, unspecified"
+33,D83.0,Com variab immunodef w predom abnlt of Bcell nums & functn
+34,D83.1,Com variab immunodef w predom immunoreg Tcell disorders
+35,D83.2,Common variable immunodef w autoantibodies to B or Tcells
+36,D83.8,Other common variable immunodeficiencies
+37,D83.9,"Common variable immunodeficiency, unspecified"
+38,D84.0,Lymphocyte function antigen1 [LFA1] defect
+39,D84.1,Defects in the complement system
+40,D84.8,Other specified immunodeficiencies
+41,D84.9,"Immunodeficiency, unspecified"
+42,D86.0,Sarcoidosis of lung
+43,D86.1,Sarcoidosis of lymph nodes
+44,D86.2,Sarcoidosis of lung with sarcoidosis of lymph nodes
+45,D86.3,Sarcoidosis of skin
+46,D86.81,Sarcoid meningitis
+47,D86.82,Multiple cranial nerve palsies in sarcoidosis
+48,D86.83,Sarcoid iridocyclitis
+49,D86.84,Sarcoid pyelonephritis
+50,D86.85,Sarcoid myocarditis
+51,D86.86,Sarcoid arthropathy
+52,D86.87,Sarcoid myositis
+53,D86.89,Sarcoidosis of other sites
+54,D86.9,"Sarcoidosis, unspecified"
+55,D89.0,Polyclonal hypergammaglobulinemia
+56,D89.1,Cryoglobulinemia
+57,D89.2,"Hypergammaglobulinemia, unspecified"
+58,D89.3,Immune reconstitution syndrome
+59,D89.40,"Mast cell activation, unspecified"
+60,D89.41,Monoclonal mast cell activation syndrome
+61,D89.42,Idiopathic mast cell activation syndrome
+62,D89.43,Secondary mast cell activation
+63,D89.49,Other mast cell activation disorder
+64,D89.810,Acute graftversushost disease
+65,D89.811,Chronic graftversushost disease
+66,D89.812,Acute on chronic graftversushost disease
+67,D89.813,"Graftversushost disease, unspecified"
+68,D89.82,Autoimmune lymphoproliferative syndrome [ALPS]
+69,D89.89,"Oth disrd involving the immune mechanism, NEC"
+70,D89.9,"Disorder involving the immune mechanism, unspecified"

@@ -1,0 +1,20 @@
+,category,condition
+0,D50.0,Iron deficiency anemia secondary to blood loss (chronic)
+1,D50.1,Sideropenic dysphagia
+2,D50.8,Other iron deficiency anemias
+3,D50.9,"Iron deficiency anemia, unspecified"
+4,D51.0,Vitamin B12 defic anemia due to intrinsic factor deficiency
+5,D51.1,Vit B12 defic anemia d/t slctv vit B12 malabsorp w protein
+6,D51.2,Transcobalamin II deficiency
+7,D51.3,Other dietary vitamin B12 deficiency anemia
+8,D51.8,Other vitamin B12 deficiency anemias
+9,D51.9,"Vitamin B12 deficiency anemia, unspecified"
+10,D52.0,Dietary folate deficiency anemia
+11,D52.1,Druginduced folate deficiency anemia
+12,D52.8,Other folate deficiency anemias
+13,D52.9,"Folate deficiency anemia, unspecified"
+14,D53.0,Protein deficiency anemia
+15,D53.1,"Other megaloblastic anemias, not elsewhere classified"
+16,D53.2,Scorbutic anemia
+17,D53.8,Other specified nutritional anemias
+18,D53.9,"Nutritional anemia, unspecified"

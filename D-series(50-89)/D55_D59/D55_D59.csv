@@ -1,0 +1,46 @@
+,category,condition
+0,D55.0,Anemia due to glucose6phosphate dehydrogenase deficiency
+1,D55.1,Anemia due to other disorders of glutathione metabolism
+2,D55.2,Anemia due to disorders of glycolytic enzymes
+3,D55.3,Anemia due to disorders of nucleotide metabolism
+4,D55.8,Other anemias due to enzyme disorders
+5,D55.9,"Anemia due to enzyme disorder, unspecified"
+6,D56.0,Alpha thalassemia
+7,D56.1,Beta thalassemia
+8,D56.2,Deltabeta thalassemia
+9,D56.3,Thalassemia minor
+10,D56.4,Hereditary persistence of fetal hemoglobin [HPFH]
+11,D56.5,Hemoglobin Ebeta thalassemia
+12,D56.8,Other thalassemias
+13,D56.9,"Thalassemia, unspecified"
+14,D57.00,"HbSS disease with crisis, unspecified"
+15,D57.01,HbSS disease with acute chest syndrome
+16,D57.02,HbSS disease with splenic sequestration
+17,D57.1,Sicklecell disease without crisis
+18,D57.20,Sicklecell/HbC disease without crisis
+19,D57.211,Sicklecell/HbC disease with acute chest syndrome
+20,D57.212,Sicklecell/HbC disease with splenic sequestration
+21,D57.219,"Sicklecell/HbC disease with crisis, unspecified"
+22,D57.3,Sicklecell trait
+23,D57.40,Sicklecell thalassemia without crisis
+24,D57.411,Sicklecell thalassemia with acute chest syndrome
+25,D57.412,Sicklecell thalassemia with splenic sequestration
+26,D57.419,"Sicklecell thalassemia with crisis, unspecified"
+27,D57.80,Other sicklecell disorders without crisis
+28,D57.811,Other sicklecell disorders with acute chest syndrome
+29,D57.812,Other sicklecell disorders with splenic sequestration
+30,D57.819,"Other sicklecell disorders with crisis, unspecified"
+31,D58.0,Hereditary spherocytosis
+32,D58.1,Hereditary elliptocytosis
+33,D58.2,Other hemoglobinopathies
+34,D58.8,Other specified hereditary hemolytic anemias
+35,D58.9,"Hereditary hemolytic anemia, unspecified"
+36,D59.0,Druginduced autoimmune hemolytic anemia
+37,D59.1,Other autoimmune hemolytic anemias
+38,D59.2,Druginduced nonautoimmune hemolytic anemia
+39,D59.3,Hemolyticuremic syndrome
+40,D59.4,Other nonautoimmune hemolytic anemias
+41,D59.5,Paroxysmal nocturnal hemoglobinuria [MarchiafavaMicheli]
+42,D59.6,Hemoglobinuria due to hemolysis from other external causes
+43,D59.8,Other acquired hemolytic anemias
+44,D59.9,"Acquired hemolytic anemia, unspecified"

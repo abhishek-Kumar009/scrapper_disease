@@ -1,0 +1,34 @@
+,category,condition
+4,D65,Disseminated intravascular coagulation
+5,Hereditary factor VIII deficiency (D66),D66  Hereditary factor VIII deficiency
+6,D66,Hereditary factor VIII deficiency
+7,Hereditary factor IX deficiency (D67),D67  Hereditary factor IX deficiency
+8,D67,Hereditary factor IX deficiency
+9,D68.0,Von Willebrand's disease
+10,D68.1,Hereditary factor XI deficiency
+11,D68.2,Hereditary deficiency of other clotting factors
+12,D68.311,Acquired hemophilia
+13,D68.312,Antiphospholipid antibody with hemorrhagic disorder
+14,D68.318,"Oth hemorrhagic disord d/t intrns circ anticoag,antib,inhib"
+15,D68.32,Hemorrhagic disord d/t extrinsic circulating anticoagulants
+16,D68.4,Acquired coagulation factor deficiency
+17,D68.51,Activated protein C resistance
+18,D68.52,Prothrombin gene mutation
+19,D68.59,Other primary thrombophilia
+20,D68.61,Antiphospholipid syndrome
+21,D68.62,Lupus anticoagulant syndrome
+22,D68.69,Other thrombophilia
+23,D68.8,Other specified coagulation defects
+24,D68.9,"Coagulation defect, unspecified"
+25,D69.0,Allergic purpura
+26,D69.1,Qualitative platelet defects
+27,D69.2,Other nonthrombocytopenic purpura
+28,D69.3,Immune thrombocytopenic purpura
+29,D69.41,Evans syndrome
+30,D69.42,Congenital and hereditary thrombocytopenia purpura
+31,D69.49,Other primary thrombocytopenia
+32,D69.51,Posttransfusion purpura
+33,D69.59,Other secondary thrombocytopenia
+34,D69.6,"Thrombocytopenia, unspecified"
+35,D69.8,Other specified hemorrhagic conditions
+36,D69.9,"Hemorrhagic condition, unspecified"
