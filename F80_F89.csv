@@ -1,0 +1,26 @@
+,category,condition
+0,F80.0,Phonological disorder
+1,F80.1,Expressive language disorder
+2,F80.2,Mixed receptiveexpressive language disorder
+3,F80.4,Speech and language development delay due to hearing loss
+4,F80.81,Childhood onset fluency disorder
+5,F80.82,Social pragmatic communication disorder
+6,F80.89,Other developmental disorders of speech and language
+7,F80.9,"Developmental disorder of speech and language, unspecified"
+8,F81.0,Specific reading disorder
+9,F81.2,Mathematics disorder
+10,F81.81,Disorder of written expression
+11,F81.89,Other developmental disorders of scholastic skills
+12,F81.9,"Developmental disorder of scholastic skills, unspecified"
+13,Specific developmental disorder of motor function (F82),F82  Specific developmental disorder of motor function
+14,F82,Specific developmental disorder of motor function
+15,F84.0,Autistic disorder
+16,F84.2,Rett's syndrome
+17,F84.3,Other childhood disintegrative disorder
+18,F84.5,Asperger's syndrome
+19,F84.8,Other pervasive developmental disorders
+20,F84.9,"Pervasive developmental disorder, unspecified"
+21,Other disorders of psychological development (F88),F88  Other disorders of psychological development
+22,F88,Other disorders of psychological development
+23,Unspecified disorder of psychological development (F89),F89  Unspecified disorder of psychological development
+24,F89,Unspecified disorder of psychological development

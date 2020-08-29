@@ -1,0 +1,56 @@
+,category,condition
+0,E50.0,Vitamin A deficiency with conjunctival xerosis
+1,E50.1,Vitamin A deficiency w Bitot's spot and conjunctival xerosis
+2,E50.2,Vitamin A deficiency with corneal xerosis
+3,E50.3,Vitamin A deficiency with corneal ulceration and xerosis
+4,E50.4,Vitamin A deficiency with keratomalacia
+5,E50.5,Vitamin A deficiency with night blindness
+6,E50.6,Vitamin A deficiency with xerophthalmic scars of cornea
+7,E50.7,Other ocular manifestations of vitamin A deficiency
+8,E50.8,Other manifestations of vitamin A deficiency
+9,E50.9,"Vitamin A deficiency, unspecified"
+10,E51.11,Dry beriberi
+11,E51.12,Wet beriberi
+12,E51.2,Wernicke's encephalopathy
+13,E51.8,Other manifestations of thiamine deficiency
+14,E51.9,"Thiamine deficiency, unspecified"
+15,Niacin deficiency [pellagra] (E52),E52  Niacin deficiency [pellagra]
+16,E52,Niacin deficiency [pellagra]
+17,E53.0,Riboflavin deficiency
+18,E53.1,Pyridoxine deficiency
+19,E53.8,Deficiency of other specified B group vitamins
+20,E53.9,"Vitamin B deficiency, unspecified"
+21,Ascorbic acid deficiency (E54),E54  Ascorbic acid deficiency
+22,E54,Ascorbic acid deficiency
+23,E55.0,"Rickets, active"
+24,E55.9,"Vitamin D deficiency, unspecified"
+25,E56.0,Deficiency of vitamin E
+26,E56.1,Deficiency of vitamin K
+27,E56.8,Deficiency of other vitamins
+28,E56.9,"Vitamin deficiency, unspecified"
+29,Dietary calcium deficiency (E58),E58  Dietary calcium deficiency
+30,E58,Dietary calcium deficiency
+31,Dietary selenium deficiency (E59),E59  Dietary selenium deficiency
+32,E59,Dietary selenium deficiency
+33,Dietary zinc deficiency (E60),E60  Dietary zinc deficiency
+34,E60,Dietary zinc deficiency
+35,E61.0,Copper deficiency
+36,E61.1,Iron deficiency
+37,E61.2,Magnesium deficiency
+38,E61.3,Manganese deficiency
+39,E61.4,Chromium deficiency
+40,E61.5,Molybdenum deficiency
+41,E61.6,Vanadium deficiency
+42,E61.7,Deficiency of multiple nutrient elements
+43,E61.8,Deficiency of other specified nutrient elements
+44,E61.9,"Deficiency of nutrient element, unspecified"
+45,E63.0,Essential fatty acid [EFA] deficiency
+46,E63.1,Imbalance of constituents of food intake
+47,E63.8,Other specified nutritional deficiencies
+48,E63.9,"Nutritional deficiency, unspecified"
+49,E64.0,Sequelae of proteincalorie malnutrition
+50,E64.1,Sequelae of vitamin A deficiency
+51,E64.2,Sequelae of vitamin C deficiency
+52,E64.3,Sequelae of rickets
+53,E64.8,Sequelae of other nutritional deficiencies
+54,E64.9,Sequelae of unspecified nutritional deficiency

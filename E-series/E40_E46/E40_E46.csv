@@ -1,0 +1,14 @@
+,category,condition
+4,E40,Kwashiorkor
+5,Nutritional marasmus (E41),E41  Nutritional marasmus
+6,E41,Nutritional marasmus
+7,Marasmic kwashiorkor (E42),E42  Marasmic kwashiorkor
+8,E42,Marasmic kwashiorkor
+9,Unspecified severe protein-calorie malnutrition (E43),E43  Unspecified severe proteincalorie malnutrition
+10,E43,Unspecified severe proteincalorie malnutrition
+11,E44.0,Moderate proteincalorie malnutrition
+12,E44.1,Mild proteincalorie malnutrition
+13,Retarded development following protein-calorie malnutrition (E45),E45  Retarded development following proteincalorie malnutrition
+14,E45,Retarded development following proteincalorie malnutrition
+15,Unspecified protein-calorie malnutrition (E46),E46  Unspecified proteincalorie malnutrition
+16,E46,Unspecified proteincalorie malnutrition

@@ -1,0 +1,50 @@
+,category,condition
+0,E00.0,"Congenital iodinedeficiency syndrome, neurological type"
+1,E00.1,"Congenital iodinedeficiency syndrome, myxedematous type"
+2,E00.2,"Congenital iodinedeficiency syndrome, mixed type"
+3,E00.9,"Congenital iodinedeficiency syndrome, unspecified"
+4,E01.0,Iodinedeficiency related diffuse (endemic) goiter
+5,E01.1,Iodinedeficiency related multinodular (endemic) goiter
+6,E01.2,"Iodinedeficiency related (endemic) goiter, unspecified"
+7,E01.8,Oth iodinedeficiency related thyroid disord and allied cond
+8,Subclinical iodine-deficiency hypothyroidism (E02),E02  Subclinical iodinedeficiency hypothyroidism
+9,E02,Subclinical iodinedeficiency hypothyroidism
+10,E03.0,Congenital hypothyroidism with diffuse goiter
+11,E03.1,Congenital hypothyroidism without goiter
+12,E03.2,Hypothyroidism due to meds and oth exogenous substances
+13,E03.3,Postinfectious hypothyroidism
+14,E03.4,Atrophy of thyroid (acquired)
+15,E03.5,Myxedema coma
+16,E03.8,Other specified hypothyroidism
+17,E03.9,"Hypothyroidism, unspecified"
+18,E04.0,Nontoxic diffuse goiter
+19,E04.1,Nontoxic single thyroid nodule
+20,E04.2,Nontoxic multinodular goiter
+21,E04.8,Other specified nontoxic goiter
+22,E04.9,"Nontoxic goiter, unspecified"
+23,E05.00,Thyrotoxicosis w diffuse goiter w/o thyrotoxic crisis
+24,E05.01,Thyrotoxicosis w diffuse goiter w thyrotoxic crisis or storm
+25,E05.10,Thyrotxcosis w toxic sing thyroid nodule w/o thyrotxc crisis
+26,E05.11,Thyrotxcosis w toxic single thyroid nodule w thyrotxc crisis
+27,E05.20,Thyrotxcosis w toxic multinod goiter w/o thyrotoxic crisis
+28,E05.21,Thyrotxcosis w toxic multinodular goiter w thyrotoxic crisis
+29,E05.30,Thyrotxcosis from ectopic thyroid tissue w/o thyrotxc crisis
+30,E05.31,Thyrotxcosis from ectopic thyroid tissue w thyrotoxic crisis
+31,E05.40,Thyrotoxicosis factitia without thyrotoxic crisis or storm
+32,E05.41,Thyrotoxicosis factitia with thyrotoxic crisis or storm
+33,E05.80,Other thyrotoxicosis without thyrotoxic crisis or storm
+34,E05.81,Other thyrotoxicosis with thyrotoxic crisis or storm
+35,E05.90,"Thyrotoxicosis, unsp without thyrotoxic crisis or storm"
+36,E05.91,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm"
+37,E06.0,Acute thyroiditis
+38,E06.1,Subacute thyroiditis
+39,E06.2,Chronic thyroiditis with transient thyrotoxicosis
+40,E06.3,Autoimmune thyroiditis
+41,E06.4,Druginduced thyroiditis
+42,E06.5,Other chronic thyroiditis
+43,E06.9,"Thyroiditis, unspecified"
+44,E07.0,Hypersecretion of calcitonin
+45,E07.1,Dyshormogenetic goiter
+46,E07.81,Sickeuthyroid syndrome
+47,E07.89,Other specified disorders of thyroid
+48,E07.9,"Disorder of thyroid, unspecified"

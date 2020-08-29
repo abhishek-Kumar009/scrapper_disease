@@ -1,0 +1,45 @@
+,category,condition
+0,F60.0,Paranoid personality disorder
+1,F60.1,Schizoid personality disorder
+2,F60.2,Antisocial personality disorder
+3,F60.3,Borderline personality disorder
+4,F60.4,Histrionic personality disorder
+5,F60.5,Obsessivecompulsive personality disorder
+6,F60.6,Avoidant personality disorder
+7,F60.7,Dependent personality disorder
+8,F60.81,Narcissistic personality disorder
+9,F60.89,Other specific personality disorders
+10,F60.9,"Personality disorder, unspecified"
+11,F63.0,Pathological gambling
+12,F63.1,Pyromania
+13,F63.2,Kleptomania
+14,F63.3,Trichotillomania
+15,F63.81,Intermittent explosive disorder
+16,F63.89,Other impulse disorders
+17,F63.9,"Impulse disorder, unspecified"
+18,F64.0,Transsexualism
+19,F64.1,Dual role transvestism
+20,F64.2,Gender identity disorder of childhood
+21,F64.8,Other gender identity disorders
+22,F64.9,"Gender identity disorder, unspecified"
+23,F65.0,Fetishism
+24,F65.1,Transvestic fetishism
+25,F65.2,Exhibitionism
+26,F65.3,Voyeurism
+27,F65.4,Pedophilia
+28,F65.50,"Sadomasochism, unspecified"
+29,F65.51,Sexual masochism
+30,F65.52,Sexual sadism
+31,F65.81,Frotteurism
+32,F65.89,Other paraphilias
+33,F65.9,"Paraphilia, unspecified"
+34,Other sexual disorders (F66),F66  Other sexual disorders
+35,F66,Other sexual disorders
+36,F68.10,"Factitious disorder imposed on self, unspecified"
+37,F68.11,"Factit disord imposed on self, with predom psych signs/symp"
+38,F68.12,"Factit disord impsd on self, with predom physcl signs/symp"
+39,F68.13,"Factit disord impsd on self,w comb psych & physcl signs/symp"
+40,F68.8,Other specified disorders of adult personality and behavior
+41,F68.A,Factitious disorder imposed on another
+42,Unspecified disorder of adult personality and behavior (F69),F69  Unspecified disorder of adult personality and behavior
+43,F69,Unspecified disorder of adult personality and behavior

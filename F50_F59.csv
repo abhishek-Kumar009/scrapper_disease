@@ -1,0 +1,47 @@
+,category,condition
+0,F50.00,"Anorexia nervosa, unspecified"
+1,F50.01,"Anorexia nervosa, restricting type"
+2,F50.02,"Anorexia nervosa, binge eating/purging type"
+3,F50.2,Bulimia nervosa
+4,F50.81,Binge eating disorder
+5,F50.82,Avoidant/restrictive food intake disorder
+6,F50.89,Other specified eating disorder
+7,F50.9,"Eating disorder, unspecified"
+8,F51.01,Primary insomnia
+9,F51.02,Adjustment insomnia
+10,F51.03,Paradoxical insomnia
+11,F51.04,Psychophysiologic insomnia
+12,F51.05,Insomnia due to other mental disorder
+13,F51.09,Oth insomnia not due to a substance or known physiol cond
+14,F51.11,Primary hypersomnia
+15,F51.12,Insufficient sleep syndrome
+16,F51.13,Hypersomnia due to other mental disorder
+17,F51.19,Oth hypersomnia not due to a substance or known physiol cond
+18,F51.3,Sleepwalking [somnambulism]
+19,F51.4,Sleep terrors [night terrors]
+20,F51.5,Nightmare disorder
+21,F51.8,Oth sleep disord not due to a sub or known physiol cond
+22,F51.9,"Sleep disorder not due to a sub or known physiol cond, unsp"
+23,F52.0,Hypoactive sexual desire disorder
+24,F52.1,Sexual aversion disorder
+25,F52.21,Male erectile disorder
+26,F52.22,Female sexual arousal disorder
+27,F52.31,Female orgasmic disorder
+28,F52.32,Male orgasmic disorder
+29,F52.4,Premature ejaculation
+30,F52.5,Vaginismus not due to a substance or known physiol condition
+31,F52.6,Dyspareunia not due to a substance or known physiol cond
+32,F52.8,Oth sexual dysfnct not due to a sub or known physiol cond
+33,F52.9,Unsp sexual dysfnct not due to a sub or known physiol cond
+34,F53.0,Postpartum depression
+35,F53.1,Puerperal psychosis
+36,Psych & behavrl factors assoc w disord or dis classd elswhr (F54),F54  Psych & behavrl factors assoc w disord or dis classd elswhr
+37,F54,Psych & behavrl factors assoc w disord or dis classd elswhr
+38,F55.0,Abuse of antacids
+39,F55.1,Abuse of herbal or folk remedies
+40,F55.2,Abuse of laxatives
+41,F55.3,Abuse of steroids or hormones
+42,F55.4,Abuse of vitamins
+43,F55.8,Abuse of other nonpsychoactive substances
+44,Unsp behavrl synd assoc w physiol disturb and physcl factors (F59),F59  Unsp behavrl synd assoc w physiol disturb and physcl factors
+45,F59,Unsp behavrl synd assoc w physiol disturb and physcl factors

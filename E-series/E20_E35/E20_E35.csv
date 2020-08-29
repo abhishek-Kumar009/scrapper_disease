@@ -1,0 +1,88 @@
+,category,condition
+0,E20.0,Idiopathic hypoparathyroidism
+1,E20.1,Pseudohypoparathyroidism
+2,E20.8,Other hypoparathyroidism
+3,E20.9,"Hypoparathyroidism, unspecified"
+4,E21.0,Primary hyperparathyroidism
+5,E21.1,"Secondary hyperparathyroidism, not elsewhere classified"
+6,E21.2,Other hyperparathyroidism
+7,E21.3,"Hyperparathyroidism, unspecified"
+8,E21.4,Other specified disorders of parathyroid gland
+9,E21.5,"Disorder of parathyroid gland, unspecified"
+10,E22.0,Acromegaly and pituitary gigantism
+11,E22.1,Hyperprolactinemia
+12,E22.2,Syndrome of inappropriate secretion of antidiuretic hormone
+13,E22.8,Other hyperfunction of pituitary gland
+14,E22.9,"Hyperfunction of pituitary gland, unspecified"
+15,E23.0,Hypopituitarism
+16,E23.1,Druginduced hypopituitarism
+17,E23.2,Diabetes insipidus
+18,E23.3,"Hypothalamic dysfunction, not elsewhere classified"
+19,E23.6,Other disorders of pituitary gland
+20,E23.7,"Disorder of pituitary gland, unspecified"
+21,E24.0,Pituitarydependent Cushing's disease
+22,E24.1,Nelson's syndrome
+23,E24.2,Druginduced Cushing's syndrome
+24,E24.3,Ectopic ACTH syndrome
+25,E24.4,Alcoholinduced pseudoCushing's syndrome
+26,E24.8,Other Cushing's syndrome
+27,E24.9,"Cushing's syndrome, unspecified"
+28,E25.0,Congenital adrenogenital disorders assoc w enzyme deficiency
+29,E25.8,Other adrenogenital disorders
+30,E25.9,"Adrenogenital disorder, unspecified"
+31,E26.01,Conn's syndrome
+32,E26.02,Glucocorticoidremediable aldosteronism
+33,E26.09,Other primary hyperaldosteronism
+34,E26.1,Secondary hyperaldosteronism
+35,E26.81,Bartter's syndrome
+36,E26.89,Other hyperaldosteronism
+37,E26.9,"Hyperaldosteronism, unspecified"
+38,E27.0,Other adrenocortical overactivity
+39,E27.1,Primary adrenocortical insufficiency
+40,E27.2,Addisonian crisis
+41,E27.3,Druginduced adrenocortical insufficiency
+42,E27.40,Unspecified adrenocortical insufficiency
+43,E27.49,Other adrenocortical insufficiency
+44,E27.5,Adrenomedullary hyperfunction
+45,E27.8,Other specified disorders of adrenal gland
+46,E27.9,"Disorder of adrenal gland, unspecified"
+47,E28.0,Estrogen excess
+48,E28.1,Androgen excess
+49,E28.2,Polycystic ovarian syndrome
+50,E28.310,Symptomatic premature menopause
+51,E28.319,Asymptomatic premature menopause
+52,E28.39,Other primary ovarian failure
+53,E28.8,Other ovarian dysfunction
+54,E28.9,"Ovarian dysfunction, unspecified"
+55,E29.0,Testicular hyperfunction
+56,E29.1,Testicular hypofunction
+57,E29.8,Other testicular dysfunction
+58,E29.9,"Testicular dysfunction, unspecified"
+59,E30.0,Delayed puberty
+60,E30.1,Precocious puberty
+61,E30.8,Other disorders of puberty
+62,E30.9,"Disorder of puberty, unspecified"
+63,E31.0,Autoimmune polyglandular failure
+64,E31.1,Polyglandular hyperfunction
+65,E31.20,"Multiple endocrine neoplasia [MEN] syndrome, unspecified"
+66,E31.21,Multiple endocrine neoplasia [MEN] type I
+67,E31.22,Multiple endocrine neoplasia [MEN] type IIA
+68,E31.23,Multiple endocrine neoplasia [MEN] type IIB
+69,E31.8,Other polyglandular dysfunction
+70,E31.9,"Polyglandular dysfunction, unspecified"
+71,E32.0,Persistent hyperplasia of thymus
+72,E32.1,Abscess of thymus
+73,E32.8,Other diseases of thymus
+74,E32.9,"Disease of thymus, unspecified"
+75,E34.0,Carcinoid syndrome
+76,E34.1,Other hypersecretion of intestinal hormones
+77,E34.2,"Ectopic hormone secretion, not elsewhere classified"
+78,E34.3,Short stature due to endocrine disorder
+79,E34.4,Constitutional tall stature
+80,E34.50,"Androgen insensitivity syndrome, unspecified"
+81,E34.51,Complete androgen insensitivity syndrome
+82,E34.52,Partial androgen insensitivity syndrome
+83,E34.8,Other specified endocrine disorders
+84,E34.9,"Endocrine disorder, unspecified"
+85,Disorders of endocrine glands in diseases classd elswhr (E35),E35  Disorders of endocrine glands in diseases classd elswhr
+86,E35,Disorders of endocrine glands in diseases classd elswhr

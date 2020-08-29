@@ -1,0 +1,16 @@
+,category,condition
+4,E65,Localized adiposity
+5,E66.01,Morbid (severe) obesity due to excess calories
+6,E66.09,Other obesity due to excess calories
+7,E66.1,Druginduced obesity
+8,E66.2,Morbid (severe) obesity with alveolar hypoventilation
+9,E66.3,Overweight
+10,E66.8,Other obesity
+11,E66.9,"Obesity, unspecified"
+12,E67.0,Hypervitaminosis A
+13,E67.1,Hypercarotenemia
+14,E67.2,MegavitaminB6 syndrome
+15,E67.3,Hypervitaminosis D
+16,E67.8,Other specified hyperalimentation
+17,Sequelae of hyperalimentation (E68),E68  Sequelae of hyperalimentation
+18,E68,Sequelae of hyperalimentation

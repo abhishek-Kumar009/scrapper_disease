@@ -1,0 +1,71 @@
+,category,condition
+0,F40.00,"Agoraphobia, unspecified"
+1,F40.01,Agoraphobia with panic disorder
+2,F40.02,Agoraphobia without panic disorder
+3,F40.10,"Social phobia, unspecified"
+4,F40.11,"Social phobia, generalized"
+5,F40.210,Arachnophobia
+6,F40.218,Other animal type phobia
+7,F40.220,Fear of thunderstorms
+8,F40.228,Other natural environment type phobia
+9,F40.230,Fear of blood
+10,F40.231,Fear of injections and transfusions
+11,F40.232,Fear of other medical care
+12,F40.233,Fear of injury
+13,F40.240,Claustrophobia
+14,F40.241,Acrophobia
+15,F40.242,Fear of bridges
+16,F40.243,Fear of flying
+17,F40.248,Other situational type phobia
+18,F40.290,Androphobia
+19,F40.291,Gynephobia
+20,F40.298,Other specified phobia
+21,F40.8,Other phobic anxiety disorders
+22,F40.9,"Phobic anxiety disorder, unspecified"
+23,F41.0,Panic disorder [episodic paroxysmal anxiety]
+24,F41.1,Generalized anxiety disorder
+25,F41.3,Other mixed anxiety disorders
+26,F41.8,Other specified anxiety disorders
+27,F41.9,"Anxiety disorder, unspecified"
+28,F42.2,Mixed obsessional thoughts and acts
+29,F42.3,Hoarding disorder
+30,F42.4,Excoriation (skinpicking) disorder
+31,F42.8,Other obsessivecompulsive disorder
+32,F42.9,"Obsessivecompulsive disorder, unspecified"
+33,F43.0,Acute stress reaction
+34,F43.10,"Posttraumatic stress disorder, unspecified"
+35,F43.11,"Posttraumatic stress disorder, acute"
+36,F43.12,"Posttraumatic stress disorder, chronic"
+37,F43.20,"Adjustment disorder, unspecified"
+38,F43.21,Adjustment disorder with depressed mood
+39,F43.22,Adjustment disorder with anxiety
+40,F43.23,Adjustment disorder with mixed anxiety and depressed mood
+41,F43.24,Adjustment disorder with disturbance of conduct
+42,F43.25,Adjustment disorder w mixed disturb of emotions and conduct
+43,F43.29,Adjustment disorder with other symptoms
+44,F43.8,Other reactions to severe stress
+45,F43.9,"Reaction to severe stress, unspecified"
+46,F44.0,Dissociative amnesia
+47,F44.1,Dissociative fugue
+48,F44.2,Dissociative stupor
+49,F44.4,Conversion disorder with motor symptom or deficit
+50,F44.5,Conversion disorder with seizures or convulsions
+51,F44.6,Conversion disorder with sensory symptom or deficit
+52,F44.7,Conversion disorder with mixed symptom presentation
+53,F44.81,Dissociative identity disorder
+54,F44.89,Other dissociative and conversion disorders
+55,F44.9,"Dissociative and conversion disorder, unspecified"
+56,F45.0,Somatization disorder
+57,F45.1,Undifferentiated somatoform disorder
+58,F45.20,"Hypochondriacal disorder, unspecified"
+59,F45.21,Hypochondriasis
+60,F45.22,Body dysmorphic disorder
+61,F45.29,Other hypochondriacal disorders
+62,F45.41,Pain disorder exclusively related to psychological factors
+63,F45.42,Pain disorder with related psychological factors
+64,F45.8,Other somatoform disorders
+65,F45.9,"Somatoform disorder, unspecified"
+66,F48.1,Depersonalizationderealization syndrome
+67,F48.2,Pseudobulbar affect
+68,F48.8,Other specified nonpsychotic mental disorders
+69,F48.9,"Nonpsychotic mental disorder, unspecified"

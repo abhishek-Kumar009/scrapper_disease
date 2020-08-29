@@ -1,0 +1,34 @@
+,category,condition
+0,F90.0,"Attndefct hyperactivity disorder, predom inattentive type"
+1,F90.1,"Attndefct hyperactivity disorder, predom hyperactive type"
+2,F90.2,"Attentiondeficit hyperactivity disorder, combined type"
+3,F90.8,"Attentiondeficit hyperactivity disorder, other type"
+4,F90.9,"Attentiondeficit hyperactivity disorder, unspecified type"
+5,F91.0,Conduct disorder confined to family context
+6,F91.1,"Conduct disorder, childhoodonset type"
+7,F91.2,"Conduct disorder, adolescentonset type"
+8,F91.3,Oppositional defiant disorder
+9,F91.8,Other conduct disorders
+10,F91.9,"Conduct disorder, unspecified"
+11,F93.0,Separation anxiety disorder of childhood
+12,F93.8,Other childhood emotional disorders
+13,F93.9,"Childhood emotional disorder, unspecified"
+14,F94.0,Selective mutism
+15,F94.1,Reactive attachment disorder of childhood
+16,F94.2,Disinhibited attachment disorder of childhood
+17,F94.8,Other childhood disorders of social functioning
+18,F94.9,"Childhood disorder of social functioning, unspecified"
+19,F95.0,Transient tic disorder
+20,F95.1,Chronic motor or vocal tic disorder
+21,F95.2,Tourette's disorder
+22,F95.8,Other tic disorders
+23,F95.9,"Tic disorder, unspecified"
+24,F98.0,Enuresis not due to a substance or known physiol condition
+25,F98.1,Encopresis not due to a substance or known physiol condition
+26,F98.21,Rumination disorder of infancy
+27,F98.29,Other feeding disorders of infancy and early childhood
+28,F98.3,Pica of infancy and childhood
+29,F98.4,Stereotyped movement disorders
+30,F98.5,Adult onset fluency disorder
+31,F98.8,Oth behav/emotn disord w onset usly occur in chldhd and adol
+32,F98.9,Unsp behav/emotn disord w onst usly occur in chldhd and adol

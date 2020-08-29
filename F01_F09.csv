@@ -1,0 +1,27 @@
+,category,condition
+0,F01.50,Vascular dementia without behavioral disturbance
+1,F01.51,Vascular dementia with behavioral disturbance
+2,F02.80,Dementia in oth diseases classd elswhr w/o behavrl disturb
+3,F02.81,Dementia in oth diseases classd elswhr w behavioral disturb
+4,F03.90,Unspecified dementia without behavioral disturbance
+5,F03.91,Unspecified dementia with behavioral disturbance
+6,Amnestic disorder due to known physiological condition (F04),F04  Amnestic disorder due to known physiological condition
+7,F04,Amnestic disorder due to known physiological condition
+8,Delirium due to known physiological condition (F05),F05  Delirium due to known physiological condition
+9,F05,Delirium due to known physiological condition
+10,F06.0,Psychotic disorder w hallucin due to known physiol condition
+11,F06.1,Catatonic disorder due to known physiological condition
+12,F06.2,Psychotic disorder w delusions due to known physiol cond
+13,F06.30,"Mood disorder due to known physiological condition, unsp"
+14,F06.31,Mood disorder due to known physiol cond w depressv features
+15,F06.32,Mood disord d/t physiol cond w major depressivelike epsd
+16,F06.33,Mood disorder due to known physiol cond w manic features
+17,F06.34,Mood disorder due to known physiol cond w mixed features
+18,F06.4,Anxiety disorder due to known physiological condition
+19,F06.8,Oth mental disorders due to known physiological condition
+20,F07.0,Personality change due to known physiological condition
+21,F07.81,Postconcussional syndrome
+22,F07.89,Oth personality & behavrl disord due to known physiol cond
+23,F07.9,Unsp personality & behavrl disord due to known physiol cond
+24,Unsp mental disorder due to known physiological condition (F09),F09  Unsp mental disorder due to known physiological condition
+25,F09,Unsp mental disorder due to known physiological condition

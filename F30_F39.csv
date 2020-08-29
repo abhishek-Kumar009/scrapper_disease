@@ -1,0 +1,63 @@
+,category,condition
+0,F30.10,"Manic episode without psychotic symptoms, unspecified"
+1,F30.11,"Manic episode without psychotic symptoms, mild"
+2,F30.12,"Manic episode without psychotic symptoms, moderate"
+3,F30.13,"Manic episode, severe, without psychotic symptoms"
+4,F30.2,"Manic episode, severe with psychotic symptoms"
+5,F30.3,Manic episode in partial remission
+6,F30.4,Manic episode in full remission
+7,F30.8,Other manic episodes
+8,F30.9,"Manic episode, unspecified"
+9,F31.0,"Bipolar disorder, current episode hypomanic"
+10,F31.10,"Bipolar disord, crnt episode manic w/o psych features, unsp"
+11,F31.11,"Bipolar disord, crnt episode manic w/o psych features, mild"
+12,F31.12,"Bipolar disord, crnt episode manic w/o psych features, mod"
+13,F31.13,"Bipolar disord, crnt epsd manic w/o psych features, severe"
+14,F31.2,"Bipolar disord, crnt episode manic severe w psych features"
+15,F31.30,"Bipolar disord, crnt epsd depress, mild or mod severt, unsp"
+16,F31.31,"Bipolar disorder, current episode depressed, mild"
+17,F31.32,"Bipolar disorder, current episode depressed, moderate"
+18,F31.4,"Bipolar disord, crnt epsd depress, sev, w/o psych features"
+19,F31.5,"Bipolar disord, crnt epsd depress, severe, w psych features"
+20,F31.60,"Bipolar disorder, current episode mixed, unspecified"
+21,F31.61,"Bipolar disorder, current episode mixed, mild"
+22,F31.62,"Bipolar disorder, current episode mixed, moderate"
+23,F31.63,"Bipolar disord, crnt epsd mixed, severe, w/o psych features"
+24,F31.64,"Bipolar disord, crnt episode mixed, severe, w psych features"
+25,F31.70,"Bipolar disord, currently in remis, most recent episode unsp"
+26,F31.71,"Bipolar disord, in partial remis, most recent epsd hypomanic"
+27,F31.72,"Bipolar disord, in full remis, most recent episode hypomanic"
+28,F31.73,"Bipolar disord, in partial remis, most recent episode manic"
+29,F31.74,"Bipolar disorder, in full remis, most recent episode manic"
+30,F31.75,"Bipolar disord, in partial remis, most recent epsd depress"
+31,F31.76,"Bipolar disorder, in full remis, most recent episode depress"
+32,F31.77,"Bipolar disord, in partial remis, most recent episode mixed"
+33,F31.78,"Bipolar disorder, in full remis, most recent episode mixed"
+34,F31.81,Bipolar II disorder
+35,F31.89,Other bipolar disorder
+36,F31.9,"Bipolar disorder, unspecified"
+37,F32.0,"Major depressive disorder, single episode, mild"
+38,F32.1,"Major depressive disorder, single episode, moderate"
+39,F32.2,"Major depressv disord, single epsd, sev w/o psych features"
+40,F32.3,"Major depressv disord, single epsd, severe w psych features"
+41,F32.4,"Major depressv disorder, single episode, in partial remis"
+42,F32.5,"Major depressive disorder, single episode, in full remission"
+43,F32.81,Premenstrual dysphoric disorder
+44,F32.89,Other specified depressive episodes
+45,F32.9,"Major depressive disorder, single episode, unspecified"
+46,F33.0,"Major depressive disorder, recurrent, mild"
+47,F33.1,"Major depressive disorder, recurrent, moderate"
+48,F33.2,"Major depressv disorder, recurrent severe w/o psych features"
+49,F33.3,"Major depressv disorder, recurrent, severe w psych symptoms"
+50,F33.40,"Major depressive disorder, recurrent, in remission, unsp"
+51,F33.41,"Major depressive disorder, recurrent, in partial remission"
+52,F33.42,"Major depressive disorder, recurrent, in full remission"
+53,F33.8,Other recurrent depressive disorders
+54,F33.9,"Major depressive disorder, recurrent, unspecified"
+55,F34.0,Cyclothymic disorder
+56,F34.1,Dysthymic disorder
+57,F34.81,Disruptive mood dysregulation disorder
+58,F34.89,Other specified persistent mood disorders
+59,F34.9,"Persistent mood [affective] disorder, unspecified"
+60,Unspecified mood [affective] disorder (F39),F39  Unspecified mood [affective] disorder
+61,F39,Unspecified mood [affective] disorder

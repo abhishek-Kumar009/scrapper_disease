@@ -1,0 +1,247 @@
+,category,condition
+0,E70.0,Classical phenylketonuria
+1,E70.1,Other hyperphenylalaninemias
+2,E70.20,"Disorder of tyrosine metabolism, unspecified"
+3,E70.21,Tyrosinemia
+4,E70.29,Other disorders of tyrosine metabolism
+5,E70.30,"Albinism, unspecified"
+6,E70.310,Xlinked ocular albinism
+7,E70.311,Autosomal recessive ocular albinism
+8,E70.318,Other ocular albinism
+9,E70.319,"Ocular albinism, unspecified"
+10,E70.320,Tyrosinase negative oculocutaneous albinism
+11,E70.321,Tyrosinase positive oculocutaneous albinism
+12,E70.328,Other oculocutaneous albinism
+13,E70.329,"Oculocutaneous albinism, unspecified"
+14,E70.330,ChediakHigashi syndrome
+15,E70.331,HermanskyPudlak syndrome
+16,E70.338,Other albinism with hematologic abnormality
+17,E70.339,"Albinism with hematologic abnormality, unspecified"
+18,E70.39,Other specified albinism
+19,E70.40,"Disorders of histidine metabolism, unspecified"
+20,E70.41,Histidinemia
+21,E70.49,Other disorders of histidine metabolism
+22,E70.5,Disorders of tryptophan metabolism
+23,E70.8,Other disorders of aromatic aminoacid metabolism
+24,E70.9,"Disorder of aromatic aminoacid metabolism, unspecified"
+25,E71.0,Maplesyrupurine disease
+26,E71.110,Isovaleric acidemia
+27,E71.111,3methylglutaconic aciduria
+28,E71.118,Other branchedchain organic acidurias
+29,E71.120,Methylmalonic acidemia
+30,E71.121,Propionic acidemia
+31,E71.128,Other disorders of propionate metabolism
+32,E71.19,Other disorders of branchedchain aminoacid metabolism
+33,E71.2,"Disorder of branchedchain aminoacid metabolism, unsp"
+34,E71.30,"Disorder of fattyacid metabolism, unspecified"
+35,E71.310,Long chain/very long chain acyl CoA dehydrogenase deficiency
+36,E71.311,Medium chain acyl CoA dehydrogenase deficiency
+37,E71.312,Short chain acyl CoA dehydrogenase deficiency
+38,E71.313,Glutaric aciduria type II
+39,E71.314,Muscle carnitine palmitoyltransferase deficiency
+40,E71.318,Other disorders of fattyacid oxidation
+41,E71.32,Disorders of ketone metabolism
+42,E71.39,Other disorders of fattyacid metabolism
+43,E71.40,"Disorder of carnitine metabolism, unspecified"
+44,E71.41,Primary carnitine deficiency
+45,E71.42,Carnitine deficiency due to inborn errors of metabolism
+46,E71.43,Iatrogenic carnitine deficiency
+47,E71.440,RuvalcabaMyhreSmith syndrome
+48,E71.448,Other secondary carnitine deficiency
+49,E71.50,"Peroxisomal disorder, unspecified"
+50,E71.510,Zellweger syndrome
+51,E71.511,Neonatal adrenoleukodystrophy
+52,E71.518,Other disorders of peroxisome biogenesis
+53,E71.520,Childhood cerebral Xlinked adrenoleukodystrophy
+54,E71.521,Adolescent Xlinked adrenoleukodystrophy
+55,E71.522,Adrenomyeloneuropathy
+56,E71.528,Other Xlinked adrenoleukodystrophy
+57,E71.529,"Xlinked adrenoleukodystrophy, unspecified type"
+58,E71.53,Other group 2 peroxisomal disorders
+59,E71.540,Rhizomelic chondrodysplasia punctata
+60,E71.541,Zellwegerlike syndrome
+61,E71.542,Other group 3 peroxisomal disorders
+62,E71.548,Other peroxisomal disorders
+63,E72.00,"Disorders of aminoacid transport, unspecified"
+64,E72.01,Cystinuria
+65,E72.02,Hartnup's disease
+66,E72.03,Lowe's syndrome
+67,E72.04,Cystinosis
+68,E72.09,Other disorders of aminoacid transport
+69,E72.10,"Disorders of sulfurbearing aminoacid metabolism, unsp"
+70,E72.11,Homocystinuria
+71,E72.12,Methylenetetrahydrofolate reductase deficiency
+72,E72.19,Other disorders of sulfurbearing aminoacid metabolism
+73,E72.20,"Disorder of urea cycle metabolism, unspecified"
+74,E72.21,Argininemia
+75,E72.22,Arginosuccinic aciduria
+76,E72.23,Citrullinemia
+77,E72.29,Other disorders of urea cycle metabolism
+78,E72.3,Disorders of lysine and hydroxylysine metabolism
+79,E72.4,Disorders of ornithine metabolism
+80,E72.50,"Disorder of glycine metabolism, unspecified"
+81,E72.51,Nonketotic hyperglycinemia
+82,E72.52,Trimethylaminuria
+83,E72.53,Primary hyperoxaluria
+84,E72.59,Other disorders of glycine metabolism
+85,E72.81,Disorders of gamma aminobutyric acid metabolism
+86,E72.89,Other specified disorders of aminoacid metabolism
+87,E72.9,"Disorder of aminoacid metabolism, unspecified"
+88,E73.0,Congenital lactase deficiency
+89,E73.1,Secondary lactase deficiency
+90,E73.8,Other lactose intolerance
+91,E73.9,"Lactose intolerance, unspecified"
+92,E74.00,"Glycogen storage disease, unspecified"
+93,E74.01,von Gierke disease
+94,E74.02,Pompe disease
+95,E74.03,Cori disease
+96,E74.04,McArdle disease
+97,E74.09,Other glycogen storage disease
+98,E74.10,"Disorder of fructose metabolism, unspecified"
+99,E74.11,Essential fructosuria
+100,E74.12,Hereditary fructose intolerance
+101,E74.19,Other disorders of fructose metabolism
+102,E74.20,"Disorders of galactose metabolism, unspecified"
+103,E74.21,Galactosemia
+104,E74.29,Other disorders of galactose metabolism
+105,E74.31,Sucraseisomaltase deficiency
+106,E74.39,Other disorders of intestinal carbohydrate absorption
+107,E74.4,Disorders of pyruvate metabolism and gluconeogenesis
+108,E74.8,Other specified disorders of carbohydrate metabolism
+109,E74.9,"Disorder of carbohydrate metabolism, unspecified"
+110,E75.00,"GM2 gangliosidosis, unspecified"
+111,E75.01,Sandhoff disease
+112,E75.02,TaySachs disease
+113,E75.09,Other GM2 gangliosidosis
+114,E75.10,Unspecified gangliosidosis
+115,E75.11,Mucolipidosis IV
+116,E75.19,Other gangliosidosis
+117,E75.21,Fabry (Anderson) disease
+118,E75.22,Gaucher disease
+119,E75.23,Krabbe disease
+120,E75.240,NiemannPick disease type A
+121,E75.241,NiemannPick disease type B
+122,E75.242,NiemannPick disease type C
+123,E75.243,NiemannPick disease type D
+124,E75.248,Other NiemannPick disease
+125,E75.249,"NiemannPick disease, unspecified"
+126,E75.25,Metachromatic leukodystrophy
+127,E75.26,Sulfatase deficiency
+128,E75.29,Other sphingolipidosis
+129,E75.3,"Sphingolipidosis, unspecified"
+130,E75.4,Neuronal ceroid lipofuscinosis
+131,E75.5,Other lipid storage disorders
+132,E75.6,"Lipid storage disorder, unspecified"
+133,E76.01,Hurler's syndrome
+134,E76.02,HurlerScheie syndrome
+135,E76.03,Scheie's syndrome
+136,E76.1,"Mucopolysaccharidosis, type II"
+137,E76.210,Morquio A mucopolysaccharidoses
+138,E76.211,Morquio B mucopolysaccharidoses
+139,E76.219,"Morquio mucopolysaccharidoses, unspecified"
+140,E76.22,Sanfilippo mucopolysaccharidoses
+141,E76.29,Other mucopolysaccharidoses
+142,E76.3,"Mucopolysaccharidosis, unspecified"
+143,E76.8,Other disorders of glucosaminoglycan metabolism
+144,E76.9,"Glucosaminoglycan metabolism disorder, unspecified"
+145,E77.0,Defects in posttranslational mod of lysosomal enzymes
+146,E77.1,Defects in glycoprotein degradation
+147,E77.8,Other disorders of glycoprotein metabolism
+148,E77.9,"Disorder of glycoprotein metabolism, unspecified"
+149,E78.00,"Pure hypercholesterolemia, unspecified"
+150,E78.01,Familial hypercholesterolemia
+151,E78.1,Pure hyperglyceridemia
+152,E78.2,Mixed hyperlipidemia
+153,E78.3,Hyperchylomicronemia
+154,E78.41,Elevated Lipoprotein(a)
+155,E78.49,Other hyperlipidemia
+156,E78.5,"Hyperlipidemia, unspecified"
+157,E78.6,Lipoprotein deficiency
+158,E78.70,"Disorder of bile acid and cholesterol metabolism, unsp"
+159,E78.71,Barth syndrome
+160,E78.72,SmithLemliOpitz syndrome
+161,E78.79,Other disorders of bile acid and cholesterol metabolism
+162,E78.81,Lipoid dermatoarthritis
+163,E78.89,Other lipoprotein metabolism disorders
+164,E78.9,"Disorder of lipoprotein metabolism, unspecified"
+165,E79.0,Hyperuricemia w/o signs of inflam arthrit and tophaceous dis
+166,E79.1,LeschNyhan syndrome
+167,E79.2,Myoadenylate deaminase deficiency
+168,E79.8,Other disorders of purine and pyrimidine metabolism
+169,E79.9,"Disorder of purine and pyrimidine metabolism, unspecified"
+170,E80.0,Hereditary erythropoietic porphyria
+171,E80.1,Porphyria cutanea tarda
+172,E80.20,Unspecified porphyria
+173,E80.21,Acute intermittent (hepatic) porphyria
+174,E80.29,Other porphyria
+175,E80.3,Defects of catalase and peroxidase
+176,E80.4,Gilbert syndrome
+177,E80.5,CriglerNajjar syndrome
+178,E80.6,Other disorders of bilirubin metabolism
+179,E80.7,"Disorder of bilirubin metabolism, unspecified"
+180,E83.00,"Disorder of copper metabolism, unspecified"
+181,E83.01,Wilson's disease
+182,E83.09,Other disorders of copper metabolism
+183,E83.10,"Disorder of iron metabolism, unspecified"
+184,E83.110,Hereditary hemochromatosis
+185,E83.111,Hemochromatosis due to repeated red blood cell transfusions
+186,E83.118,Other hemochromatosis
+187,E83.119,"Hemochromatosis, unspecified"
+188,E83.19,Other disorders of iron metabolism
+189,E83.2,Disorders of zinc metabolism
+190,E83.30,"Disorder of phosphorus metabolism, unspecified"
+191,E83.31,Familial hypophosphatemia
+192,E83.32,Hereditary vitamin Ddependent rickets (type 1) (type 2)
+193,E83.39,Other disorders of phosphorus metabolism
+194,E83.40,"Disorders of magnesium metabolism, unspecified"
+195,E83.41,Hypermagnesemia
+196,E83.42,Hypomagnesemia
+197,E83.49,Other disorders of magnesium metabolism
+198,E83.50,Unspecified disorder of calcium metabolism
+199,E83.51,Hypocalcemia
+200,E83.52,Hypercalcemia
+201,E83.59,Other disorders of calcium metabolism
+202,E83.81,Hungry bone syndrome
+203,E83.89,Other disorders of mineral metabolism
+204,E83.9,"Disorder of mineral metabolism, unspecified"
+205,E84.0,Cystic fibrosis with pulmonary manifestations
+206,E84.11,Meconium ileus in cystic fibrosis
+207,E84.19,Cystic fibrosis with other intestinal manifestations
+208,E84.8,Cystic fibrosis with other manifestations
+209,E84.9,"Cystic fibrosis, unspecified"
+210,E85.0,Nonneuropathic heredofamilial amyloidosis
+211,E85.1,Neuropathic heredofamilial amyloidosis
+212,E85.2,"Heredofamilial amyloidosis, unspecified"
+213,E85.3,Secondary systemic amyloidosis
+214,E85.4,Organlimited amyloidosis
+215,E85.81,Light chain (AL) amyloidosis
+216,E85.82,Wildtype transthyretinrelated (ATTR) amyloidosis
+217,E85.89,Other amyloidosis
+218,E85.9,"Amyloidosis, unspecified"
+219,E86.0,Dehydration
+220,E86.1,Hypovolemia
+221,E86.9,"Volume depletion, unspecified"
+222,E87.0,Hyperosmolality and hypernatremia
+223,E87.1,Hypoosmolality and hyponatremia
+224,E87.2,Acidosis
+225,E87.3,Alkalosis
+226,E87.4,Mixed disorder of acidbase balance
+227,E87.5,Hyperkalemia
+228,E87.6,Hypokalemia
+229,E87.70,"Fluid overload, unspecified"
+230,E87.71,Transfusion associated circulatory overload
+231,E87.79,Other fluid overload
+232,E87.8,"Oth disorders of electrolyte and fluid balance, NEC"
+233,E88.01,Alpha1antitrypsin deficiency
+234,E88.02,Plasminogen deficiency
+235,E88.09,"Oth disorders of plasmaprotein metabolism, NEC"
+236,E88.1,"Lipodystrophy, not elsewhere classified"
+237,E88.2,"Lipomatosis, not elsewhere classified"
+238,E88.3,Tumor lysis syndrome
+239,E88.40,"Mitochondrial metabolism disorder, unspecified"
+240,E88.41,MELAS syndrome
+241,E88.42,MERRF syndrome
+242,E88.49,Other mitochondrial metabolism disorders
+243,E88.81,Metabolic syndrome
+244,E88.89,Other specified metabolic disorders
+245,E88.9,"Metabolic disorder, unspecified"

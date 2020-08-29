@@ -1,0 +1,25 @@
+,category,condition
+0,F20.0,Paranoid schizophrenia
+1,F20.1,Disorganized schizophrenia
+2,F20.2,Catatonic schizophrenia
+3,F20.3,Undifferentiated schizophrenia
+4,F20.5,Residual schizophrenia
+5,F20.81,Schizophreniform disorder
+6,F20.89,Other schizophrenia
+7,F20.9,"Schizophrenia, unspecified"
+8,Schizotypal disorder (F21),F21  Schizotypal disorder
+9,F21,Schizotypal disorder
+10,Delusional disorders (F22),F22  Delusional disorders
+11,F22,Delusional disorders
+12,Brief psychotic disorder (F23),F23  Brief psychotic disorder
+13,F23,Brief psychotic disorder
+14,Shared psychotic disorder (F24),F24  Shared psychotic disorder
+15,F24,Shared psychotic disorder
+16,F25.0,"Schizoaffective disorder, bipolar type"
+17,F25.1,"Schizoaffective disorder, depressive type"
+18,F25.8,Other schizoaffective disorders
+19,F25.9,"Schizoaffective disorder, unspecified"
+20,Oth psych disorder not due to a sub or known physiol cond (F28),F28  Oth psych disorder not due to a sub or known physiol cond
+21,F28,Oth psych disorder not due to a sub or known physiol cond
+22,Unsp psychosis not due to a substance or known physiol cond (F29),F29  Unsp psychosis not due to a substance or known physiol cond
+23,F29,Unsp psychosis not due to a substance or known physiol cond

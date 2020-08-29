@@ -1,0 +1,16 @@
+,category,condition
+0,E89.0,Postprocedural hypothyroidism
+1,E89.1,Postprocedural hypoinsulinemia
+2,E89.2,Postprocedural hypoparathyroidism
+3,E89.3,Postprocedural hypopituitarism
+4,E89.40,Asymptomatic postprocedural ovarian failure
+5,E89.41,Symptomatic postprocedural ovarian failure
+6,E89.5,Postprocedural testicular hypofunction
+7,E89.6,Postprocedural adrenocortical (medullary) hypofunction
+8,E89.810,Postproc hemor of an endo sys org fol an endo sys procedure
+9,E89.811,Postproc hemor of an endo sys org following other procedure
+10,E89.820,Postproc hematoma of an endo sys org fol an endo sys proc
+11,E89.821,Postproc hematoma of an endo sys org fol other procedure
+12,E89.822,Postproc seroma of an endo sys org fol an endo sys procedure
+13,E89.823,Postproc seroma of an endo sys org following other procedure
+14,E89.89,Oth postproc endocrine and metabolic comp and disorders
