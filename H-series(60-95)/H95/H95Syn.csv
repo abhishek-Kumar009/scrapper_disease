@@ -1,0 +1,405 @@
+,Synonyms
+0,[]
+1,[]
+2,[]
+3,"['Focal chorioretinitis', 'Focal choroiditis', 'Focal retinitis']"
+4,[]
+5,[]
+6,[]
+7,"['Focal choroiditis', 'Focal juxtapapillary choroiditis', 'Juxtapapillary focal chorioretinitis', 'Juxtapapillary focal choroiditis AND chorioretinitis', 'Juxtapapillary focal retinitis', 'Juxtapapillary focal retinitis AND retinochoroiditis']"
+8,[]
+9,[]
+10,[]
+11,"['Focal choroiditis', 'Focal choroiditis of posterior pole of eye', 'Focal retinitis AND retinochoroiditis of other posterior pole', 'Focal retinitis of posterior pole of eye', 'Posterior pole focal chorioretinitis']"
+12,[]
+13,[]
+14,[]
+15,"['Focal choroiditis', 'Focal choroiditis', 'Peripheral focal choroiditis', 'Peripheral focal choroiditis AND chorioretinitis', 'Peripheral focal retinitis', 'Peripheral focal retinitis AND retinochoroiditis', 'Peripheral focal retinochoroiditis']"
+16,[]
+17,[]
+18,[]
+19,"['Acute macular neuroretinitis', 'Focal choroiditis', 'Macular focal choroiditis', 'Macular focal retinitis', 'Paramacular focal retinitis', 'Paramacular focal retinitis AND retinochoroiditis', 'Paramacular focal retinochoroiditis']"
+20,[]
+21,[]
+22,[]
+23,"['Disseminated chorioretinitis', 'Disseminated choroiditis', 'Disseminated retinitis', 'Disseminated retinitis', 'Metastatic disseminated retinitis', 'Metastatic disseminated retinitis', 'Metastatic disseminated retinitis AND retinochoroiditis', 'Pigmented epithelial disseminated retinitis']"
+24,[]
+25,[]
+26,[]
+27,"['Disseminated choroiditis', 'Disseminated choroiditis', 'Disseminated choroiditis AND chorioretinitis, posterior pole', 'Disseminated posterior pole chorioretinitis', 'Posterior pole disseminated choroiditis']"
+28,[]
+29,[]
+30,[]
+31,"['Disseminated choroiditis', 'Disseminated choroiditis', 'Disseminated peripheral chorioretinitis', 'Peripheral disseminated choroiditis', 'Peripheral disseminated choroiditis AND chorioretinitis']"
+32,[]
+33,[]
+34,[]
+35,"['Disseminated choroiditis', 'Disseminated choroiditis', 'General disseminated chorioretinitis', 'Generalized disseminated choroiditis', 'Generalized disseminated choroiditis AND chorioretinitis', 'Generalized disseminated choroiditis AND chorioretinitis with acute necrosis', 'Multifocal inner choroiditis']"
+36,"['Acute multifocal placoid pigment epitheliopathy of right eye', 'Acute posterior multifocal placoid pigment epitheliopathy', 'White dot syndrome']"
+37,"['Acute multifocal placoid pigment epitheliopathy of left eye', 'Acute posterior multifocal placoid pigment epitheliopathy', 'White dot syndrome']"
+38,"['Acute multifocal placoid pigment epitheliopathy of left eye', 'Acute multifocal placoid pigment epitheliopathy of right eye', 'Acute posterior multifocal placoid pigment epitheliopathy', 'Bilateral acute multifocal placoid pigment epitheliopathy', 'White dot syndrome']"
+39,"['Acute posterior multifocal placoid pigment epitheliopathy', 'White dot syndrome']"
+40,['Posterior cyclitis']
+41,[]
+42,[]
+43,[]
+44,[]
+45,[]
+46,[]
+47,['Vogt-Koyanagi-Harada disease']
+48,[]
+49,[]
+50,[]
+51,"['Bacterial chorioretinitis', 'Bartonella henselae neuroretinitis', 'Birdshot chorioretinitis', 'Cryptococcal choroiditis', 'Cryptococcus neoformans choroiditis', 'Fungal chorioretinitis', 'Fungal choroiditis', 'Fungal choroiditis', 'Fungal choroiditis', 'Granulomatous chorioretinitis', 'Granulomatous choroiditis', 'Granulomatous retinitis', 'Idiopathic choroiditis', 'Infection by Pneumocystis jirovecii', 'Infection causing inflammation of optic nerve', 'Multifocal choroiditis', 'Multifocal choroiditis and panuveitis syndrome', 'Multiple evanescent white dot syndrome', 'Mycobacterium avium intracellulare group choroiditis', 'Neurobartonellosis', 'Neuroretinitis', 'Neuroretinitis', 'Ocular cryptococcosis', 'Ocular onchocerciasis', 'Onchocerca chorioretinitis', 'Optic neuroretinitis', 'Optic papillitis', 'Optic papillitis', 'Parasitic chorioretinitis', 'Parasitic choroiditis', 'Pneumocystis jirovecii choroiditis', 'Pneumocystosis', 'Progressive outer retinal necrosis', 'Retinal pigment epitheliitis', 'Serpiginous choroiditis', 'Subretinal fibrosis', 'Subretinal fibrosis and uveitis syndrome', 'Viral retinitis', 'White dot syndrome']"
+52,"['Cheesy retinitis', 'Chorioretinitis', 'Chorioretinitis with coccidioidmycosis', 'Choroiditis', 'Cytomegaloviral retinitis', 'Cytomegalovirus chorioretinitis', 'Diffuse unilateral subacute neuroretinitis', 'Fungal chorioretinitis', 'Fungal choroiditis', 'Fungal choroiditis', 'General appearance of retina - finding', 'Idiopathic posterior uveitis', 'Idiopathic retinitis', 'Infiltration of retina', 'Neuroretinitis', 'Optic papillitis', 'Posterior uveitis', 'Punctate inner choroidopathy', 'Retinitis', 'Retinochoroidopathy', 'White dot syndrome']"
+53,"['Cytomegaloviral retinitis', 'Retinitis of right eye caused by cytomegalovirus']"
+54,"['Cytomegaloviral retinitis', 'Retinitis of left eye caused by cytomegalovirus']"
+55,"['Cytomegaloviral retinitis', 'Histoplasmosis syndrome of bilateral eyes', 'Histoplasmosis syndrome of left eye', 'Histoplasmosis syndrome of right eye', 'Ocular histoplasmosis syndrome', 'Retinitis of bilateral eyes caused by cytomegalovirus', 'Retinitis of left eye caused by cytomegalovirus', 'Retinitis of right eye caused by cytomegalovirus', 'Subretinal neovascularization of left eye', 'Subretinal neovascularization of right eye']"
+56,['Chorioretinal scar of right eye']
+57,['Chorioretinal scar of left eye']
+58,"['Bilateral chorioretinal scar of eyes', 'Chorioretinal scar of left eye', 'Chorioretinal scar of right eye']"
+59,"['Chorioretinal scar', 'Choroid scar', 'Disseminated scar of retina AND choroid', 'Retinal scar']"
+60,"['Scar of macula following trauma', 'Scar of macula of right eye following trauma', 'Scarred macula', 'Scarred macula of right eye']"
+61,"['Scar of macula following trauma', 'Scar of macula of left eye following trauma', 'Scarred macula', 'Scarred macula', 'Scarred macula of left eye']"
+62,"['Scar of macula following trauma', 'Scar of macula of bilateral eyes following trauma', 'Scar of macula of left eye following trauma', 'Scar of macula of right eye following trauma', 'Scarred macula', 'Scarred macula of bilateral eyes', 'Scarred macula of left eye', 'Scarred macula of right eye']"
+63,"['Chorioretinal scar of posterior pole of eye', 'Fibrovascular macular scar', 'Peripheral scar of posterior pole of eye', 'Posttraumatic chorioretinal scar', 'Scar of macula following trauma', 'Scar of posterior pole of eye', 'Scarred macula', 'Scarred macula']"
+64,[]
+65,[]
+66,[]
+67,"['Retinal light toxicity', 'Solar retinopathy']"
+68,"['Chorioretinal scar of right eye', 'Peripheral chorioretinal scar', 'Peripheral chorioretinal scar of right eye']"
+69,"['Chorioretinal scar of left eye', 'Peripheral chorioretinal scar', 'Peripheral chorioretinal scar of left eye']"
+70,"['Bilateral chorioretinal scar of eyes', 'Bilateral peripheral chorioretinal scar of eyes', 'Chorioretinal scar of left eye', 'Chorioretinal scar of right eye', 'Peripheral chorioretinal scar', 'Peripheral chorioretinal scar of left eye', 'Peripheral chorioretinal scar of right eye']"
+71,"['Choroid scar', 'Choroid scar', 'Cryotherapy burn to retina', 'Disseminated chorioretinal scars', 'Peripheral chorioretinal scar', 'Postinflammatory chorioretinal scar', 'Postinflammatory choroid scar', 'Postinflammatory retinal scar', 'Posttraumatic choroid scar', 'Post-traumatic retinal scar']"
+72,[]
+73,[]
+74,[]
+75,"['Atrophic macular change', 'Atrophic macular change', 'Chorioretinal atrophy', 'Chorioretinal atrophy', 'Chorioretinal degeneration', 'Choroidal atrophy', 'Choroidal atrophy', 'Choroidal atrophy and alopecia syndrome', 'Choroidal degeneration', 'Choroidal sclerosis', 'Congenital anomaly of choroid', 'Diffuse choroidal sclerosis', 'Helicoid peripapillary chorioretinal degeneration', ""Hyaline dystrophy of Bruch's membrane"", 'Macular areolar choroidal atrophy', 'Macular choroidal sclerosis', 'Microcornea', 'Microcornea, myopic chorioretinal atrophy, telecanthus syndrome', 'Pigmented paravenous retinochoroidal atrophy']"
+76,[]
+77,[]
+78,[]
+79,"['Choroidal atrophy', 'Senile atrophy of choroid']"
+80,[]
+81,[]
+82,[]
+83,"['Choroidal atrophy', 'Diffuse secondary choroid atrophy']"
+84,"['Autosomal dominant vitreoretinochoroidopathy', 'Boucher Neuhäuser syndrome', 'Choroidal dystrophy', 'Congenital ectopic lens', 'Ectopia lentis, chorioretinal dystrophy, myopia syndrome', 'Hereditary choroidal dystrophy']"
+85,"['Choroideremia', 'Choroideremia hypopituitarism', 'Choroideremia with deafness and obesity syndrome', 'Mixed conductive AND sensorineural hearing loss']"
+86,"['Central areolar choroidal sclerosis', 'Circumpapillary dystrophy of choroid', 'Partial central choroid dystrophy', 'Partial generalized choroidal dystrophy', 'Peripapillary atrophy', 'Peripapillary choroidal sclerosis', 'Total generalized choroidal dystrophy']"
+87,"['Chorioretinal atrophy', 'Choroidal atrophy', 'Clinical manifestation of enzyme deficiency', 'Gyrate atrophy']"
+88,"[""Bietti's crystalline retinopathy"", 'Circumpapillary dystrophy of choroid', 'Circumpapillary dystrophy of choroid', 'Partial circumpapillary choroid dystrophy', 'Peripapillary choroidal sclerosis', 'Peripapillary choroidal sclerosis', 'Progressive bifocal chorioretinal atrophy', 'Total circumpapillary dystrophy of choroid']"
+89,[]
+90,[]
+91,[]
+92,"['Chorioretinal vascular disorder', 'Choroidal hemorrhage', 'Choroidal hemorrhage and rupture', 'Suprachoroidal hemorrhage']"
+93,[]
+94,[]
+95,[]
+96,"['Choroidal hemorrhage', 'Expulsive choroidal hemorrhage']"
+97,[]
+98,[]
+99,[]
+100,"['Chorioretinal rupture', 'Chorioretinal vascular disorder', 'Choroidal hemorrhage and rupture', 'Choroidal rupture', 'Injury of choroid']"
+101,[]
+102,[]
+103,[]
+104,"['Annular choroidal detachment', 'Choroidal detachment']"
+105,[]
+106,[]
+107,[]
+108,"['Choroidal detachment', 'Hemorrhagic choroidal detachment']"
+109,[]
+110,[]
+111,[]
+112,"['Choroidal detachment', 'Choroidal detachment', 'Choroidal effusion', 'Idiopathic uveal effusion syndrome', 'Serous choroidal detachment', 'Uveal effusion syndrome']"
+113,"['Acquired hypopigmentation of choroid', 'Central serous choroidopathy of bilateral eyes', 'Central serous choroidopathy of left eye', 'Central serous choroidopathy of right eye', 'Chorioretinal infarction', 'Chorioretinal vascular disorder', 'Chorioretinal vascular disorder', 'Chorioretinal vascular disorder', 'Choroid tubercles', 'Choroidal fold', 'Choroidal infarct', 'Choroidal pigmentation', 'Detachment of retina of bilateral eyes', 'Diffuse chorioretinal lesion', 'Disseminated choroiditis', 'Flat chorioretinal lesion', 'Focal chorioretinal lesion', 'Generalized disseminated choroiditis AND chorioretinitis', 'Generalized disseminated choroiditis AND chorioretinitis with acute necrosis', 'Hypertensive choroidopathy', 'Idiopathic polypoidal choroidal vasculopathy', 'Microcephalus, lymphedema, chorioretinopathy syndrome', 'Multiple raised chorioretinal lesions', 'Neovascularization of choroid of left eye', 'Punched out chorioretinal lesion', 'Retinal neovascularization', 'Solitary raised chorioretinal lesion', 'Subretinal neovascularization of left eye', 'Tigroid fundus']"
+114,"['Choroidal and/or chorioretinal disorder', 'Disorder of choroid of eye']"
+115,[]
+116,"['African histoplasmosis', 'Cryptococcal choroiditis', 'Cytomegaloviral retinitis', 'Fungal choroiditis', 'Histo spot', 'Histoplasma capsulatum with retinitis', 'Histoplasma duboisii with retinitis', 'Histoplasmosis with retinitis', 'Ocular cryptococcosis', 'Ocular histoplasmosis syndrome', 'Parasitic choroiditis']"
+117,"['Defect of retina of right eye', 'Detachment of right retina co-occurrent with retinal defect', 'Retinal detachment with retinal defect']"
+118,[]
+119,[]
+120,"['Autosomal dominant rhegmatogenous retinal detachment', 'Combined traction and rhegmatogenous retinal detachment', 'Retinal detachment with retinal defect', 'Retinal macular break', 'Rhegmatogenous retinal detachment', 'Rhegmatogenous retinal detachment - macula off', 'Rhegmatogenous retinal detachment - macula on']"
+121,[]
+122,[]
+123,[]
+124,"['New partial retinal detachment with single defect', 'Partial recent retinal detachment with single defect', 'Recent retinal detachment', 'Retinal detachment with single break']"
+125,[]
+126,[]
+127,[]
+128,"['New partial retinal detachment with multiple defects', 'Partial recent retinal detachment with multiple defects', 'Retinal detachment with multiple breaks', 'Retinal detachment with retinal defect']"
+129,[]
+130,[]
+131,[]
+132,[]
+133,[]
+134,[]
+135,[]
+136,"['New partial retinal detachment with retinal dialysis', 'Partial recent retinal detachment with retinal dialysis', 'Recent retinal detachment', 'Retinal dialysis', 'Retinal giant dialysis', 'Rhegmatogenous retinal detachment due to retinal dialysis']"
+137,[]
+138,[]
+139,[]
+140,"['Old retinal detachment', 'Old total retinal detachment', 'Recent retinal detachment', 'Recent total retinal detachment', 'Total retinal detachment']"
+141,['Schisis of right retina']
+142,['Schisis of left retina']
+143,"['Bilateral schisis of retinas', 'Detachment of retina of bilateral eyes', 'Schisis of left retina', 'Schisis of right retina']"
+144,"['Adult retinoschisis', 'Breaks in retinoschisis', 'Retinal break in schisis', 'Retinoschisis']"
+145,[]
+146,[]
+147,[]
+148,"['Cyst of ora serrata of retina', 'Retinal cyst']"
+149,[]
+150,[]
+151,[]
+152,"['Parasitic cyst of retina', 'Retinal cyst']"
+153,[]
+154,[]
+155,[]
+156,"['Bilateral bullous retinoschisis', 'Breaks in retinoschisis', 'Breaks in retinoschisis', 'Bullous retinoschisis', 'Flat retinoschisis', 'Intraretinal degeneration', 'Peripheral retinoschisis', 'Peripheral retinoschisis, diffuse', 'Primary retinal cyst', 'Pseudocyst of retina', 'Retinal cyst', 'Retinoschisis - inner leaf break', 'Retinoschisis - outer leaf break', 'Retinoschisis and retinal cysts', 'Secondary retinal cyst']"
+157,"['Occipital encephalocele', 'Old retinal detachment', 'Partial retinal detachment', 'Recent retinal detachment', 'Retinal detachment', 'Retinal detachment and occipital encephalocele', 'Retinal detachment without retinal defect', 'Serous macular detachment', 'Serous retinal detachment']"
+158,"['Acute detachment of retina of right eye', 'Acute partial detachment of retina of right eye', 'Chronic partial detachment of retina of right eye', 'Chronic total detachment of retina of right eye', 'Detachment of retina of right eye', 'Old retinal detachment', 'Old retinal detachment of right eye', 'Recent retinal detachment', 'Recent subtotal retinal detachment', 'Serous detachment of retinal pigment epithelium', 'Serous detachment of right retinal pigment epithelium']"
+159,"['Acute detachment of retina of left eye', 'Acute partial detachment of retina of left eye', 'Chronic partial detachment of retina of left eye', 'Chronic total detachment of retina of left eye', 'Defect of retina of left eye', 'Detachment of left retina co-occurrent with retinal defect', 'Detachment of retina of left eye', 'Old retinal detachment', 'Old retinal detachment of left eye', 'Recent retinal detachment', 'Recent subtotal retinal detachment', 'Retinal detachment with retinal defect', 'Serous detachment of left retinal pigment epithelium', 'Serous detachment of retinal pigment epithelium']"
+160,"['Bilateral serous detachment of retinal pigment epithelium', 'Chronic partial detachment of retina of bilateral eyes', 'Chronic partial detachment of retina of left eye', 'Chronic partial detachment of retina of right eye', 'Detachment of retina of bilateral eyes', 'Old retinal detachment', 'Old retinal detachment of bilateral eyes', 'Old retinal detachment of left eye', 'Old retinal detachment of right eye', 'Serous detachment of left retinal pigment epithelium', 'Serous detachment of retinal pigment epithelium', 'Serous detachment of right retinal pigment epithelium']"
+161,"['Retinal tear of right eye without detachment', 'Retinal tear without detachment']"
+162,"['Retinal tear of left eye without detachment', 'Retinal tear without detachment']"
+163,"['Retinal tear of bilateral eyes without detachment', 'Retinal tear of left eye without detachment', 'Retinal tear of right eye without detachment', 'Retinal tear without detachment']"
+164,"['Iatrogenic retinal tear', 'Operculum of retina without detachment', 'Retinal break in schisis', 'Retinal defect', 'Retinal linear tear', 'Retinal operculated tear', 'Retinal tear', 'Retinal tear without detachment', 'Retinal tractional tear']"
+165,"['Defect of retina of right eye', 'Horseshoe retinal tear without detachment', 'Horseshoe tear of retina of right eye without detachment', 'Retinal tear of right eye without detachment', 'Retinal tear without detachment']"
+166,"['Defect of retina of left eye', 'Horseshoe retinal tear without detachment', 'Horseshoe tear of retina of left eye without detachment', 'Retinal tear of left eye without detachment', 'Retinal tear without detachment']"
+167,[]
+168,"['Horseshoe retinal tear without detachment', 'Retinal  tear', 'Retinal tear without detachment']"
+169,"['Defect of retina of right eye', 'Retinal round hole', 'Round hole of retina of right eye']"
+170,"['Defect of retina of left eye', 'Retinal round hole', 'Round hole of retina of left eye']"
+171,"['Defect of retina of bilateral eyes', 'Defect of retina of left eye', 'Defect of retina of right eye', 'Retinal round hole', 'Round hole of retina of bilateral eyes', 'Round hole of retina of left eye', 'Round hole of retina of right eye']"
+172,"['Giant retinal tear', 'Retinal round hole', 'Round hole of retina without detachment']"
+173,[]
+174,[]
+175,[]
+176,"['Multiple defects of retina without detachment', 'Multiple retinal breaks', 'Multiple retinal defects without detachment', 'Retinal breaks - multiple defects', 'Retinal defects without detachment']"
+177,"['Combined traction and rhegmatogenous retinal detachment', 'Diabetic traction retinal detachment', 'Retinopathy with type 1 diabetes mellitus', 'Traction detachment of retina', 'Traction detachment of retina', 'Traction detachment with vitreoretinal organization', 'Traction retinal detachment involving macula', 'Traction retinal detachment sparing macula', 'Traction retinal detachment with type 1 diabetes mellitus', 'Traction retinal detachment with type 2 diabetes mellitus']"
+178,"['Traction detachment of retina', 'Traction detachment of right retina']"
+179,"['Traction detachment of left retina', 'Traction detachment of retina']"
+180,"['Bilateral traction detachment of retinas', 'Detachment of retina of bilateral eyes', 'Traction detachment of left retina', 'Traction detachment of retina', 'Traction detachment of right retina']"
+181,"['Chorioretinal rupture', 'Old partial retinal detachment', 'Old retinal detachment', 'Old subtotal retinal detachment', 'Pseudophakic retinal detachment', 'Recent retinal detachment', 'Recent subtotal retinal detachment', 'Retinal detachment - subretinal fluid', 'Solid retinal detachment']"
+182,['Transient arterial retinal occlusion']
+183,[]
+184,[]
+185,[]
+186,"['Central retinal artery occlusion', 'Combined occlusion by thrombus of retinal artery and retinal vein', 'Retinal artery occlusion', 'Thrombosis of retinal artery']"
+187,[]
+188,[]
+189,[]
+190,[]
+191,[]
+192,[]
+193,"['Partial retinal artery occlusion', 'Rouleaux formation in retinal artery']"
+194,"['Arterial retinal branch occlusion', 'Occlusion of right branch retinal artery']"
+195,"['Arterial retinal branch occlusion', 'Occlusion of left branch retinal artery']"
+196,[]
+197,"['Arterial retinal branch occlusion', 'Branch macular artery occlusion', 'Cilioretinal artery occlusion']"
+198,[]
+199,[]
+200,[]
+201,[]
+202,[]
+203,[]
+204,[]
+205,[]
+206,[]
+207,"['Central retinal vein occlusion - juvenile', 'Central retinal vein occlusion - juvenile with macular edema', 'Central retinal vein occlusion with macular edema', 'Hemispheric retinal vein occlusion', 'Hemispheric retinal vein occlusion with macular edema']"
+208,"['Central retinal vein occlusion - juvenile', 'Central retinal vein occlusion - juvenile with neovascularization', 'Central retinal vein occlusion with neovascularization', 'Hemispheric retinal vein occlusion', 'Hemispheric retinal vein occlusion with neovascularization']"
+209,"['Central retinal vein occlusion', 'Central retinal vein occlusion - ischemic', 'Central retinal vein occlusion - juvenile', 'Central retinal vein occlusion - non-ischemic', 'Combined occlusion by thrombus of retinal artery and retinal vein', 'Hemispheric retinal vein occlusion', 'Incipient occlusion of retinal vein', 'Partial occlusion of retinal vein', 'Thrombosis of retinal artery', 'Thrombosis of retinal vein']"
+210,[]
+211,[]
+212,[]
+213,"['Ocular hyperemia', 'Retinal venous engorgement']"
+214,[]
+215,[]
+216,[]
+217,[]
+218,[]
+219,[]
+220,"['Branch retinal vein occlusion with macular edema', 'Venous retinal branch occlusion']"
+221,[]
+222,"['Branch retinal vein occlusion with no neovascularization', 'Venous retinal branch occlusion']"
+223,[]
+224,"['Branch retinal vein occlusion with neovascularization', 'Venous retinal branch occlusion']"
+225,"['Macular branch retinal vein occlusion', 'Venous retinal branch occlusion']"
+226,"['Arteriospasm', 'Blood clot in eye', 'Calcific retinal embolus', 'Cerebral calcification', 'Cholesterol retinal embolus', 'Cholesterol retinal embolus of left eye', 'Cholesterol retinal embolus of right eye', 'Chorioretinal infarction', 'Hemorrhage at vitreoretinal interface', 'Ischemic maculopathy', 'Macular infarction', 'Ocular ischemic syndrome', 'Platelet-fibrin retinal embolus', ""Purtscher's retinopathy"", 'Rambaud Gallian syndrome', 'Retinal artery occlusion', 'Retinal artery spasm', 'Retinal embolus', 'Retinal ischemia', 'Retinal ischemia', 'Retinal ischemia with diabetes mellitus', 'Retinal ischemia with type 1 diabetes mellitus', 'Retinal ischemia with type 2 diabetes mellitus', 'Retinal microembolism', 'Retinal vascular occlusion', 'Retinopathy with type 1 diabetes mellitus', 'Superficial retinal hemorrhage', 'Thrombosis of retinal artery', 'Traumatic retinal hemorrhage', 'Vascular degeneration', 'Vasospasm']"
+227,"['Acute zonal occult outer retinopathy', 'Aminoquinoline antimalarial adverse reaction', 'Autosomal recessive chorioretinopathy and microcephaly syndrome', 'Background retinopathy due to impaired glucose regulation', 'Bilateral retinopathy', 'Chloroquine adverse reaction', 'Chloroquine retinopathy', 'Desferrioxamine retinopathy', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Familial aplasia of the vermis', 'Hereditary vitreoretinopathy', 'Joubert syndrome', 'Joubert syndrome with ocular defect', 'O/E - non-referable retinopathy', 'O/E - referable retinopathy', 'O/E - retinopathy', 'Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome', 'Paraneoplastic retinopathy', 'Quinine retinopathy', 'Renal retinopathy', 'Retinal vascular disorder', 'Retinopathy caused by canthaxanthin', 'Retinopathy caused by trifluoperazine', 'Tamoxifen retinopathy', 'Thioridazine retinopathy', 'Vascular retinopathy of bilateral eyes', 'Vascular retinopathy of left eye', 'Vascular retinopathy of right eye']"
+228,[]
+229,[]
+230,[]
+231,"['Arteriovenous crossing changes', 'On examination retinal arteriovenous nicking', 'Retinal arteries attenuated', 'Retinal arteries copperwire', 'Retinal arteries irregular', 'Retinal arteries sheathed', 'Retinal arteries silverwire', 'Retinal arteriovenous nicking', 'Retinal artery appearance - finding', 'Retinal artery appearance - finding', 'Retinal artery appearance - finding', 'Retinal artery appearance - finding', 'Retinal artery appearance - finding', 'Retinal vascular changes associated with AIDS', 'Retinopathy associated with AIDS', 'Vascular sheathing of retina']"
+232,[]
+233,[]
+234,[]
+235,"[""Coats' disease"", 'Exudative retinopathy']"
+236,"['Hypertension with disorder of right retina', 'Hypertensive retinopathy']"
+237,"['Hypertension with disorder of left retina', 'Hypertensive retinopathy']"
+238,"['Bilateral hypertension with disorder of retinas', 'Hypertension with disorder of left retina', 'Hypertension with disorder of right retina', 'Hypertensive retinopathy']"
+239,['Hypertensive retinopathy']
+240,"['Macroaneurysm of retina of right eye', 'Microaneurysm of retinal artery', 'Microaneurysm of retinal artery', 'Microaneurysm of right retinal artery', 'Microaneurysm of right retinal artery', 'Retinal macroaneurysm', 'Retinal microaneurysm of right eye with diabetes mellitus', 'Retinal microaneurysm with diabetes mellitus']"
+241,"['Macroaneurysm of retina of left eye', 'Microaneurysm of left retinal artery', 'Microaneurysm of left retinal artery', 'Microaneurysm of retinal artery', 'Microaneurysm of retinal artery', 'Retinal macroaneurysm', 'Retinal microaneurysm of left eye with diabetes mellitus', 'Retinal microaneurysm with diabetes mellitus']"
+242,"['Bilateral microaneurysm of retinal arteries', 'Macroaneurysm of retina of bilateral eyes', 'Macroaneurysm of retina of left eye', 'Macroaneurysm of retina of right eye', 'Microaneurysm of left retinal artery', 'Microaneurysm of retinal artery', 'Microaneurysm of right retinal artery', 'Retinal macroaneurysm', 'Vascular retinopathy of bilateral eyes', 'Vascular retinopathy of bilateral eyes']"
+243,"['Microaneurysm of retinal artery', 'O/E - retinal microaneurysms']"
+244,"['Neovascularization of choroid of right eye', 'Retinal neovascularization', 'Subretinal neovascularization of right eye']"
+245,['Subretinal neovascularization of left eye']
+246,['Subretinal neovascularization of bilateral eyes']
+247,"['Choroidal retinal neovascularization', 'Classic choroidal neovascular membrane', 'Extramacular choroidal neovascular membrane', 'Idiopathic choroidal neovascular membrane', 'Occult choroidal neovascular membrane', 'Occult neovascularization of macula', 'On examination - retinal vascular proliferation', 'Peripapillary choroidal neovascular membrane', 'Peripheral retinal neovascularization', 'Retinal neovascularization', 'Retinal pigment epithelial detachment with vascularization']"
+248,[]
+249,[]
+250,[]
+251,"[""Eales' disease"", 'Endarteritis', 'Frosted branch angiitis', 'Periarteritis', 'Retinal arteriolitis', 'Retinal arteritis', 'Retinal endarteritis', 'Retinal phlebitis', 'Retinal vasculitis', 'Retinal vasculitis due to polyarteritis nodosa', 'Retinal vasculitis due to systemic lupus erythematosus', 'Segmental retinal periarteritis']"
+252,['Telangiectasia of right retina']
+253,['Telangiectasia of left retina']
+254,"['Bilateral telangiectasis of retinas', 'Telangiectasia of left retina', 'Telangiectasia of right retina', 'Vascular retinopathy of bilateral eyes']"
+255,"['Acquired peripheral telangiectasia', 'Cutaneous mastocytosis', 'Idiopathic juxtafoveal telangiectasia', 'Idiopathic macular telangiectasia type 1', 'Idiopathic macular telangiectasia type 3', 'Parafoveal telangiectasia', 'Peripheral retinal telangiectatic mass', 'Retinal telangiectasia', 'Telangiectasia macularis eruptiva perstans', 'Telangiectasia of macula lutea']"
+256,"['Acute central serous chorioretinopathy', 'Acute central serous retinopathy with subretinal fluid', 'Anastomotic retinal vessels', 'Arteriovenous crossing changes', 'Candle-wax drippings', 'Cilioretinal vessels', 'Distension of vein beyond arteriovenous crossing', 'High altitude retinopathy', 'Intraretinal microvascular abnormality', 'Opticociliary vessels', 'Retinal arterial tortuosity', 'Retinal collateral vessels', 'Retinal collateral vessels', 'Retinal macroaneurysm', 'Retinal microvascular anastomosis', 'Retinal microvascular finding', 'Retinal microvascular lesion', 'Retinal varices', 'Retinal vein appearance - finding', 'Retinal vein appearance - finding', 'Retinal vein appearance - finding', 'Retinal vein appearance - finding', 'Retinal vein appearance - finding', 'Retinal veins beaded', 'Retinal veins dilated', 'Retinal veins sheathed', 'Retinal venous loops', 'Retinal venous tortuosity', 'Retinitis sclopetaria', 'Retinociliary vein', 'Segmentation of retinal blood vessel']"
+257,['Retinopathy of prematurity of right eye']
+258,['Retinopathy of prematurity of left eye']
+259,"['Bilateral retinopathy of prematurity', 'Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of right eye']"
+260,['Retinopathy of prematurity']
+261,[]
+262,[]
+263,[]
+264,['Retinopathy of prematurity stage 0']
+265,"['Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 1 - demarcation line', 'Retinopathy of prematurity stage 1 - demarcation line']"
+266,"['Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 1 - demarcation line', 'Retinopathy of prematurity stage 1 - demarcation line']"
+267,"['Bilateral retinopathy of prematurity', 'Bilateral retinopathy of prematurity of eyes stage 1 - demarcation line', 'Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 1 - demarcation line', 'Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 1 - demarcation line', 'Retinopathy of prematurity stage 1 - demarcation line']"
+268,['Retinopathy of prematurity stage 1 - demarcation line']
+269,"['Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 2 - intraretinal ridge', 'Retinopathy of prematurity stage 2 - intraretinal ridge']"
+270,"['Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 2 - intraretinal ridge', 'Retinopathy of prematurity stage 2 - intraretinal ridge']"
+271,"['Bilateral retinopathy of prematurity', 'Bilateral retinopathy of prematurity of eyes stage 2 - intraretinal ridge', 'Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 2 - intraretinal ridge', 'Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 2 - intraretinal ridge', 'Retinopathy of prematurity stage 2 - intraretinal ridge']"
+272,['Retinopathy of prematurity stage 2 - intraretinal ridge']
+273,"['Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 3 - ridge with extraretinal fibrovascular proliferation', 'Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation']"
+274,"['Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 3 - ridge with extraretinal fibrovascular proliferation', 'Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation']"
+275,"['Bilateral retinopathy of prematurity', 'Bilateral retinopathy of prematurity of eyes stage 3 - ridge with extraretinal fibrovascular proliferation', 'Retinopathy of prematurity of left eye', 'Retinopathy of prematurity of left eye stage 3 - ridge with extraretinal fibrovascular proliferation', 'Retinopathy of prematurity of right eye', 'Retinopathy of prematurity of right eye stage 3 - ridge with extraretinal fibrovascular proliferation', 'Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation']"
+276,['Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation']
+277,[]
+278,[]
+279,[]
+280,['Retinopathy of prematurity stage 4 - subtotal retinal detachment']
+281,[]
+282,[]
+283,[]
+284,['Retinopathy of prematurity stage 5 - total retinal detachment']
+285,[]
+286,[]
+287,[]
+288,[]
+289,"['Anterior proliferative vitreoretinopathy', 'Nondiabetic proliferative retinopathy', 'Nondiabetic proliferative retinopathy', 'Posterior proliferative vitreoretinopathy', 'Proliferative retinopathy', 'Proliferative retinopathy due to sickle cell disease', 'Proliferative vitreoretinopathy', 'Sickle cell retinopathy']"
+290,"['Proliferative vitreoretinopathy', 'Proliferative vitreoretinopathy of right eye']"
+291,"['Proliferative vitreoretinopathy', 'Proliferative vitreoretinopathy of left eye']"
+292,"['Nondiabetic proliferative retinopathy', 'Non-diabetic proliferative retinopathy of bilateral eyes', 'Proliferative retinopathy of bilateral eyes', 'Proliferative vitreoretinopathy', 'Proliferative vitreoretinopathy of left eye', 'Proliferative vitreoretinopathy of right eye', 'Subretinal neovascularization of left eye', 'Subretinal neovascularization of right eye']"
+293,"['Age related macular degeneration', 'Atrophic macular change', 'Bilateral degeneration of macula', 'Bilateral degenerative progressive high myopia of eyes', 'Bilateral myopia of eyes', ""Bull's eye maculopathy"", 'Degeneration of macula and posterior pole', 'Degeneration of posterior pole of eye', 'Degenerative disorder of macula', 'Degenerative disorder of macula of left eye', 'Degenerative disorder of macula of left eye', 'Degenerative disorder of macula of right eye', 'Degenerative disorder of macula of right eye', 'Degenerative progressive high myopia', 'Degenerative progressive high myopia', 'Degenerative progressive high myopia', 'Degenerative progressive high myopia', 'Degenerative progressive high myopia of left eye', 'Degenerative progressive high myopia of left eye', 'Degenerative progressive high myopia of right eye', 'Degenerative progressive high myopia of right eye', 'Macular diffuse atrophy', 'Myopia of left eye', 'Myopia of left eye', 'Myopia of right eye', 'Myopia of right eye', 'Myopic macular degeneration', 'Myopic macular degeneration', 'Myopic macular degeneration', 'Myopic macular degeneration', 'Myopic macular degeneration of bilateral eyes', 'Myopic macular degeneration of left eye', 'Myopic macular degeneration of left eye', 'Myopic macular degeneration of right eye', 'Myopic macular degeneration of right eye', 'Persistent placoid maculopathy']"
+294,"['Age-related nonexudative macular degeneration of right eye', 'Degenerative disorder of macula of right eye', 'Nonexudative age-related macular degeneration']"
+295,[]
+296,[]
+297,[]
+298,[]
+299,[]
+300,[]
+301,[]
+302,[]
+303,[]
+304,"['Age-related nonexudative macular degeneration of left eye', 'Age-related nonexudative macular degeneration of right eye', 'Bilateral age-related nonexudative macular degeneration', 'Bilateral degeneration of macula', 'Degenerative disorder of macula of left eye', 'Degenerative disorder of macula of right eye', 'Nonexudative age-related macular degeneration']"
+305,[]
+306,[]
+307,[]
+308,[]
+309,['Nonexudative age-related macular degeneration']
+310,[]
+311,[]
+312,[]
+313,[]
+314,"['Age-related exudative macular degeneration of right eye', 'Degenerative disorder of macula of right eye', 'Exudative age-related macular degeneration']"
+315,[]
+316,[]
+317,[]
+318,"['Age-related exudative macular degeneration of left eye', 'Age-related nonexudative macular degeneration of left eye', 'Degenerative disorder of macula of left eye', 'Degenerative disorder of macula of left eye', 'Exudative age-related macular degeneration', 'Nonexudative age-related macular degeneration']"
+319,[]
+320,[]
+321,[]
+322,"['Age-related exudative macular degeneration of left eye', 'Age-related exudative macular degeneration of right eye', 'Bilateral age-related exudative degeneration of macula', 'Bilateral degeneration of macula', 'Degenerative disorder of macula of left eye', 'Degenerative disorder of macula of right eye', 'Exudative age-related macular degeneration']"
+323,[]
+324,[]
+325,[]
+326,['Exudative age-related macular degeneration']
+327,[]
+328,[]
+329,[]
+330,['Angioid streaks of choroid']
+331,"['Full thickness hole of macula lutea', 'Full thickness macular hole of right eye', 'Macular cyst of right eye', 'Macular hole of right eye', 'Macular pseudohole', 'Macular pseudohole of right eye', 'Macular retinal cyst', 'Partial thickness macular hole of right eye']"
+332,"['Full thickness hole of macula lutea', 'Full thickness macular hole of left eye', 'Macular cyst of left eye', 'Macular hole of left eye', 'Macular pseudohole', 'Macular pseudohole of left eye', 'Macular retinal cyst', 'Partial thickness macular hole of left eye']"
+333,[]
+334,"['Degeneration of macula due to cyst or hole', 'Degeneration of macula due to cyst, hole or pseudohole', 'Full thickness hole of macula lutea', 'Full thickness macular hole stage II', 'Full thickness macular hole stage III', 'Full thickness macular hole stage IV', 'Impending macular hole', 'Macular hole', 'Macular pseudohole', 'Macular retinal cyst', 'Traumatic macular hole']"
+335,[]
+336,[]
+337,[]
+338,['Cystoid macular retinal degeneration']
+339,"['Drusen of retina of right eye', 'Drusen of right macula', 'Macular drusen']"
+340,"['Drusen of left macula', 'Drusen of retina of left eye', 'Macular drusen']"
+341,"['Bilateral drusen of maculae', 'Drusen of left macula', 'Drusen of retina of bilateral eyes', 'Drusen of retina of left eye', 'Drusen of retina of left eye', 'Drusen of retina of right eye', 'Drusen of retina of right eye', 'Drusen of right macula', 'Macular drusen']"
+342,"['Basal laminar drusen', 'Confluent drusen', 'Degenerative drusen', 'Dominant drusen', 'Drusen plus pigment change stage macular degeneration', 'Drusen stage macular degeneration', 'Hard drusen', 'Macular drusen', 'Retinal drusen', 'Soft drusen']"
+343,"['Epiretinal membrane', 'Epiretinal membrane of right eye']"
+344,"['Epiretinal membrane', 'Epiretinal membrane of left eye']"
+345,"['Bilateral epiretinal membrane of eyes', 'Epiretinal membrane', 'Epiretinal membrane of left eye', 'Epiretinal membrane of right eye']"
+346,['Epiretinal membrane']
+347,[]
+348,[]
+349,[]
+350,['Toxic maculopathy']
+351,"['Intraretinal degeneration', 'Peripheral degeneration of retina of bilateral eyes', 'Peripheral drusen', 'Peripheral retinal degeneration', 'Peripheral retinal degeneration of left eye', 'Peripheral retinal degeneration of right eye']"
+352,"['Lattice degeneration of right retina', 'Retinal lattice degeneration']"
+353,"['Lattice degeneration of left retina', 'Retinal lattice degeneration']"
+354,"['Bilateral lattice degeneration of retinas', 'Lattice degeneration of left retina', 'Lattice degeneration of right retina', 'Retinal lattice degeneration']"
+355,"['Retinal lattice degeneration', 'Snail-track retinal degeneration']"
+356,[]
+357,[]
+358,[]
+359,"['Intraretinal degeneration', 'Microcystoid retinal degeneration']"
+360,[]
+361,[]
+362,[]
+363,"['Chorioretinal degeneration', 'Paving stone retinal degeneration']"
+364,[]
+365,[]
+366,[]
+367,['Senile reticular retinal degeneration']
+368,[]
+369,[]
+370,[]
+371,"['Pseudoretinitis pigmentosa', 'Secondary pigmentary retinal degeneration']"
+372,[]
+373,[]
+374,[]
+375,['Secondary vitreoretinal degeneration']
+376,"['Aland Islands eye disease', 'Aphonia, deafness, retinal dystrophy, bifid halluces, intellectual disability syndrome', 'Autosomal dominant late-onset retinal degeneration', 'Autosomal recessive bestrophinopathy', 'Benign concentric annular macular dystrophy', 'Bothnia retinal dystrophy', 'Central obesity', 'Cerebral calcification', 'Cleft lip retinopathy syndrome', 'Cone dystrophy', 'Cone dystrophy with supernormal rod response', 'Congenital anomaly of macula', 'Congenital cerebellar hypoplasia co-occurrent with tapetoretinal degeneration', 'Congenital hypoplasia of penis', 'Congenital hypotrichia', 'Ectodermal dysplasia with ectrodactyly and macular dystrophy syndrome', 'Encephalopathy, intracerebral calcification, retinal degeneration syndrome', 'Familial benign flecked retina', 'Familial diabetes insipidus', 'Familial pseudoinflammatory macular degeneration', 'Fundus albipunctatus', 'Hereditary retinal dystrophies in lipidoses', 'Hereditary retinal dystrophy', 'Hypotrichosis with juvenile macular degeneration syndrome', 'Immuno-osseous dysplasia', 'Kandori fleck retina syndrome', ""Leber's amaurosis"", ""Leber's amaurosis"", 'Microcornea, rod-cone dystrophy, cataract, posterior staphyloma syndrome', 'MORM syndrome', 'Nanophthalmia', 'North Carolina macular dystrophy', 'Occult macular dystrophy', 'Oligocone trichromacy', 'Optic atrophy associated with retinal dystrophy', 'Progressive retinal dystrophy due to retinol transport defect', 'Retinal degeneration, nanophthalmos, glaucoma syndrome', 'Retinal dystrophy', 'Retinal dystrophy in cerebroretinal lipidosis', 'Retinal dystrophy with inner retinal dysfunction and ganglion cell anomalies', 'Retinal flecking', 'Retinal flecking', 'Retinitis punctata albescens', 'Retinohepatoendocrinologic syndrome', 'Rod dystrophy', 'Roifman syndrome', 'Severe early childhood onset retinal dystrophy', 'Spastic tetraparesis', ""Stargardt's disease"", 'Tetraparesis', 'X-linked intellectual disability, limb spasticity, retinal dystrophy, diabetes insipidus syndrome']"
+377,"['Autosomal dominant neovascular inflammatory vitreoretinopathy', 'Autosomal dominant vitreoretinochoroidopathy', 'Familial exudative vitreoretinopathy', 'Goldmann-Favre syndrome', 'Hereditary vitreoretinopathy', 'Hereditary vitreoretinopathy', 'Hereditary vitreoretinopathy', 'Peripheral retina - white with pressure', 'Peripheral retina - white without pressure', 'Peripheral snowflake retinal degeneration', 'Retina - peripheral paravascular adhesions', 'Snowflake retinal degeneration', 'Vitreoretinal degeneration', 'Vitreoretinal dystrophy', 'Vitreoretinal tuft', 'Wagner syndrome']"
+378,"['Atrophic macular change', 'Autosomal dominant retinitis pigmentosa', 'Autosomal dominant retinitis pigmentosa', 'Autosomal recessive leukoencephalopathy, ischemic stroke, retinitis pigmentosa syndrome', 'Autosomal recessive posterior column ataxia and retinitis pigmentosa', 'Autosomal recessive retinitis pigmentosa', 'Butterfly-shaped pigmentary macular dystrophy', 'Cholestasis', 'Cholestasis with pigmentary retinopathy and cleft palate syndrome', 'Drusen of optic disc', 'Early onset cerebellar ataxia with retinitis pigmentosa and optic atrophy', 'Hereditary motor and sensory neuropathy with retinitis pigmentosa', 'Hypogonadotropic hypogonadism retinitis pigmentosa syndrome', 'Immotile cilia syndrome', 'Macular pigment deposit', 'Microphthalmia, retinitis pigmentosa, foveoschisis, optic disc drusen syndrome', 'Muscular atrophy, ataxia, retinitis pigmentosa, and diabetes mellitus', 'Neurogenic muscle weakness, ataxia and retinitis pigmentosa', 'Oculotrichodysplasia', 'Osteochondrodysplatic nanism, deafness, retinitis pigmentosa syndrome', 'Pattern dystrophy of macula', 'Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, cataract syndrome', 'Primary ciliary dyskinesia and retinitis pigmentosa syndrome', 'Retinal pigment deposits', 'Retinal pigment epithelial dystrophy', 'Retinitis pigmentosa', 'Retinitis pigmentosa of bilateral eyes', 'Retinitis pigmentosa of left eye', 'Retinitis pigmentosa of right eye', 'Retinitis pigmentosa, intellectual disability, deafness, hypogenitalism syndrome', 'RHYNS syndrome', 'Saldino-Mainzer dysplasia', 'Spastic tetraplegia', 'Spastic tetraplegia, retinitis pigmentosa, intellectual disability syndrome', 'Tapetoretinal dystrophy', 'Uncombable hair, retinal pigmentary dystrophy, dental anomaly and brachydactyly syndrome', 'X-linked retinitis pigmentosa', 'X-linked retinitis pigmentosa heterozygote']"
+379,"['Cone dystrophy', 'Fundus flavimaculatus', 'Hereditary retinal dystrophy primarily involving sensory retina', 'Hyaline retinal dystrophy', 'Progressive cone dystrophy ', 'Progressive rod dystrophy', 'Retinitis pigmentosa-deafness syndrome', 'Retinitis pigmentosa-deafness-ataxia syndrome', 'Rod dystrophy', 'Sensory retinal dystrophy', ""Sorsby's fundus dystrophy"", 'Usher syndrome type 1', 'Usher syndrome type 2']"
+380,"['Adult vitelliform macular dystrophy', 'Amelogenesis imperfecta co-occurrent with cone rod dystrophy', 'Best vitelliform macular dystrophy', 'Biallelic RPE65 mutation associated retinal dystrophy', 'Fundus pulverulentus', 'Hereditary retinal dystrophy primarily involving retinal pigment epithelium', 'Multifocal pattern dystrophy of retinal pigment epithelium simulating fundus flavimaculatus', 'Progressive cone-rod dystrophy', 'Progressive cone-rod dystrophy', 'Reticular dystrophy of retinal pigment epithelium', 'Retinal pigment epithelial dystrophy', 'Spondylometaphyseal dysplasia with cone-rod dystrophy syndrome', 'Vitelliform dystrophy']"
+381,"['Confluent retinal hemorrhage', 'Deep retinal hemorrhage', 'Hemorrhage at vitreoretinal interface', 'Hemorrhage at vitreoretinal interface', 'Macular subretinal hemorrhage', 'Optic disc hemorrhage', 'Optic disc vascular finding', 'Preretinal hemorrhage', 'Retinal dot hemorrhage', 'Retinal flame hemorrhage', 'Retinal hemorrhage', 'Roth spots', 'Subfoveal hemorrhage', 'Subhyaloid hemorrhage', 'Subretinal hemorrhage', 'Superficial retinal hemorrhage', 'Traumatic retinal hemorrhage']"
+382,"['Hemorrhage of right retina', 'Hemorrhage of right vitreous body', 'Preretinal hemorrhage', 'Preretinal hemorrhage of right eye', 'Subretinal hemorrhage', 'Subretinal hemorrhage of right eye']"
+383,"['Hemorrhage of left retina', 'Hemorrhage of left vitreous body', 'Preretinal hemorrhage', 'Preretinal hemorrhage of left eye', 'Subretinal hemorrhage', 'Subretinal hemorrhage of left eye']"
+384,"['Hemorrhage of bilateral retinas', 'Hemorrhage of left retina', 'Hemorrhage of right retina']"
+385,[]
+386,[]
+387,[]
+388,[]
+389,"['Acute central serous chorioretinopathy', 'Acute central serous retinopathy with subretinal fluid', 'Central serous chorioretinopathy', 'Central serous retinopathy with pit of optic disc', 'Central serous retinopathy with small retinal pigment epithelial detachment', 'Chronic central serous chorioretinopathy', 'Chronic central serous retinopathy with diffuse retinal pigment epithelial detachment', 'Inactive central serous chorioretinopathy', 'Inactive central serous retinopathy with focal retinal pigment epithelial detachment', 'Serous retinal detachment', 'Variant central serous chorioretinopathy']"
+390,[]
+391,[]
+392,[]
+393,"['Avascular retinal pigment epithelial detachment', 'Central serous retinopathy with small retinal pigment epithelial detachment', 'Chronic central serous chorioretinopathy', 'Chronic central serous retinopathy with diffuse retinal pigment epithelial detachment', 'Exudative detachment of retinal pigment epithelium', 'Herpes simplex retinal pigment epithelial detachment', 'Herpes zoster retinal pigment epithelial detachment', 'Inactive central serous retinopathy with focal retinal pigment epithelial detachment', 'Macular pigment epithelial detachment', 'Macular pigment epithelial rip', 'Retinal pigment epithelial detachment', 'Retinal pigment epithelial detachment with tear of retinal pigment epithelium', 'Retinal pigment epithelial detachment with vascularization', 'Serous detachment of retinal pigment epithelium']"
+394,[]
+395,[]
+396,[]
+397,['Hemorrhagic detachment of retinal pigment epithelium']
+398,"['Autosomal dominant cystoid macular edema', 'Bilateral cystoid macular edema of retinas', 'Clinically significant macular edema', 'Cotton wool spots', 'Cystoid macular edema', 'Cystoid macular edema of left retina', 'Cystoid macular edema of right retina', 'Localized edema', 'Localized retinal edema', 'Macular edema of retina of bilateral eyes', 'Macular edema of retina of left eye', 'Macular edema of retina of right eye', 'Macular retinal edema', 'Noncystoid edema of macula of retina', 'Peripheral retinal edema', 'Retinal edema', 'Uveitis related cystoid macular edema', 'Widespread retinal edema']"
+399,"['Central retinal vein occlusion - ischemic', 'Chorioretinal vascular disorder', 'Choroidal ischemia', 'Ischemic maculopathy', 'Retinal ischemia']"
+400,"['Abnormal rod or cone threshold', 'Absent foveal reflex', 'Acute retinal necrosis', 'Aminoquinoline antimalarial adverse reaction', 'Angiomatosis of retina', 'Atrophic retina', 'Autoimmune retinopathy', 'Central progressive retinal atrophy', 'Cherry red spot', 'Chorioretinal vascular disorder', 'Cotton wool spots', 'Crystals in the retina', 'Delayed rod or cone adaption', 'Diffuse subretinal fibrosis', 'Drug-induced retinopathy', 'Drug-induced retinopathy', 'Epiretinal snowbanking', 'General appearance of retina - finding', 'Generalized progressive retinal atrophy', 'Generalized retinal degeneration', 'Generalized retinal degeneration of both eyes', 'Generalized retinal degeneration of left eye', 'Generalized retinal degeneration of right eye', 'Glaucomatous retinal degeneration', 'Hamartoma of retina', 'Hamartoma of retina', 'Hamartoma of retina of bilateral eyes', 'Hamartoma of retina of left eye', 'Hamartoma of retina of right eye', 'Hydrochloroquine retinopathy', 'Hydroxychloroquine adverse reaction', 'Hyperviscosity retinopathy', 'Infiltration of retina', 'Intraretinal degeneration', 'Late effect of radiation', 'Macula - multifocal placoid lesions', 'Macular displacement', 'Macular exudate', 'Macular halo', 'Macular subretinal fibrosis', 'Macular vitelliform deposits', 'Methanol retinopathy', 'Multifocal progressive retinal atrophy', 'Multifocal retinal degeneration', 'Myopic chorioretinal atrophy', 'Necrotizing herpetic retinopathy', 'Nerve fiber bundle defect', 'Noncystic peripheral retinal tuft', 'O/E - Left retina not seen', 'O/E - red reflex absent', 'O/E - retinal exudates', 'O/E - retinal vessel narrowing', 'O/E - Right retina not seen', 'On examination - left red reflex', 'Patterned macular change', 'Peripheral cystic retinal tuft', 'Photoreceptor degeneration', 'Preretinal and epiretinal finding', 'Preretinal and epiretinal finding', 'Punctate retinal deposits', 'Radiation retinopathy', 'Red reflex', 'Reticular pseudodrusen', 'Retinal arteries attenuated', 'Retinal artery appearance - finding', 'Retinal depigmentation', 'Retinal deposits', 'Retinal exudates and/or deposits', 'Retinal flecking', 'Retinal fold', 'Retinal incarceration', 'Retinal lipid deposits', 'Retinal nerve fiber bundle deficiency', 'Retinal pigment deposits', 'Retinal pigment epithelial abnormality', 'Retinal pigment epithelial hyperplasia', 'Retinal pigment epithelial hypertrophy', 'Retinal pigment epithelium atrophy', 'Retinal thickening', 'Retinal traction', 'Retinal vitelliform deposits', 'Retinopathy as late effect of radiation', 'Star figure at the macula', 'Subretinal disciform lesion', 'Subretinal exudate', 'Subretinal fibrosis', 'Subretinal fluid', 'Subretinal lesion', 'Subretinal lipid deposit', 'Sudden acquired retinal degeneration', 'Toxic retinopathy', 'Valsalva retinopathy', 'Venous stasis retinopathy', 'Vitreoretinal tuft', 'Vitreoretinal tuft', 'Vitreoretinal tuft', 'Zonular traction peripheral retinal tuft']"
+401,"['Advanced retinal disease', 'Defect of retina of bilateral eyes', 'Defect of retina of left eye', 'Defect of retina of left eye', 'Defect of retina of right eye', 'Degeneration of retina', 'Detachment of left retina co-occurrent with retinal defect', 'Disorder of macula of left eye', 'Disorder of macula of retina', 'Disorder of macula of right eye', 'Disorder of vitreous body and/or retina', 'Generalized retinal degeneration', 'Generalized retinal degeneration of right eye', 'Optic atrophy secondary to retinal disease', 'Retinal abnormality - non-diabetes', 'Retinal detachment with retinal defect', 'Retinal disorder', 'Retinopathy of left eye', 'Retinopathy of right eye']"
+402,[]
+403,"['Carcinoma-associated retinopathy', 'Deaf mutism', 'Deafmutism-retinal degeneration syndrome', 'Epstein-Barr virus infection of the retina', 'Paraneoplastic retinopathy', 'Retinal dystrophy due to systemic disorder', 'Retinal dystrophy in systemic lipidosis', 'Retinopathy associated with AIDS', 'Sickle cell retinopathy', 'Sickle cell-hemoglobin C retinopathy']"

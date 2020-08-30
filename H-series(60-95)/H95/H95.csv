@@ -1,0 +1,37 @@
+,category,condition
+0,H95.00,"Recur cholesteatoma of postmastoidectomy cavity, unsp ear"
+1,H95.01,"Recur cholesteatoma of postmastoidectomy cavity, right ear"
+2,H95.02,"Recur cholesteatoma of postmastoidectomy cavity, left ear"
+3,H95.03,"Recurrent cholesteatoma of postmastoidectomy cavity, bi ears"
+4,H95.111,"Chronic inflammation of postmastoidectomy cavity, right ear"
+5,H95.112,"Chronic inflammation of postmastoidectomy cavity, left ear"
+6,H95.113,"Chronic inflam of postmastoidectomy cavity, bilateral ears"
+7,H95.119,"Chronic inflammation of postmastoidectomy cavity, unsp ear"
+8,H95.121,"Granulation of postmastoidectomy cavity, right ear"
+9,H95.122,"Granulation of postmastoidectomy cavity, left ear"
+10,H95.123,"Granulation of postmastoidectomy cavity, bilateral ears"
+11,H95.129,"Granulation of postmastoidectomy cavity, unspecified ear"
+12,H95.131,"Mucosal cyst of postmastoidectomy cavity, right ear"
+13,H95.132,"Mucosal cyst of postmastoidectomy cavity, left ear"
+14,H95.133,"Mucosal cyst of postmastoidectomy cavity, bilateral ears"
+15,H95.139,"Mucosal cyst of postmastoidectomy cavity, unspecified ear"
+16,H95.191,"Other disorders following mastoidectomy, right ear"
+17,H95.192,"Other disorders following mastoidectomy, left ear"
+18,H95.193,"Other disorders following mastoidectomy, bilateral ears"
+19,H95.199,"Other disorders following mastoidectomy, unspecified ear"
+20,H95.21,Intraop hemor/hemtom of ear/mastd comp a proc on ear/mastd
+21,H95.22,Intraop hemor/hemtom of ear/mastd complicating oth procedure
+22,H95.31,Acc pnctr & lac of the ear/mastd dur proc on the ear/mastd
+23,H95.32,Accidental pnctr & lac of the ear/mastd during oth procedure
+24,H95.41,Postprocedural hemorrhage of ear/mastd fol proc on ear/mastd
+25,H95.42,Postproc hemorrhage of ear/mastd following other procedure
+26,H95.51,Postprocedural hematoma of ear/mastd fol proc on ear/mastd
+27,H95.52,Postproc hematoma of ear/mastd following other procedure
+28,H95.53,Postprocedural seroma of ear/mastd fol proc on ear/mastd
+29,H95.54,Postprocedural seroma of ear/mastd following other procedure
+30,H95.811,Postprocedural stenosis of right external ear canal
+31,H95.812,Postprocedural stenosis of left external ear canal
+32,H95.813,"Postprocedural stenosis of external ear canal, bilateral"
+33,H95.819,Postprocedural stenosis of unspecified external ear canal
+34,H95.88,"Oth intraop comp and disorders of the ear/mastd, NEC"
+35,H95.89,"Oth postproc comp and disorders of the ear/mastd, NEC"
