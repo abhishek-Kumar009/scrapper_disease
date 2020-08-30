@@ -1,0 +1,57 @@
+,category,condition
+0,J30.0,Vasomotor rhinitis
+1,J30.1,Allergic rhinitis due to pollen
+2,J30.2,Other seasonal allergic rhinitis
+3,J30.5,Allergic rhinitis due to food
+4,J30.81,Allergic rhinitis due to animal (cat) (dog) hair and dander
+5,J30.89,Other allergic rhinitis
+6,J30.9,"Allergic rhinitis, unspecified"
+7,J31.0,Chronic rhinitis
+8,J31.1,Chronic nasopharyngitis
+9,J31.2,Chronic pharyngitis
+10,J32.0,Chronic maxillary sinusitis
+11,J32.1,Chronic frontal sinusitis
+12,J32.2,Chronic ethmoidal sinusitis
+13,J32.3,Chronic sphenoidal sinusitis
+14,J32.4,Chronic pansinusitis
+15,J32.8,Other chronic sinusitis
+16,J32.9,"Chronic sinusitis, unspecified"
+17,J33.0,Polyp of nasal cavity
+18,J33.1,Polypoid sinus degeneration
+19,J33.8,Other polyp of sinus
+20,J33.9,"Nasal polyp, unspecified"
+21,J34.0,"Abscess, furuncle and carbuncle of nose"
+22,J34.1,Cyst and mucocele of nose and nasal sinus
+23,J34.2,Deviated nasal septum
+24,J34.3,Hypertrophy of nasal turbinates
+25,J34.81,Nasal mucositis (ulcerative)
+26,J34.89,Other specified disorders of nose and nasal sinuses
+27,J34.9,Unspecified disorder of nose and nasal sinuses
+28,J35.01,Chronic tonsillitis
+29,J35.02,Chronic adenoiditis
+30,J35.03,Chronic tonsillitis and adenoiditis
+31,J35.1,Hypertrophy of tonsils
+32,J35.2,Hypertrophy of adenoids
+33,J35.3,Hypertrophy of tonsils with hypertrophy of adenoids
+34,J35.8,Other chronic diseases of tonsils and adenoids
+35,J35.9,"Chronic disease of tonsils and adenoids, unspecified"
+36,Peritonsillar abscess (J36),J36  Peritonsillar abscess
+37,J36,Peritonsillar abscess
+38,J37.0,Chronic laryngitis
+39,J37.1,Chronic laryngotracheitis
+40,J38.00,"Paralysis of vocal cords and larynx, unspecified"
+41,J38.01,"Paralysis of vocal cords and larynx, unilateral"
+42,J38.02,"Paralysis of vocal cords and larynx, bilateral"
+43,J38.1,Polyp of vocal cord and larynx
+44,J38.2,Nodules of vocal cords
+45,J38.3,Other diseases of vocal cords
+46,J38.4,Edema of larynx
+47,J38.5,Laryngeal spasm
+48,J38.6,Stenosis of larynx
+49,J38.7,Other diseases of larynx
+50,J39.0,Retropharyngeal and parapharyngeal abscess
+51,J39.1,Other abscess of pharynx
+52,J39.2,Other diseases of pharynx
+53,J39.3,"Upper respiratory tract hypersensitivity reaction, site unsp"
+54,J39.8,Other specified diseases of upper respiratory tract
+55,J39.9,"Disease of upper respiratory tract, unspecified"

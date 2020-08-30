@@ -1,0 +1,29 @@
+,category,condition
+4,J80,Acute respiratory distress syndrome
+5,J81.0,Acute pulmonary edema
+6,J81.1,Chronic pulmonary edema
+7,"Pulmonary eosinophilia, not elsewhere classified (J82)","J82  Pulmonary eosinophilia, not elsewhere classified"
+8,J82,"Pulmonary eosinophilia, not elsewhere classified"
+9,J84.01,Alveolar proteinosis
+10,J84.02,Pulmonary alveolar microlithiasis
+11,J84.03,Idiopathic pulmonary hemosiderosis
+12,J84.09,Other alveolar and parietoalveolar conditions
+13,J84.10,"Pulmonary fibrosis, unspecified"
+14,J84.111,"Idiopathic interstitial pneumonia, not otherwise specified"
+15,J84.112,Idiopathic pulmonary fibrosis
+16,J84.113,Idiopathic nonspecific interstitial pneumonitis
+17,J84.114,Acute interstitial pneumonitis
+18,J84.115,Respiratory bronchiolitis interstitial lung disease
+19,J84.116,Cryptogenic organizing pneumonia
+20,J84.117,Desquamative interstitial pneumonia
+21,J84.17,Oth interstit pulmon dis w fibrosis in dis classd elswhr
+22,J84.2,Lymphoid interstitial pneumonia
+23,J84.81,Lymphangioleiomyomatosis
+24,J84.82,Adult pulmonary Langerhans cell histiocytosis
+25,J84.83,Surfactant mutations of the lung
+26,J84.841,Neuroendocrine cell hyperplasia of infancy
+27,J84.842,Pulmonary interstitial glycogenosis
+28,J84.843,Alveolar capillary dysplasia with vein misalignment
+29,J84.848,Other interstitial lung diseases of childhood
+30,J84.89,Other specified interstitial pulmonary diseases
+31,J84.9,"Interstitial pulmonary disease, unspecified"

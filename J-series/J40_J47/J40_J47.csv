@@ -1,0 +1,36 @@
+,category,condition
+4,J40,"Bronchitis, not specified as acute or chronic"
+5,J41.0,Simple chronic bronchitis
+6,J41.1,Mucopurulent chronic bronchitis
+7,J41.8,Mixed simple and mucopurulent chronic bronchitis
+8,Unspecified chronic bronchitis (J42),J42  Unspecified chronic bronchitis
+9,J42,Unspecified chronic bronchitis
+10,J43.0,Unilateral pulmonary emphysema [MacLeod's syndrome]
+11,J43.1,Panlobular emphysema
+12,J43.2,Centrilobular emphysema
+13,J43.8,Other emphysema
+14,J43.9,"Emphysema, unspecified"
+15,J44.0,Chr obstructive pulmon disease with (acute) lower resp infct  UPDATED CODE
+16,J44.1,Chronic obstructive pulmonary disease w (acute) exacerbation
+17,J44.9,"Chronic obstructive pulmonary disease, unspecified"
+18,J45.20,"Mild intermittent asthma, uncomplicated"
+19,J45.21,Mild intermittent asthma with (acute) exacerbation
+20,J45.22,Mild intermittent asthma with status asthmaticus
+21,J45.30,"Mild persistent asthma, uncomplicated"
+22,J45.31,Mild persistent asthma with (acute) exacerbation
+23,J45.32,Mild persistent asthma with status asthmaticus
+24,J45.40,"Moderate persistent asthma, uncomplicated"
+25,J45.41,Moderate persistent asthma with (acute) exacerbation
+26,J45.42,Moderate persistent asthma with status asthmaticus
+27,J45.50,"Severe persistent asthma, uncomplicated"
+28,J45.51,Severe persistent asthma with (acute) exacerbation
+29,J45.52,Severe persistent asthma with status asthmaticus
+30,J45.901,Unspecified asthma with (acute) exacerbation
+31,J45.902,Unspecified asthma with status asthmaticus
+32,J45.909,"Unspecified asthma, uncomplicated"
+33,J45.990,Exercise induced bronchospasm
+34,J45.991,Cough variant asthma
+35,J45.998,Other asthma
+36,J47.0,Bronchiectasis with acute lower respiratory infection
+37,J47.1,Bronchiectasis with (acute) exacerbation
+38,J47.9,"Bronchiectasis, uncomplicated"

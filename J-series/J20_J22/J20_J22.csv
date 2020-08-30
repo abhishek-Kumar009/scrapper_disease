@@ -1,0 +1,17 @@
+,category,condition
+0,J20.0,Acute bronchitis due to Mycoplasma pneumoniae
+1,J20.1,Acute bronchitis due to Hemophilus influenzae
+2,J20.2,Acute bronchitis due to streptococcus
+3,J20.3,Acute bronchitis due to coxsackievirus
+4,J20.4,Acute bronchitis due to parainfluenza virus
+5,J20.5,Acute bronchitis due to respiratory syncytial virus
+6,J20.6,Acute bronchitis due to rhinovirus
+7,J20.7,Acute bronchitis due to echovirus
+8,J20.8,Acute bronchitis due to other specified organisms
+9,J20.9,"Acute bronchitis, unspecified"
+10,J21.0,Acute bronchiolitis due to respiratory syncytial virus
+11,J21.1,Acute bronchiolitis due to human metapneumovirus
+12,J21.8,Acute bronchiolitis due to other specified organisms
+13,J21.9,"Acute bronchiolitis, unspecified"
+14,Unspecified acute lower respiratory infection (J22),J22  Unspecified acute lower respiratory infection
+15,J22,Unspecified acute lower respiratory infection

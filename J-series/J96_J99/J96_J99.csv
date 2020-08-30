@@ -1,0 +1,27 @@
+,category,condition
+0,J96.00,"Acute respiratory failure, unsp w hypoxia or hypercapnia"
+1,J96.01,Acute respiratory failure with hypoxia
+2,J96.02,Acute respiratory failure with hypercapnia
+3,J96.10,"Chronic respiratory failure, unsp w hypoxia or hypercapnia"
+4,J96.11,Chronic respiratory failure with hypoxia
+5,J96.12,Chronic respiratory failure with hypercapnia
+6,J96.20,"Acute and chr resp failure, unsp w hypoxia or hypercapnia"
+7,J96.21,Acute and chronic respiratory failure with hypoxia
+8,J96.22,Acute and chronic respiratory failure with hypercapnia
+9,J96.90,"Respiratory failure, unsp, unsp w hypoxia or hypercapnia"
+10,J96.91,"Respiratory failure, unspecified with hypoxia"
+11,J96.92,"Respiratory failure, unspecified with hypercapnia"
+12,J98.01,Acute bronchospasm
+13,J98.09,"Other diseases of bronchus, not elsewhere classified"
+14,J98.11,Atelectasis
+15,J98.19,Other pulmonary collapse
+16,J98.2,Interstitial emphysema
+17,J98.3,Compensatory emphysema
+18,J98.4,Other disorders of lung
+19,J98.51,Mediastinitis
+20,J98.59,"Other diseases of mediastinum, not elsewhere classified"
+21,J98.6,Disorders of diaphragm
+22,J98.8,Other specified respiratory disorders
+23,J98.9,"Respiratory disorder, unspecified"
+24,Respiratory disorders in diseases classified elsewhere (J99),J99  Respiratory disorders in diseases classified elsewhere
+25,J99,Respiratory disorders in diseases classified elsewhere

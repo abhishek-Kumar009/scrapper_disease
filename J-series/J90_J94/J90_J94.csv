@@ -1,0 +1,18 @@
+,category,condition
+4,J90,"Pleural effusion, not elsewhere classified"
+5,J91.0,Malignant pleural effusion
+6,J91.8,Pleural effusion in other conditions classified elsewhere
+7,J92.0,Pleural plaque with presence of asbestos
+8,J92.9,Pleural plaque without asbestos
+9,J93.0,Spontaneous tension pneumothorax
+10,J93.11,Primary spontaneous pneumothorax
+11,J93.12,Secondary spontaneous pneumothorax
+12,J93.81,Chronic pneumothorax
+13,J93.82,Other air leak
+14,J93.83,Other pneumothorax
+15,J93.9,"Pneumothorax, unspecified"
+16,J94.0,Chylous effusion
+17,J94.1,Fibrothorax
+18,J94.2,Hemothorax
+19,J94.8,Other specified pleural conditions
+20,J94.9,"Pleural condition, unspecified"

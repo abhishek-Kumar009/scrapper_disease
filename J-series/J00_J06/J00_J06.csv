@@ -1,0 +1,36 @@
+,category,condition
+4,J00,Acute nasopharyngitis [common cold]
+5,J01.00,"Acute maxillary sinusitis, unspecified"
+6,J01.01,Acute recurrent maxillary sinusitis
+7,J01.10,"Acute frontal sinusitis, unspecified"
+8,J01.11,Acute recurrent frontal sinusitis
+9,J01.20,"Acute ethmoidal sinusitis, unspecified"
+10,J01.21,Acute recurrent ethmoidal sinusitis
+11,J01.30,"Acute sphenoidal sinusitis, unspecified"
+12,J01.31,Acute recurrent sphenoidal sinusitis
+13,J01.40,"Acute pansinusitis, unspecified"
+14,J01.41,Acute recurrent pansinusitis
+15,J01.80,Other acute sinusitis
+16,J01.81,Other acute recurrent sinusitis
+17,J01.90,"Acute sinusitis, unspecified"
+18,J01.91,"Acute recurrent sinusitis, unspecified"
+19,J02.0,Streptococcal pharyngitis
+20,J02.8,Acute pharyngitis due to other specified organisms
+21,J02.9,"Acute pharyngitis, unspecified"
+22,J03.00,"Acute streptococcal tonsillitis, unspecified"
+23,J03.01,Acute recurrent streptococcal tonsillitis
+24,J03.80,Acute tonsillitis due to other specified organisms
+25,J03.81,Acute recurrent tonsillitis due to other specified organisms
+26,J03.90,"Acute tonsillitis, unspecified"
+27,J03.91,"Acute recurrent tonsillitis, unspecified"
+28,J04.0,Acute laryngitis
+29,J04.10,Acute tracheitis without obstruction
+30,J04.11,Acute tracheitis with obstruction
+31,J04.2,Acute laryngotracheitis
+32,J04.30,"Supraglottitis, unspecified, without obstruction"
+33,J04.31,"Supraglottitis, unspecified, with obstruction"
+34,J05.0,Acute obstructive laryngitis [croup]
+35,J05.10,Acute epiglottitis without obstruction
+36,J05.11,Acute epiglottitis with obstruction
+37,J06.0,Acute laryngopharyngitis
+38,J06.9,"Acute upper respiratory infection, unspecified"

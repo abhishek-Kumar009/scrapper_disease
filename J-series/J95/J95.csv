@@ -1,0 +1,32 @@
+,category,condition
+0,J95.00,Unspecified tracheostomy complication
+1,J95.01,Hemorrhage from tracheostomy stoma
+2,J95.02,Infection of tracheostomy stoma
+3,J95.03,Malfunction of tracheostomy stoma
+4,J95.04,Tracheoesophageal fistula following tracheostomy
+5,J95.09,Other tracheostomy complication
+6,J95.1,Acute pulmonary insufficiency following thoracic surgery
+7,J95.2,Acute pulmonary insufficiency following nonthoracic surgery
+8,J95.3,Chronic pulmonary insufficiency following surgery
+9,J95.4,Chemical pneumonitis due to anesthesia
+10,J95.5,Postprocedural subglottic stenosis
+11,J95.61,Intraop hemor/hemtom of a resp sys org comp resp sys proc
+12,J95.62,Intraop hemor/hemtom of a resp sys org comp oth procedure
+13,J95.71,Accidental pnctr & lac of a resp sys org dur resp sys proc
+14,J95.72,Acc pnctr & lac of a resp sys org during oth procedure
+15,J95.811,Postprocedural pneumothorax
+16,J95.812,Postprocedural air leak
+17,J95.821,Acute postprocedural respiratory failure
+18,J95.822,Acute and chronic postprocedural respiratory failure
+19,J95.830,Postproc hemor of a resp sys org fol a resp sys procedure
+20,J95.831,Postproc hemor of a resp sys org following other procedure
+21,J95.84,Transfusionrelated acute lung injury (TRALI)
+22,J95.850,Mechanical complication of respirator
+23,J95.851,Ventilator associated pneumonia
+24,J95.859,Other complication of respirator [ventilator]
+25,J95.860,Postproc hematoma of a resp sys org fol a resp sys procedure
+26,J95.861,Postproc hematoma of a resp sys org fol other procedure
+27,J95.862,Postproc seroma of a resp sys org fol a resp sys procedure
+28,J95.863,Postproc seroma of a resp sys org following other procedure
+29,J95.88,"Oth intraoperative complications of respiratory system, NEC"
+30,J95.89,"Oth postproc complications and disorders of resp sys, NEC"

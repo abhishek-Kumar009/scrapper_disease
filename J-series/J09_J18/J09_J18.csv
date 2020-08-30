@@ -1,0 +1,55 @@
+,category,condition
+0,J09.X1,Influenza due to ident novel influenza A virus w pneumonia
+1,J09.X2,Flu due to ident novel influenza A virus w oth resp manifest
+2,J09.X3,Influenza due to ident novel influenza A virus w GI manifest
+3,J09.X9,Flu due to ident novel influenza A virus w oth manifest
+4,J10.00,Flu due to oth ident flu virus w unsp type of pneumonia
+5,J10.01,Flu due to oth ident flu virus w same oth ident flu virus pn
+6,J10.08,Influenza due to oth ident influenza virus w oth pneumonia
+7,J10.1,Flu due to oth ident influenza virus w oth resp manifest
+8,J10.2,Influenza due to oth ident influenza virus w GI manifest
+9,J10.81,Influenza due to oth ident influenza virus w encephalopathy
+10,J10.82,Influenza due to oth ident influenza virus w myocarditis
+11,J10.83,Influenza due to oth ident influenza virus w otitis media
+12,J10.89,Influenza due to oth ident influenza virus w oth manifest
+13,J11.00,Flu due to unidentified flu virus w unsp type of pneumonia
+14,J11.08,Flu due to unidentified flu virus w specified pneumonia
+15,J11.1,Flu due to unidentified influenza virus w oth resp manifest
+16,J11.2,Influenza due to unidentified influenza virus w GI manifest
+17,J11.81,Flu due to unidentified influenza virus w encephalopathy
+18,J11.82,Influenza due to unidentified influenza virus w myocarditis
+19,J11.83,Influenza due to unidentified influenza virus w otitis media
+20,J11.89,Influenza due to unidentified influenza virus w oth manifest
+21,J12.0,Adenoviral pneumonia
+22,J12.1,Respiratory syncytial virus pneumonia
+23,J12.2,Parainfluenza virus pneumonia
+24,J12.3,Human metapneumovirus pneumonia
+25,J12.81,Pneumonia due to SARSassociated coronavirus
+26,J12.89,Other viral pneumonia
+27,J12.9,"Viral pneumonia, unspecified"
+28,Pneumonia due to Streptococcus pneumoniae (J13),J13  Pneumonia due to Streptococcus pneumoniae
+29,J13,Pneumonia due to Streptococcus pneumoniae
+30,Pneumonia due to Hemophilus influenzae (J14),J14  Pneumonia due to Hemophilus influenzae
+31,J14,Pneumonia due to Hemophilus influenzae
+32,J15.0,Pneumonia due to Klebsiella pneumoniae
+33,J15.1,Pneumonia due to Pseudomonas
+34,J15.20,"Pneumonia due to staphylococcus, unspecified"
+35,J15.211,Pneumonia due to methicillin suscep staph
+36,J15.212,Pneumonia due to Methicillin resistant Staphylococcus aureus
+37,J15.29,Pneumonia due to other staphylococcus
+38,J15.3,"Pneumonia due to streptococcus, group B"
+39,J15.4,Pneumonia due to other streptococci
+40,J15.5,Pneumonia due to Escherichia coli
+41,J15.6,Pneumonia due to other Gramnegative bacteria
+42,J15.7,Pneumonia due to Mycoplasma pneumoniae
+43,J15.8,Pneumonia due to other specified bacteria
+44,J15.9,Unspecified bacterial pneumonia
+45,J16.0,Chlamydial pneumonia
+46,J16.8,Pneumonia due to other specified infectious organisms
+47,Pneumonia in diseases classified elsewhere (J17),J17  Pneumonia in diseases classified elsewhere
+48,J17,Pneumonia in diseases classified elsewhere
+49,J18.0,"Bronchopneumonia, unspecified organism"
+50,J18.1,"Lobar pneumonia, unspecified organism"
+51,J18.2,"Hypostatic pneumonia, unspecified organism"
+52,J18.8,"Other pneumonia, unspecified organism"
+53,J18.9,"Pneumonia, unspecified organism"
