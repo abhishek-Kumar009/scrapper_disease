@@ -1,0 +1,9 @@
+,category,condition
+4,I00,Rheumatic fever without heart involvement
+5,I01.0,Acute rheumatic pericarditis
+6,I01.1,Acute rheumatic endocarditis
+7,I01.2,Acute rheumatic myocarditis
+8,I01.8,Other acute rheumatic heart disease
+9,I01.9,"Acute rheumatic heart disease, unspecified"
+10,I02.0,Rheumatic chorea with heart involvement
+11,I02.9,Rheumatic chorea without heart involvement

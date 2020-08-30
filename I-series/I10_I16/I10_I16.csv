@@ -1,0 +1,18 @@
+,category,condition
+4,I10,Essential (primary) hypertension
+5,I11.0,Hypertensive heart disease with heart failure
+6,I11.9,Hypertensive heart disease without heart failure
+7,I12.0,Hyp chr kidney disease w stage 5 chr kidney disease or ESRD
+8,I12.9,Hypertensive chronic kidney disease w stg 14/unsp chr kdny
+9,I13.0,Hyp hrt & chr kdny dis w hrt fail and stg 14/unsp chr kdny
+10,I13.10,"Hyp hrt & chr kdny dis w/o hrt fail, w stg 14/unsp chr kdny"
+11,I13.11,"Hyp hrt and chr kdny dis w/o hrt fail, w stg 5 chr kdny/ESRD"
+12,I13.2,Hyp hrt & chr kdny dis w hrt fail and w stg 5 chr kdny/ESRD
+13,I15.0,Renovascular hypertension
+14,I15.1,Hypertension secondary to other renal disorders
+15,I15.2,Hypertension secondary to endocrine disorders
+16,I15.8,Other secondary hypertension
+17,I15.9,"Secondary hypertension, unspecified"
+18,I16.0,Hypertensive urgency
+19,I16.1,Hypertensive emergency
+20,I16.9,"Hypertensive crisis, unspecified"

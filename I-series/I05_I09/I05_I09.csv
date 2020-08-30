@@ -1,0 +1,28 @@
+,category,condition
+0,I05.0,Rheumatic mitral stenosis
+1,I05.1,Rheumatic mitral insufficiency
+2,I05.2,Rheumatic mitral stenosis with insufficiency
+3,I05.8,Other rheumatic mitral valve diseases
+4,I05.9,"Rheumatic mitral valve disease, unspecified"
+5,I06.0,Rheumatic aortic stenosis
+6,I06.1,Rheumatic aortic insufficiency
+7,I06.2,Rheumatic aortic stenosis with insufficiency
+8,I06.8,Other rheumatic aortic valve diseases
+9,I06.9,"Rheumatic aortic valve disease, unspecified"
+10,I07.0,Rheumatic tricuspid stenosis
+11,I07.1,Rheumatic tricuspid insufficiency
+12,I07.2,Rheumatic tricuspid stenosis and insufficiency
+13,I07.8,Other rheumatic tricuspid valve diseases
+14,I07.9,"Rheumatic tricuspid valve disease, unspecified"
+15,I08.0,Rheumatic disorders of both mitral and aortic valves
+16,I08.1,Rheumatic disorders of both mitral and tricuspid valves
+17,I08.2,Rheumatic disorders of both aortic and tricuspid valves
+18,I08.3,"Comb rheumatic disord of mitral, aortic and tricuspid valves"
+19,I08.8,Other rheumatic multiple valve diseases
+20,I08.9,"Rheumatic multiple valve disease, unspecified"
+21,I09.0,Rheumatic myocarditis
+22,I09.1,"Rheumatic diseases of endocardium, valve unspecified"
+23,I09.2,Chronic rheumatic pericarditis
+24,I09.81,Rheumatic heart failure
+25,I09.89,Other specified rheumatic heart diseases
+26,I09.9,"Rheumatic heart disease, unspecified"

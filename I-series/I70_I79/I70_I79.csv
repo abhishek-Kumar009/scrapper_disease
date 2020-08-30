@@ -1,0 +1,326 @@
+,category,condition
+0,I70.0,Atherosclerosis of aorta
+1,I70.1,Atherosclerosis of renal artery
+2,I70.201,"Unsp athscl native arteries of extremities, right leg"
+3,I70.202,"Unsp athscl native arteries of extremities, left leg"
+4,I70.203,"Unsp athscl native arteries of extremities, bilateral legs"
+5,I70.208,"Unsp athscl native arteries of extremities, oth extremity"
+6,I70.209,"Unsp athscl native arteries of extremities, unsp extremity"
+7,I70.211,"Athscl native arteries of extrm w intrmt claud, right leg"
+8,I70.212,"Athscl native arteries of extrm w intrmt claud, left leg"
+9,I70.213,"Athscl native arteries of extrm w intrmt claud, bi legs"
+10,I70.218,"Athscl native arteries of extrm w intrmt claud, oth extrm"
+11,I70.219,"Athscl native arteries of extrm w intrmt claud, unsp extrm"
+12,I70.221,"Athscl native arteries of extremities w rest pain, right leg"
+13,I70.222,"Athscl native arteries of extremities w rest pain, left leg"
+14,I70.223,"Athscl native arteries of extrm w rest pain, bilateral legs"
+15,I70.228,"Athscl native arteries of extrm w rest pain, oth extremity"
+16,I70.229,"Athscl native arteries of extrm w rest pain, unsp extremity"
+17,I70.231,Athscl native arteries of right leg w ulceration of thigh
+18,I70.232,Athscl native arteries of right leg w ulceration of calf
+19,I70.233,Athscl native arteries of right leg w ulceration of ankle
+20,I70.234,Athscl native art of right leg w ulcer of heel and midfoot
+21,I70.235,Athscl native arteries of right leg w ulcer oth prt foot
+22,I70.238,Athscl native art of right leg with ulcer oth prt low leg  UPDATED CODE
+23,I70.239,Athscl native arteries of right leg w ulcer of unsp site
+24,I70.241,Athscl native arteries of left leg w ulceration of thigh
+25,I70.242,Athscl native arteries of left leg w ulceration of calf
+26,I70.243,Athscl native arteries of left leg w ulceration of ankle
+27,I70.244,Athscl native art of left leg w ulcer of heel and midfoot
+28,I70.245,Athscl native arteries of left leg w ulceration oth prt foot
+29,I70.248,Athscl native art of left leg with ulcer oth prt low leg  UPDATED CODE
+30,I70.249,Athscl native arteries of left leg w ulceration of unsp site
+31,I70.25,Athscl native arteries of extremities w ulceration
+32,I70.261,"Athscl native arteries of extremities w gangrene, right leg"
+33,I70.262,"Athscl native arteries of extremities w gangrene, left leg"
+34,I70.263,"Athscl native arteries of extrm w gangrene, bilateral legs"
+35,I70.268,"Athscl native arteries of extrm w gangrene, oth extremity"
+36,I70.269,"Athscl native arteries of extrm w gangrene, unsp extremity"
+37,I70.291,"Oth athscl native arteries of extremities, right leg"
+38,I70.292,"Oth athscl native arteries of extremities, left leg"
+39,I70.293,"Oth athscl native arteries of extremities, bilateral legs"
+40,I70.298,"Oth athscl native arteries of extremities, oth extremity"
+41,I70.299,"Oth athscl native arteries of extremities, unsp extremity"
+42,I70.301,"Unsp athscl unsp type bypass of the extremities, right leg"
+43,I70.302,"Unsp athscl unsp type bypass of the extremities, left leg"
+44,I70.303,"Unsp athscl unsp type bypass of the extrm, bilateral legs"
+45,I70.308,"Unsp athscl unsp type bypass of the extrm, oth extremity"
+46,I70.309,"Unsp athscl unsp type bypass of the extrm, unsp extremity"
+47,I70.311,"Athscl unsp type bypass of extrm w intrmt claud, right leg"
+48,I70.312,"Athscl unsp type bypass of extrm w intrmt claud, left leg"
+49,I70.313,"Athscl unsp type bypass of the extrm w intrmt claud, bi legs"
+50,I70.318,"Athscl unsp type bypass of extrm w intrmt claud, oth extrm"
+51,I70.319,"Athscl unsp type bypass of extrm w intrmt claud, unsp extrm"
+52,I70.321,"Athscl unsp type bypass of the extrm w rest pain, right leg"
+53,I70.322,"Athscl unsp type bypass of the extrm w rest pain, left leg"
+54,I70.323,"Athscl unsp type bypass of the extrm w rest pain, bi legs"
+55,I70.328,"Athscl unsp type bypass of the extrm w rest pain, oth extrm"
+56,I70.329,"Athscl unsp type bypass of the extrm w rest pain, unsp extrm"
+57,I70.331,Athscl unsp type bypass of the right leg w ulcer of thigh
+58,I70.332,Athscl unsp type bypass of the right leg w ulcer of calf
+59,I70.333,Athscl unsp type bypass of the right leg w ulcer of ankle
+60,I70.334,Athscl unsp type bypass of r leg w ulcer of heel and midft
+61,I70.335,Athscl unsp type bypass of right leg w ulcer oth prt foot
+62,I70.338,Athscl unsp type bypass of right leg w ulcer oth prt low leg
+63,I70.339,Athscl unsp type bypass of right leg w ulcer of unsp site
+64,I70.341,Athscl unsp type bypass of the left leg w ulcer of thigh
+65,I70.342,Athscl unsp type bypass of the left leg w ulceration of calf
+66,I70.343,Athscl unsp type bypass of the left leg w ulcer of ankle
+67,I70.344,Athscl unsp type bypass of left leg w ulc of heel and midft
+68,I70.345,Athscl unsp type bypass of the left leg w ulcer oth prt foot
+69,I70.348,Athscl unsp type bypass of left leg w ulcer oth prt low leg
+70,I70.349,Athscl unsp type bypass of the left leg w ulcer of unsp site
+71,I70.35,Athscl unsp type bypass graft(s) of extremity w ulceration
+72,I70.361,"Athscl unsp type bypass of the extrm w gangrene, right leg"
+73,I70.362,"Athscl unsp type bypass of the extrm w gangrene, left leg"
+74,I70.363,"Athscl unsp type bypass of the extrm w gangrene, bi legs"
+75,I70.368,"Athscl unsp type bypass of the extrm w gangrene, oth extrm"
+76,I70.369,"Athscl unsp type bypass of the extrm w gangrene, unsp extrm"
+77,I70.391,"Oth athscl unsp type bypass of the extremities, right leg"
+78,I70.392,"Oth athscl unsp type bypass of the extremities, left leg"
+79,I70.393,"Oth athscl unsp type bypass of the extrm, bilateral legs"
+80,I70.398,"Oth athscl unsp type bypass of the extrm, oth extremity"
+81,I70.399,"Oth athscl unsp type bypass of the extrm, unsp extremity"
+82,I70.401,"Unsp athscl autologous vein bypass of the extrm, right leg"
+83,I70.402,"Unsp athscl autologous vein bypass of the extrm, left leg"
+84,I70.403,"Unsp athscl autol vein bypass of the extrm, bilateral legs"
+85,I70.408,"Unsp athscl autol vein bypass of the extrm, oth extremity"
+86,I70.409,"Unsp athscl autol vein bypass of the extrm, unsp extremity"
+87,I70.411,"Athscl autol vein bypass of extrm w intrmt claud, right leg"
+88,I70.412,"Athscl autol vein bypass of extrm w intrmt claud, left leg"
+89,I70.413,"Athscl autol vein bypass of extrm w intrmt claud, bi legs"
+90,I70.418,"Athscl autol vein bypass of extrm w intrmt claud, oth extrm"
+91,I70.419,"Athscl autol vein bypass of extrm w intrmt claud, unsp extrm"
+92,I70.421,"Athscl autol vein bypass of the extrm w rest pain, right leg"
+93,I70.422,"Athscl autol vein bypass of the extrm w rest pain, left leg"
+94,I70.423,"Athscl autol vein bypass of the extrm w rest pain, bi legs"
+95,I70.428,"Athscl autol vein bypass of the extrm w rest pain, oth extrm"
+96,I70.429,"Athscl autol vein bypass of extrm w rest pain, unsp extrm"
+97,I70.431,Athscl autol vein bypass of the right leg w ulcer of thigh
+98,I70.432,Athscl autol vein bypass of the right leg w ulcer of calf
+99,I70.433,Athscl autol vein bypass of the right leg w ulcer of ankle
+100,I70.434,Athscl autol vein bypass of r leg w ulcer of heel and midft
+101,I70.435,Athscl autol vein bypass of right leg w ulcer oth prt foot
+102,I70.438,Athscl autol vein bypass of r leg w ulcer oth prt low leg
+103,I70.439,Athscl autol vein bypass of right leg w ulcer of unsp site
+104,I70.441,Athscl autol vein bypass of the left leg w ulcer of thigh
+105,I70.442,Athscl autol vein bypass of the left leg w ulcer of calf
+106,I70.443,Athscl autol vein bypass of the left leg w ulcer of ankle
+107,I70.444,Athscl autol vein bypass of left leg w ulc of heel and midft
+108,I70.445,Athscl autol vein bypass of left leg w ulcer oth prt foot
+109,I70.448,Athscl autol vein bypass of left leg w ulcer oth prt low leg
+110,I70.449,Athscl autol vein bypass of left leg w ulcer of unsp site
+111,I70.45,Athscl autologous vein bypass of extremity w ulceration
+112,I70.461,"Athscl autol vein bypass of the extrm w gangrene, right leg"
+113,I70.462,"Athscl autol vein bypass of the extrm w gangrene, left leg"
+114,I70.463,"Athscl autol vein bypass of the extrm w gangrene, bi legs"
+115,I70.468,"Athscl autol vein bypass of the extrm w gangrene, oth extrm"
+116,I70.469,"Athscl autol vein bypass of the extrm w gangrene, unsp extrm"
+117,I70.491,"Oth athscl autologous vein bypass of the extrm, right leg"
+118,I70.492,"Oth athscl autologous vein bypass of the extrm, left leg"
+119,I70.493,"Oth athscl autol vein bypass of the extrm, bilateral legs"
+120,I70.498,"Oth athscl autol vein bypass of the extrm, oth extremity"
+121,I70.499,"Oth athscl autol vein bypass of the extrm, unsp extremity"
+122,I70.501,"Unsp athscl nonaut bio bypass of the extremities, right leg"
+123,I70.502,"Unsp athscl nonaut bio bypass of the extremities, left leg"
+124,I70.503,"Unsp athscl nonaut bio bypass of the extrm, bilateral legs"
+125,I70.508,"Unsp athscl nonaut bio bypass of the extrm, oth extremity"
+126,I70.509,"Unsp athscl nonaut bio bypass of the extrm, unsp extremity"
+127,I70.511,"Athscl nonaut bio bypass of extrm w intrmt claud, right leg"
+128,I70.512,"Athscl nonaut bio bypass of extrm w intrmt claud, left leg"
+129,I70.513,"Athscl nonaut bio bypass of extrm w intrmt claud, bi legs"
+130,I70.518,"Athscl nonaut bio bypass of extrm w intrmt claud, oth extrm"
+131,I70.519,"Athscl nonaut bio bypass of extrm w intrmt claud, unsp extrm"
+132,I70.521,"Athscl nonaut bio bypass of the extrm w rest pain, right leg"
+133,I70.522,"Athscl nonaut bio bypass of the extrm w rest pain, left leg"
+134,I70.523,"Athscl nonaut bio bypass of the extrm w rest pain, bi legs"
+135,I70.528,"Athscl nonaut bio bypass of the extrm w rest pain, oth extrm"
+136,I70.529,"Athscl nonaut bio bypass of extrm w rest pain, unsp extrm"
+137,I70.531,Athscl nonaut bio bypass of the right leg w ulcer of thigh
+138,I70.532,Athscl nonaut bio bypass of the right leg w ulcer of calf
+139,I70.533,Athscl nonaut bio bypass of the right leg w ulcer of ankle
+140,I70.534,Athscl nonaut bio bypass of r leg w ulcer of heel and midft
+141,I70.535,Athscl nonaut bio bypass of right leg w ulcer oth prt foot
+142,I70.538,Athscl nonaut bio bypass of r leg w ulcer oth prt low leg
+143,I70.539,Athscl nonaut bio bypass of right leg w ulcer of unsp site
+144,I70.541,Athscl nonaut bio bypass of the left leg w ulcer of thigh
+145,I70.542,Athscl nonaut bio bypass of the left leg w ulcer of calf
+146,I70.543,Athscl nonaut bio bypass of the left leg w ulcer of ankle
+147,I70.544,Athscl nonaut bio bypass of left leg w ulc of heel and midft
+148,I70.545,Athscl nonaut bio bypass of left leg w ulcer oth prt foot
+149,I70.548,Athscl nonaut bio bypass of left leg w ulcer oth prt low leg
+150,I70.549,Athscl nonaut bio bypass of left leg w ulcer of unsp site
+151,I70.55,Athscl nonautologous bio bypass of extremity w ulceration
+152,I70.561,"Athscl nonaut bio bypass of the extrm w gangrene, right leg"
+153,I70.562,"Athscl nonaut bio bypass of the extrm w gangrene, left leg"
+154,I70.563,"Athscl nonaut bio bypass of the extrm w gangrene, bi legs"
+155,I70.568,"Athscl nonaut bio bypass of the extrm w gangrene, oth extrm"
+156,I70.569,"Athscl nonaut bio bypass of the extrm w gangrene, unsp extrm"
+157,I70.591,"Oth athscl nonaut bio bypass of the extremities, right leg"
+158,I70.592,"Oth athscl nonaut bio bypass of the extremities, left leg"
+159,I70.593,"Oth athscl nonaut bio bypass of the extrm, bilateral legs"
+160,I70.598,"Oth athscl nonaut bio bypass of the extrm, oth extremity"
+161,I70.599,"Oth athscl nonaut bio bypass of the extrm, unsp extremity"
+162,I70.601,"Unsp athscl nonbiol bypass of the extremities, right leg"
+163,I70.602,"Unsp athscl nonbiol bypass of the extremities, left leg"
+164,I70.603,"Unsp athscl nonbiol bypass of the extrm, bilateral legs"
+165,I70.608,"Unsp athscl nonbiol bypass of the extremities, oth extremity"
+166,I70.609,"Unsp athscl nonbiol bypass of the extrm, unsp extremity"
+167,I70.611,"Athscl nonbiol bypass of the extrm w intrmt claud, right leg"
+168,I70.612,"Athscl nonbiol bypass of the extrm w intrmt claud, left leg"
+169,I70.613,"Athscl nonbiol bypass of the extrm w intrmt claud, bi legs"
+170,I70.618,"Athscl nonbiol bypass of the extrm w intrmt claud, oth extrm"
+171,I70.619,"Athscl nonbiol bypass of extrm w intrmt claud, unsp extrm"
+172,I70.621,"Athscl nonbiol bypass of the extrm w rest pain, right leg"
+173,I70.622,"Athscl nonbiol bypass of the extrm w rest pain, left leg"
+174,I70.623,"Athscl nonbiol bypass of the extrm w rest pain, bi legs"
+175,I70.628,"Athscl nonbiol bypass of the extrm w rest pain, oth extrm"
+176,I70.629,"Athscl nonbiol bypass of the extrm w rest pain, unsp extrm"
+177,I70.631,Athscl nonbiol bypass of the right leg w ulceration of thigh
+178,I70.632,Athscl nonbiol bypass of the right leg w ulceration of calf
+179,I70.633,Athscl nonbiol bypass of the right leg w ulceration of ankle
+180,I70.634,Athscl nonbiol bypass of right leg w ulcer of heel and midft
+181,I70.635,Athscl nonbiol bypass of the right leg w ulcer oth prt foot
+182,I70.638,Athscl nonbiol bypass of right leg w ulcer oth prt low leg
+183,I70.639,Athscl nonbiol bypass of the right leg w ulcer of unsp site
+184,I70.641,Athscl nonbiol bypass of the left leg w ulceration of thigh
+185,I70.642,Athscl nonbiol bypass of the left leg w ulceration of calf
+186,I70.643,Athscl nonbiol bypass of the left leg w ulceration of ankle
+187,I70.644,Athscl nonbiol bypass of left leg w ulcer of heel and midft
+188,I70.645,Athscl nonbiol bypass of the left leg w ulcer oth prt foot
+189,I70.648,Athscl nonbiol bypass of left leg w ulcer oth prt low leg
+190,I70.649,Athscl nonbiol bypass of the left leg w ulcer of unsp site
+191,I70.65,Athscl nonbiological bypass of extremity w ulceration
+192,I70.661,"Athscl nonbiol bypass of the extrm w gangrene, right leg"
+193,I70.662,"Athscl nonbiol bypass of the extrm w gangrene, left leg"
+194,I70.663,"Athscl nonbiol bypass of the extrm w gangrene, bi legs"
+195,I70.668,"Athscl nonbiol bypass of the extrm w gangrene, oth extremity"
+196,I70.669,"Athscl nonbiol bypass of the extrm w gangrene, unsp extrm"
+197,I70.691,"Oth athscl nonbiol bypass of the extremities, right leg"
+198,I70.692,"Oth athscl nonbiological bypass of the extremities, left leg"
+199,I70.693,"Oth athscl nonbiol bypass of the extremities, bilateral legs"
+200,I70.698,"Oth athscl nonbiol bypass of the extremities, oth extremity"
+201,I70.699,"Oth athscl nonbiol bypass of the extremities, unsp extremity"
+202,I70.701,"Unsp athscl type of bypass of the extremities, right leg"
+203,I70.702,"Unsp athscl type of bypass of the extremities, left leg"
+204,I70.703,"Unsp athscl type of bypass of the extrm, bilateral legs"
+205,I70.708,"Unsp athscl type of bypass of the extremities, oth extremity"
+206,I70.709,"Unsp athscl type of bypass of the extrm, unsp extremity"
+207,I70.711,"Athscl type of bypass of the extrm w intrmt claud, right leg"
+208,I70.712,"Athscl type of bypass of the extrm w intrmt claud, left leg"
+209,I70.713,"Athscl type of bypass of the extrm w intrmt claud, bi legs"
+210,I70.718,"Athscl type of bypass of the extrm w intrmt claud, oth extrm"
+211,I70.719,"Athscl type of bypass of extrm w intrmt claud, unsp extrm"
+212,I70.721,"Athscl type of bypass of the extrm w rest pain, right leg"
+213,I70.722,"Athscl type of bypass of the extrm w rest pain, left leg"
+214,I70.723,"Athscl type of bypass of the extrm w rest pain, bi legs"
+215,I70.728,"Athscl type of bypass of the extrm w rest pain, oth extrm"
+216,I70.729,"Athscl type of bypass of the extrm w rest pain, unsp extrm"
+217,I70.731,Athscl type of bypass of the right leg w ulceration of thigh
+218,I70.732,Athscl type of bypass of the right leg w ulceration of calf
+219,I70.733,Athscl type of bypass of the right leg w ulceration of ankle
+220,I70.734,Athscl type of bypass of right leg w ulcer of heel and midft
+221,I70.735,Athscl type of bypass of the right leg w ulcer oth prt foot
+222,I70.738,Athscl type of bypass of right leg w ulcer oth prt low leg
+223,I70.739,Athscl type of bypass of the right leg w ulcer of unsp site
+224,I70.741,Athscl type of bypass of the left leg w ulceration of thigh
+225,I70.742,Athscl type of bypass of the left leg w ulceration of calf
+226,I70.743,Athscl type of bypass of the left leg w ulceration of ankle
+227,I70.744,Athscl type of bypass of left leg w ulcer of heel and midft
+228,I70.745,Athscl type of bypass of the left leg w ulcer oth prt foot
+229,I70.748,Athscl type of bypass of left leg w ulcer oth prt low leg
+230,I70.749,Athscl type of bypass of the left leg w ulcer of unsp site
+231,I70.75,Athscl type of bypass graft(s) of extremity w ulceration
+232,I70.761,"Athscl type of bypass of the extrm w gangrene, right leg"
+233,I70.762,"Athscl type of bypass of the extrm w gangrene, left leg"
+234,I70.763,"Athscl type of bypass of the extrm w gangrene, bi legs"
+235,I70.768,"Athscl type of bypass of the extrm w gangrene, oth extremity"
+236,I70.769,"Athscl type of bypass of the extrm w gangrene, unsp extrm"
+237,I70.791,"Oth athscl type of bypass of the extremities, right leg"
+238,I70.792,"Oth athscl type of bypass of the extremities, left leg"
+239,I70.793,"Oth athscl type of bypass of the extremities, bilateral legs"
+240,I70.798,"Oth athscl type of bypass of the extremities, oth extremity"
+241,I70.799,"Oth athscl type of bypass of the extremities, unsp extremity"
+242,I70.8,Atherosclerosis of other arteries
+243,I70.90,Unspecified atherosclerosis
+244,I70.91,Generalized atherosclerosis
+245,I70.92,Chronic total occlusion of artery of the extremities
+246,I71.00,Dissection of unspecified site of aorta
+247,I71.01,Dissection of thoracic aorta
+248,I71.02,Dissection of abdominal aorta
+249,I71.03,Dissection of thoracoabdominal aorta
+250,I71.1,"Thoracic aortic aneurysm, ruptured"
+251,I71.2,"Thoracic aortic aneurysm, without rupture"
+252,I71.3,"Abdominal aortic aneurysm, ruptured"
+253,I71.4,"Abdominal aortic aneurysm, without rupture"
+254,I71.5,"Thoracoabdominal aortic aneurysm, ruptured"
+255,I71.6,"Thoracoabdominal aortic aneurysm, without rupture"
+256,I71.8,"Aortic aneurysm of unspecified site, ruptured"
+257,I71.9,"Aortic aneurysm of unspecified site, without rupture"
+258,I72.0,Aneurysm of carotid artery
+259,I72.1,Aneurysm of artery of upper extremity
+260,I72.2,Aneurysm of renal artery
+261,I72.3,Aneurysm of iliac artery
+262,I72.4,Aneurysm of artery of lower extremity
+263,I72.5,Aneurysm of other precerebral arteries
+264,I72.6,Aneurysm of vertebral artery
+265,I72.8,Aneurysm of other specified arteries
+266,I72.9,Aneurysm of unspecified site
+267,I73.00,Raynaud's syndrome without gangrene
+268,I73.01,Raynaud's syndrome with gangrene
+269,I73.1,Thromboangiitis obliterans [Buerger's disease]
+270,I73.81,Erythromelalgia
+271,I73.89,Other specified peripheral vascular diseases
+272,I73.9,"Peripheral vascular disease, unspecified"
+273,I74.01,Saddle embolus of abdominal aorta
+274,I74.09,Other arterial embolism and thrombosis of abdominal aorta
+275,I74.10,Embolism and thrombosis of unspecified parts of aorta
+276,I74.11,Embolism and thrombosis of thoracic aorta
+277,I74.19,Embolism and thrombosis of other parts of aorta
+278,I74.2,Embolism and thrombosis of arteries of the upper extremities
+279,I74.3,Embolism and thrombosis of arteries of the lower extremities
+280,I74.4,"Embolism and thrombosis of arteries of extremities, unsp"
+281,I74.5,Embolism and thrombosis of iliac artery
+282,I74.8,Embolism and thrombosis of other arteries
+283,I74.9,Embolism and thrombosis of unspecified artery
+284,I75.011,Atheroembolism of right upper extremity
+285,I75.012,Atheroembolism of left upper extremity
+286,I75.013,Atheroembolism of bilateral upper extremities
+287,I75.019,Atheroembolism of unspecified upper extremity
+288,I75.021,Atheroembolism of right lower extremity
+289,I75.022,Atheroembolism of left lower extremity
+290,I75.023,Atheroembolism of bilateral lower extremities
+291,I75.029,Atheroembolism of unspecified lower extremity
+292,I75.81,Atheroembolism of kidney
+293,I75.89,Atheroembolism of other site
+294,Septic arterial embolism (I76),I76  Septic arterial embolism
+295,I76,Septic arterial embolism
+296,I77.0,"Arteriovenous fistula, acquired"
+297,I77.1,Stricture of artery
+298,I77.2,Rupture of artery
+299,I77.3,Arterial fibromuscular dysplasia
+300,I77.4,Celiac artery compression syndrome
+301,I77.5,Necrosis of artery
+302,I77.6,"Arteritis, unspecified"
+303,I77.70,Dissection of unspecified artery
+304,I77.71,Dissection of carotid artery
+305,I77.72,Dissection of iliac artery
+306,I77.73,Dissection of renal artery
+307,I77.74,Dissection of vertebral artery
+308,I77.75,Dissection of other precerebral arteries
+309,I77.76,Dissection of artery of upper extremity
+310,I77.77,Dissection of artery of lower extremity
+311,I77.79,Dissection of other specified artery
+312,I77.810,Thoracic aortic ectasia
+313,I77.811,Abdominal aortic ectasia
+314,I77.812,Thoracoabdominal aortic ectasia
+315,I77.819,"Aortic ectasia, unspecified site"
+316,I77.89,Other specified disorders of arteries and arterioles
+317,I77.9,"Disorder of arteries and arterioles, unspecified"
+318,I78.0,Hereditary hemorrhagic telangiectasia
+319,I78.1,"Nevus, nonneoplastic"
+320,I78.8,Other diseases of capillaries
+321,I78.9,"Disease of capillaries, unspecified"
+322,I79.0,Aneurysm of aorta in diseases classified elsewhere
+323,I79.1,Aortitis in diseases classified elsewhere
+324,I79.8,"Oth disord of art,arterioles & capilare in dis classd elswhr"

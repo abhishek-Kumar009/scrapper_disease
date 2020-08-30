@@ -1,0 +1,140 @@
+,category,condition
+0,I30.0,Acute nonspecific idiopathic pericarditis
+1,I30.1,Infective pericarditis
+2,I30.8,Other forms of acute pericarditis
+3,I30.9,"Acute pericarditis, unspecified"
+4,I31.0,Chronic adhesive pericarditis
+5,I31.1,Chronic constrictive pericarditis
+6,I31.2,"Hemopericardium, not elsewhere classified"
+7,I31.3,Pericardial effusion (noninflammatory)
+8,I31.4,Cardiac tamponade
+9,I31.8,Other specified diseases of pericardium
+10,I31.9,"Disease of pericardium, unspecified"
+11,Pericarditis in diseases classified elsewhere (I32),I32  Pericarditis in diseases classified elsewhere
+12,I32,Pericarditis in diseases classified elsewhere
+13,I33.0,Acute and subacute infective endocarditis
+14,I33.9,"Acute and subacute endocarditis, unspecified"
+15,I34.0,Nonrheumatic mitral (valve) insufficiency
+16,I34.1,Nonrheumatic mitral (valve) prolapse
+17,I34.2,Nonrheumatic mitral (valve) stenosis
+18,I34.8,Other nonrheumatic mitral valve disorders
+19,I34.9,"Nonrheumatic mitral valve disorder, unspecified"
+20,I35.0,Nonrheumatic aortic (valve) stenosis
+21,I35.1,Nonrheumatic aortic (valve) insufficiency
+22,I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency
+23,I35.8,Other nonrheumatic aortic valve disorders
+24,I35.9,"Nonrheumatic aortic valve disorder, unspecified"
+25,I36.0,Nonrheumatic tricuspid (valve) stenosis
+26,I36.1,Nonrheumatic tricuspid (valve) insufficiency
+27,I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+28,I36.8,Other nonrheumatic tricuspid valve disorders
+29,I36.9,"Nonrheumatic tricuspid valve disorder, unspecified"
+30,I37.0,Nonrheumatic pulmonary valve stenosis
+31,I37.1,Nonrheumatic pulmonary valve insufficiency
+32,I37.2,Nonrheumatic pulmonary valve stenosis with insufficiency
+33,I37.8,Other nonrheumatic pulmonary valve disorders
+34,I37.9,"Nonrheumatic pulmonary valve disorder, unspecified"
+35,"Endocarditis, valve unspecified (I38)","I38  Endocarditis, valve unspecified"
+36,I38,"Endocarditis, valve unspecified"
+37,Endocarditis and heart valve disord in dis classd elswhr (I39),I39  Endocarditis and heart valve disord in dis classd elswhr
+38,I39,Endocarditis and heart valve disord in dis classd elswhr
+39,I40.0,Infective myocarditis
+40,I40.1,Isolated myocarditis
+41,I40.8,Other acute myocarditis
+42,I40.9,"Acute myocarditis, unspecified"
+43,Myocarditis in diseases classified elsewhere (I41),I41  Myocarditis in diseases classified elsewhere
+44,I41,Myocarditis in diseases classified elsewhere
+45,I42.0,Dilated cardiomyopathy
+46,I42.1,Obstructive hypertrophic cardiomyopathy
+47,I42.2,Other hypertrophic cardiomyopathy
+48,I42.3,Endomyocardial (eosinophilic) disease
+49,I42.4,Endocardial fibroelastosis
+50,I42.5,Other restrictive cardiomyopathy
+51,I42.6,Alcoholic cardiomyopathy
+52,I42.7,Cardiomyopathy due to drug and external agent
+53,I42.8,Other cardiomyopathies
+54,I42.9,"Cardiomyopathy, unspecified"
+55,Cardiomyopathy in diseases classified elsewhere (I43),I43  Cardiomyopathy in diseases classified elsewhere
+56,I43,Cardiomyopathy in diseases classified elsewhere
+57,I44.0,"Atrioventricular block, first degree"
+58,I44.1,"Atrioventricular block, second degree"
+59,I44.2,"Atrioventricular block, complete"
+60,I44.30,Unspecified atrioventricular block
+61,I44.39,Other atrioventricular block
+62,I44.4,Left anterior fascicular block
+63,I44.5,Left posterior fascicular block
+64,I44.60,Unspecified fascicular block
+65,I44.69,Other fascicular block
+66,I44.7,"Left bundlebranch block, unspecified"
+67,I45.0,Right fascicular block
+68,I45.10,Unspecified right bundlebranch block
+69,I45.19,Other right bundlebranch block
+70,I45.2,Bifascicular block
+71,I45.3,Trifascicular block
+72,I45.4,Nonspecific intraventricular block
+73,I45.5,Other specified heart block
+74,I45.6,Preexcitation syndrome
+75,I45.81,Long QT syndrome
+76,I45.89,Other specified conduction disorders
+77,I45.9,"Conduction disorder, unspecified"
+78,I46.2,Cardiac arrest due to underlying cardiac condition
+79,I46.8,Cardiac arrest due to other underlying condition
+80,I46.9,"Cardiac arrest, cause unspecified"
+81,I47.0,Reentry ventricular arrhythmia
+82,I47.1,Supraventricular tachycardia
+83,I47.2,Ventricular tachycardia
+84,I47.9,"Paroxysmal tachycardia, unspecified"
+85,I48.0,Paroxysmal atrial fibrillation
+86,I48.11,Longstanding persistent atrial fibrillation  NEW CODE
+87,I48.19,Other persistent atrial fibrillation  NEW CODE
+88,I48.20,"Chronic atrial fibrillation, unspecified  NEW CODE"
+89,I48.21,Permanent atrial fibrillation  NEW CODE
+90,I48.3,Typical atrial flutter
+91,I48.4,Atypical atrial flutter
+92,I48.91,Unspecified atrial fibrillation
+93,I48.92,Unspecified atrial flutter
+94,I49.01,Ventricular fibrillation
+95,I49.02,Ventricular flutter
+96,I49.1,Atrial premature depolarization
+97,I49.2,Junctional premature depolarization
+98,I49.3,Ventricular premature depolarization
+99,I49.40,Unspecified premature depolarization
+100,I49.49,Other premature depolarization
+101,I49.5,Sick sinus syndrome
+102,I49.8,Other specified cardiac arrhythmias
+103,I49.9,"Cardiac arrhythmia, unspecified"
+104,I50.1,"Left ventricular failure, unspecified"
+105,I50.20,Unspecified systolic (congestive) heart failure
+106,I50.21,Acute systolic (congestive) heart failure
+107,I50.22,Chronic systolic (congestive) heart failure
+108,I50.23,Acute on chronic systolic (congestive) heart failure
+109,I50.30,Unspecified diastolic (congestive) heart failure
+110,I50.31,Acute diastolic (congestive) heart failure
+111,I50.32,Chronic diastolic (congestive) heart failure
+112,I50.33,Acute on chronic diastolic (congestive) heart failure
+113,I50.40,Unsp combined systolic and diastolic (congestive) hrt fail
+114,I50.41,Acute combined systolic and diastolic (congestive) hrt fail
+115,I50.42,Chronic combined systolic and diastolic hrt fail
+116,I50.43,Acute on chronic combined systolic and diastolic hrt fail
+117,I50.810,"Right heart failure, unspecified"
+118,I50.811,Acute right heart failure
+119,I50.812,Chronic right heart failure
+120,I50.813,Acute on chronic right heart failure
+121,I50.814,Right heart failure due to left heart failure
+122,I50.82,Biventricular heart failure
+123,I50.83,High output heart failure
+124,I50.84,End stage heart failure
+125,I50.89,Other heart failure
+126,I50.9,"Heart failure, unspecified"
+127,I51.0,"Cardiac septal defect, acquired"
+128,I51.1,"Rupture of chordae tendineae, not elsewhere classified"
+129,I51.2,"Rupture of papillary muscle, not elsewhere classified"
+130,I51.3,"Intracardiac thrombosis, not elsewhere classified"
+131,I51.4,"Myocarditis, unspecified"
+132,I51.5,Myocardial degeneration
+133,I51.7,Cardiomegaly
+134,I51.81,Takotsubo syndrome
+135,I51.89,Other illdefined heart diseases
+136,I51.9,"Heart disease, unspecified"
+137,Other heart disorders in diseases classified elsewhere (I52),I52  Other heart disorders in diseases classified elsewhere
+138,I52,Other heart disorders in diseases classified elsewhere

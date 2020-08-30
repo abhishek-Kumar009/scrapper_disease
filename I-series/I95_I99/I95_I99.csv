@@ -1,0 +1,51 @@
+,category,condition
+0,I95.0,Idiopathic hypotension
+1,I95.1,Orthostatic hypotension
+2,I95.2,Hypotension due to drugs
+3,I95.3,Hypotension of hemodialysis
+4,I95.81,Postprocedural hypotension
+5,I95.89,Other hypotension
+6,I95.9,"Hypotension, unspecified"
+7,"Gangrene, not elsewhere classified (I96)","I96  Gangrene, not elsewhere classified"
+8,I96,"Gangrene, not elsewhere classified"
+9,I97.0,Postcardiotomy syndrome
+10,I97.110,Postproc cardiac insufficiency following cardiac surgery
+11,I97.111,Postprocedural cardiac insufficiency following other surgery
+12,I97.120,Postprocedural cardiac arrest following cardiac surgery
+13,I97.121,Postprocedural cardiac arrest following other surgery
+14,I97.130,Postprocedural heart failure following cardiac surgery
+15,I97.131,Postprocedural heart failure following other surgery
+16,I97.190,Oth postproc cardiac functn disturb fol cardiac surgery
+17,I97.191,Oth postproc cardiac functn disturb following oth surgery
+18,I97.2,Postmastectomy lymphedema syndrome
+19,I97.3,Postprocedural hypertension
+20,I97.410,Intraoperative hemor/hemtom of a circ sys org comp card cath
+21,I97.411,Intraop hemor/hemtom of a circ sys org comp card bypass
+22,I97.418,Intraop hemor/hemtom of circ sys org comp oth circ sys proc
+23,I97.42,Intraop hemor/hemtom of a circ sys org comp oth procedure
+24,I97.51,Acc pnctr & lac of a circ sys org during a circ sys proc
+25,I97.52,Acc pnctr & lac of a circ sys org during oth procedure
+26,I97.610,Postproc hemor of a circ sys org following a cardiac cath
+27,I97.611,Postproc hemor of a circ sys org following cardiac bypass
+28,I97.618,Postproc hemor of a circ sys org fol other circ sys proc
+29,I97.620,Postproc hemor of a circ sys org following other procedure
+30,I97.621,Postproc hematoma of a circ sys org fol other procedure
+31,I97.622,Postproc seroma of a circ sys org following other procedure
+32,I97.630,Postproc hematoma of a circ sys org following a cardiac cath
+33,I97.631,Postproc hematoma of a circ sys org following cardiac bypass
+34,I97.638,Postproc hematoma of a circ sys org fol other circ sys proc
+35,I97.640,Postproc seroma of a circ sys org following a cardiac cath
+36,I97.641,Postproc seroma of a circ sys org following cardiac bypass
+37,I97.648,Postproc seroma of a circ sys org fol other circ sys proc
+38,I97.710,Intraoperative cardiac arrest during cardiac surgery
+39,I97.711,Intraoperative cardiac arrest during other surgery
+40,I97.790,Oth intraop cardiac functn disturb during cardiac surgery
+41,I97.791,Oth intraop cardiac functional disturb during oth surgery
+42,I97.810,Intraoperative cerebvasc infarction during cardiac surgery
+43,I97.811,Intraoperative cerebrovascular infarction during oth surgery
+44,I97.820,Postproc cerebvasc infarction following cardiac surgery
+45,I97.821,Postprocedural cerebvasc infarction following other surgery
+46,I97.88,"Oth intraoperative complications of the circ sys, NEC"
+47,I97.89,"Oth postproc comp and disorders of the circ sys, NEC"
+48,I99.8,Other disorder of circulatory system
+49,I99.9,Unspecified disorder of circulatory system

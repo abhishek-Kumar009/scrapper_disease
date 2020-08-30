@@ -1,0 +1,306 @@
+,category,condition
+0,I80.00,Phlbts and thombophlb of superfic vessels of unsp low extrm
+1,I80.01,Phlebitis and thombophlb of superfic vessels of r low extrem
+2,I80.02,Phlebitis and thombophlb of superfic vessels of l low extrem
+3,I80.03,"Phlbts and thombophlb of superfic vessels of low extrm, bi"
+4,I80.10,Phlebitis and thrombophlebitis of unspecified femoral vein
+5,I80.11,Phlebitis and thrombophlebitis of right femoral vein
+6,I80.12,Phlebitis and thrombophlebitis of left femoral vein
+7,I80.13,"Phlebitis and thrombophlebitis of femoral vein, bilateral"
+8,I80.201,Phlbts and thombophlb of unsp deep vessels of r low extrem
+9,I80.202,Phlbts and thombophlb of unsp deep vessels of l low extrem
+10,I80.203,"Phlbts and thombophlb of unsp deep vessels of low extrm, bi"
+11,I80.209,Phlbts and thombophlb of unsp deep vessels of unsp low extrm
+12,I80.211,Phlebitis and thrombophlebitis of right iliac vein
+13,I80.212,Phlebitis and thrombophlebitis of left iliac vein
+14,I80.213,"Phlebitis and thrombophlebitis of iliac vein, bilateral"
+15,I80.219,Phlebitis and thrombophlebitis of unspecified iliac vein
+16,I80.221,Phlebitis and thrombophlebitis of right popliteal vein
+17,I80.222,Phlebitis and thrombophlebitis of left popliteal vein
+18,I80.223,"Phlebitis and thrombophlebitis of popliteal vein, bilateral"
+19,I80.229,Phlebitis and thrombophlebitis of unspecified popliteal vein
+20,I80.231,Phlebitis and thrombophlebitis of right tibial vein
+21,I80.232,Phlebitis and thrombophlebitis of left tibial vein
+22,I80.233,"Phlebitis and thrombophlebitis of tibial vein, bilateral"
+23,I80.239,Phlebitis and thrombophlebitis of unspecified tibial vein
+24,I80.241,Phlebitis and thrombophlebitis of right peroneal vein  NEW CODE
+25,I80.242,Phlebitis and thrombophlebitis of left peroneal vein  NEW CODE
+26,I80.243,"Phlebitis and thrombophlebitis of peroneal vein, bilateral  NEW CODE"
+27,I80.249,Phlebitis and thrombophlebitis of unspecified peroneal vein  NEW CODE
+28,I80.251,Phlebitis and thrombophlebitis of right calf muscular vein  NEW CODE
+29,I80.252,Phlebitis and thrombophlebitis of left calf muscular vein  NEW CODE
+30,I80.253,"Phlebitis and thombophlb of calf muscular vein, bilateral  NEW CODE"
+31,I80.259,Phlebitis and thombophlb of unspecified calf muscular vein  NEW CODE
+32,I80.291,Phlebitis and thombophlb of deep vessels of r low extrem
+33,I80.292,Phlebitis and thombophlb of deep vessels of l low extrem
+34,I80.293,"Phlebitis and thombophlb of deep vessels of low extrm, bi"
+35,I80.299,Phlebitis and thombophlb of deep vessels of unsp low extrm
+36,I80.3,"Phlebitis and thrombophlebitis of lower extremities, unsp"
+37,I80.8,Phlebitis and thrombophlebitis of other sites
+38,I80.9,Phlebitis and thrombophlebitis of unspecified site
+39,Portal vein thrombosis (I81),I81  Portal vein thrombosis
+40,I81,Portal vein thrombosis
+41,I82.0,BuddChiari syndrome
+42,I82.1,Thrombophlebitis migrans
+43,I82.210,Acute embolism and thrombosis of superior vena cava
+44,I82.211,Chronic embolism and thrombosis of superior vena cava
+45,I82.220,Acute embolism and thrombosis of inferior vena cava
+46,I82.221,Chronic embolism and thrombosis of inferior vena cava
+47,I82.290,Acute embolism and thrombosis of other thoracic veins
+48,I82.291,Chronic embolism and thrombosis of other thoracic veins
+49,I82.3,Embolism and thrombosis of renal vein
+50,I82.401,Acute embolism and thombos unsp deep veins of r low extrem
+51,I82.402,Acute embolism and thombos unsp deep veins of l low extrem
+52,I82.403,"Acute embolism and thombos unsp deep veins of low extrm, bi"
+53,I82.409,Acute embolism and thombos unsp deep vn unsp lower extremity
+54,I82.411,Acute embolism and thrombosis of right femoral vein
+55,I82.412,Acute embolism and thrombosis of left femoral vein
+56,I82.413,"Acute embolism and thrombosis of femoral vein, bilateral"
+57,I82.419,Acute embolism and thrombosis of unspecified femoral vein
+58,I82.421,Acute embolism and thrombosis of right iliac vein
+59,I82.422,Acute embolism and thrombosis of left iliac vein
+60,I82.423,"Acute embolism and thrombosis of iliac vein, bilateral"
+61,I82.429,Acute embolism and thrombosis of unspecified iliac vein
+62,I82.431,Acute embolism and thrombosis of right popliteal vein
+63,I82.432,Acute embolism and thrombosis of left popliteal vein
+64,I82.433,"Acute embolism and thrombosis of popliteal vein, bilateral"
+65,I82.439,Acute embolism and thrombosis of unspecified popliteal vein
+66,I82.441,Acute embolism and thrombosis of right tibial vein
+67,I82.442,Acute embolism and thrombosis of left tibial vein
+68,I82.443,"Acute embolism and thrombosis of tibial vein, bilateral"
+69,I82.449,Acute embolism and thrombosis of unspecified tibial vein
+70,I82.451,Acute embolism and thrombosis of right peroneal vein  NEW CODE
+71,I82.452,Acute embolism and thrombosis of left peroneal vein  NEW CODE
+72,I82.453,"Acute embolism and thrombosis of peroneal vein, bilateral  NEW CODE"
+73,I82.459,Acute embolism and thrombosis of unspecified peroneal vein  NEW CODE
+74,I82.461,Acute embolism and thrombosis of right calf muscular vein  NEW CODE
+75,I82.462,Acute embolism and thrombosis of left calf muscular vein  NEW CODE
+76,I82.463,"Acute embolism and thombos of calf muscular vein, bilateral  NEW CODE"
+77,I82.469,Acute embolism and thombos unsp calf muscular vein  NEW CODE
+78,I82.491,Acute embolism and thrombosis of deep vein of r low extrem
+79,I82.492,Acute embolism and thrombosis of deep vein of l low extrem
+80,I82.493,"Acute embolism and thombos of deep vein of low extrm, bi"
+81,I82.499,Acute embolism and thrombosis of deep vein of unsp low extrm
+82,I82.4Y1,Ac emblsm and thombos unsp deep veins of r prox low extrm
+83,I82.4Y2,Ac emblsm and thombos unsp deep veins of left prox low extrm
+84,I82.4Y3,"Ac emblsm and thombos unsp deep veins of prox low extrm, bi"
+85,I82.4Y9,Acute emblsm and thombos unsp deep vn unsp prox low extrm
+86,I82.4Z1,Ac emblsm and thombos unsp deep veins of r dist low extrm
+87,I82.4Z2,Ac emblsm and thombos unsp deep veins of left dist low extrm
+88,I82.4Z3,"Ac emblsm and thombos unsp deep veins of dist low extrm, bi"
+89,I82.4Z9,Acute emblsm and thombos unsp deep vn unsp distal low extrm
+90,I82.501,Chronic embolism and thombos unsp deep veins of r low extrem
+91,I82.502,Chronic embolism and thombos unsp deep veins of l low extrem
+92,I82.503,"Chronic emblsm and thombos unsp deep veins of low extrm, bi"
+93,I82.509,Chronic embolism and thombos unsp deep vn unsp low extrm
+94,I82.511,Chronic embolism and thrombosis of right femoral vein
+95,I82.512,Chronic embolism and thrombosis of left femoral vein
+96,I82.513,"Chronic embolism and thrombosis of femoral vein, bilateral"
+97,I82.519,Chronic embolism and thrombosis of unspecified femoral vein
+98,I82.521,Chronic embolism and thrombosis of right iliac vein
+99,I82.522,Chronic embolism and thrombosis of left iliac vein
+100,I82.523,"Chronic embolism and thrombosis of iliac vein, bilateral"
+101,I82.529,Chronic embolism and thrombosis of unspecified iliac vein
+102,I82.531,Chronic embolism and thrombosis of right popliteal vein
+103,I82.532,Chronic embolism and thrombosis of left popliteal vein
+104,I82.533,"Chronic embolism and thrombosis of popliteal vein, bilateral"
+105,I82.539,Chronic embolism and thrombosis of unsp popliteal vein
+106,I82.541,Chronic embolism and thrombosis of right tibial vein
+107,I82.542,Chronic embolism and thrombosis of left tibial vein
+108,I82.543,"Chronic embolism and thrombosis of tibial vein, bilateral"
+109,I82.549,Chronic embolism and thrombosis of unspecified tibial vein
+110,I82.551,Chronic embolism and thrombosis of right peroneal vein  NEW CODE
+111,I82.552,Chronic embolism and thrombosis of left peroneal vein  NEW CODE
+112,I82.553,"Chronic embolism and thrombosis of peroneal vein, bilateral  NEW CODE"
+113,I82.559,Chronic embolism and thrombosis of unspecified peroneal vein  NEW CODE
+114,I82.561,Chronic embolism and thrombosis of right calf muscular vein  NEW CODE
+115,I82.562,Chronic embolism and thrombosis of left calf muscular vein  NEW CODE
+116,I82.563,"Chronic embolism and thombos of calf muscular vein, bi  NEW CODE"
+117,I82.569,Chronic embolism and thombos unsp calf muscular vein  NEW CODE
+118,I82.591,Chronic embolism and thrombosis of deep vein of r low extrem
+119,I82.592,Chronic embolism and thrombosis of deep vein of l low extrem
+120,I82.593,"Chronic embolism and thombos of deep vein of low extrm, bi"
+121,I82.599,Chronic embolism and thombos of deep vein of unsp low extrm
+122,I82.5Y1,Chr emblsm and thombos unsp deep veins of r prox low extrm
+123,I82.5Y2,Chr emblsm and thombos unsp deep vn of left prox low extrm
+124,I82.5Y3,"Chr emblsm and thombos unsp deep veins of prox low extrm, bi"
+125,I82.5Y9,Chronic emblsm and thombos unsp deep vn unsp prox low extrm
+126,I82.5Z1,Chr emblsm and thombos unsp deep veins of r dist low extrm
+127,I82.5Z2,Chr emblsm and thombos unsp deep vn of left dist low extrm
+128,I82.5Z3,"Chr emblsm and thombos unsp deep veins of dist low extrm, bi"
+129,I82.5Z9,Chr emblsm and thombos unsp deep vn unsp distal low extrm
+130,I82.601,Acute embolism and thombos unsp veins of r up extrem
+131,I82.602,Acute embolism and thombos unsp veins of l up extrem
+132,I82.603,"Acute embolism and thombos unsp veins of up extrem, bi"
+133,I82.609,Acute embolism and thombos unsp vn unsp upper extremity
+134,I82.611,Acute embolism and thombos of superfic veins of r up extrem
+135,I82.612,Acute embolism and thombos of superfic veins of l up extrem
+136,I82.613,"Acute emblsm and thombos of superfic veins of up extrem, bi"
+137,I82.619,Acute embolism and thrombosis of superfic vn unsp up extrem
+138,I82.621,Acute embolism and thrombosis of deep veins of r up extrem
+139,I82.622,Acute embolism and thrombosis of deep veins of l up extrem
+140,I82.623,"Acute embolism and thombos of deep veins of up extrem, bi"
+141,I82.629,Acute embolism and thrombosis of deep vn unsp up extrem
+142,I82.701,Chronic embolism and thombos unsp veins of r up extrem
+143,I82.702,Chronic embolism and thombos unsp veins of l up extrem
+144,I82.703,"Chronic embolism and thombos unsp veins of up extrem, bi"
+145,I82.709,Chronic embolism and thombos unsp vn unsp upper extremity
+146,I82.711,Chronic emblsm and thombos of superfic veins of r up extrem
+147,I82.712,Chronic emblsm and thombos of superfic veins of l up extrem
+148,I82.713,"Chr emblsm and thombos of superfic veins of up extrem, bi"
+149,I82.719,Chronic embolism and thombos of superfic vn unsp up extrem
+150,I82.721,Chronic embolism and thrombosis of deep veins of r up extrem
+151,I82.722,Chronic embolism and thrombosis of deep veins of l up extrem
+152,I82.723,"Chronic embolism and thombos of deep veins of up extrem, bi"
+153,I82.729,Chronic embolism and thrombosis of deep vn unsp up extrem
+154,I82.811,Embolism and thrombosis of superficial veins of r low extrem
+155,I82.812,Embolism and thrombosis of superficial veins of l low extrem
+156,I82.813,"Embolism and thombos of superfic veins of low extrm, bi"
+157,I82.819,Embolism and thrombosis of superficial vn unsp low extrm
+158,I82.890,Acute embolism and thrombosis of other specified veins
+159,I82.891,Chronic embolism and thrombosis of other specified veins
+160,I82.90,Acute embolism and thrombosis of unspecified vein
+161,I82.91,Chronic embolism and thrombosis of unspecified vein
+162,I82.A11,Acute embolism and thrombosis of right axillary vein
+163,I82.A12,Acute embolism and thrombosis of left axillary vein
+164,I82.A13,"Acute embolism and thrombosis of axillary vein, bilateral"
+165,I82.A19,Acute embolism and thrombosis of unspecified axillary vein
+166,I82.A21,Chronic embolism and thrombosis of right axillary vein
+167,I82.A22,Chronic embolism and thrombosis of left axillary vein
+168,I82.A23,"Chronic embolism and thrombosis of axillary vein, bilateral"
+169,I82.A29,Chronic embolism and thrombosis of unspecified axillary vein
+170,I82.B11,Acute embolism and thrombosis of right subclavian vein
+171,I82.B12,Acute embolism and thrombosis of left subclavian vein
+172,I82.B13,"Acute embolism and thrombosis of subclavian vein, bilateral"
+173,I82.B19,Acute embolism and thrombosis of unspecified subclavian vein
+174,I82.B21,Chronic embolism and thrombosis of right subclavian vein
+175,I82.B22,Chronic embolism and thrombosis of left subclavian vein
+176,I82.B23,"Chronic embolism and thrombosis of subclav vein, bilateral"
+177,I82.B29,Chronic embolism and thrombosis of unsp subclavian vein
+178,I82.C11,Acute embolism and thrombosis of right internal jugular vein
+179,I82.C12,Acute embolism and thrombosis of left internal jugular vein
+180,I82.C13,"Acute embolism and thrombosis of int jugular vein, bilateral"
+181,I82.C19,Acute embolism and thrombosis of unsp internal jugular vein
+182,I82.C21,Chronic embolism and thrombosis of r int jugular vein
+183,I82.C22,Chronic embolism and thrombosis of l int jugular vein
+184,I82.C23,"Chronic embolism and thombos of int jugular vein, bilateral"
+185,I82.C29,Chronic embolism and thombos unsp internal jugular vein
+186,I83.001,Varicose veins of unsp lower extremity with ulcer of thigh
+187,I83.002,Varicose veins of unsp lower extremity with ulcer of calf
+188,I83.003,Varicose veins of unsp lower extremity with ulcer of ankle
+189,I83.004,Varicos vn unsp lower extremity w ulcer of heel and midfoot
+190,I83.005,Varicos vn unsp lower extremity w ulcer oth part of foot
+191,I83.008,Varicos vn unsp low extrm w ulcer oth part of lower leg
+192,I83.009,Varicose veins of unsp lower extremity w ulcer of unsp site
+193,I83.011,Varicose veins of right lower extremity with ulcer of thigh
+194,I83.012,Varicose veins of right lower extremity with ulcer of calf
+195,I83.013,Varicose veins of right lower extremity with ulcer of ankle
+196,I83.014,Varicose veins of r low extrem w ulcer of heel and midfoot
+197,I83.015,Varicose veins of r low extrem w ulcer oth part of foot
+198,I83.018,Varicose veins of r low extrem w ulcer oth part of lower leg
+199,I83.019,Varicose veins of right lower extremity w ulcer of unsp site
+200,I83.021,Varicose veins of left lower extremity with ulcer of thigh
+201,I83.022,Varicose veins of left lower extremity with ulcer of calf
+202,I83.023,Varicose veins of left lower extremity with ulcer of ankle
+203,I83.024,Varicose veins of l low extrem w ulcer of heel and midfoot
+204,I83.025,Varicose veins of l low extrem w ulcer oth part of foot
+205,I83.028,Varicose veins of l low extrem w ulcer oth part of lower leg
+206,I83.029,Varicose veins of left lower extremity w ulcer of unsp site
+207,I83.10,Varicose veins of unsp lower extremity with inflammation
+208,I83.11,Varicose veins of right lower extremity with inflammation
+209,I83.12,Varicose veins of left lower extremity with inflammation
+210,I83.201,Varicos vn unsp low extrm w ulc of thigh and inflammation
+211,I83.202,Varicos vn unsp low extrm w ulc of calf and inflammation
+212,I83.203,Varicos vn unsp low extrm w ulc of ankle and inflammation
+213,I83.204,Varicos vn unsp low extrm w ulc of heel and midft and inflam
+214,I83.205,Varicos vn unsp low extrm w ulc oth part of foot and inflam
+215,I83.208,Varicos vn unsp low extrm w ulc oth prt low extrm and inflam
+216,I83.209,Varicos vn unsp low extrm w ulc of unsp site and inflam
+217,I83.211,Varicos vn of r low extrem w ulc of thigh and inflammation
+218,I83.212,Varicos vn of r low extrem w ulc of calf and inflammation
+219,I83.213,Varicos vn of r low extrem w ulc of ankle and inflammation
+220,I83.214,Varicos vn of r low extrem w ulc of heel & midft and inflam
+221,I83.215,Varicos vn of r low extrem w ulc oth part of foot and inflam
+222,I83.218,Varicos vn of r low extrem w ulc oth prt low extrm & inflam
+223,I83.219,Varicos vn of r low extrem w ulc of unsp site and inflam
+224,I83.221,Varicos vn of l low extrem w ulc of thigh and inflammation
+225,I83.222,Varicos vn of l low extrem w ulc of calf and inflammation
+226,I83.223,Varicos vn of l low extrem w ulc of ankle and inflammation
+227,I83.224,Varicos vn of l low extrem w ulc of heel & midft and inflam
+228,I83.225,Varicos vn of l low extrem w ulc oth part of foot and inflam
+229,I83.228,Varicos vn of l low extrem w ulc oth prt low extrm & inflam
+230,I83.229,Varicos vn of l low extrem w ulc of unsp site and inflam
+231,I83.811,Varicose veins of right lower extremity with pain
+232,I83.812,Varicose veins of left lower extremity with pain
+233,I83.813,Varicose veins of bilateral lower extremities with pain
+234,I83.819,Varicose veins of unspecified lower extremity with pain
+235,I83.891,Varicose veins of r low extrem with other complications
+236,I83.892,Varicose veins of l low extrem with other complications
+237,I83.893,Varicose veins of bi low extrem w oth complications
+238,I83.899,Varicos vn unsp lower extremity with other complications
+239,I83.90,Asymptomatic varicose veins of unspecified lower extremity
+240,I83.91,Asymptomatic varicose veins of right lower extremity
+241,I83.92,Asymptomatic varicose veins of left lower extremity
+242,I83.93,Asymptomatic varicose veins of bilateral lower extremities
+243,I85.00,Esophageal varices without bleeding
+244,I85.01,Esophageal varices with bleeding
+245,I85.10,Secondary esophageal varices without bleeding
+246,I85.11,Secondary esophageal varices with bleeding
+247,I86.0,Sublingual varices
+248,I86.1,Scrotal varices
+249,I86.2,Pelvic varices
+250,I86.3,Vulval varices
+251,I86.4,Gastric varices
+252,I86.8,Varicose veins of other specified sites
+253,I87.001,Postthrombotic syndrome w/o complications of r low extrem
+254,I87.002,Postthrombotic syndrome w/o complications of l low extrem
+255,I87.003,Postthrom syndrome w/o complications of bilateral low extrm
+256,I87.009,Postthrombotic syndrome w/o complications of unsp extremity
+257,I87.011,Postthrombotic syndrome with ulcer of right lower extremity
+258,I87.012,Postthrombotic syndrome with ulcer of left lower extremity
+259,I87.013,Postthrombotic syndrome w ulcer of bilateral lower extremity
+260,I87.019,Postthrombotic syndrome with ulcer of unsp lower extremity
+261,I87.021,Postthrombotic syndrome w inflammation of r low extrem
+262,I87.022,Postthrombotic syndrome w inflammation of l low extrem
+263,I87.023,Postthrom syndrome w inflammation of bilateral low extrm
+264,I87.029,Postthrombotic syndrome w inflammation of unsp low extrm
+265,I87.031,Postthrom syndrome w ulcer and inflammation of r low extrem
+266,I87.032,Postthrom syndrome w ulcer and inflammation of l low extrem
+267,I87.033,Postthrom syndrome w ulcer and inflam of bilateral low extrm
+268,I87.039,Postthrom syndrome w ulcer and inflam of unsp low extrm
+269,I87.091,Postthrombotic syndrome w oth complications of r low extrem
+270,I87.092,Postthrombotic syndrome w oth complications of l low extrem
+271,I87.093,Postthrom syndrome w oth comp of bilateral low extrm
+272,I87.099,Postthrom syndrome w oth complications of unsp low extrm
+273,I87.1,Compression of vein
+274,I87.2,Venous insufficiency (chronic) (peripheral)
+275,I87.301,Chronic venous hypertension w/o comp of r low extrem
+276,I87.302,Chronic venous hypertension w/o comp of l low extrem
+277,I87.303,Chronic venous hypertension w/o comp of bilateral low extrm
+278,I87.309,Chronic venous hypertension w/o comp of unsp low extrm
+279,I87.311,Chronic venous hypertension w ulcer of r low extrem
+280,I87.312,Chronic venous hypertension w ulcer of l low extrem
+281,I87.313,Chronic venous hypertension w ulcer of bilateral low extrm
+282,I87.319,Chronic venous hypertension w ulcer of unsp low extrm
+283,I87.321,Chronic venous hypertension w inflammation of r low extrem
+284,I87.322,Chronic venous hypertension w inflammation of l low extrem
+285,I87.323,Chronic venous htn w inflammation of bilateral low extrm
+286,I87.329,Chronic venous hypertension w inflammation of unsp low extrm
+287,I87.331,Chronic venous htn w ulcer and inflammation of r low extrem
+288,I87.332,Chronic venous htn w ulcer and inflammation of l low extrem
+289,I87.333,Chronic venous htn w ulcer and inflam of bilateral low extrm
+290,I87.339,Chronic venous htn w ulcer and inflam of unsp low extrm
+291,I87.391,Chronic venous hypertension w oth comp of r low extrem
+292,I87.392,Chronic venous hypertension w oth comp of l low extrem
+293,I87.393,Chronic venous htn w oth comp of bilateral low extrm
+294,I87.399,Chronic venous hypertension w oth comp of unsp low extrm
+295,I87.8,Other specified disorders of veins
+296,I87.9,"Disorder of vein, unspecified"
+297,I88.0,Nonspecific mesenteric lymphadenitis
+298,I88.1,"Chronic lymphadenitis, except mesenteric"
+299,I88.8,Other nonspecific lymphadenitis
+300,I88.9,"Nonspecific lymphadenitis, unspecified"
+301,I89.0,"Lymphedema, not elsewhere classified"
+302,I89.1,Lymphangitis
+303,I89.8,Oth noninfective disorders of lymphatic vessels and nodes
+304,I89.9,"Noninfective disorder of lymphatic vessels and nodes, unsp"

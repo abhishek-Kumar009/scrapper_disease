@@ -1,0 +1,26 @@
+,category,condition
+0,I26.01,Septic pulmonary embolism with acute cor pulmonale
+1,I26.02,Saddle embolus of pulmonary artery with acute cor pulmonale
+2,I26.09,Other pulmonary embolism with acute cor pulmonale
+3,I26.90,Septic pulmonary embolism without acute cor pulmonale
+4,I26.92,Saddle embolus of pulmonary artery w/o acute cor pulmonale
+5,I26.93,Single subsegmental pulmon emblsm w/o acute cor pulmonale  NEW CODE
+6,I26.94,Mult subsegmental pulmon emboli without acute cor pulmonale  NEW CODE
+7,I26.99,Other pulmonary embolism without acute cor pulmonale
+8,I27.0,Primary pulmonary hypertension
+9,I27.1,Kyphoscoliotic heart disease
+10,I27.20,"Pulmonary hypertension, unspecified"
+11,I27.21,Secondary pulmonary arterial hypertension
+12,I27.22,Pulmonary hypertension due to left heart disease
+13,I27.23,Pulmonary hypertension due to lung diseases and hypoxia
+14,I27.24,Chronic thromboembolic pulmonary hypertension
+15,I27.29,Other secondary pulmonary hypertension
+16,I27.81,Cor pulmonale (chronic)
+17,I27.82,Chronic pulmonary embolism
+18,I27.83,Eisenmenger's syndrome
+19,I27.89,Other specified pulmonary heart diseases
+20,I27.9,"Pulmonary heart disease, unspecified"
+21,I28.0,Arteriovenous fistula of pulmonary vessels
+22,I28.1,Aneurysm of pulmonary artery
+23,I28.8,Other diseases of pulmonary vessels
+24,I28.9,"Disease of pulmonary vessels, unspecified"

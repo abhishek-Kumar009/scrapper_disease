@@ -1,0 +1,411 @@
+,category,condition
+0,I60.00,Ntrm subarach hemorrhage from unsp carotid siphon and bifurc
+1,I60.01,Ntrm subarach hemor from right carotid siphon and bifurc
+2,I60.02,Ntrm subarach hemorrhage from left carotid siphon and bifurc
+3,I60.10,Ntrm subarach hemorrhage from unsp middle cerebral artery
+4,I60.11,Ntrm subarach hemorrhage from right middle cerebral artery
+5,I60.12,Ntrm subarach hemorrhage from left middle cerebral artery
+6,I60.2,Ntrm subarach hemorrhage from anterior communicating artery
+7,I60.30,Ntrm subarach hemor from unsp posterior communicating artery
+8,I60.31,Ntrm subarach hemor from right post communicating artery
+9,I60.32,Ntrm subarach hemor from left posterior communicating artery
+10,I60.4,Nontraumatic subarachnoid hemorrhage from basilar artery
+11,I60.50,Nontraumatic subarachnoid hemorrhage from unsp verteb art
+12,I60.51,Nontraumatic subarachnoid hemorrhage from r verteb art
+13,I60.52,Nontraumatic subarachnoid hemorrhage from l verteb art
+14,I60.6,Nontraumatic subarachnoid hemorrhage from oth intracran art
+15,I60.7,Nontraumatic subarachnoid hemorrhage from unsp intracran art
+16,I60.8,Other nontraumatic subarachnoid hemorrhage
+17,I60.9,"Nontraumatic subarachnoid hemorrhage, unspecified"
+18,I61.0,"Nontraumatic intcrbl hemorrhage in hemisphere, subcortical"
+19,I61.1,"Nontraumatic intcrbl hemorrhage in hemisphere, cortical"
+20,I61.2,"Nontraumatic intracerebral hemorrhage in hemisphere, unsp"
+21,I61.3,Nontraumatic intracerebral hemorrhage in brain stem
+22,I61.4,Nontraumatic intracerebral hemorrhage in cerebellum
+23,I61.5,"Nontraumatic intracerebral hemorrhage, intraventricular"
+24,I61.6,"Nontraumatic intracerebral hemorrhage, multiple localized"
+25,I61.8,Other nontraumatic intracerebral hemorrhage
+26,I61.9,"Nontraumatic intracerebral hemorrhage, unspecified"
+27,I62.00,"Nontraumatic subdural hemorrhage, unspecified"
+28,I62.01,Nontraumatic acute subdural hemorrhage
+29,I62.02,Nontraumatic subacute subdural hemorrhage
+30,I62.03,Nontraumatic chronic subdural hemorrhage
+31,I62.1,Nontraumatic extradural hemorrhage
+32,I62.9,"Nontraumatic intracranial hemorrhage, unspecified"
+33,I63.00,Cerebral infarction due to thombos unsp precerebral artery
+34,I63.011,Cerebral infarction due to thrombosis of r verteb art
+35,I63.012,Cerebral infarction due to thrombosis of l verteb art
+36,I63.013,Cerebral infrc due to thrombosis of bilateral verteb art
+37,I63.019,Cerebral infarction due to thombos unsp vertebral artery
+38,I63.02,Cerebral infarction due to thrombosis of basilar artery
+39,I63.031,Cerebral infrc due to thrombosis of right carotid artery
+40,I63.032,Cerebral infarction due to thrombosis of left carotid artery
+41,I63.033,Cerebral infrc due to thombos of bilateral carotid arteries
+42,I63.039,Cerebral infarction due to thrombosis of unsp carotid artery
+43,I63.09,Cerebral infarction due to thrombosis of precerebral artery
+44,I63.10,Cerebral infarction due to embolism of unsp precerb artery
+45,I63.111,Cerebral infarction due to embolism of r verteb art
+46,I63.112,Cerebral infarction due to embolism of left vertebral artery
+47,I63.113,Cerebral infarction due to embolism of bilateral verteb art
+48,I63.119,Cerebral infarction due to embolism of unsp vertebral artery
+49,I63.12,Cerebral infarction due to embolism of basilar artery
+50,I63.131,Cerebral infarction due to embolism of right carotid artery
+51,I63.132,Cerebral infarction due to embolism of left carotid artery
+52,I63.133,Cerebral infrc due to embolism of bilateral carotid arteries
+53,I63.139,Cerebral infarction due to embolism of unsp carotid artery
+54,I63.19,Cerebral infarction due to embolism of precerebral artery
+55,I63.20,Cereb infrc due to unsp occls or stenos of unsp precerb art
+56,I63.211,Cerebral infrc due to unsp occls or stenosis of r verteb art
+57,I63.212,Cerebral infrc due to unsp occls or stenosis of l verteb art
+58,I63.213,Cereb infrc due to unsp occls or stenosis of bi verteb art
+59,I63.219,Cereb infrc due to unsp occls or stenosis of unsp verteb art
+60,I63.22,Cereb infrc due to unsp occls or stenosis of basilar artery
+61,I63.231,Cereb infrc due to unsp occls or stenos of right carotid art
+62,I63.232,Cereb infrc due to unsp occls or stenos of left carotid art
+63,I63.233,Cereb infrc due to unsp occls or stenosis of bi carotid art
+64,I63.239,Cereb infrc due to unsp occls or stenos of unsp crtd artery
+65,I63.29,Cerebral infrc due to unsp occls or stenosis of precerb art
+66,I63.30,Cerebral infarction due to thombos unsp cerebral artery
+67,I63.311,Cereb infrc due to thombos of right middle cerebral artery
+68,I63.312,Cerebral infrc due to thombos of left middle cerebral artery
+69,I63.313,Cerebral infrc due to thombos of bi middle cerebral arteries
+70,I63.319,Cerebral infrc due to thombos unsp middle cerebral artery
+71,I63.321,Cerebral infrc due to thombos of right ant cerebral artery
+72,I63.322,Cerebral infrc due to thombos of left ant cerebral artery
+73,I63.323,Cerebral infrc due to thombos of bi ant cerebral arteries
+74,I63.329,Cerebral infrc due to thombos unsp anterior cerebral artery
+75,I63.331,Cerebral infrc due to thombos of right post cerebral artery
+76,I63.332,Cerebral infrc due to thombos of left post cerebral artery
+77,I63.333,Cerebral infrc due to thombos of bi post cerebral arteries
+78,I63.339,Cerebral infrc due to thombos unsp posterior cerebral artery
+79,I63.341,Cerebral infrc due to thrombosis of right cereblr artery
+80,I63.342,Cerebral infarction due to thrombosis of left cereblr artery
+81,I63.343,Cerebral infrc due to thombos of bilateral cereblr arteries
+82,I63.349,Cerebral infarction due to thombos unsp cerebellar artery
+83,I63.39,Cerebral infarction due to thrombosis of oth cerebral artery
+84,I63.40,Cerebral infarction due to embolism of unsp cerebral artery
+85,I63.411,Cereb infrc due to embolism of right middle cerebral artery
+86,I63.412,Cereb infrc due to embolism of left middle cerebral artery
+87,I63.413,Cerebral infrc due to embolism of bi middle cerebral art
+88,I63.419,Cereb infrc due to embolism of unsp middle cerebral artery
+89,I63.421,Cerebral infrc due to embolism of right ant cerebral artery
+90,I63.422,Cerebral infrc due to embolism of left ant cerebral artery
+91,I63.423,Cerebral infrc due to embolism of bi ant cerebral arteries
+92,I63.429,Cerebral infrc due to embolism of unsp ant cerebral artery
+93,I63.431,Cerebral infrc due to embolism of right post cerebral artery
+94,I63.432,Cerebral infrc due to embolism of left post cerebral artery
+95,I63.433,Cerebral infrc due to embolism of bi post cerebral arteries
+96,I63.439,Cerebral infrc due to embolism of unsp post cerebral artery
+97,I63.441,Cerebral infarction due to embolism of right cereblr artery
+98,I63.442,Cerebral infarction due to embolism of left cereblr artery
+99,I63.443,Cerebral infrc due to embolism of bilateral cereblr arteries
+100,I63.449,Cerebral infarction due to embolism of unsp cereblr artery
+101,I63.49,Cerebral infarction due to embolism of other cerebral artery
+102,I63.50,Cereb infrc due to unsp occls or stenos of unsp cereb artery
+103,I63.511,Cereb infrc d/t unsp occls or stenos of right mid cereb art
+104,I63.512,Cereb infrc d/t unsp occls or stenos of left mid cereb art
+105,I63.513,Cereb infrc d/t unsp occls or stenos of bi middle cereb art
+106,I63.519,Cereb infrc d/t unsp occls or stenos of unsp mid cereb art
+107,I63.521,Cereb infrc d/t unsp occls or stenos of right ant cereb art
+108,I63.522,Cereb infrc d/t unsp occls or stenos of left ant cereb art
+109,I63.523,Cereb infrc due to unsp occls or stenos of bi ant cereb art
+110,I63.529,Cereb infrc d/t unsp occls or stenos of unsp ant cereb art
+111,I63.531,Cereb infrc d/t unsp occls or stenos of right post cereb art
+112,I63.532,Cereb infrc d/t unsp occls or stenos of left post cereb art
+113,I63.533,Cereb infrc due to unsp occls or stenos of bi post cereb art
+114,I63.539,Cereb infrc d/t unsp occls or stenos of unsp post cereb art
+115,I63.541,Cereb infrc due to unsp occls or stenos of right cereblr art
+116,I63.542,Cereb infrc due to unsp occls or stenos of left cereblr art
+117,I63.543,Cereb infrc due to unsp occls or stenosis of bi cereblr art
+118,I63.549,Cereb infrc due to unsp occls or stenos of unsp cereblr art
+119,I63.59,Cereb infrc due to unsp occls or stenosis of cerebral artery
+120,I63.6,"Cerebral infrc due to cerebral venous thombos, nonpyogenic"
+121,I63.81,Other cereb infrc due to occls or stenosis of small artery
+122,I63.89,Other cerebral infarction
+123,I63.9,"Cerebral infarction, unspecified"
+124,I65.01,Occlusion and stenosis of right vertebral artery
+125,I65.02,Occlusion and stenosis of left vertebral artery
+126,I65.03,Occlusion and stenosis of bilateral vertebral arteries
+127,I65.09,Occlusion and stenosis of unspecified vertebral artery
+128,I65.1,Occlusion and stenosis of basilar artery
+129,I65.21,Occlusion and stenosis of right carotid artery
+130,I65.22,Occlusion and stenosis of left carotid artery
+131,I65.23,Occlusion and stenosis of bilateral carotid arteries
+132,I65.29,Occlusion and stenosis of unspecified carotid artery
+133,I65.8,Occlusion and stenosis of other precerebral arteries
+134,I65.9,Occlusion and stenosis of unspecified precerebral artery
+135,I66.01,Occlusion and stenosis of right middle cerebral artery
+136,I66.02,Occlusion and stenosis of left middle cerebral artery
+137,I66.03,Occlusion and stenosis of bilateral middle cerebral arteries
+138,I66.09,Occlusion and stenosis of unspecified middle cerebral artery
+139,I66.11,Occlusion and stenosis of right anterior cerebral artery
+140,I66.12,Occlusion and stenosis of left anterior cerebral artery
+141,I66.13,Occlusion and stenosis of bi anterior cerebral arteries
+142,I66.19,Occlusion and stenosis of unsp anterior cerebral artery
+143,I66.21,Occlusion and stenosis of right posterior cerebral artery
+144,I66.22,Occlusion and stenosis of left posterior cerebral artery
+145,I66.23,Occlusion and stenosis of bi posterior cerebral arteries
+146,I66.29,Occlusion and stenosis of unsp posterior cerebral artery
+147,I66.3,Occlusion and stenosis of cerebellar arteries
+148,I66.8,Occlusion and stenosis of other cerebral arteries
+149,I66.9,Occlusion and stenosis of unspecified cerebral artery
+150,I67.0,"Dissection of cerebral arteries, nonruptured"
+151,I67.1,"Cerebral aneurysm, nonruptured"
+152,I67.2,Cerebral atherosclerosis
+153,I67.3,Progressive vascular leukoencephalopathy
+154,I67.4,Hypertensive encephalopathy
+155,I67.5,Moyamoya disease
+156,I67.6,Nonpyogenic thrombosis of intracranial venous system
+157,I67.7,"Cerebral arteritis, not elsewhere classified"
+158,I67.81,Acute cerebrovascular insufficiency
+159,I67.82,Cerebral ischemia
+160,I67.83,Posterior reversible encephalopathy syndrome
+161,I67.841,Reversible cerebrovascular vasoconstriction syndrome
+162,I67.848,Other cerebrovascular vasospasm and vasoconstriction
+163,I67.850,Cereb autosom dom artopath w subcort infarcts & leukoenceph
+164,I67.858,Other hereditary cerebrovascular disease
+165,I67.89,Other cerebrovascular disease
+166,I67.9,"Cerebrovascular disease, unspecified"
+167,I68.0,Cerebral amyloid angiopathy
+168,I68.2,Cerebral arteritis in other diseases classified elsewhere
+169,I68.8,Oth cerebrovascular disorders in diseases classd elswhr
+170,I69.00,Unspecified sequelae of nontraumatic subarachnoid hemorrhage
+171,I69.010,Attn and concentration deficit following ntrm subarach hemor
+172,I69.011,Memory deficit following ntrm subarachnoid hemorrhage
+173,I69.012,Vis def/sptl nglct following ntrm subarachnoid hemorrhage
+174,I69.013,Psychomotor deficit following ntrm subarachnoid hemorrhage
+175,I69.014,Fntl lb and exec fcn def following ntrm subarach hemorrhage
+176,I69.015,Cognitive social or emo def following ntrm subarach hemor
+177,I69.018,Other symp and signs w cogn fnctns fol ntrm subarach hemor
+178,I69.019,Unsp symp and signs w cogn fnctns fol ntrm subarach hemor
+179,I69.020,Aphasia following nontraumatic subarachnoid hemorrhage
+180,I69.021,Dysphasia following nontraumatic subarachnoid hemorrhage
+181,I69.022,Dysarthria following nontraumatic subarachnoid hemorrhage
+182,I69.023,Fluency disorder following ntrm subarachnoid hemorrhage
+183,I69.028,Oth speech/lang deficits following ntrm subarach hemorrhage
+184,I69.031,Monoplg upr lmb fol ntrm subarach hemor aff right dom side
+185,I69.032,Monoplg upr lmb fol ntrm subarach hemor aff left dom side
+186,I69.033,Monoplg upr lmb fol ntrm subarach hemor aff r nondom side
+187,I69.034,Monoplg upr lmb fol ntrm subarach hemor aff left nondom side
+188,I69.039,Monoplg upr lmb following ntrm subarach hemor aff unsp side
+189,I69.041,Monoplg low lmb fol ntrm subarach hemor aff right dom side
+190,I69.042,Monoplg low lmb fol ntrm subarach hemor aff left dom side
+191,I69.043,Monoplg low lmb fol ntrm subarach hemor aff r nondom side
+192,I69.044,Monoplg low lmb fol ntrm subarach hemor aff left nondom side
+193,I69.049,Monoplg low lmb following ntrm subarach hemor aff unsp side
+194,I69.051,Hemiplga fol ntrm subarach hemor aff right dominant side
+195,I69.052,Hemiplga fol ntrm subarach hemor aff left dominant side
+196,I69.053,Hemiplga following ntrm subarach hemor aff right nondom side
+197,I69.054,Hemiplga following ntrm subarach hemor aff left nondom side
+198,I69.059,Hemiplga following ntrm subarach hemor affecting unsp side
+199,I69.061,Oth parlyt synd fol ntrm subarach hemor aff right dom side
+200,I69.062,Oth parlyt synd fol ntrm subarach hemor aff left dom side
+201,I69.063,Oth parlyt synd fol ntrm subarach hemor aff r nondom side
+202,I69.064,Oth parlyt synd fol ntrm subarach hemor aff left nondom side
+203,I69.065,"Oth paralytic syndrome following ntrm subarach hemor, bi"
+204,I69.069,Oth paralytic syndrome fol ntrm subarach hemor aff unsp side
+205,I69.090,Apraxia following nontraumatic subarachnoid hemorrhage
+206,I69.091,Dysphagia following nontraumatic subarachnoid hemorrhage
+207,I69.092,Facial weakness following ntrm subarachnoid hemorrhage
+208,I69.093,Ataxia following nontraumatic subarachnoid hemorrhage
+209,I69.098,Oth sequelae following nontraumatic subarachnoid hemorrhage
+210,I69.10,Unsp sequelae of nontraumatic intracerebral hemorrhage
+211,I69.110,Attn and concentration deficit following ntrm intcrbl hemor
+212,I69.111,Memory deficit following nontraumatic intcrbl hemorrhage
+213,I69.112,Vis def/sptl nglct following nontraumatic intcrbl hemorrhage
+214,I69.113,Psychomotor deficit following ntrm intcrbl hemorrhage
+215,I69.114,Fntl lb and exec fcn def following ntrm intcrbl hemorrhage
+216,I69.115,Cognitive social or emo def following ntrm intcrbl hemor
+217,I69.118,Other symp and signs w cogn fnctns fol ntrm intcrbl hemor
+218,I69.119,Unsp symptoms and signs w cogn fnctns fol ntrm intcrbl hemor
+219,I69.120,Aphasia following nontraumatic intracerebral hemorrhage
+220,I69.121,Dysphasia following nontraumatic intracerebral hemorrhage
+221,I69.122,Dysarthria following nontraumatic intracerebral hemorrhage
+222,I69.123,Fluency disorder following nontraumatic intcrbl hemorrhage
+223,I69.128,Oth speech/lang deficits following ntrm intcrbl hemorrhage
+224,I69.131,Monoplg upr lmb fol ntrm intcrbl hemor aff right dom side
+225,I69.132,Monoplg upr lmb fol ntrm intcrbl hemor aff left dom side
+226,I69.133,Monoplg upr lmb fol ntrm intcrbl hemor aff right nondom side
+227,I69.134,Monoplg upr lmb fol ntrm intcrbl hemor aff left nondom side
+228,I69.139,Monoplg upr lmb following ntrm intcrbl hemor aff unsp side
+229,I69.141,Monoplg low lmb fol ntrm intcrbl hemor aff right dom side
+230,I69.142,Monoplg low lmb fol ntrm intcrbl hemor aff left dom side
+231,I69.143,Monoplg low lmb fol ntrm intcrbl hemor aff right nondom side
+232,I69.144,Monoplg low lmb fol ntrm intcrbl hemor aff left nondom side
+233,I69.149,Monoplg low lmb following ntrm intcrbl hemor aff unsp side
+234,I69.151,Hemiplga fol ntrm intcrbl hemor aff right dominant side
+235,I69.152,Hemiplga following ntrm intcrbl hemor aff left dominant side
+236,I69.153,Hemiplga following ntrm intcrbl hemor aff right nondom side
+237,I69.154,Hemiplga following ntrm intcrbl hemor aff left nondom side
+238,I69.159,Hemiplga following ntrm intcrbl hemor affecting unsp side
+239,I69.161,Oth parlyt synd fol ntrm intcrbl hemor aff right dom side
+240,I69.162,Oth parlyt syndrome fol ntrm intcrbl hemor aff left dom side
+241,I69.163,Oth parlyt synd fol ntrm intcrbl hemor aff right nondom side
+242,I69.164,Oth parlyt synd fol ntrm intcrbl hemor aff left nondom side
+243,I69.165,"Oth paralytic syndrome following ntrm intcrbl hemor, bi"
+244,I69.169,Oth paralytic syndrome fol ntrm intcrbl hemor aff unsp side
+245,I69.190,Apraxia following nontraumatic intracerebral hemorrhage
+246,I69.191,Dysphagia following nontraumatic intracerebral hemorrhage
+247,I69.192,Facial weakness following nontraumatic intcrbl hemorrhage
+248,I69.193,Ataxia following nontraumatic intracerebral hemorrhage
+249,I69.198,Other sequelae of nontraumatic intracerebral hemorrhage
+250,I69.20,Unsp sequelae of other nontraumatic intracranial hemorrhage
+251,I69.210,Attn and concentration deficit fol other ntrm intcrn hemor
+252,I69.211,Memory deficit following other ntrm intcrn hemorrhage
+253,I69.212,Vis def/sptl nglct following other ntrm intcrn hemorrhage
+254,I69.213,Psychomotor deficit following other ntrm intcrn hemorrhage
+255,I69.214,Fntl lb and exec fcn def following other ntrm intcrn hemor
+256,I69.215,Cognitive social or emo def fol other ntrm intcrn hemor
+257,I69.218,Oth symp and signs w cogn fnctns fol other ntrm intcrn hemor
+258,I69.219,Unsp symp and signs w cogn fnctns fol oth ntrm intcrn hemor
+259,I69.220,Aphasia following other nontraumatic intracranial hemorrhage
+260,I69.221,Dysphasia following oth nontraumatic intracranial hemorrhage
+261,I69.222,Dysarthria following oth nontraumatic intcrn hemorrhage
+262,I69.223,Fluency disorder following oth ntrm intcrn hemorrhage
+263,I69.228,Oth speech/lang deficits following oth ntrm intcrn hemor
+264,I69.231,Monoplg upr lmb fol oth ntrm intcrn hemor aff right dom side
+265,I69.232,Monoplg upr lmb fol oth ntrm intcrn hemor aff left dom side
+266,I69.233,Monoplg upr lmb fol oth ntrm intcrn hemor aff r nondom side
+267,I69.234,Monoplg upr lmb fol oth ntrm intcrn hemor aff l nondom side
+268,I69.239,Monoplg upr lmb fol oth ntrm intcrn hemor aff unsp side
+269,I69.241,Monoplg low lmb fol oth ntrm intcrn hemor aff right dom side
+270,I69.242,Monoplg low lmb fol oth ntrm intcrn hemor aff left dom side
+271,I69.243,Monoplg low lmb fol oth ntrm intcrn hemor aff r nondom side
+272,I69.244,Monoplg low lmb fol oth ntrm intcrn hemor aff l nondom side
+273,I69.249,Monoplg low lmb fol oth ntrm intcrn hemor aff unsp side
+274,I69.251,Hemiplga fol oth ntrm intcrn hemor aff right dominant side
+275,I69.252,Hemiplga fol oth ntrm intcrn hemor aff left dominant side
+276,I69.253,Hemiplga fol oth ntrm intcrn hemor aff right nondom side
+277,I69.254,Hemiplga fol oth ntrm intcrn hemor aff left nondom side
+278,I69.259,Hemiplga following oth ntrm intcrn hemor affecting unsp side
+279,I69.261,Oth parlyt synd fol oth ntrm intcrn hemor aff right dom side
+280,I69.262,Oth parlyt synd fol oth ntrm intcrn hemor aff left dom side
+281,I69.263,Oth parlyt synd fol oth ntrm intcrn hemor aff r nondom side
+282,I69.264,Oth parlyt synd fol oth ntrm intcrn hemor aff l nondom side
+283,I69.265,"Oth paralytic syndrome following oth ntrm intcrn hemor, bi"
+284,I69.269,Oth parlyt syndrome fol oth ntrm intcrn hemor aff unsp side
+285,I69.290,Apraxia following other nontraumatic intracranial hemorrhage
+286,I69.291,Dysphagia following oth nontraumatic intracranial hemorrhage
+287,I69.292,Facial weakness following oth nontraumatic intcrn hemorrhage
+288,I69.293,Ataxia following other nontraumatic intracranial hemorrhage
+289,I69.298,Other sequelae of other nontraumatic intracranial hemorrhage
+290,I69.30,Unspecified sequelae of cerebral infarction
+291,I69.310,Attention and concentration deficit following cerebral infrc
+292,I69.311,Memory deficit following cerebral infarction
+293,I69.312,Vis def/sptl nglct following cerebral infarction
+294,I69.313,Psychomotor deficit following cerebral infarction
+295,I69.314,Frontal lobe and exec fcn def following cerebral infarction
+296,I69.315,Cognitive social or emo def following cerebral infarction
+297,I69.318,Other symptoms and signs w cogn fnctns fol cerebral infrc
+298,I69.319,Unsp symptoms and signs w cogn fnctns fol cerebral infrc
+299,I69.320,Aphasia following cerebral infarction
+300,I69.321,Dysphasia following cerebral infarction
+301,I69.322,Dysarthria following cerebral infarction
+302,I69.323,Fluency disorder following cerebral infarction
+303,I69.328,Oth speech/lang deficits following cerebral infarction
+304,I69.331,Monoplg upr lmb fol cerebral infrc aff right dominant side
+305,I69.332,Monoplg upr lmb fol cerebral infrc aff left dominant side
+306,I69.333,Monoplg upr lmb fol cerebral infrc aff right nondom side
+307,I69.334,Monoplg upr lmb fol cerebral infrc aff left nondom side
+308,I69.339,Monoplg upr lmb following cerebral infrc affecting unsp side
+309,I69.341,Monoplg low lmb fol cerebral infrc aff right dominant side
+310,I69.342,Monoplg low lmb fol cerebral infrc aff left dominant side
+311,I69.343,Monoplg low lmb fol cerebral infrc aff right nondom side
+312,I69.344,Monoplg low lmb fol cerebral infrc aff left nondom side
+313,I69.349,Monoplg low lmb following cerebral infrc affecting unsp side
+314,I69.351,Hemiplga following cerebral infrc aff right dominant side
+315,I69.352,Hemiplga following cerebral infrc aff left dominant side
+316,I69.353,Hemiplga following cerebral infrc aff right nondom side
+317,I69.354,Hemiplga following cerebral infrc affecting left nondom side
+318,I69.359,Hemiplga following cerebral infarction affecting unsp side
+319,I69.361,Oth parlyt syndrome fol cereb infrc aff right dominant side
+320,I69.362,Oth parlyt syndrome fol cereb infrc aff left dominant side
+321,I69.363,Oth parlyt syndrome fol cerebral infrc aff right nondom side
+322,I69.364,Oth parlyt syndrome fol cerebral infrc aff left nondom side
+323,I69.365,"Oth paralytic syndrome following cerebral infrc, bilateral"
+324,I69.369,Oth paralytic syndrome fol cerebral infrc aff unsp side
+325,I69.390,Apraxia following cerebral infarction
+326,I69.391,Dysphagia following cerebral infarction
+327,I69.392,Facial weakness following cerebral infarction
+328,I69.393,Ataxia following cerebral infarction
+329,I69.398,Other sequelae of cerebral infarction
+330,I69.80,Unspecified sequelae of other cerebrovascular disease
+331,I69.810,Attn and concentration deficit fol other cerebvasc disease
+332,I69.811,Memory deficit following other cerebrovascular disease
+333,I69.812,Vis def/sptl nglct following other cerebrovascular disease
+334,I69.813,Psychomotor deficit following other cerebrovascular disease
+335,I69.814,Fntl lb and exec fcn def following other cerebvasc disease
+336,I69.815,Cognitive social or emo def fol other cerebvasc disease
+337,I69.818,Other symp and signs w cogn fnctns fol other cerebvasc dis
+338,I69.819,Unsp symp and signs w cogn fnctns fol other cerebvasc dis
+339,I69.820,Aphasia following other cerebrovascular disease
+340,I69.821,Dysphasia following other cerebrovascular disease
+341,I69.822,Dysarthria following other cerebrovascular disease
+342,I69.823,Fluency disorder following other cerebrovascular disease
+343,I69.828,Oth speech/lang deficits following oth cerebvasc disease
+344,I69.831,Monoplg upr lmb fol oth cerebvasc disease aff right dom side
+345,I69.832,Monoplg upr lmb fol oth cerebvasc disease aff left dom side
+346,I69.833,Monoplg upr lmb fol oth cerebvasc dis aff right nondom side
+347,I69.834,Monoplg upr lmb fol oth cerebvasc dis aff left nondom side
+348,I69.839,Monoplg upr lmb fol oth cerebvasc disease aff unsp side
+349,I69.841,Monoplg low lmb fol oth cerebvasc disease aff right dom side
+350,I69.842,Monoplg low lmb fol oth cerebvasc disease aff left dom side
+351,I69.843,Monoplg low lmb fol oth cerebvasc dis aff right nondom side
+352,I69.844,Monoplg low lmb fol oth cerebvasc dis aff left nondom side
+353,I69.849,Monoplg low lmb fol oth cerebvasc disease aff unsp side
+354,I69.851,Hemiplga fol oth cerebvasc disease aff right dominant side
+355,I69.852,Hemiplga fol oth cerebvasc disease aff left dominant side
+356,I69.853,Hemiplga fol oth cerebvasc disease aff right nondom side
+357,I69.854,Hemiplga fol oth cerebvasc disease aff left nondom side
+358,I69.859,Hemiplga following oth cerebvasc disease affecting unsp side
+359,I69.861,Oth parlyt synd fol oth cerebvasc disease aff right dom side
+360,I69.862,Oth parlyt synd fol oth cerebvasc disease aff left dom side
+361,I69.863,Oth parlyt synd fol oth cerebvasc dis aff right nondom side
+362,I69.864,Oth parlyt synd fol oth cerebvasc dis aff left nondom side
+363,I69.865,"Oth paralytic syndrome following oth cerebvasc disease, bi"
+364,I69.869,Oth parlyt syndrome fol oth cerebvasc disease aff unsp side
+365,I69.890,Apraxia following other cerebrovascular disease
+366,I69.891,Dysphagia following other cerebrovascular disease
+367,I69.892,Facial weakness following other cerebrovascular disease
+368,I69.893,Ataxia following other cerebrovascular disease
+369,I69.898,Other sequelae of other cerebrovascular disease
+370,I69.90,Unspecified sequelae of unspecified cerebrovascular disease
+371,I69.910,Attn and concentration deficit fol unsp cerebvasc disease
+372,I69.911,Memory deficit following unspecified cerebrovascular disease
+373,I69.912,Vis def/sptl nglct following unspecified cerebvasc disease
+374,I69.913,Psychomotor deficit following unspecified cerebvasc disease
+375,I69.914,Fntl lb and exec fcn def following unsp cerebvasc disease
+376,I69.915,Cognitive social or emo def following unsp cerebvasc disease
+377,I69.918,Other symp and signs w cogn fnctns fol unsp cerebvasc dis
+378,I69.919,Unsp symp and signs w cogn fnctns fol unsp cerebvasc disease
+379,I69.920,Aphasia following unspecified cerebrovascular disease
+380,I69.921,Dysphasia following unspecified cerebrovascular disease
+381,I69.922,Dysarthria following unspecified cerebrovascular disease
+382,I69.923,Fluency disorder following unsp cerebrovascular disease
+383,I69.928,Oth speech/lang deficits following unsp cerebvasc disease
+384,I69.931,Monoplg upr lmb fol unsp cerebvasc dis aff right dom side
+385,I69.932,Monoplg upr lmb fol unsp cerebvasc disease aff left dom side
+386,I69.933,Monoplg upr lmb fol unsp cerebvasc dis aff right nondom side
+387,I69.934,Monoplg upr lmb fol unsp cerebvasc dis aff left nondom side
+388,I69.939,Monoplg upr lmb fol unsp cerebvasc disease aff unsp side
+389,I69.941,Monoplg low lmb fol unsp cerebvasc dis aff right dom side
+390,I69.942,Monoplg low lmb fol unsp cerebvasc disease aff left dom side
+391,I69.943,Monoplg low lmb fol unsp cerebvasc dis aff right nondom side
+392,I69.944,Monoplg low lmb fol unsp cerebvasc dis aff left nondom side
+393,I69.949,Monoplg low lmb fol unsp cerebvasc disease aff unsp side
+394,I69.951,Hemiplga fol unsp cerebvasc disease aff right dominant side
+395,I69.952,Hemiplga fol unsp cerebvasc disease aff left dominant side
+396,I69.953,Hemiplga fol unsp cerebvasc disease aff right nondom side
+397,I69.954,Hemiplga fol unsp cerebvasc disease aff left nondom side
+398,I69.959,Hemiplga following unsp cerebvasc disease aff unsp side
+399,I69.961,Oth parlyt synd fol unsp cerebvasc dis aff right dom side
+400,I69.962,Oth parlyt synd fol unsp cerebvasc disease aff left dom side
+401,I69.963,Oth parlyt synd fol unsp cerebvasc dis aff right nondom side
+402,I69.964,Oth parlyt synd fol unsp cerebvasc dis aff left nondom side
+403,I69.965,"Oth paralytic syndrome following unsp cerebvasc disease, bi"
+404,I69.969,Oth parlyt syndrome fol unsp cerebvasc disease aff unsp side
+405,I69.990,Apraxia following unspecified cerebrovascular disease
+406,I69.991,Dysphagia following unspecified cerebrovascular disease
+407,I69.992,Facial weakness following unsp cerebrovascular disease
+408,I69.993,Ataxia following unspecified cerebrovascular disease
+409,I69.998,Other sequelae following unspecified cerebrovascular disease
