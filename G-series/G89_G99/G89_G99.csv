@@ -1,0 +1,89 @@
+,category,condition
+0,G89.0,Central pain syndrome
+1,G89.11,Acute pain due to trauma
+2,G89.12,Acute postthoracotomy pain
+3,G89.18,Other acute postprocedural pain
+4,G89.21,Chronic pain due to trauma
+5,G89.22,Chronic postthoracotomy pain
+6,G89.28,Other chronic postprocedural pain
+7,G89.29,Other chronic pain
+8,G89.3,Neoplasm related pain (acute) (chronic)
+9,G89.4,Chronic pain syndrome
+10,G90.01,Carotid sinus syncope
+11,G90.09,Other idiopathic peripheral autonomic neuropathy
+12,G90.1,Familial dysautonomia [RileyDay]
+13,G90.2,Horner's syndrome
+14,G90.3,Multisystem degeneration of the autonomic nervous system
+15,G90.4,Autonomic dysreflexia
+16,G90.50,"Complex regional pain syndrome I, unspecified"
+17,G90.511,Complex regional pain syndrome I of right upper limb
+18,G90.512,Complex regional pain syndrome I of left upper limb
+19,G90.513,"Complex regional pain syndrome I of upper limb, bilateral"
+20,G90.519,Complex regional pain syndrome I of unspecified upper limb
+21,G90.521,Complex regional pain syndrome I of right lower limb
+22,G90.522,Complex regional pain syndrome I of left lower limb
+23,G90.523,"Complex regional pain syndrome I of lower limb, bilateral"
+24,G90.529,Complex regional pain syndrome I of unspecified lower limb
+25,G90.59,Complex regional pain syndrome I of other specified site
+26,G90.8,Other disorders of autonomic nervous system
+27,G90.9,"Disorder of the autonomic nervous system, unspecified"
+28,G91.0,Communicating hydrocephalus
+29,G91.1,Obstructive hydrocephalus
+30,G91.2,(Idiopathic) normal pressure hydrocephalus
+31,G91.3,"Posttraumatic hydrocephalus, unspecified"
+32,G91.4,Hydrocephalus in diseases classified elsewhere
+33,G91.8,Other hydrocephalus
+34,G91.9,"Hydrocephalus, unspecified"
+35,Toxic encephalopathy (G92),G92  Toxic encephalopathy
+36,G92,Toxic encephalopathy
+37,G93.0,Cerebral cysts
+38,G93.1,"Anoxic brain damage, not elsewhere classified"
+39,G93.2,Benign intracranial hypertension
+40,G93.3,Postviral fatigue syndrome
+41,G93.40,"Encephalopathy, unspecified"
+42,G93.41,Metabolic encephalopathy
+43,G93.49,Other encephalopathy
+44,G93.5,Compression of brain
+45,G93.6,Cerebral edema
+46,G93.7,Reye's syndrome
+47,G93.81,Temporal sclerosis
+48,G93.82,Brain death
+49,G93.89,Other specified disorders of brain
+50,G93.9,"Disorder of brain, unspecified"
+51,Other disorders of brain in diseases classified elsewhere (G94),G94  Other disorders of brain in diseases classified elsewhere
+52,G94,Other disorders of brain in diseases classified elsewhere
+53,G95.0,Syringomyelia and syringobulbia
+54,G95.11,Acute infarction of spinal cord (embolic) (nonembolic)
+55,G95.19,Other vascular myelopathies
+56,G95.20,Unspecified cord compression
+57,G95.29,Other cord compression
+58,G95.81,Conus medullaris syndrome
+59,G95.89,Other specified diseases of spinal cord
+60,G95.9,"Disease of spinal cord, unspecified"
+61,G96.0,Cerebrospinal fluid leak
+62,G96.11,Dural tear
+63,G96.12,Meningeal adhesions (cerebral) (spinal)
+64,G96.19,"Other disorders of meninges, not elsewhere classified"
+65,G96.8,Other specified disorders of central nervous system
+66,G96.9,"Disorder of central nervous system, unspecified"
+67,G97.0,Cerebrospinal fluid leak from spinal puncture
+68,G97.1,Other reaction to spinal and lumbar puncture
+69,G97.2,Intracranial hypotension following ventricular shunting
+70,G97.31,Intraop hemor/hemtom of a nervous sys org comp nrv sys proc
+71,G97.32,Intraop hemor/hemtom of a nervous sys org comp oth procedure
+72,G97.41,Accidental puncture or laceration of dura during a procedure
+73,G97.48,Acc pnctr & lac of nervous sys org during a nervous sys proc
+74,G97.49,Acc pnctr & lac of nervous sys org during oth procedure
+75,G97.51,Postproc hemor of a nervous sys org fol a nervous sys proc
+76,G97.52,Postproc hemor of a nervous sys org fol other procedure
+77,G97.61,Postp hematoma of a nervous sys org fol a nervous sys proc
+78,G97.62,Postproc hematoma of a nervous sys org fol other procedure
+79,G97.63,Postproc seroma of a nervous sys org fol a nervous sys proc
+80,G97.64,Postproc seroma of a nervous sys org fol other procedure
+81,G97.81,Other intraoperative complications of nervous system
+82,G97.82,Oth postproc complications and disorders of nervous sys
+83,G98.0,"Neurogenic arthritis, not elsewhere classified"
+84,G98.8,Other disorders of nervous system
+85,G99.0,Autonomic neuropathy in diseases classified elsewhere
+86,G99.2,Myelopathy in diseases classified elsewhere
+87,G99.8,Oth disrd of nervous system in diseases classified elsewhere

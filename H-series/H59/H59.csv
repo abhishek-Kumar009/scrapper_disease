@@ -1,0 +1,67 @@
+,category,condition
+0,H59.011,"Keratopathy (bullous aphakic) fol cataract surgery, r eye"
+1,H59.012,"Keratopathy (bullous aphakic) fol cataract surgery, left eye"
+2,H59.013,"Keratopathy (bullous aphakic) following cataract surgery, bi"
+3,H59.019,"Keratopathy (bullous aphakic) fol cataract surgery, unsp eye"
+4,H59.021,"Cataract (lens) fragmt in eye fol cataract surgery, r eye"
+5,H59.022,"Cataract (lens) fragmt in eye fol cataract surgery, left eye"
+6,H59.023,"Cataract (lens) fragments in eye fol cataract surgery, bi"
+7,H59.029,"Cataract (lens) fragmt in eye fol cataract surgery, unsp eye"
+8,H59.031,"Cystoid macular edema following cataract surgery, right eye"
+9,H59.032,"Cystoid macular edema following cataract surgery, left eye"
+10,H59.033,"Cystoid macular edema following cataract surgery, bilateral"
+11,H59.039,"Cystoid macular edema following cataract surgery, unsp eye"
+12,H59.091,Other disorders of the right eye following cataract surgery
+13,H59.092,Other disorders of the left eye following cataract surgery
+14,H59.093,"Oth disorders of the eye following cataract surgery, bi"
+15,H59.099,Other disorders of unsp eye following cataract surgery
+16,H59.111,Intraop hemor/hemtom of r eye and adnexa comp an opth proc
+17,H59.112,Intraop hemor/hemtom of l eye and adnexa comp an opth proc
+18,H59.113,"Intraop hemor/hemtom of eye and adnexa comp an opth proc, bi"
+19,H59.119,Intraop hemor/hemtom of unsp eye and adnx comp an opth proc
+20,H59.121,Intraop hemor/hemtom of right eye and adnexa comp oth proc
+21,H59.122,Intraop hemor/hemtom of left eye and adnexa comp oth proc
+22,H59.123,"Intraop hemor/hemtom of eye and adnexa comp oth proc, bi"
+23,H59.129,Intraop hemor/hemtom of unsp eye and adnexa comp oth proc
+24,H59.211,Acc pnctr & lac of right eye and adnexa during an opth proc
+25,H59.212,Acc pnctr & lac of left eye and adnexa during an opth proc
+26,H59.213,"Acc pnctr & lac of eye and adnexa during an opth proc, bi"
+27,H59.219,Acc pnctr & lac of unsp eye and adnexa during an opth proc
+28,H59.221,Acc pnctr & lac of right eye and adnexa during oth procedure
+29,H59.222,Acc pnctr & lac of left eye and adnexa during oth procedure
+30,H59.223,"Acc pnctr & lac of eye and adnexa during oth procedure, bi"
+31,H59.229,Acc pnctr & lac of unsp eye and adnexa during oth procedure
+32,H59.311,Postproc hemor of right eye and adnexa fol an opth procedure
+33,H59.312,Postproc hemor of left eye and adnexa fol an opth procedure
+34,H59.313,"Postproc hemor of eye and adnexa fol an opth procedure, bi"
+35,H59.319,Postproc hemor of unsp and adnexa fol an opth procedure
+36,H59.321,Postproc hemor of right eye and adnexa fol other procedure
+37,H59.322,Postproc hemor of left eye and adnexa fol other procedure
+38,H59.323,"Postproc hemor of eye and adnexa fol other procedure, bi"
+39,H59.329,Postproc hemor of unsp and adnexa following other procedure
+40,H59.331,Postproc hematoma of right eye and adnexa fol an opth proc
+41,H59.332,Postproc hematoma of left eye and adnexa fol an opth proc
+42,H59.333,"Postproc hematoma of eye and adnexa fol an opth proc, bi"
+43,H59.339,Postproc hematoma of unsp and adnexa fol an opth procedure
+44,H59.341,Postproc hematoma of right eye and adnexa fol other proc
+45,H59.342,Postproc hematoma of left eye and adnexa fol other procedure
+46,H59.343,"Postproc hematoma of eye and adnexa fol other procedure, bi"
+47,H59.349,Postproc hematoma of unsp and adnexa fol other procedure
+48,H59.351,Postproc seroma of right eye and adnexa fol an opth proc
+49,H59.352,Postproc seroma of left eye and adnexa fol an opth procedure
+50,H59.353,"Postproc seroma of eye and adnexa fol an opth procedure, bi"
+51,H59.359,Postproc seroma of unsp and adnexa fol an opth procedure
+52,H59.361,Postproc seroma of right eye and adnexa fol other procedure
+53,H59.362,Postproc seroma of left eye and adnexa fol other procedure
+54,H59.363,"Postproc seroma of eye and adnexa fol other procedure, bi"
+55,H59.369,Postproc seroma of unsp and adnexa following other procedure
+56,H59.40,"Inflammation (infection) of postprocedural bleb, unspecified"
+57,H59.41,"Inflammation (infection) of postprocedural bleb, stage 1"
+58,H59.42,"Inflammation (infection) of postprocedural bleb, stage 2"
+59,H59.43,"Inflammation (infection) of postprocedural bleb, stage 3"
+60,H59.811,"Chorioretinal scars after surgery for detachment, right eye"
+61,H59.812,"Chorioretinal scars after surgery for detachment, left eye"
+62,H59.813,"Chorioretinal scars after surgery for detachment, bilateral"
+63,H59.819,"Chorioretinal scars after surgery for detachment, unsp eye"
+64,H59.88,"Oth intraoperative complications of eye and adnexa, NEC"
+65,H59.89,"Oth postproc comp and disorders of eye and adnexa, NEC"

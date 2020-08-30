@@ -1,0 +1,43 @@
+,category,condition
+4,G20,Parkinson's disease
+5,G21.0,Malignant neuroleptic syndrome
+6,G21.11,Neuroleptic induced parkinsonism
+7,G21.19,Other drug induced secondary parkinsonism
+8,G21.2,Secondary parkinsonism due to other external agents
+9,G21.3,Postencephalitic parkinsonism
+10,G21.4,Vascular parkinsonism
+11,G21.8,Other secondary parkinsonism
+12,G21.9,"Secondary parkinsonism, unspecified"
+13,G23.0,HallervordenSpatz disease
+14,G23.1,Progressive supranuclear ophthalmoplegia
+15,G23.2,Striatonigral degeneration
+16,G23.8,Other specified degenerative diseases of basal ganglia
+17,G23.9,"Degenerative disease of basal ganglia, unspecified"
+18,G24.01,Drug induced subacute dyskinesia
+19,G24.02,Drug induced acute dystonia
+20,G24.09,Other drug induced dystonia
+21,G24.1,Genetic torsion dystonia
+22,G24.2,Idiopathic nonfamilial dystonia
+23,G24.3,Spasmodic torticollis
+24,G24.4,Idiopathic orofacial dystonia
+25,G24.5,Blepharospasm
+26,G24.8,Other dystonia
+27,G24.9,"Dystonia, unspecified"
+28,G25.0,Essential tremor
+29,G25.1,Druginduced tremor
+30,G25.2,Other specified forms of tremor
+31,G25.3,Myoclonus
+32,G25.4,Druginduced chorea
+33,G25.5,Other chorea
+34,G25.61,Drug induced tics
+35,G25.69,Other tics of organic origin
+36,G25.70,"Drug induced movement disorder, unspecified"
+37,G25.71,Drug induced akathisia
+38,G25.79,Other drug induced movement disorders
+39,G25.81,Restless legs syndrome
+40,G25.82,Stiffman syndrome
+41,G25.83,Benign shuddering attacks
+42,G25.89,Other specified extrapyramidal and movement disorders
+43,G25.9,"Extrapyramidal and movement disorder, unspecified"
+44,Extrapyramidal and movement disord in diseases classd elswhr (G26),G26  Extrapyramidal and movement disord in diseases classd elswhr
+45,G26,Extrapyramidal and movement disord in diseases classd elswhr

@@ -1,0 +1,55 @@
+,category,condition
+0,G80.0,Spastic quadriplegic cerebral palsy
+1,G80.1,Spastic diplegic cerebral palsy
+2,G80.2,Spastic hemiplegic cerebral palsy
+3,G80.3,Athetoid cerebral palsy
+4,G80.4,Ataxic cerebral palsy
+5,G80.8,Other cerebral palsy
+6,G80.9,"Cerebral palsy, unspecified"
+7,G81.00,Flaccid hemiplegia affecting unspecified side
+8,G81.01,Flaccid hemiplegia affecting right dominant side
+9,G81.02,Flaccid hemiplegia affecting left dominant side
+10,G81.03,Flaccid hemiplegia affecting right nondominant side
+11,G81.04,Flaccid hemiplegia affecting left nondominant side
+12,G81.10,Spastic hemiplegia affecting unspecified side
+13,G81.11,Spastic hemiplegia affecting right dominant side
+14,G81.12,Spastic hemiplegia affecting left dominant side
+15,G81.13,Spastic hemiplegia affecting right nondominant side
+16,G81.14,Spastic hemiplegia affecting left nondominant side
+17,G81.90,"Hemiplegia, unspecified affecting unspecified side"
+18,G81.91,"Hemiplegia, unspecified affecting right dominant side"
+19,G81.92,"Hemiplegia, unspecified affecting left dominant side"
+20,G81.93,"Hemiplegia, unspecified affecting right nondominant side"
+21,G81.94,"Hemiplegia, unspecified affecting left nondominant side"
+22,G82.20,"Paraplegia, unspecified"
+23,G82.21,"Paraplegia, complete"
+24,G82.22,"Paraplegia, incomplete"
+25,G82.50,"Quadriplegia, unspecified"
+26,G82.51,"Quadriplegia, C1C4 complete"
+27,G82.52,"Quadriplegia, C1C4 incomplete"
+28,G82.53,"Quadriplegia, C5C7 complete"
+29,G82.54,"Quadriplegia, C5C7 incomplete"
+30,G83.0,Diplegia of upper limbs
+31,G83.10,Monoplegia of lower limb affecting unspecified side
+32,G83.11,Monoplegia of lower limb affecting right dominant side
+33,G83.12,Monoplegia of lower limb affecting left dominant side
+34,G83.13,Monoplegia of lower limb affecting right nondominant side
+35,G83.14,Monoplegia of lower limb affecting left nondominant side
+36,G83.20,Monoplegia of upper limb affecting unspecified side
+37,G83.21,Monoplegia of upper limb affecting right dominant side
+38,G83.22,Monoplegia of upper limb affecting left dominant side
+39,G83.23,Monoplegia of upper limb affecting right nondominant side
+40,G83.24,Monoplegia of upper limb affecting left nondominant side
+41,G83.30,"Monoplegia, unspecified affecting unspecified side"
+42,G83.31,"Monoplegia, unspecified affecting right dominant side"
+43,G83.32,"Monoplegia, unspecified affecting left dominant side"
+44,G83.33,"Monoplegia, unspecified affecting right nondominant side"
+45,G83.34,"Monoplegia, unspecified affecting left nondominant side"
+46,G83.4,Cauda equina syndrome
+47,G83.5,Lockedin state
+48,G83.81,BrownSequard syndrome
+49,G83.82,Anterior cord syndrome
+50,G83.83,Posterior cord syndrome
+51,G83.84,Todd's paralysis (postepileptic)
+52,G83.89,Other specified paralytic syndromes
+53,G83.9,"Paralytic syndrome, unspecified"

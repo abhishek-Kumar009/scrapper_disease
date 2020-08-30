@@ -1,0 +1,40 @@
+,category,condition
+0,G00.0,Hemophilus meningitis
+1,G00.1,Pneumococcal meningitis
+2,G00.2,Streptococcal meningitis
+3,G00.3,Staphylococcal meningitis
+4,G00.8,Other bacterial meningitis
+5,G00.9,"Bacterial meningitis, unspecified"
+6,Meningitis in bacterial diseases classified elsewhere (G01),G01  Meningitis in bacterial diseases classified elsewhere
+7,G01,Meningitis in bacterial diseases classified elsewhere
+8,Meningitis in oth infec/parastc diseases classd elswhr (G02),G02  Meningitis in oth infec/parastc diseases classd elswhr
+9,G02,Meningitis in oth infec/parastc diseases classd elswhr
+10,G03.0,Nonpyogenic meningitis
+11,G03.1,Chronic meningitis
+12,G03.2,Benign recurrent meningitis [Mollaret]
+13,G03.8,Meningitis due to other specified causes
+14,G03.9,"Meningitis, unspecified"
+15,G04.00,"Acute disseminated encephalitis and encephalomyelitis, unsp"
+16,G04.01,Postinfect acute dissem encephalitis and encephalomyelitis
+17,G04.02,"Postimmun ac dissem encphlts, myelitis and encephalomyelitis"
+18,G04.1,Tropical spastic paraplegia
+19,G04.2,"Bacterial meningoencephalitis and meningomyelitis, NEC"
+20,G04.30,"Acute necrotizing hemorrhagic encephalopathy, unspecified"
+21,G04.31,Postinfectious acute necrotizing hemorrhagic encephalopathy
+22,G04.32,Postimmun acute necrotizing hemorrhagic encephalopathy
+23,G04.39,Other acute necrotizing hemorrhagic encephalopathy
+24,G04.81,Other encephalitis and encephalomyelitis
+25,G04.89,Other myelitis
+26,G04.90,"Encephalitis and encephalomyelitis, unspecified"
+27,G04.91,"Myelitis, unspecified"
+28,G05.3,Encephalitis and encephalomyelitis in diseases classd elswhr
+29,G05.4,Myelitis in diseases classified elsewhere
+30,G06.0,Intracranial abscess and granuloma
+31,G06.1,Intraspinal abscess and granuloma
+32,G06.2,"Extradural and subdural abscess, unspecified"
+33,Intcrn & intraspinal abscs & granuloma in dis classd elswhr (G07),G07  Intcrn & intraspinal abscs & granuloma in dis classd elswhr
+34,G07,Intcrn & intraspinal abscs & granuloma in dis classd elswhr
+35,Intracranial and intraspinal phlebitis and thrombophlebitis (G08),G08  Intracranial and intraspinal phlebitis and thrombophlebitis
+36,G08,Intracranial and intraspinal phlebitis and thrombophlebitis
+37,Sequelae of inflammatory diseases of central nervous system (G09),G09  Sequelae of inflammatory diseases of central nervous system
+38,G09,Sequelae of inflammatory diseases of central nervous system

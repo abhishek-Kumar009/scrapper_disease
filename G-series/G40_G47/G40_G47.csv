@@ -1,0 +1,190 @@
+,category,condition
+0,G40.001,"Localrel idio epi w seiz of loc onst, not ntrct, w stat epi"
+1,G40.009,"Localrel idio epi w seiz of loc onst,not ntrct,w/o stat epi"
+2,G40.011,"Localrel idio epi w seiz of loc onset, ntrct, w stat epi"
+3,G40.019,"Localrel idio epi w seiz of loc onset, ntrct, w/o stat epi"
+4,G40.101,"Localrel symptc epi w simp part seiz, not ntrct, w stat epi"
+5,G40.109,"Localrel symptc epi w simp prt seiz,not ntrct, w/o stat epi"
+6,G40.111,"Localrel symptc epi w simple part seiz, ntrct, w stat epi"
+7,G40.119,"Localrel symptc epi w simple part seiz, ntrct, w/o stat epi"
+8,G40.201,"Localrel symptc epi w cmplx prt seiz, not ntrct, w stat epi"
+9,G40.209,"Localrel symptc epi w cmplx prt seiz,not ntrct,w/o stat epi"
+10,G40.211,"Localrel symptc epi w cmplx partial seiz, ntrct, w stat epi"
+11,G40.219,"Localrel symptc epi w cmplx part seiz, ntrct, w/o stat epi"
+12,G40.301,"Gen idiopathic epilepsy, not intractable, w stat epi"
+13,G40.309,"Gen idiopathic epilepsy, not intractable, w/o stat epi"
+14,G40.311,"Generalized idiopathic epilepsy, intractable, w stat epi"
+15,G40.319,"Generalized idiopathic epilepsy, intractable, w/o stat epi"
+16,G40.401,"Oth generalized epilepsy, not intractable, w stat epi"
+17,G40.409,"Oth generalized epilepsy, not intractable, w/o stat epi"
+18,G40.411,"Oth generalized epilepsy, intractable, w status epilepticus"
+19,G40.419,"Oth generalized epilepsy, intractable, w/o stat epi"
+20,G40.501,"Epileptic seiz rel to extrn causes, not ntrct, w stat epi"
+21,G40.509,"Epileptic seiz rel to extrn causes, not ntrct, w/o stat epi"
+22,G40.801,"Other epilepsy, not intractable, with status epilepticus"
+23,G40.802,"Other epilepsy, not intractable, without status epilepticus"
+24,G40.803,"Other epilepsy, intractable, with status epilepticus"
+25,G40.804,"Other epilepsy, intractable, without status epilepticus"
+26,G40.811,"LennoxGastaut syndrome, not intractable, w stat epi"
+27,G40.812,"LennoxGastaut syndrome, not intractable, w/o stat epi"
+28,G40.813,"LennoxGastaut syndrome, intractable, w status epilepticus"
+29,G40.814,"LennoxGastaut syndrome, intractable, w/o status epilepticus"
+30,G40.821,"Epileptic spasms, not intractable, with status epilepticus"
+31,G40.822,"Epileptic spasms, not intractable, w/o status epilepticus"
+32,G40.823,"Epileptic spasms, intractable, with status epilepticus"
+33,G40.824,"Epileptic spasms, intractable, without status epilepticus"
+34,G40.89,Other seizures
+35,G40.901,"Epilepsy, unsp, not intractable, with status epilepticus"
+36,G40.909,"Epilepsy, unsp, not intractable, without status epilepticus"
+37,G40.911,"Epilepsy, unspecified, intractable, with status epilepticus"
+38,G40.919,"Epilepsy, unsp, intractable, without status epilepticus"
+39,G40.A01,"Absence epileptic syndrome, not intractable, w stat epi"
+40,G40.A09,"Absence epileptic syndrome, not intractable, w/o stat epi"
+41,G40.A11,"Absence epileptic syndrome, intractable, w stat epi"
+42,G40.A19,"Absence epileptic syndrome, intractable, w/o stat epi"
+43,G40.B01,"Juvenile myoclonic epilepsy, not intractable, w stat epi"
+44,G40.B09,"Juvenile myoclonic epilepsy, not intractable, w/o stat epi"
+45,G40.B11,"Juvenile myoclonic epilepsy, intractable, w stat epi"
+46,G40.B19,"Juvenile myoclonic epilepsy, intractable, w/o stat epi"
+47,G43.001,"Migraine w/o aura, not intractable, with status migrainosus"
+48,G43.009,"Migraine w/o aura, not intractable, w/o status migrainosus"
+49,G43.011,"Migraine without aura, intractable, with status migrainosus"
+50,G43.019,"Migraine w/o aura, intractable, without status migrainosus"
+51,G43.101,"Migraine with aura, not intractable, with status migrainosus"
+52,G43.109,"Migraine with aura, not intractable, w/o status migrainosus"
+53,G43.111,"Migraine with aura, intractable, with status migrainosus"
+54,G43.119,"Migraine with aura, intractable, without status migrainosus"
+55,G43.401,"Hemiplegic migraine, not intractable, w status migrainosus"
+56,G43.409,"Hemiplegic migraine, not intractable, w/o status migrainosus"
+57,G43.411,"Hemiplegic migraine, intractable, with status migrainosus"
+58,G43.419,"Hemiplegic migraine, intractable, without status migrainosus"
+59,G43.501,"Perst migraine aura w/o cereb infrc, not ntrct, w stat migr"
+60,G43.509,"Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr"
+61,G43.511,"Perst migraine aura w/o cerebral infrc, ntrct, w stat migr"
+62,G43.519,"Perst migraine aura w/o cerebral infrc, ntrct, w/o stat migr"
+63,G43.601,"Perst migraine aura w cerebral infrc, not ntrct, w stat migr"
+64,G43.609,"Perst migraine aura w cereb infrc, not ntrct, w/o stat migr"
+65,G43.611,"Perst migraine aura w cerebral infrc, ntrct, w stat migr"
+66,G43.619,"Perst migraine aura w cerebral infrc, ntrct, w/o stat migr"
+67,G43.701,"Chronic migraine w/o aura, not intractable, w stat migr"
+68,G43.709,"Chronic migraine w/o aura, not intractable, w/o stat migr"
+69,G43.711,"Chronic migraine w/o aura, intractable, w status migrainosus"
+70,G43.719,"Chronic migraine w/o aura, intractable, w/o stat migr"
+71,G43.801,"Other migraine, not intractable, with status migrainosus"
+72,G43.809,"Other migraine, not intractable, without status migrainosus"
+73,G43.811,"Other migraine, intractable, with status migrainosus"
+74,G43.819,"Other migraine, intractable, without status migrainosus"
+75,G43.821,"Menstrual migraine, not intractable, with status migrainosus"
+76,G43.829,"Menstrual migraine, not intractable, w/o status migrainosus"
+77,G43.831,"Menstrual migraine, intractable, with status migrainosus"
+78,G43.839,"Menstrual migraine, intractable, without status migrainosus"
+79,G43.901,"Migraine, unsp, not intractable, with status migrainosus"
+80,G43.909,"Migraine, unsp, not intractable, without status migrainosus"
+81,G43.911,"Migraine, unspecified, intractable, with status migrainosus"
+82,G43.919,"Migraine, unsp, intractable, without status migrainosus"
+83,G43.A0,"Cyclical vomiting, in migraine, not intractable  UPDATED CODE"
+84,G43.A1,"Cyclical vomiting, in migraine, intractable  UPDATED CODE"
+85,G43.B0,"Ophthalmoplegic migraine, not intractable"
+86,G43.B1,"Ophthalmoplegic migraine, intractable"
+87,G43.C0,"Periodic headache syndromes in chld/adlt, not intractable"
+88,G43.C1,"Periodic headache syndromes in child or adult, intractable"
+89,G43.D0,"Abdominal migraine, not intractable"
+90,G43.D1,"Abdominal migraine, intractable"
+91,G44.001,"Cluster headache syndrome, unspecified, intractable"
+92,G44.009,"Cluster headache syndrome, unspecified, not intractable"
+93,G44.011,"Episodic cluster headache, intractable"
+94,G44.019,"Episodic cluster headache, not intractable"
+95,G44.021,"Chronic cluster headache, intractable"
+96,G44.029,"Chronic cluster headache, not intractable"
+97,G44.031,"Episodic paroxysmal hemicrania, intractable"
+98,G44.039,"Episodic paroxysmal hemicrania, not intractable"
+99,G44.041,"Chronic paroxysmal hemicrania, intractable"
+100,G44.049,"Chronic paroxysmal hemicrania, not intractable"
+101,G44.051,"Shrt lst unil nerlgif hdache w cnjnct inject/tear, ntrct"
+102,G44.059,"Shrt lst unil nerlgif hdache w cnjnct inject/tear, not ntrct"
+103,G44.091,"Other trigeminal autonomic cephalgias (TAC), intractable"
+104,G44.099,"Other trigeminal autonomic cephalgias (TAC), not intractable"
+105,G44.1,"Vascular headache, not elsewhere classified"
+106,G44.201,"Tensiontype headache, unspecified, intractable"
+107,G44.209,"Tensiontype headache, unspecified, not intractable"
+108,G44.211,"Episodic tensiontype headache, intractable"
+109,G44.219,"Episodic tensiontype headache, not intractable"
+110,G44.221,"Chronic tensiontype headache, intractable"
+111,G44.229,"Chronic tensiontype headache, not intractable"
+112,G44.301,"Posttraumatic headache, unspecified, intractable"
+113,G44.309,"Posttraumatic headache, unspecified, not intractable"
+114,G44.311,"Acute posttraumatic headache, intractable"
+115,G44.319,"Acute posttraumatic headache, not intractable"
+116,G44.321,"Chronic posttraumatic headache, intractable"
+117,G44.329,"Chronic posttraumatic headache, not intractable"
+118,G44.40,"Druginduced headache, NEC, not intractable"
+119,G44.41,"Druginduced headache, not elsewhere classified, intractable"
+120,G44.51,Hemicrania continua
+121,G44.52,New daily persistent headache (NDPH)
+122,G44.53,Primary thunderclap headache
+123,G44.59,Other complicated headache syndrome
+124,G44.81,Hypnic headache
+125,G44.82,Headache associated with sexual activity
+126,G44.83,Primary cough headache
+127,G44.84,Primary exertional headache
+128,G44.85,Primary stabbing headache
+129,G44.89,Other headache syndrome
+130,G45.0,Vertebrobasilar artery syndrome
+131,G45.1,Carotid artery syndrome (hemispheric)
+132,G45.2,Multiple and bilateral precerebral artery syndromes
+133,G45.3,Amaurosis fugax
+134,G45.4,Transient global amnesia
+135,G45.8,Oth transient cerebral ischemic attacks and related synd
+136,G45.9,"Transient cerebral ischemic attack, unspecified"
+137,G46.0,Middle cerebral artery syndrome
+138,G46.1,Anterior cerebral artery syndrome
+139,G46.2,Posterior cerebral artery syndrome
+140,G46.3,Brain stem stroke syndrome
+141,G46.4,Cerebellar stroke syndrome
+142,G46.5,Pure motor lacunar syndrome
+143,G46.6,Pure sensory lacunar syndrome
+144,G46.7,Other lacunar syndromes
+145,G46.8,Oth vascular syndromes of brain in cerebrovascular diseases
+146,G47.00,"Insomnia, unspecified"
+147,G47.01,Insomnia due to medical condition
+148,G47.09,Other insomnia
+149,G47.10,"Hypersomnia, unspecified"
+150,G47.11,Idiopathic hypersomnia with long sleep time
+151,G47.12,Idiopathic hypersomnia without long sleep time
+152,G47.13,Recurrent hypersomnia
+153,G47.14,Hypersomnia due to medical condition
+154,G47.19,Other hypersomnia
+155,G47.20,"Circadian rhythm sleep disorder, unspecified type"
+156,G47.21,"Circadian rhythm sleep disorder, delayed sleep phase type"
+157,G47.22,"Circadian rhythm sleep disorder, advanced sleep phase type"
+158,G47.23,"Circadian rhythm sleep disorder, irregular sleep wake type"
+159,G47.24,"Circadian rhythm sleep disorder, free running type"
+160,G47.25,"Circadian rhythm sleep disorder, jet lag type"
+161,G47.26,"Circadian rhythm sleep disorder, shift work type"
+162,G47.27,Circadian rhythm sleep disorder in conditions classd elswhr
+163,G47.29,Other circadian rhythm sleep disorder
+164,G47.30,"Sleep apnea, unspecified"
+165,G47.31,Primary central sleep apnea
+166,G47.32,High altitude periodic breathing
+167,G47.33,Obstructive sleep apnea (adult) (pediatric)
+168,G47.34,Idio sleep related nonobstructive alveolar hypoventilation
+169,G47.35,Congenital central alveolar hypoventilation syndrome
+170,G47.36,Sleep related hypoventilation in conditions classd elswhr
+171,G47.37,Central sleep apnea in conditions classified elsewhere
+172,G47.39,Other sleep apnea
+173,G47.411,Narcolepsy with cataplexy
+174,G47.419,Narcolepsy without cataplexy
+175,G47.421,Narcolepsy in conditions classified elsewhere with cataplexy
+176,G47.429,Narcolepsy in conditions classified elsewhere w/o cataplexy
+177,G47.50,"Parasomnia, unspecified"
+178,G47.51,Confusional arousals
+179,G47.52,REM sleep behavior disorder
+180,G47.53,Recurrent isolated sleep paralysis
+181,G47.54,Parasomnia in conditions classified elsewhere
+182,G47.59,Other parasomnia
+183,G47.61,Periodic limb movement disorder
+184,G47.62,Sleep related leg cramps
+185,G47.63,Sleep related bruxism
+186,G47.69,Other sleep related movement disorders
+187,G47.8,Other sleep disorders
+188,G47.9,"Sleep disorder, unspecified"

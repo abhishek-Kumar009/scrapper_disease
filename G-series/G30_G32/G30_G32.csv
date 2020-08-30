@@ -1,0 +1,19 @@
+,category,condition
+0,G30.0,Alzheimer's disease with early onset
+1,G30.1,Alzheimer's disease with late onset
+2,G30.8,Other Alzheimer's disease
+3,G30.9,"Alzheimer's disease, unspecified"
+4,G31.01,Pick's disease
+5,G31.09,Other frontotemporal dementia
+6,G31.1,"Senile degeneration of brain, not elsewhere classified"
+7,G31.2,Degeneration of nervous system due to alcohol
+8,G31.81,Alpers disease
+9,G31.82,Leigh's disease
+10,G31.83,Dementia with Lewy bodies
+11,G31.84,"Mild cognitive impairment, so stated"
+12,G31.85,Corticobasal degeneration
+13,G31.89,Other specified degenerative diseases of nervous system
+14,G31.9,"Degenerative disease of nervous system, unspecified"
+15,G32.0,Subac comb degeneration of spinal cord in dis classd elswhr
+16,G32.81,Cerebellar ataxia in diseases classified elsewhere
+17,G32.89,Oth degeneratv disord of nervous sys in dis classd elswhr

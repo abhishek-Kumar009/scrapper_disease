@@ -1,0 +1,130 @@
+,category,condition
+0,H49.00,"Third [oculomotor] nerve palsy, unspecified eye"
+1,H49.01,"Third [oculomotor] nerve palsy, right eye"
+2,H49.02,"Third [oculomotor] nerve palsy, left eye"
+3,H49.03,"Third [oculomotor] nerve palsy, bilateral"
+4,H49.10,"Fourth [trochlear] nerve palsy, unspecified eye"
+5,H49.11,"Fourth [trochlear] nerve palsy, right eye"
+6,H49.12,"Fourth [trochlear] nerve palsy, left eye"
+7,H49.13,"Fourth [trochlear] nerve palsy, bilateral"
+8,H49.20,"Sixth [abducent] nerve palsy, unspecified eye"
+9,H49.21,"Sixth [abducent] nerve palsy, right eye"
+10,H49.22,"Sixth [abducent] nerve palsy, left eye"
+11,H49.23,"Sixth [abducent] nerve palsy, bilateral"
+12,H49.30,"Total (external) ophthalmoplegia, unspecified eye"
+13,H49.31,"Total (external) ophthalmoplegia, right eye"
+14,H49.32,"Total (external) ophthalmoplegia, left eye"
+15,H49.33,"Total (external) ophthalmoplegia, bilateral"
+16,H49.40,"Progressive external ophthalmoplegia, unspecified eye"
+17,H49.41,"Progressive external ophthalmoplegia, right eye"
+18,H49.42,"Progressive external ophthalmoplegia, left eye"
+19,H49.43,"Progressive external ophthalmoplegia, bilateral"
+20,H49.811,"KearnsSayre syndrome, right eye"
+21,H49.812,"KearnsSayre syndrome, left eye"
+22,H49.813,"KearnsSayre syndrome, bilateral"
+23,H49.819,"KearnsSayre syndrome, unspecified eye"
+24,H49.881,"Other paralytic strabismus, right eye"
+25,H49.882,"Other paralytic strabismus, left eye"
+26,H49.883,"Other paralytic strabismus, bilateral"
+27,H49.889,"Other paralytic strabismus, unspecified eye"
+28,H49.9,Unspecified paralytic strabismus
+29,H50.00,Unspecified esotropia
+30,H50.011,"Monocular esotropia, right eye"
+31,H50.012,"Monocular esotropia, left eye"
+32,H50.021,"Monocular esotropia with A pattern, right eye"
+33,H50.022,"Monocular esotropia with A pattern, left eye"
+34,H50.031,"Monocular esotropia with V pattern, right eye"
+35,H50.032,"Monocular esotropia with V pattern, left eye"
+36,H50.041,"Monocular esotropia with other noncomitancies, right eye"
+37,H50.042,"Monocular esotropia with other noncomitancies, left eye"
+38,H50.05,Alternating esotropia
+39,H50.06,Alternating esotropia with A pattern
+40,H50.07,Alternating esotropia with V pattern
+41,H50.08,Alternating esotropia with other noncomitancies
+42,H50.10,Unspecified exotropia
+43,H50.111,"Monocular exotropia, right eye"
+44,H50.112,"Monocular exotropia, left eye"
+45,H50.121,"Monocular exotropia with A pattern, right eye"
+46,H50.122,"Monocular exotropia with A pattern, left eye"
+47,H50.131,"Monocular exotropia with V pattern, right eye"
+48,H50.132,"Monocular exotropia with V pattern, left eye"
+49,H50.141,"Monocular exotropia with other noncomitancies, right eye"
+50,H50.142,"Monocular exotropia with other noncomitancies, left eye"
+51,H50.15,Alternating exotropia
+52,H50.16,Alternating exotropia with A pattern
+53,H50.17,Alternating exotropia with V pattern
+54,H50.18,Alternating exotropia with other noncomitancies
+55,H50.21,"Vertical strabismus, right eye"
+56,H50.22,"Vertical strabismus, left eye"
+57,H50.30,Unspecified intermittent heterotropia
+58,H50.311,"Intermittent monocular esotropia, right eye"
+59,H50.312,"Intermittent monocular esotropia, left eye"
+60,H50.32,Intermittent alternating esotropia
+61,H50.331,"Intermittent monocular exotropia, right eye"
+62,H50.332,"Intermittent monocular exotropia, left eye"
+63,H50.34,Intermittent alternating exotropia
+64,H50.40,Unspecified heterotropia
+65,H50.411,"Cyclotropia, right eye"
+66,H50.412,"Cyclotropia, left eye"
+67,H50.42,Monofixation syndrome
+68,H50.43,Accommodative component in esotropia
+69,H50.50,Unspecified heterophoria
+70,H50.51,Esophoria
+71,H50.52,Exophoria
+72,H50.53,Vertical heterophoria
+73,H50.54,Cyclophoria
+74,H50.55,Alternating heterophoria
+75,H50.60,"Mechanical strabismus, unspecified"
+76,H50.611,"Brown's sheath syndrome, right eye"
+77,H50.612,"Brown's sheath syndrome, left eye"
+78,H50.69,Other mechanical strabismus
+79,H50.811,"Duane's syndrome, right eye"
+80,H50.812,"Duane's syndrome, left eye"
+81,H50.89,Other specified strabismus
+82,H50.9,Unspecified strabismus
+83,H51.0,Palsy (spasm) of conjugate gaze
+84,H51.11,Convergence insufficiency
+85,H51.12,Convergence excess
+86,H51.20,"Internuclear ophthalmoplegia, unspecified eye"
+87,H51.21,"Internuclear ophthalmoplegia, right eye"
+88,H51.22,"Internuclear ophthalmoplegia, left eye"
+89,H51.23,"Internuclear ophthalmoplegia, bilateral"
+90,H51.8,Other specified disorders of binocular movement
+91,H51.9,Unspecified disorder of binocular movement
+92,H52.00,"Hypermetropia, unspecified eye"
+93,H52.01,"Hypermetropia, right eye"
+94,H52.02,"Hypermetropia, left eye"
+95,H52.03,"Hypermetropia, bilateral"
+96,H52.10,"Myopia, unspecified eye"
+97,H52.11,"Myopia, right eye"
+98,H52.12,"Myopia, left eye"
+99,H52.13,"Myopia, bilateral"
+100,H52.201,"Unspecified astigmatism, right eye"
+101,H52.202,"Unspecified astigmatism, left eye"
+102,H52.203,"Unspecified astigmatism, bilateral"
+103,H52.209,"Unspecified astigmatism, unspecified eye"
+104,H52.211,"Irregular astigmatism, right eye"
+105,H52.212,"Irregular astigmatism, left eye"
+106,H52.213,"Irregular astigmatism, bilateral"
+107,H52.219,"Irregular astigmatism, unspecified eye"
+108,H52.221,"Regular astigmatism, right eye"
+109,H52.222,"Regular astigmatism, left eye"
+110,H52.223,"Regular astigmatism, bilateral"
+111,H52.229,"Regular astigmatism, unspecified eye"
+112,H52.31,Anisometropia
+113,H52.32,Aniseikonia
+114,H52.4,Presbyopia
+115,H52.511,"Internal ophthalmoplegia (complete) (total), right eye"
+116,H52.512,"Internal ophthalmoplegia (complete) (total), left eye"
+117,H52.513,"Internal ophthalmoplegia (complete) (total), bilateral"
+118,H52.519,"Internal ophthalmoplegia (complete) (total), unspecified eye"
+119,H52.521,"Paresis of accommodation, right eye"
+120,H52.522,"Paresis of accommodation, left eye"
+121,H52.523,"Paresis of accommodation, bilateral"
+122,H52.529,"Paresis of accommodation, unspecified eye"
+123,H52.531,"Spasm of accommodation, right eye"
+124,H52.532,"Spasm of accommodation, left eye"
+125,H52.533,"Spasm of accommodation, bilateral"
+126,H52.539,"Spasm of accommodation, unspecified eye"
+127,H52.6,Other disorders of refraction
+128,H52.7,Unspecified disorder of refraction

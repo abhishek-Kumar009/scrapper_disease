@@ -1,0 +1,27 @@
+,category,condition
+0,G60.0,Hereditary motor and sensory neuropathy
+1,G60.1,Refsum's disease
+2,G60.2,Neuropathy in association with hereditary ataxia
+3,G60.3,Idiopathic progressive neuropathy
+4,G60.8,Other hereditary and idiopathic neuropathies
+5,G60.9,"Hereditary and idiopathic neuropathy, unspecified"
+6,G61.0,GuillainBarre syndrome
+7,G61.1,Serum neuropathy
+8,G61.81,Chronic inflammatory demyelinating polyneuritis
+9,G61.82,Multifocal motor neuropathy
+10,G61.89,Other inflammatory polyneuropathies
+11,G61.9,"Inflammatory polyneuropathy, unspecified"
+12,G62.0,Druginduced polyneuropathy
+13,G62.1,Alcoholic polyneuropathy
+14,G62.2,Polyneuropathy due to other toxic agents
+15,G62.81,Critical illness polyneuropathy
+16,G62.82,Radiationinduced polyneuropathy
+17,G62.89,Other specified polyneuropathies
+18,G62.9,"Polyneuropathy, unspecified"
+19,Polyneuropathy in diseases classified elsewhere (G63),G63  Polyneuropathy in diseases classified elsewhere
+20,G63,Polyneuropathy in diseases classified elsewhere
+21,Other disorders of peripheral nervous system (G64),G64  Other disorders of peripheral nervous system
+22,G64,Other disorders of peripheral nervous system
+23,G65.0,Sequelae of GuillainBarre syndrome
+24,G65.1,Sequelae of other inflammatory polyneuropathy
+25,G65.2,Sequelae of toxic polyneuropathy

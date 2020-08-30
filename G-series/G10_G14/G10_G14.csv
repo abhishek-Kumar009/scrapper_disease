@@ -1,0 +1,26 @@
+,category,condition
+4,G10,Huntington's disease
+5,G11.0,Congenital nonprogressive ataxia
+6,G11.1,Earlyonset cerebellar ataxia
+7,G11.2,Lateonset cerebellar ataxia
+8,G11.3,Cerebellar ataxia with defective DNA repair
+9,G11.4,Hereditary spastic paraplegia
+10,G11.8,Other hereditary ataxias
+11,G11.9,"Hereditary ataxia, unspecified"
+12,G12.0,"Infantile spinal muscular atrophy, type I [WerdnigHoffman]"
+13,G12.1,Other inherited spinal muscular atrophy
+14,G12.20,"Motor neuron disease, unspecified"
+15,G12.21,Amyotrophic lateral sclerosis
+16,G12.22,Progressive bulbar palsy
+17,G12.23,Primary lateral sclerosis
+18,G12.24,Familial motor neuron disease
+19,G12.25,Progressive spinal muscle atrophy
+20,G12.29,Other motor neuron disease
+21,G12.8,Other spinal muscular atrophies and related syndromes
+22,G12.9,"Spinal muscular atrophy, unspecified"
+23,G13.0,Paraneoplastic neuromyopathy and neuropathy
+24,G13.1,Oth systemic atrophy aff cnsl in neoplastic disease
+25,G13.2,Systemic atrophy primarily affecting the cnsl in myxedema
+26,G13.8,Systemic atrophy aff cnsl in oth diseases classd elswhr
+27,Postpolio syndrome (G14),G14  Postpolio syndrome
+28,G14,Postpolio syndrome

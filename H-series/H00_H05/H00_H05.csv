@@ -1,0 +1,563 @@
+,category,condition
+0,H00.011,Hordeolum externum right upper eyelid
+1,H00.012,Hordeolum externum right lower eyelid
+2,H00.013,"Hordeolum externum right eye, unspecified eyelid"
+3,H00.014,Hordeolum externum left upper eyelid
+4,H00.015,Hordeolum externum left lower eyelid
+5,H00.016,"Hordeolum externum left eye, unspecified eyelid"
+6,H00.019,"Hordeolum externum unspecified eye, unspecified eyelid"
+7,H00.021,Hordeolum internum right upper eyelid
+8,H00.022,Hordeolum internum right lower eyelid
+9,H00.023,"Hordeolum internum right eye, unspecified eyelid"
+10,H00.024,Hordeolum internum left upper eyelid
+11,H00.025,Hordeolum internum left lower eyelid
+12,H00.026,"Hordeolum internum left eye, unspecified eyelid"
+13,H00.029,"Hordeolum internum unspecified eye, unspecified eyelid"
+14,H00.031,Abscess of right upper eyelid
+15,H00.032,Abscess of right lower eyelid
+16,H00.033,"Abscess of eyelid right eye, unspecified eyelid"
+17,H00.034,Abscess of left upper eyelid
+18,H00.035,Abscess of left lower eyelid
+19,H00.036,"Abscess of eyelid left eye, unspecified eyelid"
+20,H00.039,"Abscess of eyelid unspecified eye, unspecified eyelid"
+21,H00.11,Chalazion right upper eyelid
+22,H00.12,Chalazion right lower eyelid
+23,H00.13,"Chalazion right eye, unspecified eyelid"
+24,H00.14,Chalazion left upper eyelid
+25,H00.15,Chalazion left lower eyelid
+26,H00.16,"Chalazion left eye, unspecified eyelid"
+27,H00.19,"Chalazion unspecified eye, unspecified eyelid"
+28,H01.001,Unspecified blepharitis right upper eyelid
+29,H01.002,Unspecified blepharitis right lower eyelid
+30,H01.003,"Unspecified blepharitis right eye, unspecified eyelid"
+31,H01.004,Unspecified blepharitis left upper eyelid
+32,H01.005,Unspecified blepharitis left lower eyelid
+33,H01.006,"Unspecified blepharitis left eye, unspecified eyelid"
+34,H01.009,"Unspecified blepharitis unspecified eye, unspecified eyelid"
+35,H01.00A,"Unspecified blepharitis right eye, upper and lower eyelids"
+36,H01.00B,"Unspecified blepharitis left eye, upper and lower eyelids"
+37,H01.011,Ulcerative blepharitis right upper eyelid
+38,H01.012,Ulcerative blepharitis right lower eyelid
+39,H01.013,"Ulcerative blepharitis right eye, unspecified eyelid"
+40,H01.014,Ulcerative blepharitis left upper eyelid
+41,H01.015,Ulcerative blepharitis left lower eyelid
+42,H01.016,"Ulcerative blepharitis left eye, unspecified eyelid"
+43,H01.019,"Ulcerative blepharitis unspecified eye, unspecified eyelid"
+44,H01.01A,"Ulcerative blepharitis right eye, upper and lower eyelids"
+45,H01.01B,"Ulcerative blepharitis left eye, upper and lower eyelids"
+46,H01.021,Squamous blepharitis right upper eyelid
+47,H01.022,Squamous blepharitis right lower eyelid
+48,H01.023,"Squamous blepharitis right eye, unspecified eyelid"
+49,H01.024,Squamous blepharitis left upper eyelid
+50,H01.025,Squamous blepharitis left lower eyelid
+51,H01.026,"Squamous blepharitis left eye, unspecified eyelid"
+52,H01.029,"Squamous blepharitis unspecified eye, unspecified eyelid"
+53,H01.02A,"Squamous blepharitis right eye, upper and lower eyelids"
+54,H01.02B,"Squamous blepharitis left eye, upper and lower eyelids"
+55,H01.111,Allergic dermatitis of right upper eyelid
+56,H01.112,Allergic dermatitis of right lower eyelid
+57,H01.113,"Allergic dermatitis of right eye, unspecified eyelid"
+58,H01.114,Allergic dermatitis of left upper eyelid
+59,H01.115,Allergic dermatitis of left lower eyelid
+60,H01.116,"Allergic dermatitis of left eye, unspecified eyelid"
+61,H01.119,"Allergic dermatitis of unspecified eye, unspecified eyelid"
+62,H01.121,Discoid lupus erythematosus of right upper eyelid
+63,H01.122,Discoid lupus erythematosus of right lower eyelid
+64,H01.123,"Discoid lupus erythematosus of right eye, unspecified eyelid"
+65,H01.124,Discoid lupus erythematosus of left upper eyelid
+66,H01.125,Discoid lupus erythematosus of left lower eyelid
+67,H01.126,"Discoid lupus erythematosus of left eye, unspecified eyelid"
+68,H01.129,"Discoid lupus erythematosus of unsp eye, unspecified eyelid"
+69,H01.131,Eczematous dermatitis of right upper eyelid
+70,H01.132,Eczematous dermatitis of right lower eyelid
+71,H01.133,"Eczematous dermatitis of right eye, unspecified eyelid"
+72,H01.134,Eczematous dermatitis of left upper eyelid
+73,H01.135,Eczematous dermatitis of left lower eyelid
+74,H01.136,"Eczematous dermatitis of left eye, unspecified eyelid"
+75,H01.139,"Eczematous dermatitis of unspecified eye, unspecified eyelid"
+76,H01.141,Xeroderma of right upper eyelid
+77,H01.142,Xeroderma of right lower eyelid
+78,H01.143,"Xeroderma of right eye, unspecified eyelid"
+79,H01.144,Xeroderma of left upper eyelid
+80,H01.145,Xeroderma of left lower eyelid
+81,H01.146,"Xeroderma of left eye, unspecified eyelid"
+82,H01.149,"Xeroderma of unspecified eye, unspecified eyelid"
+83,H01.8,Other specified inflammations of eyelid
+84,H01.9,Unspecified inflammation of eyelid
+85,H02.001,Unspecified entropion of right upper eyelid
+86,H02.002,Unspecified entropion of right lower eyelid
+87,H02.003,"Unspecified entropion of right eye, unspecified eyelid"
+88,H02.004,Unspecified entropion of left upper eyelid
+89,H02.005,Unspecified entropion of left lower eyelid
+90,H02.006,"Unspecified entropion of left eye, unspecified eyelid"
+91,H02.009,"Unspecified entropion of unspecified eye, unspecified eyelid"
+92,H02.011,Cicatricial entropion of right upper eyelid
+93,H02.012,Cicatricial entropion of right lower eyelid
+94,H02.013,"Cicatricial entropion of right eye, unspecified eyelid"
+95,H02.014,Cicatricial entropion of left upper eyelid
+96,H02.015,Cicatricial entropion of left lower eyelid
+97,H02.016,"Cicatricial entropion of left eye, unspecified eyelid"
+98,H02.019,"Cicatricial entropion of unspecified eye, unspecified eyelid"
+99,H02.021,Mechanical entropion of right upper eyelid
+100,H02.022,Mechanical entropion of right lower eyelid
+101,H02.023,"Mechanical entropion of right eye, unspecified eyelid"
+102,H02.024,Mechanical entropion of left upper eyelid
+103,H02.025,Mechanical entropion of left lower eyelid
+104,H02.026,"Mechanical entropion of left eye, unspecified eyelid"
+105,H02.029,"Mechanical entropion of unspecified eye, unspecified eyelid"
+106,H02.031,Senile entropion of right upper eyelid
+107,H02.032,Senile entropion of right lower eyelid
+108,H02.033,"Senile entropion of right eye, unspecified eyelid"
+109,H02.034,Senile entropion of left upper eyelid
+110,H02.035,Senile entropion of left lower eyelid
+111,H02.036,"Senile entropion of left eye, unspecified eyelid"
+112,H02.039,"Senile entropion of unspecified eye, unspecified eyelid"
+113,H02.041,Spastic entropion of right upper eyelid
+114,H02.042,Spastic entropion of right lower eyelid
+115,H02.043,"Spastic entropion of right eye, unspecified eyelid"
+116,H02.044,Spastic entropion of left upper eyelid
+117,H02.045,Spastic entropion of left lower eyelid
+118,H02.046,"Spastic entropion of left eye, unspecified eyelid"
+119,H02.049,"Spastic entropion of unspecified eye, unspecified eyelid"
+120,H02.051,Trichiasis without entropion right upper eyelid
+121,H02.052,Trichiasis without entropion right lower eyelid
+122,H02.053,"Trichiasis without entropion right eye, unspecified eyelid"
+123,H02.054,Trichiasis without entropion left upper eyelid
+124,H02.055,Trichiasis without entropion left lower eyelid
+125,H02.056,"Trichiasis without entropion left eye, unspecified eyelid"
+126,H02.059,"Trichiasis without entropion unsp, unspecified eyelid"
+127,H02.101,Unspecified ectropion of right upper eyelid
+128,H02.102,Unspecified ectropion of right lower eyelid
+129,H02.103,"Unspecified ectropion of right eye, unspecified eyelid"
+130,H02.104,Unspecified ectropion of left upper eyelid
+131,H02.105,Unspecified ectropion of left lower eyelid
+132,H02.106,"Unspecified ectropion of left eye, unspecified eyelid"
+133,H02.109,"Unspecified ectropion of unspecified eye, unspecified eyelid"
+134,H02.111,Cicatricial ectropion of right upper eyelid
+135,H02.112,Cicatricial ectropion of right lower eyelid
+136,H02.113,"Cicatricial ectropion of right eye, unspecified eyelid"
+137,H02.114,Cicatricial ectropion of left upper eyelid
+138,H02.115,Cicatricial ectropion of left lower eyelid
+139,H02.116,"Cicatricial ectropion of left eye, unspecified eyelid"
+140,H02.119,"Cicatricial ectropion of unspecified eye, unspecified eyelid"
+141,H02.121,Mechanical ectropion of right upper eyelid
+142,H02.122,Mechanical ectropion of right lower eyelid
+143,H02.123,"Mechanical ectropion of right eye, unspecified eyelid"
+144,H02.124,Mechanical ectropion of left upper eyelid
+145,H02.125,Mechanical ectropion of left lower eyelid
+146,H02.126,"Mechanical ectropion of left eye, unspecified eyelid"
+147,H02.129,"Mechanical ectropion of unspecified eye, unspecified eyelid"
+148,H02.131,Senile ectropion of right upper eyelid
+149,H02.132,Senile ectropion of right lower eyelid
+150,H02.133,"Senile ectropion of right eye, unspecified eyelid"
+151,H02.134,Senile ectropion of left upper eyelid
+152,H02.135,Senile ectropion of left lower eyelid
+153,H02.136,"Senile ectropion of left eye, unspecified eyelid"
+154,H02.139,"Senile ectropion of unspecified eye, unspecified eyelid"
+155,H02.141,Spastic ectropion of right upper eyelid
+156,H02.142,Spastic ectropion of right lower eyelid
+157,H02.143,"Spastic ectropion of right eye, unspecified eyelid"
+158,H02.144,Spastic ectropion of left upper eyelid
+159,H02.145,Spastic ectropion of left lower eyelid
+160,H02.146,"Spastic ectropion of left eye, unspecified eyelid"
+161,H02.149,"Spastic ectropion of unspecified eye, unspecified eyelid"
+162,H02.151,Paralytic ectropion of right upper eyelid
+163,H02.152,Paralytic ectropion of right lower eyelid
+164,H02.153,"Paralytic ectropion of right eye, unspecified eyelid"
+165,H02.154,Paralytic ectropion of left upper eyelid
+166,H02.155,Paralytic ectropion of left lower eyelid
+167,H02.156,"Paralytic ectropion of left eye, unspecified eyelid"
+168,H02.159,"Paralytic ectropion of unspecified eye, unspecified eyelid"
+169,H02.201,Unspecified lagophthalmos right upper eyelid
+170,H02.202,Unspecified lagophthalmos right lower eyelid
+171,H02.203,"Unspecified lagophthalmos right eye, unspecified eyelid"
+172,H02.204,Unspecified lagophthalmos left upper eyelid
+173,H02.205,Unspecified lagophthalmos left lower eyelid
+174,H02.206,"Unspecified lagophthalmos left eye, unspecified eyelid"
+175,H02.209,"Unsp lagophthalmos unspecified eye, unspecified eyelid"
+176,H02.20A,"Unspecified lagophthalmos right eye, upper and lower eyelids"
+177,H02.20B,"Unspecified lagophthalmos left eye, upper and lower eyelids"
+178,H02.20C,"Unsp lagophthalmos, bilateral, upper and lower eyelids"
+179,H02.211,Cicatricial lagophthalmos right upper eyelid
+180,H02.212,Cicatricial lagophthalmos right lower eyelid
+181,H02.213,"Cicatricial lagophthalmos right eye, unspecified eyelid"
+182,H02.214,Cicatricial lagophthalmos left upper eyelid
+183,H02.215,Cicatricial lagophthalmos left lower eyelid
+184,H02.216,"Cicatricial lagophthalmos left eye, unspecified eyelid"
+185,H02.219,"Cicatricial lagophthalmos unsp eye, unspecified eyelid"
+186,H02.21A,"Cicatricial lagophthalmos right eye, upper and lower eyelids"
+187,H02.21B,"Cicatricial lagophthalmos left eye, upper and lower eyelids"
+188,H02.21C,"Cicatricial lagophthalmos, bi, upper and lower eyelids"
+189,H02.221,Mechanical lagophthalmos right upper eyelid
+190,H02.222,Mechanical lagophthalmos right lower eyelid
+191,H02.223,"Mechanical lagophthalmos right eye, unspecified eyelid"
+192,H02.224,Mechanical lagophthalmos left upper eyelid
+193,H02.225,Mechanical lagophthalmos left lower eyelid
+194,H02.226,"Mechanical lagophthalmos left eye, unspecified eyelid"
+195,H02.229,"Mechanical lagophthalmos unspecified eye, unspecified eyelid"
+196,H02.22A,"Mechanical lagophthalmos right eye, upper and lower eyelids"
+197,H02.22B,"Mechanical lagophthalmos left eye, upper and lower eyelids"
+198,H02.22C,"Mechanical lagophthalmos, bilateral, upper and lower eyelids"
+199,H02.231,Paralytic lagophthalmos right upper eyelid
+200,H02.232,Paralytic lagophthalmos right lower eyelid
+201,H02.233,"Paralytic lagophthalmos right eye, unspecified eyelid"
+202,H02.234,Paralytic lagophthalmos left upper eyelid
+203,H02.235,Paralytic lagophthalmos left lower eyelid
+204,H02.236,"Paralytic lagophthalmos left eye, unspecified eyelid"
+205,H02.239,"Paralytic lagophthalmos unspecified eye, unspecified eyelid"
+206,H02.23A,"Paralytic lagophthalmos right eye, upper and lower eyelids"
+207,H02.23B,"Paralytic lagophthalmos left eye, upper and lower eyelids"
+208,H02.23C,"Paralytic lagophthalmos, bilateral, upper and lower eyelids"
+209,H02.30,"Blepharochalasis unspecified eye, unspecified eyelid"
+210,H02.31,Blepharochalasis right upper eyelid
+211,H02.32,Blepharochalasis right lower eyelid
+212,H02.33,"Blepharochalasis right eye, unspecified eyelid"
+213,H02.34,Blepharochalasis left upper eyelid
+214,H02.35,Blepharochalasis left lower eyelid
+215,H02.36,"Blepharochalasis left eye, unspecified eyelid"
+216,H02.401,Unspecified ptosis of right eyelid
+217,H02.402,Unspecified ptosis of left eyelid
+218,H02.403,Unspecified ptosis of bilateral eyelids
+219,H02.409,Unspecified ptosis of unspecified eyelid
+220,H02.411,Mechanical ptosis of right eyelid
+221,H02.412,Mechanical ptosis of left eyelid
+222,H02.413,Mechanical ptosis of bilateral eyelids
+223,H02.419,Mechanical ptosis of unspecified eyelid
+224,H02.421,Myogenic ptosis of right eyelid
+225,H02.422,Myogenic ptosis of left eyelid
+226,H02.423,Myogenic ptosis of bilateral eyelids
+227,H02.429,Myogenic ptosis of unspecified eyelid
+228,H02.431,Paralytic ptosis of right eyelid
+229,H02.432,Paralytic ptosis of left eyelid
+230,H02.433,Paralytic ptosis of bilateral eyelids
+231,H02.439,Paralytic ptosis unspecified eyelid
+232,H02.511,Abnormal innervation syndrome right upper eyelid
+233,H02.512,Abnormal innervation syndrome right lower eyelid
+234,H02.513,"Abnormal innervation syndrome right eye, unspecified eyelid"
+235,H02.514,Abnormal innervation syndrome left upper eyelid
+236,H02.515,Abnormal innervation syndrome left lower eyelid
+237,H02.516,"Abnormal innervation syndrome left eye, unspecified eyelid"
+238,H02.519,"Abnormal innervation syndrome unsp eye, unspecified eyelid"
+239,H02.521,Blepharophimosis right upper eyelid
+240,H02.522,Blepharophimosis right lower eyelid
+241,H02.523,"Blepharophimosis right eye, unspecified eyelid"
+242,H02.524,Blepharophimosis left upper eyelid
+243,H02.525,Blepharophimosis left lower eyelid
+244,H02.526,"Blepharophimosis left eye, unspecified eyelid"
+245,H02.529,"Blepharophimosis unspecified eye, unspecified lid"
+246,H02.531,Eyelid retraction right upper eyelid
+247,H02.532,Eyelid retraction right lower eyelid
+248,H02.533,"Eyelid retraction right eye, unspecified eyelid"
+249,H02.534,Eyelid retraction left upper eyelid
+250,H02.535,Eyelid retraction left lower eyelid
+251,H02.536,"Eyelid retraction left eye, unspecified eyelid"
+252,H02.539,"Eyelid retraction unspecified eye, unspecified lid"
+253,H02.59,Other disorders affecting eyelid function
+254,H02.60,"Xanthelasma of unspecified eye, unspecified eyelid"
+255,H02.61,Xanthelasma of right upper eyelid
+256,H02.62,Xanthelasma of right lower eyelid
+257,H02.63,"Xanthelasma of right eye, unspecified eyelid"
+258,H02.64,Xanthelasma of left upper eyelid
+259,H02.65,Xanthelasma of left lower eyelid
+260,H02.66,"Xanthelasma of left eye, unspecified eyelid"
+261,H02.70,Unsp degenerative disorders of eyelid and periocular area
+262,H02.711,Chloasma of right upper eyelid and periocular area
+263,H02.712,Chloasma of right lower eyelid and periocular area
+264,H02.713,"Chloasma of right eye, unsp eyelid and periocular area"
+265,H02.714,Chloasma of left upper eyelid and periocular area
+266,H02.715,Chloasma of left lower eyelid and periocular area
+267,H02.716,"Chloasma of left eye, unspecified eyelid and periocular area"
+268,H02.719,"Chloasma of unsp eye, unspecified eyelid and periocular area"
+269,H02.721,Madarosis of right upper eyelid and periocular area
+270,H02.722,Madarosis of right lower eyelid and periocular area
+271,H02.723,"Madarosis of right eye, unsp eyelid and periocular area"
+272,H02.724,Madarosis of left upper eyelid and periocular area
+273,H02.725,Madarosis of left lower eyelid and periocular area
+274,H02.726,"Madarosis of left eye, unsp eyelid and periocular area"
+275,H02.729,"Madarosis of unsp eye, unsp eyelid and periocular area"
+276,H02.731,Vitiligo of right upper eyelid and periocular area
+277,H02.732,Vitiligo of right lower eyelid and periocular area
+278,H02.733,"Vitiligo of right eye, unsp eyelid and periocular area"
+279,H02.734,Vitiligo of left upper eyelid and periocular area
+280,H02.735,Vitiligo of left lower eyelid and periocular area
+281,H02.736,"Vitiligo of left eye, unspecified eyelid and periocular area"
+282,H02.739,"Vitiligo of unsp eye, unspecified eyelid and periocular area"
+283,H02.79,Other degenerative disorders of eyelid and periocular area
+284,H02.811,Retained foreign body in right upper eyelid
+285,H02.812,Retained foreign body in right lower eyelid
+286,H02.813,"Retained foreign body in right eye, unspecified eyelid"
+287,H02.814,Retained foreign body in left upper eyelid
+288,H02.815,Retained foreign body in left lower eyelid
+289,H02.816,"Retained foreign body in left eye, unspecified eyelid"
+290,H02.819,"Retained foreign body in unspecified eye, unspecified eyelid"
+291,H02.821,Cysts of right upper eyelid
+292,H02.822,Cysts of right lower eyelid
+293,H02.823,"Cysts of right eye, unspecified eyelid"
+294,H02.824,Cysts of left upper eyelid
+295,H02.825,Cysts of left lower eyelid
+296,H02.826,"Cysts of left eye, unspecified eyelid"
+297,H02.829,"Cysts of unspecified eye, unspecified eyelid"
+298,H02.831,Dermatochalasis of right upper eyelid
+299,H02.832,Dermatochalasis of right lower eyelid
+300,H02.833,"Dermatochalasis of right eye, unspecified eyelid"
+301,H02.834,Dermatochalasis of left upper eyelid
+302,H02.835,Dermatochalasis of left lower eyelid
+303,H02.836,"Dermatochalasis of left eye, unspecified eyelid"
+304,H02.839,"Dermatochalasis of unspecified eye, unspecified eyelid"
+305,H02.841,Edema of right upper eyelid
+306,H02.842,Edema of right lower eyelid
+307,H02.843,"Edema of right eye, unspecified eyelid"
+308,H02.844,Edema of left upper eyelid
+309,H02.845,Edema of left lower eyelid
+310,H02.846,"Edema of left eye, unspecified eyelid"
+311,H02.849,"Edema of unspecified eye, unspecified eyelid"
+312,H02.851,Elephantiasis of right upper eyelid
+313,H02.852,Elephantiasis of right lower eyelid
+314,H02.853,"Elephantiasis of right eye, unspecified eyelid"
+315,H02.854,Elephantiasis of left upper eyelid
+316,H02.855,Elephantiasis of left lower eyelid
+317,H02.856,"Elephantiasis of left eye, unspecified eyelid"
+318,H02.859,"Elephantiasis of unspecified eye, unspecified eyelid"
+319,H02.861,Hypertrichosis of right upper eyelid
+320,H02.862,Hypertrichosis of right lower eyelid
+321,H02.863,"Hypertrichosis of right eye, unspecified eyelid"
+322,H02.864,Hypertrichosis of left upper eyelid
+323,H02.865,Hypertrichosis of left lower eyelid
+324,H02.866,"Hypertrichosis of left eye, unspecified eyelid"
+325,H02.869,"Hypertrichosis of unspecified eye, unspecified eyelid"
+326,H02.871,Vascular anomalies of right upper eyelid
+327,H02.872,Vascular anomalies of right lower eyelid
+328,H02.873,"Vascular anomalies of right eye, unspecified eyelid"
+329,H02.874,Vascular anomalies of left upper eyelid
+330,H02.875,Vascular anomalies of left lower eyelid
+331,H02.876,"Vascular anomalies of left eye, unspecified eyelid"
+332,H02.879,"Vascular anomalies of unspecified eye, unspecified eyelid"
+333,H02.881,Meibomian gland dysfunction right upper eyelid
+334,H02.882,Meibomian gland dysfunction right lower eyelid
+335,H02.883,"Meibomian gland dysfunction of right eye, unspecified eyelid"
+336,H02.884,Meibomian gland dysfunction left upper eyelid
+337,H02.885,Meibomian gland dysfunction left lower eyelid
+338,H02.886,"Meibomian gland dysfunction of left eye, unspecified eyelid"
+339,H02.889,"Meibomian gland dysfunction of unsp, unspecified eyelid"
+340,H02.88A,"Meibomian gland dysfnct right eye, upper and lower eyelids"
+341,H02.88B,"Meibomian gland dysfnct left eye, upper and lower eyelids"
+342,H02.89,Other specified disorders of eyelid
+343,H02.9,Unspecified disorder of eyelid
+344,H04.001,"Unspecified dacryoadenitis, right lacrimal gland"
+345,H04.002,"Unspecified dacryoadenitis, left lacrimal gland"
+346,H04.003,"Unspecified dacryoadenitis, bilateral lacrimal glands"
+347,H04.009,"Unspecified dacryoadenitis, unspecified lacrimal gland"
+348,H04.011,"Acute dacryoadenitis, right lacrimal gland"
+349,H04.012,"Acute dacryoadenitis, left lacrimal gland"
+350,H04.013,"Acute dacryoadenitis, bilateral lacrimal glands"
+351,H04.019,"Acute dacryoadenitis, unspecified lacrimal gland"
+352,H04.021,"Chronic dacryoadenitis, right lacrimal gland"
+353,H04.022,"Chronic dacryoadenitis, left lacrimal gland"
+354,H04.023,"Chronic dacryoadenitis, bilateral lacrimal gland"
+355,H04.029,"Chronic dacryoadenitis, unspecified lacrimal gland"
+356,H04.031,Chronic enlargement of right lacrimal gland
+357,H04.032,Chronic enlargement of left lacrimal gland
+358,H04.033,Chronic enlargement of bilateral lacrimal glands
+359,H04.039,Chronic enlargement of unspecified lacrimal gland
+360,H04.111,Dacryops of right lacrimal gland
+361,H04.112,Dacryops of left lacrimal gland
+362,H04.113,Dacryops of bilateral lacrimal glands
+363,H04.119,Dacryops of unspecified lacrimal gland
+364,H04.121,Dry eye syndrome of right lacrimal gland
+365,H04.122,Dry eye syndrome of left lacrimal gland
+366,H04.123,Dry eye syndrome of bilateral lacrimal glands
+367,H04.129,Dry eye syndrome of unspecified lacrimal gland
+368,H04.131,"Lacrimal cyst, right lacrimal gland"
+369,H04.132,"Lacrimal cyst, left lacrimal gland"
+370,H04.133,"Lacrimal cyst, bilateral lacrimal glands"
+371,H04.139,"Lacrimal cyst, unspecified lacrimal gland"
+372,H04.141,"Primary lacrimal gland atrophy, right lacrimal gland"
+373,H04.142,"Primary lacrimal gland atrophy, left lacrimal gland"
+374,H04.143,"Primary lacrimal gland atrophy, bilateral lacrimal glands"
+375,H04.149,"Primary lacrimal gland atrophy, unspecified lacrimal gland"
+376,H04.151,"Secondary lacrimal gland atrophy, right lacrimal gland"
+377,H04.152,"Secondary lacrimal gland atrophy, left lacrimal gland"
+378,H04.153,"Secondary lacrimal gland atrophy, bilateral lacrimal glands"
+379,H04.159,"Secondary lacrimal gland atrophy, unspecified lacrimal gland"
+380,H04.161,"Lacrimal gland dislocation, right lacrimal gland"
+381,H04.162,"Lacrimal gland dislocation, left lacrimal gland"
+382,H04.163,"Lacrimal gland dislocation, bilateral lacrimal glands"
+383,H04.169,"Lacrimal gland dislocation, unspecified lacrimal gland"
+384,H04.19,Other specified disorders of lacrimal gland
+385,H04.201,"Unspecified epiphora, right side"
+386,H04.202,"Unspecified epiphora, left side"
+387,H04.203,"Unspecified epiphora, bilateral"
+388,H04.209,"Unspecified epiphora, unspecified side"
+389,H04.211,"Epiphora due to excess lacrimation, right lacrimal gland"
+390,H04.212,"Epiphora due to excess lacrimation, left lacrimal gland"
+391,H04.213,"Epiphora due to excess lacrimation, bi lacrimal glands"
+392,H04.219,"Epiphora due to excess lacrimation, unsp lacrimal gland"
+393,H04.221,"Epiphora due to insufficient drainage, right side"
+394,H04.222,"Epiphora due to insufficient drainage, left side"
+395,H04.223,"Epiphora due to insufficient drainage, bilateral"
+396,H04.229,"Epiphora due to insufficient drainage, unspecified side"
+397,H04.301,Unspecified dacryocystitis of right lacrimal passage
+398,H04.302,Unspecified dacryocystitis of left lacrimal passage
+399,H04.303,Unspecified dacryocystitis of bilateral lacrimal passages
+400,H04.309,Unspecified dacryocystitis of unspecified lacrimal passage
+401,H04.311,Phlegmonous dacryocystitis of right lacrimal passage
+402,H04.312,Phlegmonous dacryocystitis of left lacrimal passage
+403,H04.313,Phlegmonous dacryocystitis of bilateral lacrimal passages
+404,H04.319,Phlegmonous dacryocystitis of unspecified lacrimal passage
+405,H04.321,Acute dacryocystitis of right lacrimal passage
+406,H04.322,Acute dacryocystitis of left lacrimal passage
+407,H04.323,Acute dacryocystitis of bilateral lacrimal passages
+408,H04.329,Acute dacryocystitis of unspecified lacrimal passage
+409,H04.331,Acute lacrimal canaliculitis of right lacrimal passage
+410,H04.332,Acute lacrimal canaliculitis of left lacrimal passage
+411,H04.333,Acute lacrimal canaliculitis of bilateral lacrimal passages
+412,H04.339,Acute lacrimal canaliculitis of unspecified lacrimal passage
+413,H04.411,Chronic dacryocystitis of right lacrimal passage
+414,H04.412,Chronic dacryocystitis of left lacrimal passage
+415,H04.413,Chronic dacryocystitis of bilateral lacrimal passages
+416,H04.419,Chronic dacryocystitis of unspecified lacrimal passage
+417,H04.421,Chronic lacrimal canaliculitis of right lacrimal passage
+418,H04.422,Chronic lacrimal canaliculitis of left lacrimal passage
+419,H04.423,Chronic lacrimal canaliculitis of bi lacrimal passages
+420,H04.429,Chronic lacrimal canaliculitis of unsp lacrimal passage
+421,H04.431,Chronic lacrimal mucocele of right lacrimal passage
+422,H04.432,Chronic lacrimal mucocele of left lacrimal passage
+423,H04.433,Chronic lacrimal mucocele of bilateral lacrimal passages
+424,H04.439,Chronic lacrimal mucocele of unspecified lacrimal passage
+425,H04.511,Dacryolith of right lacrimal passage
+426,H04.512,Dacryolith of left lacrimal passage
+427,H04.513,Dacryolith of bilateral lacrimal passages
+428,H04.519,Dacryolith of unspecified lacrimal passage
+429,H04.521,Eversion of right lacrimal punctum
+430,H04.522,Eversion of left lacrimal punctum
+431,H04.523,Eversion of bilateral lacrimal punctum
+432,H04.529,Eversion of unspecified lacrimal punctum
+433,H04.531,Neonatal obstruction of right nasolacrimal duct
+434,H04.532,Neonatal obstruction of left nasolacrimal duct
+435,H04.533,Neonatal obstruction of bilateral nasolacrimal duct
+436,H04.539,Neonatal obstruction of unspecified nasolacrimal duct
+437,H04.541,Stenosis of right lacrimal canaliculi
+438,H04.542,Stenosis of left lacrimal canaliculi
+439,H04.543,Stenosis of bilateral lacrimal canaliculi
+440,H04.549,Stenosis of unspecified lacrimal canaliculi
+441,H04.551,Acquired stenosis of right nasolacrimal duct
+442,H04.552,Acquired stenosis of left nasolacrimal duct
+443,H04.553,Acquired stenosis of bilateral nasolacrimal duct
+444,H04.559,Acquired stenosis of unspecified nasolacrimal duct
+445,H04.561,Stenosis of right lacrimal punctum
+446,H04.562,Stenosis of left lacrimal punctum
+447,H04.563,Stenosis of bilateral lacrimal punctum
+448,H04.569,Stenosis of unspecified lacrimal punctum
+449,H04.571,Stenosis of right lacrimal sac
+450,H04.572,Stenosis of left lacrimal sac
+451,H04.573,Stenosis of bilateral lacrimal sac
+452,H04.579,Stenosis of unspecified lacrimal sac
+453,H04.611,Lacrimal fistula right lacrimal passage
+454,H04.612,Lacrimal fistula left lacrimal passage
+455,H04.613,Lacrimal fistula bilateral lacrimal passages
+456,H04.619,Lacrimal fistula unspecified lacrimal passage
+457,H04.69,Other changes of lacrimal passages
+458,H04.811,Granuloma of right lacrimal passage
+459,H04.812,Granuloma of left lacrimal passage
+460,H04.813,Granuloma of bilateral lacrimal passages
+461,H04.819,Granuloma of unspecified lacrimal passage
+462,H04.89,Other disorders of lacrimal system
+463,H04.9,"Disorder of lacrimal system, unspecified"
+464,H05.00,Unspecified acute inflammation of orbit
+465,H05.011,Cellulitis of right orbit
+466,H05.012,Cellulitis of left orbit
+467,H05.013,Cellulitis of bilateral orbits
+468,H05.019,Cellulitis of unspecified orbit
+469,H05.021,Osteomyelitis of right orbit
+470,H05.022,Osteomyelitis of left orbit
+471,H05.023,Osteomyelitis of bilateral orbits
+472,H05.029,Osteomyelitis of unspecified orbit
+473,H05.031,Periostitis of right orbit
+474,H05.032,Periostitis of left orbit
+475,H05.033,Periostitis of bilateral orbits
+476,H05.039,Periostitis of unspecified orbit
+477,H05.041,Tenonitis of right orbit
+478,H05.042,Tenonitis of left orbit
+479,H05.043,Tenonitis of bilateral orbits
+480,H05.049,Tenonitis of unspecified orbit
+481,H05.10,Unspecified chronic inflammatory disorders of orbit
+482,H05.111,Granuloma of right orbit
+483,H05.112,Granuloma of left orbit
+484,H05.113,Granuloma of bilateral orbits
+485,H05.119,Granuloma of unspecified orbit
+486,H05.121,"Orbital myositis, right orbit"
+487,H05.122,"Orbital myositis, left orbit"
+488,H05.123,"Orbital myositis, bilateral"
+489,H05.129,"Orbital myositis, unspecified orbit"
+490,H05.20,Unspecified exophthalmos
+491,H05.211,"Displacement (lateral) of globe, right eye"
+492,H05.212,"Displacement (lateral) of globe, left eye"
+493,H05.213,"Displacement (lateral) of globe, bilateral"
+494,H05.219,"Displacement (lateral) of globe, unspecified eye"
+495,H05.221,Edema of right orbit
+496,H05.222,Edema of left orbit
+497,H05.223,Edema of bilateral orbit
+498,H05.229,Edema of unspecified orbit
+499,H05.231,Hemorrhage of right orbit
+500,H05.232,Hemorrhage of left orbit
+501,H05.233,Hemorrhage of bilateral orbit
+502,H05.239,Hemorrhage of unspecified orbit
+503,H05.241,"Constant exophthalmos, right eye"
+504,H05.242,"Constant exophthalmos, left eye"
+505,H05.243,"Constant exophthalmos, bilateral"
+506,H05.249,"Constant exophthalmos, unspecified eye"
+507,H05.251,"Intermittent exophthalmos, right eye"
+508,H05.252,"Intermittent exophthalmos, left eye"
+509,H05.253,"Intermittent exophthalmos, bilateral"
+510,H05.259,"Intermittent exophthalmos, unspecified eye"
+511,H05.261,"Pulsating exophthalmos, right eye"
+512,H05.262,"Pulsating exophthalmos, left eye"
+513,H05.263,"Pulsating exophthalmos, bilateral"
+514,H05.269,"Pulsating exophthalmos, unspecified eye"
+515,H05.30,Unspecified deformity of orbit
+516,H05.311,Atrophy of right orbit
+517,H05.312,Atrophy of left orbit
+518,H05.313,Atrophy of bilateral orbit
+519,H05.319,Atrophy of unspecified orbit
+520,H05.321,Deformity of right orbit due to bone disease
+521,H05.322,Deformity of left orbit due to bone disease
+522,H05.323,Deformity of bilateral orbits due to bone disease
+523,H05.329,Deformity of unspecified orbit due to bone disease
+524,H05.331,Deformity of right orbit due to trauma or surgery
+525,H05.332,Deformity of left orbit due to trauma or surgery
+526,H05.333,Deformity of bilateral orbits due to trauma or surgery
+527,H05.339,Deformity of unspecified orbit due to trauma or surgery
+528,H05.341,Enlargement of right orbit
+529,H05.342,Enlargement of left orbit
+530,H05.343,Enlargement of bilateral orbits
+531,H05.349,Enlargement of unspecified orbit
+532,H05.351,Exostosis of right orbit
+533,H05.352,Exostosis of left orbit
+534,H05.353,Exostosis of bilateral orbits
+535,H05.359,Exostosis of unspecified orbit
+536,H05.401,"Unspecified enophthalmos, right eye"
+537,H05.402,"Unspecified enophthalmos, left eye"
+538,H05.403,"Unspecified enophthalmos, bilateral"
+539,H05.409,"Unspecified enophthalmos, unspecified eye"
+540,H05.411,"Enophthalmos due to atrophy of orbital tissue, right eye"
+541,H05.412,"Enophthalmos due to atrophy of orbital tissue, left eye"
+542,H05.413,"Enophthalmos due to atrophy of orbital tissue, bilateral"
+543,H05.419,"Enophthalmos due to atrophy of orbital tissue, unsp eye"
+544,H05.421,"Enophthalmos due to trauma or surgery, right eye"
+545,H05.422,"Enophthalmos due to trauma or surgery, left eye"
+546,H05.423,"Enophthalmos due to trauma or surgery, bilateral"
+547,H05.429,"Enophthalmos due to trauma or surgery, unspecified eye"
+548,H05.50,Retained (old) fb following penetrating wound of unsp orbit
+549,H05.51,Retained (old) fb following penetrating wound of right orbit
+550,H05.52,Retained (old) fb following penetrating wound of left orbit
+551,H05.53,Retained (old) fb following penetrating wound of bi orbit
+552,H05.811,Cyst of right orbit
+553,H05.812,Cyst of left orbit
+554,H05.813,Cyst of bilateral orbits
+555,H05.819,Cyst of unspecified orbit
+556,H05.821,"Myopathy of extraocular muscles, right orbit"
+557,H05.822,"Myopathy of extraocular muscles, left orbit"
+558,H05.823,"Myopathy of extraocular muscles, bilateral"
+559,H05.829,"Myopathy of extraocular muscles, unspecified orbit"
+560,H05.89,Other disorders of orbit
+561,H05.9,Unspecified disorder of orbit

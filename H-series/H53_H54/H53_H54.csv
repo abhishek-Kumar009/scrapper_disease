@@ -1,0 +1,129 @@
+,category,condition
+0,H53.001,"Unspecified amblyopia, right eye"
+1,H53.002,"Unspecified amblyopia, left eye"
+2,H53.003,"Unspecified amblyopia, bilateral"
+3,H53.009,"Unspecified amblyopia, unspecified eye"
+4,H53.011,"Deprivation amblyopia, right eye"
+5,H53.012,"Deprivation amblyopia, left eye"
+6,H53.013,"Deprivation amblyopia, bilateral"
+7,H53.019,"Deprivation amblyopia, unspecified eye"
+8,H53.021,"Refractive amblyopia, right eye"
+9,H53.022,"Refractive amblyopia, left eye"
+10,H53.023,"Refractive amblyopia, bilateral"
+11,H53.029,"Refractive amblyopia, unspecified eye"
+12,H53.031,"Strabismic amblyopia, right eye"
+13,H53.032,"Strabismic amblyopia, left eye"
+14,H53.033,"Strabismic amblyopia, bilateral"
+15,H53.039,"Strabismic amblyopia, unspecified eye"
+16,H53.041,"Amblyopia suspect, right eye"
+17,H53.042,"Amblyopia suspect, left eye"
+18,H53.043,"Amblyopia suspect, bilateral"
+19,H53.049,"Amblyopia suspect, unspecified eye"
+20,H53.10,Unspecified subjective visual disturbances
+21,H53.11,Day blindness
+22,H53.121,"Transient visual loss, right eye"
+23,H53.122,"Transient visual loss, left eye"
+24,H53.123,"Transient visual loss, bilateral"
+25,H53.129,"Transient visual loss, unspecified eye"
+26,H53.131,"Sudden visual loss, right eye"
+27,H53.132,"Sudden visual loss, left eye"
+28,H53.133,"Sudden visual loss, bilateral"
+29,H53.139,"Sudden visual loss, unspecified eye"
+30,H53.141,"Visual discomfort, right eye"
+31,H53.142,"Visual discomfort, left eye"
+32,H53.143,"Visual discomfort, bilateral"
+33,H53.149,"Visual discomfort, unspecified"
+34,H53.15,Visual distortions of shape and size
+35,H53.16,Psychophysical visual disturbances
+36,H53.19,Other subjective visual disturbances
+37,H53.2,Diplopia
+38,H53.30,Unspecified disorder of binocular vision
+39,H53.31,Abnormal retinal correspondence
+40,H53.32,Fusion with defective stereopsis
+41,H53.33,Simultaneous visual perception without fusion
+42,H53.34,Suppression of binocular vision
+43,H53.40,Unspecified visual field defects
+44,H53.411,"Scotoma involving central area, right eye"
+45,H53.412,"Scotoma involving central area, left eye"
+46,H53.413,"Scotoma involving central area, bilateral"
+47,H53.419,"Scotoma involving central area, unspecified eye"
+48,H53.421,"Scotoma of blind spot area, right eye"
+49,H53.422,"Scotoma of blind spot area, left eye"
+50,H53.423,"Scotoma of blind spot area, bilateral"
+51,H53.429,"Scotoma of blind spot area, unspecified eye"
+52,H53.431,"Sector or arcuate defects, right eye"
+53,H53.432,"Sector or arcuate defects, left eye"
+54,H53.433,"Sector or arcuate defects, bilateral"
+55,H53.439,"Sector or arcuate defects, unspecified eye"
+56,H53.451,"Other localized visual field defect, right eye"
+57,H53.452,"Other localized visual field defect, left eye"
+58,H53.453,"Other localized visual field defect, bilateral"
+59,H53.459,"Other localized visual field defect, unspecified eye"
+60,H53.461,"Homonymous bilateral field defects, right side"
+61,H53.462,"Homonymous bilateral field defects, left side"
+62,H53.469,"Homonymous bilateral field defects, unspecified side"
+63,H53.47,Heteronymous bilateral field defects
+64,H53.481,"Generalized contraction of visual field, right eye"
+65,H53.482,"Generalized contraction of visual field, left eye"
+66,H53.483,"Generalized contraction of visual field, bilateral"
+67,H53.489,"Generalized contraction of visual field, unspecified eye"
+68,H53.50,Unspecified color vision deficiencies
+69,H53.51,Achromatopsia
+70,H53.52,Acquired color vision deficiency
+71,H53.53,Deuteranomaly
+72,H53.54,Protanomaly
+73,H53.55,Tritanomaly
+74,H53.59,Other color vision deficiencies
+75,H53.60,Unspecified night blindness
+76,H53.61,Abnormal dark adaptation curve
+77,H53.62,Acquired night blindness
+78,H53.63,Congenital night blindness
+79,H53.69,Other night blindness
+80,H53.71,Glare sensitivity
+81,H53.72,Impaired contrast sensitivity
+82,H53.8,Other visual disturbances
+83,H53.9,Unspecified visual disturbance
+84,H54.0X33,"Blindness r eye category 3, blindness left eye category 3"
+85,H54.0X34,"Blindness r eye category 3, blindness left eye category 4"
+86,H54.0X35,"Blindness r eye category 3, blindness left eye category 5"
+87,H54.0X43,"Blindness r eye category 4, blindness left eye category 3"
+88,H54.0X44,"Blindness r eye category 4, blindness left eye category 4"
+89,H54.0X45,"Blindness r eye category 4, blindness left eye category 5"
+90,H54.0X53,"Blindness r eye category 5, blindness left eye category 3"
+91,H54.0X54,"Blindness r eye category 5, blindness left eye category 4"
+92,H54.0X55,"Blindness r eye category 5, blindness left eye category 5"
+93,H54.10,"Blindness, one eye, low vision other eye, unspecified eyes"
+94,H54.1131,"Blindness r eye category 3, low vision left eye category 1"
+95,H54.1132,"Blindness r eye category 3, low vision left eye category 2"
+96,H54.1141,"Blindness r eye category 4, low vision left eye category 1"
+97,H54.1142,"Blindness r eye category 4, low vision left eye category 2"
+98,H54.1151,"Blindness r eye category 5, low vision left eye category 1"
+99,H54.1152,"Blindness r eye category 5, low vision left eye category 2"
+100,H54.1213,"Low vision r eye category 1, blindness left eye category 3"
+101,H54.1214,"Low vision r eye category 1, blindness left eye category 4"
+102,H54.1215,"Low vision r eye category 1, blindness left eye category 5"
+103,H54.1223,"Low vision r eye category 2, blindness left eye category 3"
+104,H54.1224,"Low vision r eye category 2, blindness left eye category 4"
+105,H54.1225,"Low vision r eye category 2, blindness left eye category 5"
+106,H54.2X11,"Low vision r eye category 1, low vision left eye category 1"
+107,H54.2X12,"Low vision r eye category 1, low vision left eye category 2"
+108,H54.2X21,"Low vision r eye category 2, low vision left eye category 1"
+109,H54.2X22,"Low vision r eye category 2, low vision left eye category 2"
+110,H54.3,"Unqualified visual loss, both eyes"
+111,H54.40,"Blindness, one eye, unspecified eye"
+112,H54.413A,"Blindness right eye category 3, normal vision left eye"
+113,H54.414A,"Blindness right eye category 4, normal vision left eye"
+114,H54.415A,"Blindness right eye category 5, normal vision left eye"
+115,H54.42A3,"Blindness left eye category 3, normal vision right eye"
+116,H54.42A4,"Blindness left eye category 4, normal vision right eye"
+117,H54.42A5,"Blindness left eye category 5, normal vision right eye"
+118,H54.50,"Low vision, one eye, unspecified eye"
+119,H54.511A,"Low vision right eye category 1, normal vision left eye"
+120,H54.512A,"Low vision right eye category 2, normal vision left eye"
+121,H54.52A1,"Low vision left eye category 1, normal vision right eye"
+122,H54.52A2,"Low vision left eye category 2, normal vision right eye"
+123,H54.60,"Unqualified visual loss, one eye, unspecified"
+124,H54.61,"Unqualified visual loss, right eye, normal vision left eye"
+125,H54.62,"Unqualified visual loss, left eye, normal vision right eye"
+126,H54.7,Unspecified visual loss
+127,H54.8,"Legal blindness, as defined in USA"

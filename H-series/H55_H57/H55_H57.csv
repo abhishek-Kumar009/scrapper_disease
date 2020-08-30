@@ -1,0 +1,29 @@
+,category,condition
+0,H55.00,Unspecified nystagmus
+1,H55.01,Congenital nystagmus
+2,H55.02,Latent nystagmus
+3,H55.03,Visual deprivation nystagmus
+4,H55.04,Dissociated nystagmus
+5,H55.09,Other forms of nystagmus
+6,H55.81,Saccadic eye movements
+7,H55.89,Other irregular eye movements
+8,H57.00,Unspecified anomaly of pupillary function
+9,H57.01,"Argyll Robertson pupil, atypical"
+10,H57.02,Anisocoria
+11,H57.03,Miosis
+12,H57.04,Mydriasis
+13,H57.051,"Tonic pupil, right eye"
+14,H57.052,"Tonic pupil, left eye"
+15,H57.053,"Tonic pupil, bilateral"
+16,H57.059,"Tonic pupil, unspecified eye"
+17,H57.09,Other anomalies of pupillary function
+18,H57.10,"Ocular pain, unspecified eye"
+19,H57.11,"Ocular pain, right eye"
+20,H57.12,"Ocular pain, left eye"
+21,H57.13,"Ocular pain, bilateral"
+22,H57.811,"Brow ptosis, right"
+23,H57.812,"Brow ptosis, left"
+24,H57.813,"Brow ptosis, bilateral"
+25,H57.819,"Brow ptosis, unspecified"
+26,H57.89,Other specified disorders of eye and adnexa
+27,H57.9,Unspecified disorder of eye and adnexa

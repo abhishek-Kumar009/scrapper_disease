@@ -1,0 +1,34 @@
+,category,condition
+0,G70.00,Myasthenia gravis without (acute) exacerbation
+1,G70.01,Myasthenia gravis with (acute) exacerbation
+2,G70.1,Toxic myoneural disorders
+3,G70.2,Congenital and developmental myasthenia
+4,G70.80,"LambertEaton syndrome, unspecified"
+5,G70.81,LambertEaton syndrome in disease classified elsewhere
+6,G70.89,Other specified myoneural disorders
+7,G70.9,"Myoneural disorder, unspecified"
+8,G71.00,"Muscular dystrophy, unspecified"
+9,G71.01,Duchenne or Becker muscular dystrophy
+10,G71.02,Facioscapulohumeral muscular dystrophy
+11,G71.09,Other specified muscular dystrophies
+12,G71.11,Myotonic muscular dystrophy
+13,G71.12,Myotonia congenita
+14,G71.13,Myotonic chondrodystrophy
+15,G71.14,Drug induced myotonia
+16,G71.19,Other specified myotonic disorders
+17,G71.2,Congenital myopathies
+18,G71.3,"Mitochondrial myopathy, not elsewhere classified"
+19,G71.8,Other primary disorders of muscles
+20,G71.9,"Primary disorder of muscle, unspecified"
+21,G72.0,Druginduced myopathy
+22,G72.1,Alcoholic myopathy
+23,G72.2,Myopathy due to other toxic agents
+24,G72.3,Periodic paralysis
+25,G72.41,Inclusion body myositis [IBM]
+26,G72.49,"Oth inflammatory and immune myopathies, NEC"
+27,G72.81,Critical illness myopathy
+28,G72.89,Other specified myopathies
+29,G72.9,"Myopathy, unspecified"
+30,G73.1,LambertEaton syndrome in neoplastic disease
+31,G73.3,Myasthenic syndromes in other diseases classified elsewhere
+32,G73.7,Myopathy in diseases classified elsewhere

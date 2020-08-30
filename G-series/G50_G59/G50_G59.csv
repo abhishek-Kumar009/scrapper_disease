@@ -1,0 +1,110 @@
+,category,condition
+0,G50.0,Trigeminal neuralgia
+1,G50.1,Atypical facial pain
+2,G50.8,Other disorders of trigeminal nerve
+3,G50.9,"Disorder of trigeminal nerve, unspecified"
+4,G51.0,Bell's palsy
+5,G51.1,Geniculate ganglionitis
+6,G51.2,Melkersson's syndrome
+7,G51.31,"Clonic hemifacial spasm, right"
+8,G51.32,"Clonic hemifacial spasm, left"
+9,G51.33,"Clonic hemifacial spasm, bilateral"
+10,G51.39,"Clonic hemifacial spasm, unspecified"
+11,G51.4,Facial myokymia
+12,G51.8,Other disorders of facial nerve
+13,G51.9,"Disorder of facial nerve, unspecified"
+14,G52.0,Disorders of olfactory nerve
+15,G52.1,Disorders of glossopharyngeal nerve
+16,G52.2,Disorders of vagus nerve
+17,G52.3,Disorders of hypoglossal nerve
+18,G52.7,Disorders of multiple cranial nerves
+19,G52.8,Disorders of other specified cranial nerves
+20,G52.9,"Cranial nerve disorder, unspecified"
+21,Cranial nerve disorders in diseases classified elsewhere (G53),G53  Cranial nerve disorders in diseases classified elsewhere
+22,G53,Cranial nerve disorders in diseases classified elsewhere
+23,G54.0,Brachial plexus disorders
+24,G54.1,Lumbosacral plexus disorders
+25,G54.2,"Cervical root disorders, not elsewhere classified"
+26,G54.3,"Thoracic root disorders, not elsewhere classified"
+27,G54.4,"Lumbosacral root disorders, not elsewhere classified"
+28,G54.5,Neuralgic amyotrophy
+29,G54.6,Phantom limb syndrome with pain
+30,G54.7,Phantom limb syndrome without pain
+31,G54.8,Other nerve root and plexus disorders
+32,G54.9,"Nerve root and plexus disorder, unspecified"
+33,Nerve root and plexus compressions in diseases classd elswhr (G55),G55  Nerve root and plexus compressions in diseases classd elswhr
+34,G55,Nerve root and plexus compressions in diseases classd elswhr
+35,G56.00,"Carpal tunnel syndrome, unspecified upper limb"
+36,G56.01,"Carpal tunnel syndrome, right upper limb"
+37,G56.02,"Carpal tunnel syndrome, left upper limb"
+38,G56.03,"Carpal tunnel syndrome, bilateral upper limbs"
+39,G56.10,"Other lesions of median nerve, unspecified upper limb"
+40,G56.11,"Other lesions of median nerve, right upper limb"
+41,G56.12,"Other lesions of median nerve, left upper limb"
+42,G56.13,"Other lesions of median nerve, bilateral upper limbs"
+43,G56.20,"Lesion of ulnar nerve, unspecified upper limb"
+44,G56.21,"Lesion of ulnar nerve, right upper limb"
+45,G56.22,"Lesion of ulnar nerve, left upper limb"
+46,G56.23,"Lesion of ulnar nerve, bilateral upper limbs"
+47,G56.30,"Lesion of radial nerve, unspecified upper limb"
+48,G56.31,"Lesion of radial nerve, right upper limb"
+49,G56.32,"Lesion of radial nerve, left upper limb"
+50,G56.33,"Lesion of radial nerve, bilateral upper limbs"
+51,G56.40,Causalgia of unspecified upper limb
+52,G56.41,Causalgia of right upper limb
+53,G56.42,Causalgia of left upper limb
+54,G56.43,Causalgia of bilateral upper limbs
+55,G56.80,Other specified mononeuropathies of unspecified upper limb
+56,G56.81,Other specified mononeuropathies of right upper limb
+57,G56.82,Other specified mononeuropathies of left upper limb
+58,G56.83,Other specified mononeuropathies of bilateral upper limbs
+59,G56.90,Unspecified mononeuropathy of unspecified upper limb
+60,G56.91,Unspecified mononeuropathy of right upper limb
+61,G56.92,Unspecified mononeuropathy of left upper limb
+62,G56.93,Unspecified mononeuropathy of bilateral upper limbs
+63,G57.00,"Lesion of sciatic nerve, unspecified lower limb"
+64,G57.01,"Lesion of sciatic nerve, right lower limb"
+65,G57.02,"Lesion of sciatic nerve, left lower limb"
+66,G57.03,"Lesion of sciatic nerve, bilateral lower limbs"
+67,G57.10,"Meralgia paresthetica, unspecified lower limb"
+68,G57.11,"Meralgia paresthetica, right lower limb"
+69,G57.12,"Meralgia paresthetica, left lower limb"
+70,G57.13,"Meralgia paresthetica, bilateral lower limbs"
+71,G57.20,"Lesion of femoral nerve, unspecified lower limb"
+72,G57.21,"Lesion of femoral nerve, right lower limb"
+73,G57.22,"Lesion of femoral nerve, left lower limb"
+74,G57.23,"Lesion of femoral nerve, bilateral lower limbs"
+75,G57.30,"Lesion of lateral popliteal nerve, unspecified lower limb"
+76,G57.31,"Lesion of lateral popliteal nerve, right lower limb"
+77,G57.32,"Lesion of lateral popliteal nerve, left lower limb"
+78,G57.33,"Lesion of lateral popliteal nerve, bilateral lower limbs"
+79,G57.40,"Lesion of medial popliteal nerve, unspecified lower limb"
+80,G57.41,"Lesion of medial popliteal nerve, right lower limb"
+81,G57.42,"Lesion of medial popliteal nerve, left lower limb"
+82,G57.43,"Lesion of medial popliteal nerve, bilateral lower limbs"
+83,G57.50,"Tarsal tunnel syndrome, unspecified lower limb"
+84,G57.51,"Tarsal tunnel syndrome, right lower limb"
+85,G57.52,"Tarsal tunnel syndrome, left lower limb"
+86,G57.53,"Tarsal tunnel syndrome, bilateral lower limbs"
+87,G57.60,"Lesion of plantar nerve, unspecified lower limb"
+88,G57.61,"Lesion of plantar nerve, right lower limb"
+89,G57.62,"Lesion of plantar nerve, left lower limb"
+90,G57.63,"Lesion of plantar nerve, bilateral lower limbs"
+91,G57.70,Causalgia of unspecified lower limb
+92,G57.71,Causalgia of right lower limb
+93,G57.72,Causalgia of left lower limb
+94,G57.73,Causalgia of bilateral lower limbs
+95,G57.80,Other specified mononeuropathies of unspecified lower limb
+96,G57.81,Other specified mononeuropathies of right lower limb
+97,G57.82,Other specified mononeuropathies of left lower limb
+98,G57.83,Other specified mononeuropathies of bilateral lower limbs
+99,G57.90,Unspecified mononeuropathy of unspecified lower limb
+100,G57.91,Unspecified mononeuropathy of right lower limb
+101,G57.92,Unspecified mononeuropathy of left lower limb
+102,G57.93,Unspecified mononeuropathy of bilateral lower limbs
+103,G58.0,Intercostal neuropathy
+104,G58.7,Mononeuritis multiplex
+105,G58.8,Other specified mononeuropathies
+106,G58.9,"Mononeuropathy, unspecified"
+107,Mononeuropathy in diseases classified elsewhere (G59),G59  Mononeuropathy in diseases classified elsewhere
+108,G59,Mononeuropathy in diseases classified elsewhere
