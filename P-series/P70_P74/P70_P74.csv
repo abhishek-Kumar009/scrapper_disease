@@ -1,0 +1,34 @@
+,category,condition
+0,P70.0,Syndrome of infant of mother with gestational diabetes
+1,P70.1,Syndrome of infant of a diabetic mother
+2,P70.2,Neonatal diabetes mellitus
+3,P70.3,Iatrogenic neonatal hypoglycemia
+4,P70.4,Other neonatal hypoglycemia
+5,P70.8,Oth transitory disorders of carbohydrate metab of newborn
+6,P70.9,"Transitory disorder of carbohydrate metab of newborn, unsp"
+7,P71.0,Cow's milk hypocalcemia in newborn
+8,P71.1,Other neonatal hypocalcemia
+9,P71.2,Neonatal hypomagnesemia
+10,P71.3,Neonatal tetany without calcium or magnesium deficiency
+11,P71.4,Transitory neonatal hypoparathyroidism
+12,P71.8,Oth transitory neonatal disord of calcium & magnesium metab
+13,P71.9,"Transitory neonatal disord of calcium & magnesium metab,unsp"
+14,P72.0,"Neonatal goiter, not elsewhere classified"
+15,P72.1,Transitory neonatal hyperthyroidism
+16,P72.2,"Oth transitory neonatal disorders of thyroid function, NEC"
+17,P72.8,Other specified transitory neonatal endocrine disorders
+18,P72.9,"Transitory neonatal endocrine disorder, unspecified"
+19,P74.0,Late metabolic acidosis of newborn
+20,P74.1,Dehydration of newborn
+21,P74.21,Hypernatremia of newborn
+22,P74.22,Hyponatremia of newborn
+23,P74.31,Hyperkalemia of newborn
+24,P74.32,Hypokalemia of newborn
+25,P74.41,Alkalosis of newborn
+26,P74.421,Hyperchloremia of newborn
+27,P74.422,Hypochloremia of newborn
+28,P74.49,Other transitory electrolyte disturbance of newborn
+29,P74.5,Transitory tyrosinemia of newborn
+30,P74.6,Transitory hyperammonemia of newborn
+31,P74.8,Other transitory metabolic disturbances of newborn
+32,P74.9,"Transitory metabolic disturbance of newborn, unspecified"

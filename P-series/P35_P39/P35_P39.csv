@@ -1,0 +1,35 @@
+,category,condition
+0,P35.0,Congenital rubella syndrome
+1,P35.1,Congenital cytomegalovirus infection
+2,P35.2,Congenital herpesviral [herpes simplex] infection
+3,P35.3,Congenital viral hepatitis
+4,P35.4,Congenital Zika virus disease
+5,P35.8,Other congenital viral diseases
+6,P35.9,"Congenital viral disease, unspecified"
+7,P36.0,"Sepsis of newborn due to streptococcus, group B"
+8,P36.10,Sepsis of newborn due to unspecified streptococci
+9,P36.19,Sepsis of newborn due to other streptococci
+10,P36.2,Sepsis of newborn due to Staphylococcus aureus
+11,P36.30,Sepsis of newborn due to unspecified staphylococci
+12,P36.39,Sepsis of newborn due to other staphylococci
+13,P36.4,Sepsis of newborn due to Escherichia coli
+14,P36.5,Sepsis of newborn due to anaerobes
+15,P36.8,Other bacterial sepsis of newborn
+16,P36.9,"Bacterial sepsis of newborn, unspecified"
+17,P37.0,Congenital tuberculosis
+18,P37.1,Congenital toxoplasmosis
+19,P37.2,Neonatal (disseminated) listeriosis
+20,P37.3,Congenital falciparum malaria
+21,P37.4,Other congenital malaria
+22,P37.5,Neonatal candidiasis
+23,P37.8,Other specified congenital infectious and parasitic diseases
+24,P37.9,"Congenital infectious or parasitic disease, unspecified"
+25,P38.1,Omphalitis with mild hemorrhage
+26,P38.9,Omphalitis without hemorrhage
+27,P39.0,Neonatal infective mastitis
+28,P39.1,Neonatal conjunctivitis and dacryocystitis
+29,P39.2,"Intraamniotic infection affecting newborn, NEC"
+30,P39.3,Neonatal urinary tract infection
+31,P39.4,Neonatal skin infection
+32,P39.8,Other specified infections specific to the perinatal period
+33,P39.9,"Infection specific to the perinatal period, unspecified"

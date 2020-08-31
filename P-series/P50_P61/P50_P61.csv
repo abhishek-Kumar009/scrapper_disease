@@ -1,0 +1,70 @@
+,category,condition
+0,P50.0,Newborn aff by uterin (fetal) blood loss from vasa previa
+1,P50.1,Newborn aff by uterin (fetal) blood loss from ruptured cord
+2,P50.2,Newborn affected by uterin (fetal) blood loss from placenta
+3,P50.3,Newborn affected by hemorrhage into cotwin
+4,P50.4,Newborn affected by hemorrhage into maternal circulation
+5,P50.5,NB aff by uterin blood loss from cut end of cotwin's cord
+6,P50.8,Newborn affected by other intrauterine (fetal) blood loss
+7,P50.9,"Newborn affected by intrauterine (fetal) blood loss, unsp"
+8,P51.0,Massive umbilical hemorrhage of newborn
+9,P51.8,Other umbilical hemorrhages of newborn
+10,P51.9,"Umbilical hemorrhage of newborn, unspecified"
+11,P52.0,"Intraventricular hemorrhage, grade 1, of newborn"
+12,P52.1,"Intraventricular hemorrhage, grade 2, of newborn"
+13,P52.21,"Intraventricular hemorrhage, grade 3, of newborn"
+14,P52.22,"Intraventricular hemorrhage, grade 4, of newborn"
+15,P52.3,Unsp intraventricular (nontraumatic) hemorrhage of newborn
+16,P52.4,Intracerebral (nontraumatic) hemorrhage of newborn
+17,P52.5,Subarachnoid (nontraumatic) hemorrhage of newborn
+18,P52.6,Cerebellar and posterior fossa hemorrhage of newborn
+19,P52.8,Other intracranial (nontraumatic) hemorrhages of newborn
+20,P52.9,"Intracranial (nontraumatic) hemorrhage of newborn, unsp"
+21,Hemorrhagic disease of newborn (P53),P53  Hemorrhagic disease of newborn
+22,P53,Hemorrhagic disease of newborn
+23,P54.0,Neonatal hematemesis
+24,P54.1,Neonatal melena
+25,P54.2,Neonatal rectal hemorrhage
+26,P54.3,Other neonatal gastrointestinal hemorrhage
+27,P54.4,Neonatal adrenal hemorrhage
+28,P54.5,Neonatal cutaneous hemorrhage
+29,P54.6,Neonatal vaginal hemorrhage
+30,P54.8,Other specified neonatal hemorrhages
+31,P54.9,"Neonatal hemorrhage, unspecified"
+32,P55.0,Rh isoimmunization of newborn
+33,P55.1,ABO isoimmunization of newborn
+34,P55.8,Other hemolytic diseases of newborn
+35,P55.9,"Hemolytic disease of newborn, unspecified"
+36,P56.0,Hydrops fetalis due to isoimmunization
+37,P56.90,Hydrops fetalis due to unspecified hemolytic disease
+38,P56.99,Hydrops fetalis due to other hemolytic disease
+39,P57.0,Kernicterus due to isoimmunization
+40,P57.8,Other specified kernicterus
+41,P57.9,"Kernicterus, unspecified"
+42,P58.0,Neonatal jaundice due to bruising
+43,P58.1,Neonatal jaundice due to bleeding
+44,P58.2,Neonatal jaundice due to infection
+45,P58.3,Neonatal jaundice due to polycythemia
+46,P58.41,NB jaund due to drugs or toxins transmitted from mother
+47,P58.42,Neonatal jaundice due to drugs or toxins given to newborn
+48,P58.5,Neonatal jaundice due to swallowed maternal blood
+49,P58.8,Neonatal jaundice due to other specified excessive hemolysis
+50,P58.9,"Neonatal jaundice due to excessive hemolysis, unspecified"
+51,P59.0,Neonatal jaundice associated with preterm delivery
+52,P59.1,Inspissated bile syndrome
+53,P59.20,Neonatal jaundice from unspecified hepatocellular damage
+54,P59.29,Neonatal jaundice from other hepatocellular damage
+55,P59.3,Neonatal jaundice from breast milk inhibitor
+56,P59.8,Neonatal jaundice from other specified causes
+57,P59.9,"Neonatal jaundice, unspecified"
+58,Disseminated intravascular coagulation of newborn (P60),P60  Disseminated intravascular coagulation of newborn
+59,P60,Disseminated intravascular coagulation of newborn
+60,P61.0,Transient neonatal thrombocytopenia
+61,P61.1,Polycythemia neonatorum
+62,P61.2,Anemia of prematurity
+63,P61.3,Congenital anemia from fetal blood loss
+64,P61.4,"Other congenital anemias, not elsewhere classified"
+65,P61.5,Transient neonatal neutropenia
+66,P61.6,Other transient neonatal disorders of coagulation
+67,P61.8,Other specified perinatal hematological disorders
+68,P61.9,"Perinatal hematological disorder, unspecified"

@@ -1,0 +1,45 @@
+,category,condition
+4,P90,Convulsions of newborn
+5,P91.0,Neonatal cerebral ischemia
+6,P91.1,Acquired periventricular cysts of newborn
+7,P91.2,Neonatal cerebral leukomalacia
+8,P91.3,Neonatal cerebral irritability
+9,P91.4,Neonatal cerebral depression
+10,P91.5,Neonatal coma
+11,P91.60,"Hypoxic ischemic encephalopathy [HIE], unspecified"
+12,P91.61,Mild hypoxic ischemic encephalopathy [HIE]
+13,P91.62,Moderate hypoxic ischemic encephalopathy [HIE]
+14,P91.63,Severe hypoxic ischemic encephalopathy [HIE]
+15,P91.811,Neonatal encephalopathy in diseases classified elsewhere
+16,P91.819,"Neonatal encephalopathy, unspecified"
+17,P91.88,Other specified disturbances of cerebral status of newborn
+18,P91.9,"Disturbance of cerebral status of newborn, unspecified"
+19,P92.01,Bilious vomiting of newborn
+20,P92.09,Other vomiting of newborn
+21,P92.1,Regurgitation and rumination of newborn
+22,P92.2,Slow feeding of newborn
+23,P92.3,Underfeeding of newborn
+24,P92.4,Overfeeding of newborn
+25,P92.5,Neonatal difficulty in feeding at breast
+26,P92.6,Failure to thrive in newborn
+27,P92.8,Other feeding problems of newborn
+28,P92.9,"Feeding problem of newborn, unspecified"
+29,P93.0,Grey baby syndrome
+30,P93.8,Oth reactions and intoxications d/t drugs administered to NB
+31,P94.0,Transient neonatal myasthenia gravis
+32,P94.1,Congenital hypertonia
+33,P94.2,Congenital hypotonia
+34,P94.8,Other disorders of muscle tone of newborn
+35,P94.9,"Disorder of muscle tone of newborn, unspecified"
+36,Stillbirth (P95),P95  Stillbirth
+37,P95,Stillbirth
+38,P96.0,Congenital renal failure
+39,P96.1,Neonatal w/drawal symp from matern use of drugs of addiction
+40,P96.2,Withdrawal symptoms from therapeutic use of drugs in newborn
+41,P96.3,Wide cranial sutures of newborn
+42,P96.5,Comp to newborn due to (fetal) intrauterine procedure
+43,P96.81,Expsr to (environmental) tobacco smoke in the perinat period
+44,P96.82,Delayed separation of umbilical cord
+45,P96.83,Meconium staining
+46,P96.89,Oth conditions originating in the perinatal period
+47,P96.9,"Condition originating in the perinatal period, unspecified"
