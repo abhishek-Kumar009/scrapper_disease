@@ -1,0 +1,120 @@
+,category,condition
+0,M50.00,"Cervical disc disorder with myelopathy, unsp cervical region"
+1,M50.01,"Cervical disc disorder with myelopathy, high cervical region"
+2,M50.020,"Cerv disc disord with myelpath, midcervical rgn, unsp level"
+3,M50.021,Cervical disc disorder at C4C5 level with myelopathy
+4,M50.022,Cervical disc disorder at C5C6 level with myelopathy
+5,M50.023,Cervical disc disorder at C6C7 level with myelopathy
+6,M50.03,"Cervical disc disorder w myelopathy, cervicothoracic region"
+7,M50.10,"Cervical disc disorder w radiculopathy, unsp cervical region"
+8,M50.11,"Cerv disc disorder with radiculopathy, high cervical region"
+9,M50.120,"Midcervical disc disorder, unspecified level  UPDATED CODE"
+10,M50.121,Cervical disc disorder at C4C5 level with radiculopathy
+11,M50.122,Cervical disc disorder at C5C6 level with radiculopathy
+12,M50.123,Cervical disc disorder at C6C7 level with radiculopathy
+13,M50.13,"Cervical disc disorder w radiculopathy, cervicothor region"
+14,M50.20,"Other cervical disc displacement, unsp cervical region"
+15,M50.21,"Other cervical disc displacement, high cervical region"
+16,M50.220,"Other cerv disc displacmnt, midcervical region, unsp level"
+17,M50.221,Other cervical disc displacement at C4C5 level
+18,M50.222,Other cervical disc displacement at C5C6 level
+19,M50.223,Other cervical disc displacement at C6C7 level
+20,M50.23,"Other cervical disc displacement, cervicothoracic region"
+21,M50.30,"Other cervical disc degeneration, unsp cervical region"
+22,M50.31,"Other cervical disc degeneration, high cervical region"
+23,M50.320,"Other cerv disc degeneration, midcervical rgn, unsp level"
+24,M50.321,Other cervical disc degeneration at C4C5 level
+25,M50.322,Other cervical disc degeneration at C5C6 level
+26,M50.323,Other cervical disc degeneration at C6C7 level
+27,M50.33,"Other cervical disc degeneration, cervicothoracic region"
+28,M50.80,"Other cervical disc disorders, unspecified cervical region"
+29,M50.81,"Other cervical disc disorders, high cervical region"
+30,M50.820,"Other cervical disc disord, midcervical region, unsp level"
+31,M50.821,Other cervical disc disorders at C4C5 level
+32,M50.822,Other cervical disc disorders at C5C6 level
+33,M50.823,Other cervical disc disorders at C6C7 level
+34,M50.83,"Other cervical disc disorders, cervicothoracic region"
+35,M50.90,"Cervical disc disorder, unsp, unspecified cervical region"
+36,M50.91,"Cervical disc disorder, unspecified, high cervical region"
+37,M50.920,"Unsp cervical disc disorder, midcervical region, unsp level"
+38,M50.921,Unspecified cervical disc disorder at C4C5 level
+39,M50.922,Unspecified cervical disc disorder at C5C6 level
+40,M50.923,Unspecified cervical disc disorder at C6C7 level
+41,M50.93,"Cervical disc disorder, unspecified, cervicothoracic region"
+42,M51.04,"Intervertebral disc disorders w myelopathy, thoracic region"
+43,M51.05,"Intvrt disc disorders w myelopathy, thoracolumbar region"
+44,M51.06,"Intervertebral disc disorders with myelopathy, lumbar region"
+45,M51.14,"Intvrt disc disorders w radiculopathy, thoracic region"
+46,M51.15,"Intvrt disc disorders w radiculopathy, thoracolumbar region"
+47,M51.16,"Intervertebral disc disorders w radiculopathy, lumbar region"
+48,M51.17,"Intvrt disc disorders w radiculopathy, lumbosacral region"
+49,M51.24,"Other intervertebral disc displacement, thoracic region"
+50,M51.25,"Other intervertebral disc displacement, thoracolumbar region"
+51,M51.26,"Other intervertebral disc displacement, lumbar region"
+52,M51.27,"Other intervertebral disc displacement, lumbosacral region"
+53,M51.34,"Other intervertebral disc degeneration, thoracic region"
+54,M51.35,"Other intervertebral disc degeneration, thoracolumbar region"
+55,M51.36,"Other intervertebral disc degeneration, lumbar region"
+56,M51.37,"Other intervertebral disc degeneration, lumbosacral region"
+57,M51.44,"Schmorl's nodes, thoracic region"
+58,M51.45,"Schmorl's nodes, thoracolumbar region"
+59,M51.46,"Schmorl's nodes, lumbar region"
+60,M51.47,"Schmorl's nodes, lumbosacral region"
+61,M51.84,"Other intervertebral disc disorders, thoracic region"
+62,M51.85,"Other intervertebral disc disorders, thoracolumbar region"
+63,M51.86,"Other intervertebral disc disorders, lumbar region"
+64,M51.87,"Other intervertebral disc disorders, lumbosacral region"
+65,M51.9,"Unsp thoracic, thoracolum and lumbosacr intvrt disc disorder"
+66,M53.0,Cervicocranial syndrome
+67,M53.1,Cervicobrachial syndrome
+68,M53.2X1,"Spinal instabilities, occipitoatlantoaxial region"
+69,M53.2X2,"Spinal instabilities, cervical region"
+70,M53.2X3,"Spinal instabilities, cervicothoracic region"
+71,M53.2X4,"Spinal instabilities, thoracic region"
+72,M53.2X5,"Spinal instabilities, thoracolumbar region"
+73,M53.2X6,"Spinal instabilities, lumbar region"
+74,M53.2X7,"Spinal instabilities, lumbosacral region"
+75,M53.2X8,"Spinal instabilities, sacral and sacrococcygeal region"
+76,M53.2X9,"Spinal instabilities, site unspecified"
+77,M53.3,"Sacrococcygeal disorders, not elsewhere classified"
+78,M53.80,"Other specified dorsopathies, site unspecified"
+79,M53.81,"Other specified dorsopathies, occipitoatlantoaxial region"
+80,M53.82,"Other specified dorsopathies, cervical region"
+81,M53.83,"Other specified dorsopathies, cervicothoracic region"
+82,M53.84,"Other specified dorsopathies, thoracic region"
+83,M53.85,"Other specified dorsopathies, thoracolumbar region"
+84,M53.86,"Other specified dorsopathies, lumbar region"
+85,M53.87,"Other specified dorsopathies, lumbosacral region"
+86,M53.88,"Oth dorsopathies, sacral and sacrococcygeal region"
+87,M53.9,"Dorsopathy, unspecified"
+88,M54.00,"Panniculitis affecting regions of neck and back, site unsp"
+89,M54.01,"Panniculitis aff regions of neck/bk, occiptatlanax region"
+90,M54.02,"Panniculitis affecting regions of neck/bk, cervical region"
+91,M54.03,"Panniculitis aff regions of neck/bk, cervicothor region"
+92,M54.04,"Panniculitis affecting regions of neck/bk, thoracic region"
+93,M54.05,"Panniculitis affecting regions of neck/bk, thoracolum region"
+94,M54.06,"Panniculitis affecting regions of neck/bk, lumbar region"
+95,M54.07,"Panniculitis affecting regions of neck/bk, lumbosacr region"
+96,M54.08,"Panniculitis aff regions of neck/bk, sacr/sacrocygl region"
+97,M54.09,"Panniculitis aff regions, neck/bk, multiple sites in spine"
+98,M54.10,"Radiculopathy, site unspecified"
+99,M54.11,"Radiculopathy, occipitoatlantoaxial region"
+100,M54.12,"Radiculopathy, cervical region"
+101,M54.13,"Radiculopathy, cervicothoracic region"
+102,M54.14,"Radiculopathy, thoracic region"
+103,M54.15,"Radiculopathy, thoracolumbar region"
+104,M54.16,"Radiculopathy, lumbar region"
+105,M54.17,"Radiculopathy, lumbosacral region"
+106,M54.18,"Radiculopathy, sacral and sacrococcygeal region"
+107,M54.2,Cervicalgia
+108,M54.30,"Sciatica, unspecified side"
+109,M54.31,"Sciatica, right side"
+110,M54.32,"Sciatica, left side"
+111,M54.40,"Lumbago with sciatica, unspecified side"
+112,M54.41,"Lumbago with sciatica, right side"
+113,M54.42,"Lumbago with sciatica, left side"
+114,M54.5,Low back pain
+115,M54.6,Pain in thoracic spine
+116,M54.81,Occipital neuralgia
+117,M54.89,Other dorsalgia
+118,M54.9,"Dorsalgia, unspecified"

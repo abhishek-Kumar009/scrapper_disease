@@ -1,0 +1,354 @@
+,Synonyms
+0,"['Abscess of tendon', 'Abscess of tendon sheath']"
+1,[]
+2,[]
+3,[]
+4,[]
+5,[]
+6,"['Abscess of tendon', 'Abscess of tendon of upper arm', 'Abscess of tendon of upper limb', 'Abscess of upper arm']"
+7,['Abscess of tendon sheath of right forearm']
+8,"['Abscess of forearm', 'Abscess of left forearm', 'Abscess of tendon sheath of muscle of left forearm']"
+9,"['Abscess of forearm', 'Abscess of tendon', 'Abscess of tendon of forearm', 'Abscess of tendon of upper limb']"
+10,"['Abscess of right hand', 'Abscess of tendon sheath of right hand']"
+11,"['Abscess of left hand', 'Abscess of tendon sheath of left hand']"
+12,"['Abscess of tendon', 'Abscess of tendon of hand', 'Abscess of tendon of upper limb']"
+13,[]
+14,[]
+15,"['Abscess of tendon', 'Abscess of tendon of lower limb', 'Abscess of tendon of thigh']"
+16,[]
+17,[]
+18,"['Abscess of lower leg', 'Abscess of tendon', 'Abscess of tendon of lower leg', 'Abscess of tendon of lower limb']"
+19,"['Abscess of ankle', 'Abscess of right foot', 'Abscess of right lower limb', 'Abscess of right lower limb', 'Abscess of tendon sheath of right ankle', 'Abscess of tendon sheath of right ankle AND/OR foot', 'Abscess of tendon sheath of right foot']"
+20,"['Abscess of ankle', 'Abscess of left foot', 'Abscess of left lower limb', 'Abscess of left lower limb', 'Abscess of tendon sheath of left ankle', 'Abscess of tendon sheath of left ankle AND/OR foot', 'Abscess of tendon sheath of left foot']"
+21,"['Abscess of tendon', 'Abscess of tendon of foot', 'Abscess of tendon of lower limb']"
+22,[]
+23,"['Arthritis caused by spirochaetale infection', 'Infection of tendon sheath', 'Infectious disorder of tendon', 'Infectious synovitis', 'Infectious synovitis', 'Lyme arthritis', 'Lyme erosive synovitis', 'Pyogenic infection of tendon sheath', 'Skeletal Lyme disease', 'Suppurative tenosynovitis', 'Suppurative tenosynovitis of flexor tendon']"
+24,[]
+25,[]
+26,[]
+27,[]
+28,[]
+29,[]
+30,[]
+31,[]
+32,[]
+33,"['Infection of tendon sheath', 'Infectious disorder of tendon', 'Pyogenic infection of tendon sheath', 'Suppurative tenosynovitis', 'Suppurative tenosynovitis of flexor tendon of right hand', 'Tenosynovitis of right hand']"
+34,"['Infection of tendon sheath', 'Infectious disorder of tendon', 'Pyogenic infection of tendon sheath', 'Suppurative tenosynovitis', 'Suppurative tenosynovitis of flexor tendon of left hand', 'Tenosynovitis of left hand']"
+35,[]
+36,[]
+37,[]
+38,[]
+39,[]
+40,[]
+41,[]
+42,[]
+43,[]
+44,[]
+45,[]
+46,[]
+47,"['Calcific tendinitis', 'Osteodesmosis']"
+48,"['Calcific tendinitis of right elbow', 'Calcific tendinitis of right upper arm']"
+49,"['Calcific tendinitis of left elbow', 'Calcific tendinitis of left upper arm']"
+50,[]
+51,"['Calcific tendinitis of bilateral forearms', 'Calcific tendinitis of left forearm', 'Calcific tendinitis of right forearm', 'Calcific tendinitis of right forearm', 'Calcific tendinitis of right wrist', 'Tendinitis of wrist', 'Tendonitis of right wrist']"
+52,"['Calcific tendinitis of bilateral forearms', 'Calcific tendinitis of left forearm', 'Calcific tendinitis of left wrist', 'Calcific tendinitis of right forearm', 'Tendinitis of wrist', 'Tendonitis of left wrist']"
+53,[]
+54,"['Calcific tendinitis of right hand', 'Tendinitis of right hand']"
+55,"['Calcific tendinitis of left hand', 'Tendinitis of left hand']"
+56,[]
+57,"['Calcific tendinitis of bilateral hips', 'Calcific tendinitis of right hip', 'Tendinitis of hip']"
+58,"['Calcific tendinitis of bilateral hips', 'Calcific tendinitis of left hip', 'Tendinitis of hip']"
+59,[]
+60,"['Calcific tendinitis of right knee', 'Tendinitis of knee', 'Tendinitis of right knee']"
+61,"['Calcific tendinitis of left knee', 'Tendinitis of knee', 'Tendinitis of left knee']"
+62,[]
+63,"['Bilateral tendinitis of feet', 'Calcific tendinitis of bilateral feet', 'Calcific tendinitis of left foot', 'Calcific tendinitis of right ankle', 'Calcific tendinitis of right foot', 'Calcific tendinitis of right foot', 'Tendinitis of ankle', 'Tendonitis of left foot', 'Tendonitis of right ankle', 'Tendonitis of right foot', 'Tendonitis of right foot']"
+64,"['Bilateral tendinitis of feet', 'Calcific tendinitis of bilateral feet', 'Calcific tendinitis of left ankle', 'Calcific tendinitis of left foot', 'Calcific tendinitis of right foot', 'Tendinitis of ankle', 'Tendonitis of left ankle', 'Tendonitis of left foot', 'Tendonitis of right foot']"
+65,[]
+66,[]
+67,[]
+68,"['Acquired trigger finger', 'Bilateral trigger fingers', 'Stenosing tenosynovitis', 'Trigger finger', 'Trigger finger of left hand', 'Trigger finger of right hand', 'Triggering of digit']"
+69,"['Bilateral trigger thumbs', 'Snapping thumb syndrome', 'Swollen thumb', 'Trigger thumb of right hand']"
+70,"['Bilateral trigger thumbs', 'Snapping thumb syndrome', 'Swollen thumb', 'Trigger thumb of left hand']"
+71,['Snapping thumb syndrome']
+72,"['Acquired trigger finger of left index finger', 'Acquired trigger finger of right index finger', 'Acquired trigger finger of right index finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of index fingers']"
+73,"['Acquired trigger finger of left index finger', 'Acquired trigger finger of right index finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of index fingers']"
+74,[]
+75,"['Acquired trigger finger of left middle finger', 'Acquired trigger finger of right middle finger', 'Acquired trigger finger of right middle finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of middle fingers']"
+76,"['Acquired trigger finger of left middle finger', 'Acquired trigger finger of right middle finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of middle fingers']"
+77,[]
+78,"['Acquired trigger finger of left ring finger', 'Acquired trigger finger of right ring finger', 'Acquired trigger finger of right ring finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of ring fingers']"
+79,"['Acquired trigger finger of left ring finger', 'Acquired trigger finger of right ring finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of ring fingers']"
+80,[]
+81,"['Acquired trigger finger of left little finger', 'Acquired trigger finger of right little finger', 'Acquired trigger finger of right little finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of little fingers']"
+82,"['Acquired trigger finger of left little finger', 'Acquired trigger finger of right little finger', 'Bilateral acquired deformity of finger of hands', 'Bilateral acquired deformity of hands', 'Bilateral acquired trigger finger of little fingers']"
+83,[]
+84,"['Radial styloid tenosynovitis', 'Tenosynovitis of left radial styloid', 'Tenosynovitis of right radial styloid']"
+85,"['Acute serous synovitis', 'Foreign body granuloma of soft tissue', 'Granulomatous synovitis', 'Lymphocytic plasmacytic synovitis', 'Pitting edema', 'Proliferative synovitis', 'Remitting seronegative symmetrical synovitis with pitting edema', 'Seronegative arthritis', 'Starch synovitis', 'Stenosing tenosynovitis']"
+86,[]
+87,[]
+88,"['Shoulder synovitis', 'Synovitis/tenosynovitis - shoulder']"
+89,[]
+90,[]
+91,"['Synovitis and tenosynovitis', 'Synovitis of elbow', 'Synovitis/tenosynovitis - elbow']"
+92,"['Bilateral tenosynovitis of wrists', 'Tenosynovitis of left wrist', 'Tenosynovitis of right wrist', 'Tenosynovitis of right wrist', 'Tenosynovitis of wrist', 'Tenosynovitis of wrist']"
+93,"['Bilateral tenosynovitis of wrists', 'Tenosynovitis of left wrist', 'Tenosynovitis of right wrist', 'Tenosynovitis of wrist', 'Tenosynovitis of wrist']"
+94,"['Extensor tenosynovitis of wrist', 'Flexor tenosynovitis of wrist', 'Intersection syndrome', 'Synovitis and tenosynovitis', 'Synovitis/tenosynovitis - wrist', 'Tenosynovitis of wrist']"
+95,['Tenosynovitis of right hand']
+96,['Tenosynovitis of left hand']
+97,"['Extensor tenosynovitis of finger', 'Extensor tenosynovitis of thumb', 'Flexor tenosynovitis of finger', 'Flexor tenosynovitis of thumb', 'Intersection syndrome', 'Synovitis and tenosynovitis', 'Synovitis/tenosynovitis - hand', 'Tenosynovitis of fingers', 'Tenosynovitis of hand', 'Tenosynovitis of thumb']"
+98,[]
+99,[]
+100,"['Synovitis and tenosynovitis', 'Synovitis of hip', 'Synovitis/tenosynovitis - hip']"
+101,"['Synovitis of joint of right knee', 'Synovitis of knee']"
+102,"['Synovitis of joint of left knee', 'Synovitis of knee']"
+103,"['Achilles tenosynovitis', 'Synovitis and tenosynovitis', 'Synovitis of knee', 'Synovitis/tenosynovitis - knee', 'Tibialis posterior tenosynovitis']"
+104,[]
+105,[]
+106,"['Peroneal tenosynovitis', 'Peroneus brevis tenosynovitis', 'Peroneus longus tenosynovitis', 'Tenosynovitis of ankle', 'Tenosynovitis of foot', 'Tibialis anterior tenosynovitis']"
+107,"['Nodular tenosynovitis', 'Swelling of toe joint', 'Toe joint - soft tissue swelling', 'Toe joint - synovial swelling']"
+108,"['Calcium deposits in tendon', 'Synovitis and tenosynovitis', 'Synovitis/tenosynovitis - multiple joints']"
+109,"['Chronic synovitis', 'Extensor carpi radialis tenosynovitis', 'Extensor digitorum longus tenosynovitis', 'Extensor hallucis longus tenosynovitis', 'Peroneal tenosynovitis', 'SAPHO syndrome', 'Synovitis', 'Synovitis and tenosynovitis', 'Synovitis AND/OR tenosynovitis associated with another disease', 'Synovitis of ankle', 'Synovitis of left ankle joint', 'Synovitis of right ankle joint', 'Tendon sheath crepitus', 'Tenosynovitis', 'Tenosynovitis of ankle', 'Tenosynovitis of ankle', 'Tenosynovitis of bilateral hands', 'Tenosynovitis of foot', 'Tenosynovitis of foot', 'Tenosynovitis of left ankle', 'Tenosynovitis of left foot', 'Tenosynovitis of left hand', 'Tenosynovitis of right ankle', 'Tenosynovitis of right foot', 'Tenosynovitis of right hand']"
+110,"['Rupture of bursa', 'Rupture of popliteal bursa', 'Rupture of popliteal space synovial cyst', 'Rupture of synovial cyst of left knee', 'Rupture of synovial cyst of right knee', 'Rupture of synovium - knee', 'Rupture of synovium - knee', 'Synovial cyst of knee', 'Synovial cyst of left popliteal space', 'Synovial cyst of right popliteal space']"
+111,"['Non-traumatic rupture of synovium', 'Rupture of bursa', 'Rupture of synovium', 'Rupture of synovium - multiple']"
+112,[]
+113,[]
+114,['Rupture of synovium of shoulder']
+115,[]
+116,[]
+117,"['Leaking synovial cyst of elbow', 'Rupture of synovium of elbow', 'Synovial cyst of elbow']"
+118,[]
+119,[]
+120,['Rupture of synovium of wrist']
+121,[]
+122,[]
+123,['Rupture of synovium of hand']
+124,[]
+125,[]
+126,[]
+127,[]
+128,[]
+129,['Rupture of synovium of hip']
+130,[]
+131,[]
+132,['Rupture of synovium - ankle/foot']
+133,[]
+134,[]
+135,['Rupture of synovium - ankle/foot']
+136,[]
+137,[]
+138,[]
+139,"['Leaking synovial cyst of knee', 'Rupture of synovium - knee', 'Synovial cyst of knee']"
+140,['Spontaneous rupture of extensor tendons']
+141,[]
+142,[]
+143,[]
+144,[]
+145,[]
+146,[]
+147,[]
+148,[]
+149,[]
+150,[]
+151,[]
+152,"['Hand and wrist extensor tendon rupture', 'Nontraumatic rupture of extensor tendon of hand and wrist', 'Rupture of extensor tendons of hand AND/OR wrist', 'Rupture of tendon of wrist and hand', 'Rupture wrist extensors', 'Spontaneous rupture of extensor tendons']"
+153,[]
+154,[]
+155,[]
+156,[]
+157,[]
+158,[]
+159,[]
+160,[]
+161,"['Rupture foot extensor tendon', 'Rupture of tendon of foot region']"
+162,[]
+163,[]
+164,['Spontaneous rupture of flexor tendons']
+165,[]
+166,[]
+167,[]
+168,[]
+169,[]
+170,[]
+171,[]
+172,[]
+173,[]
+174,[]
+175,[]
+176,[]
+177,[]
+178,[]
+179,[]
+180,[]
+181,[]
+182,['Rupture of gastrocnemius tendon']
+183,[]
+184,[]
+185,"['Peroneus longus rupture', 'Rupture of flexor tendon of foot', 'Rupture of peroneal tendon', 'Rupture of tendon of foot region', 'Rupture of tendon of foot region', 'Tendinopathy of peroneal tendon']"
+186,[]
+187,[]
+188,[]
+189,"['Disorder of tendon of biceps of right upper limb', 'Disorder of tendon of right shoulder', 'Non-traumatic rupture of biceps brachii tendon', 'Nontraumatic rupture of long head of biceps brachii tendon of right shoulder', 'Nontraumatic rupture of rotator cuff of right shoulder', 'Non-traumatic rupture of tendon of right shoulder', 'Rupture of tendon of biceps', 'Rupture of tendon of biceps, long head', 'Rupture of tendon of upper arm']"
+190,"['Disorder of tendon of biceps of left upper limb', 'Disorder of tendon of left shoulder', 'Non-traumatic rupture of biceps brachii tendon', 'Nontraumatic rupture of long head of biceps brachii tendon of left shoulder', 'Nontraumatic rupture of rotator cuff of left shoulder', 'Non-traumatic rupture of tendon of left shoulder', 'Rupture of tendon of biceps', 'Rupture of tendon of biceps, long head', 'Rupture of tendon of upper arm']"
+191,['Tendon rupture - shoulder']
+192,[]
+193,[]
+194,"['Non-traumatic rupture of biceps brachii tendon', 'Rupture of tendon of biceps', 'Rupture of tendon of upper arm', 'Rupture triceps tendon']"
+195,[]
+196,[]
+197,[]
+198,['Non-traumatic rupture of tendon of right hand']
+199,['Non-traumatic rupture of tendon of left hand']
+200,['Tendon rupture - hand']
+201,"['Non-traumatic rupture of tendon of right quadriceps muscle', 'Non-traumatic tear of right biceps femoris tendon', 'Rupture of hamstring tendon']"
+202,['Non-traumatic rupture of tendon of left quadriceps muscle']
+203,[]
+204,"['Non-traumatic rupture of Achilles tendon', 'Non-traumatic rupture of right Achilles tendon', 'Non-traumatic rupture of tendon of right patella', 'Non-traumatic rupture of tendon of right quadriceps muscle', 'Rupture of Achilles tendon', 'Rupture of patellar tendon', 'Rupture of right Achilles tendon']"
+205,"['Non-traumatic rupture of Achilles tendon', 'Non-traumatic rupture of left Achilles tendon', 'Non-traumatic rupture of tendon of left patella', 'Non-traumatic rupture of tendon of left quadriceps muscle', 'Rupture of Achilles tendon', 'Rupture of left Achilles tendon', 'Rupture of patellar tendon']"
+206,"['Non-traumatic rupture of Achilles tendon', 'Nontraumatic rupture of tibialis posterior tendon', 'Rupture of Achilles tendon', 'Rupture of posterior tibial tendon', 'Rupture of tendon of foot region', 'Spontaneous rupture of flexor tendons']"
+207,"['Non-traumatic rupture of tendon of right foot', 'Rupture of tendon of foot region']"
+208,"['Non-traumatic rupture of tendon of left foot', 'Rupture of tendon of foot region']"
+209,"['Rupture of plantaris tendon', 'Rupture of tendon of foot region']"
+210,"['Non-traumatic rupture of patellar tendon', 'Rupture of patellar tendon']"
+211,[]
+212,"['Non-traumatic tendon rupture', 'Rupture of tendon']"
+213,"['Acquired short Achilles tendon', 'Contracture of Achilles tendon', 'Contracture of right Achilles tendon', 'Short Achilles tendon']"
+214,"['Acquired short Achilles tendon', 'Acquired short Achilles tendon', 'Acquired short right Achilles tendon', 'Bilateral short Achilles tendon', 'Contracture of Achilles tendon', 'Contracture of bilateral Achilles tendons', 'Contracture of left Achilles tendon', 'Contracture of right Achilles tendon', 'Short Achilles tendon']"
+215,"['Acquired short Achilles tendon', 'Acquired short Achilles tendon', 'Acquired short left Achilles tendon', 'Bilateral short Achilles tendon', 'Contracture of Achilles tendon', 'Contracture of Achilles tendon', 'Contracture of bilateral Achilles tendons', 'Contracture of left Achilles tendon', 'Contracture of right Achilles tendon', 'Short Achilles tendon', 'Short Achilles tendon']"
+216,['Synovial hypertrophy']
+217,[]
+218,[]
+219,[]
+220,[]
+221,[]
+222,[]
+223,[]
+224,[]
+225,[]
+226,[]
+227,[]
+228,[]
+229,[]
+230,[]
+231,[]
+232,[]
+233,[]
+234,[]
+235,[]
+236,[]
+237,[]
+238,[]
+239,[]
+240,"['Plant thorn synovitis', 'Silicone synovitis', 'Transient arthritis', 'Transient synovitis']"
+241,[]
+242,[]
+243,[]
+244,[]
+245,[]
+246,[]
+247,[]
+248,[]
+249,[]
+250,[]
+251,[]
+252,[]
+253,[]
+254,[]
+255,"['Synovitis of hip', 'Transient arthritis', 'Transient synovitis', 'Transient synovitis of hip']"
+256,[]
+257,[]
+258,[]
+259,[]
+260,[]
+261,[]
+262,[]
+263,[]
+264,"['Cyst of tendon sheath', 'Ganglion cyst', 'Ganglion cyst of tendon sheath', 'Ganglion of joint']"
+265,"['Ganglion cyst of right shoulder', 'Ganglion of shoulder']"
+266,"['Ganglion cyst of left shoulder', 'Ganglion of shoulder']"
+267,['Ganglion of shoulder']
+268,"['Ganglion cyst of right elbow', 'Ganglion of elbow']"
+269,"['Ganglion cyst of left elbow', 'Ganglion of elbow']"
+270,['Ganglion of elbow']
+271,"['Bilateral ganglion cyst of dorsal wrists', 'Bilateral ganglion cyst of wrists', 'Ganglion cyst of left dorsal wrist', 'Ganglion cyst of left wrist', 'Ganglion cyst of right dorsal wrist', 'Ganglion cyst of right dorsal wrist', 'Ganglion cyst of right wrist', 'Ganglion cyst of right wrist', 'Ganglion cyst of the right dorsal wrist', 'Ganglion cyst of the right volar wrist', 'Ganglion of wrist']"
+272,"['Bilateral ganglion cyst of dorsal wrists', 'Bilateral ganglion cyst of wrists', 'Ganglion cyst of left dorsal wrist', 'Ganglion cyst of left volar wrist', 'Ganglion cyst of left wrist', 'Ganglion cyst of right dorsal wrist', 'Ganglion cyst of right wrist', 'Ganglion of wrist']"
+273,['Ganglion of wrist']
+274,"['Bilateral ganglion cyst of hands', 'Cyst of tendon sheath', 'Digital mucous cyst', 'Digital mucous cyst of right hand', 'Ganglion cyst of left hand', 'Ganglion cyst of right hand', 'Ganglion cyst of right hand', 'Ganglion cyst of tendon sheath', 'Ganglion cyst of tendon sheath of right hand', 'Ganglion of hand', 'Ganglion of hand']"
+275,"['Bilateral ganglion cyst of hands', 'Cyst of tendon sheath', 'Digital mucous cyst', 'Digital mucous cyst of left hand', 'Ganglion cyst of left hand', 'Ganglion cyst of right hand', 'Ganglion cyst of tendon sheath', 'Ganglion cyst of tendon sheath of left hand', 'Ganglion of hand']"
+276,"['Cyst of tendon sheath', 'Digital mucous cyst', 'Ganglion cyst of tendon sheath', 'Ganglion of flexor tendon sheath of finger', 'Ganglion of hand']"
+277,[]
+278,[]
+279,['Ganglion of hip']
+280,"['Ganglion cyst of right knee', 'Ganglion of knee']"
+281,"['Ganglion cyst of left knee', 'Ganglion of knee']"
+282,"['Ganglion of joint', 'Ganglion of knee', 'Ganglion of superior tibiofibular joint']"
+283,"['Bilateral ganglion cyst of feet', 'Ganglion cyst of left foot', 'Ganglion cyst of right ankle', 'Ganglion cyst of right foot', 'Ganglion cyst of right foot', 'Ganglion of ankle', 'Ganglion of foot', 'Ganglion of foot']"
+284,"['Bilateral ganglion cyst of feet', 'Ganglion cyst of left ankle', 'Ganglion cyst of left foot', 'Ganglion cyst of right foot', 'Ganglion of ankle', 'Ganglion of foot', 'Ganglion of foot']"
+285,"['Ganglion of ankle', 'Ganglion of ankle and foot', 'Ganglion of foot']"
+286,[]
+287,"['Ganglion of joint', 'Ganglion of multiple joints']"
+288,"['Synovial plica', 'Synovial plica of knee']"
+289,"['Synovial plica', 'Synovial plica', 'Synovial plica of knee', 'Synovial plica of knee', 'Synovial plica syndrome of bilateral knees', 'Synovial plica syndrome of left knee', 'Synovial plica syndrome of right knee', 'Synovial plica syndrome of right knee']"
+290,"['Synovial plica', 'Synovial plica of knee', 'Synovial plica syndrome of bilateral knees', 'Synovial plica syndrome of left knee', 'Synovial plica syndrome of right knee']"
+291,"['Adhesion of tendon repair', 'Cyst of tendon sheath', 'Dislocation of tendon, wrist or hand', 'Disorder of tendon repair', 'Disorder of tendon repair', 'Gap in tendon', 'Gapping of tendon', 'Heterotopic ossification of tendon', 'Nodule on tendon', 'Primary synovial ostechondromatosis', 'Secondary synovial osteochondromatosis', 'Slipping of tendon', 'Subsultus tendinum', 'Synovial hernia', 'Synovial osteochondromatosis', 'Tendinosis', 'Tendon sheath effusion', 'Tendon triggering', 'Thickening of tendon sheath']"
+292,[]
+293,[]
+294,"['Bilateral rotator cuff tendinitis', 'Bilateral tendinosis of biceps brachii', 'Bilateral tendinosis of shoulder', 'Disorder of tendon of biceps of left upper limb', 'Disorder of tendon of biceps of right upper limb', 'Disorder of tendon of biceps of right upper limb', 'Disorder of tendon of left shoulder', 'Disorder of tendon of left shoulder', 'Disorder of tendon of right shoulder', 'Disorder of tendon of right shoulder', 'Disorder of tendon of right shoulder', 'Disorder of tendon of right shoulder', 'Tendinitis of left rotator cuff', 'Tendinitis of right rotator cuff', 'Tendinitis of right rotator cuff', 'Tendinosis', 'Tendinosis', 'Tendinosis', 'Tendinosis', 'Tendinosis of left biceps brachii', 'Tendinosis of left shoulder', 'Tendinosis of right biceps brachii', 'Tendinosis of right biceps brachii', 'Tendinosis of right shoulder', 'Tendinosis of right shoulder']"
+295,"['Bilateral rotator cuff tendinitis', 'Bilateral tendinosis of biceps brachii', 'Bilateral tendinosis of shoulder', 'Disorder of tendon of biceps of left upper limb', 'Disorder of tendon of biceps of right upper limb', 'Disorder of tendon of left shoulder', 'Disorder of tendon of left shoulder', 'Disorder of tendon of right shoulder', 'Disorder of tendon of right shoulder', 'Tendinitis of left rotator cuff', 'Tendinitis of right rotator cuff', 'Tendinosis', 'Tendinosis', 'Tendinosis', 'Tendinosis', 'Tendinosis of left biceps brachii', 'Tendinosis of left shoulder', 'Tendinosis of right biceps brachii', 'Tendinosis of right shoulder']"
+296,"['Deltoid tendinitis', 'Inflammation of rotator cuff tendon', 'Infraspinatus tendinitis', 'Subscapularis tendinitis', 'Supraspinatus tendinitis']"
+297,[]
+298,[]
+299,"['Bilateral elbow tendinitis', 'Tendinitis of elbow or forearm', 'Tendinitis of elbow or forearm', 'Tendinitis of left elbow', 'Tendinitis of right elbow', 'Tendinitis of right elbow']"
+300,"['Bilateral elbow tendinitis', 'Tendinitis of elbow or forearm', 'Tendinitis of left elbow', 'Tendinitis of right elbow']"
+301,[]
+302,[]
+303,[]
+304,"['Bilateral tendonitis of wrists', 'Tendinitis of wrist', 'Tendonitis of left wrist', 'Tendonitis of right wrist']"
+305,"['Bilateral tendonitis of wrists', 'Tendinitis of wrist', 'Tendinitis of wrist', 'Tendonitis of left wrist', 'Tendonitis of left wrist', 'Tendonitis of right wrist']"
+306,"['Synovial osteochondromatosis of distal radioulnar joint', 'Synovial osteochondromatosis of wrist', 'Tendinitis of extensor carpi ulnaris', 'Tendinitis of extensor indicis', 'Tendinitis of flexor carpi radialis', 'Tendinitis of flexor carpi ulnaris', 'Tendinitis of wrist']"
+307,[]
+308,[]
+309,"['Adhesion of tendon of hand', 'Adhesion of tendon of right hand', 'Bilateral tendinitis of extensor tendon of hands', 'Bilateral tendinitis of flexor tendon of hands', 'Bilateral tendinitis of hands', 'Tendinitis of extensor tendon of hand', 'Tendinitis of extensor tendon of left hand', 'Tendinitis of extensor tendon of right hand', 'Tendinitis of flexor tendon of hand', 'Tendinitis of flexor tendon of left hand', 'Tendinitis of flexor tendon of right hand', 'Tendinitis of left hand', 'Tendinitis of right hand', 'Tendinitis of right hand']"
+310,"['Adhesion of tendon of hand', 'Adhesion of tendon of left hand', 'Bilateral tendinitis of extensor tendon of hands', 'Bilateral tendinitis of flexor tendon of hands', 'Bilateral tendinitis of hands', 'Tendinitis of extensor tendon of hand', 'Tendinitis of extensor tendon of left hand', 'Tendinitis of extensor tendon of right hand', 'Tendinitis of flexor tendon of hand', 'Tendinitis of flexor tendon of left hand', 'Tendinitis of flexor tendon of right hand', 'Tendinitis of left hand', 'Tendinitis of right hand']"
+311,"['Adhesion of tendon of hand', 'Synovial osteochondromatosis of distal interphalangeal joint of finger', 'Synovial osteochondromatosis of metacarpophalangeal joint', 'Synovial osteochondromatosis of proximal interphalangeal joint of finger', 'Tendinitis of extensor pollicis longus', 'Tendinitis of extensor tendon of hand', 'Tendinitis of finger', 'Tendinitis of flexor tendon of hand', 'Tendinitis of hand', 'Tendinitis of wrist', 'Thickening of flexor sheath of finger', 'Thickening of tendon sheath']"
+312,[]
+313,[]
+314,"['Adductor tendinitis', 'Adductor tendinitis', 'Bilateral tendinitis of adductor tendon of hips', 'Bilateral tendinitis of hips', 'Tendinitis of hip', 'Tendinitis of hip', 'Tendinitis of left hip adductor muscle', 'Tendinitis of right hip adductor muscle', 'Tendinitis of right hip adductor muscle']"
+315,"['Adductor tendinitis', 'Adductor tendinitis', 'Bilateral tendinitis of adductor tendon of hips', 'Bilateral tendinitis of hips', 'Tendinitis of hip', 'Tendinitis of hip', 'Tendinitis of left hip adductor muscle', 'Tendinitis of right hip adductor muscle']"
+316,['Synovial osteochondromatosis of hip']
+317,[]
+318,[]
+319,"['Bilateral tendinitis of knees', 'Bilateral tendinosis of knees', 'Tendinitis of knee', 'Tendinitis of knee', 'Tendinitis of left knee', 'Tendinitis of right knee', 'Tendinitis of right knee', 'Tendinosis', 'Tendinosis', 'Tendinosis of left knee', 'Tendinosis of right knee', 'Tendinosis of right knee']"
+320,"['Bilateral tendinitis of knees', 'Bilateral tendinosis of knees', 'Tendinitis of knee', 'Tendinitis of knee', 'Tendinitis of left knee', 'Tendinitis of right knee', 'Tendinosis', 'Tendinosis', 'Tendinosis of left knee', 'Tendinosis of right knee']"
+321,"['Finding by inspection ', 'Snowstorm knee', 'Synovial fluid appearance - finding', 'Tendinitis of knee']"
+322,[]
+323,[]
+324,"['Bilateral dysfunction of posterior tibial tendon of feet', 'Bilateral tendinitis of ankles', 'Bilateral tendinitis of feet', 'Disorder of flexor hallucis longus tendon', 'Dysfunction of posterior tibial tendon', 'Dysfunction of posterior tibial tendon', 'Dysfunction of posterior tibial tendon of left foot', 'Dysfunction of posterior tibial tendon of right foot', 'Dysfunction of posterior tibial tendon of right foot', 'Tendinitis of ankle', 'Tendinitis of metatarsophalangeal joint of second toe', 'Tendinitis of metatarsophalangeal joint of second toe of right foot', 'Tendinitis of right flexor hallucis longus', 'Tendonitis of left ankle', 'Tendonitis of left foot', 'Tendonitis of right ankle', 'Tendonitis of right ankle', 'Tendonitis of right foot', 'Tendonitis of right foot']"
+325,"['Bilateral dysfunction of posterior tibial tendon of feet', 'Bilateral tendinitis of ankles', 'Bilateral tendinitis of feet', 'Disorder of flexor hallucis longus tendon', 'Dysfunction of posterior tibial tendon', 'Dysfunction of posterior tibial tendon', 'Dysfunction of posterior tibial tendon of left foot', 'Dysfunction of posterior tibial tendon of right foot', 'Tendinitis of ankle', 'Tendinitis of left flexor hallucis longus', 'Tendinitis of metatarsophalangeal joint of second toe', 'Tendinitis of metatarsophalangeal joint of second toe of left foot', 'Tendonitis of left ankle', 'Tendonitis of left foot', 'Tendonitis of left foot', 'Tendonitis of right ankle', 'Tendonitis of right foot']"
+326,"['Achilles degeneration', 'Chronic rupture of Achilles tendon', 'Insertional Achilles tendinopathy', 'Rupture of Achilles tendon', 'Synovial osteochondromatosis of tibiofibular joint', 'Tendinitis of ankle']"
+327,"['Achilles degeneration', 'Central tendon hernia', 'Synovial osteochondromatosis of sacroiliac joint', 'Synovial osteochondromatosis of sternoclavicular joint', 'Tendinitis of elbow or forearm', 'Tendinitis of elbow or forearm', 'Tendinitis of left forearm', 'Tendinitis of right forearm', 'Triceps tendinitis']"
+328,[]
+329,"['Disorder of synovium', 'Disorder of tendon', 'Disorder of tendon repair', 'Finding by inspection ', 'Stringing of synovial fluid', 'Synovial fluid appearance - finding', 'Synovial fluid composition - finding', 'Synovial fluid fibrin clot', 'Synovial fluid: fibrin clot +', 'Tendon sheath disorder', 'Traumatic or non-traumatic rupture of tendon']"
+330,['Disorder of tendon of right shoulder']
+331,['Disorder of tendon of left shoulder']
+332,['Disorder of tendon of shoulder region']
+333,['Disorder of tendon of biceps of right upper limb']
+334,['Disorder of tendon of biceps of left upper limb']
+335,['Disorder of tendon of biceps']
+336,[]
+337,[]
+338,[]
+339,['Disorder of tendon of right hand']
+340,['Disorder of tendon of left hand']
+341,"['Finger joint - soft tissue swelling', 'Finger joint - synovial swelling', 'Swelling of finger', 'Swelling of finger joint', 'Swelling of thumb joint', 'Swollen thumb', 'Thumb joint - synovial swelling']"
+342,[]
+343,[]
+344,[]
+345,[]
+346,[]
+347,"['Achilles degeneration', 'Disorder of Achilles tendon', 'Disorder of posterior tibial muscle tendon', 'Disorder of tibialis anterior tendon', 'Dysfunction of posterior tibial tendon', 'Non-insertional Achilles tendinopathy', 'Tendinopathy of peroneal tendon']"
+348,[]
+349,[]
+350,['Disorder of flexor hallucis longus tendon']
+351,[]
+352,[]

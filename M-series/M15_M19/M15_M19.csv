@@ -1,0 +1,96 @@
+,category,condition
+0,M15.0,Primary generalized (osteo)arthritis
+1,M15.1,Heberden's nodes (with arthropathy)
+2,M15.2,Bouchard's nodes (with arthropathy)
+3,M15.3,Secondary multiple arthritis
+4,M15.4,Erosive (osteo)arthritis
+5,M15.8,Other polyosteoarthritis
+6,M15.9,"Polyosteoarthritis, unspecified"
+7,M16.0,Bilateral primary osteoarthritis of hip
+8,M16.10,"Unilateral primary osteoarthritis, unspecified hip"
+9,M16.11,"Unilateral primary osteoarthritis, right hip"
+10,M16.12,"Unilateral primary osteoarthritis, left hip"
+11,M16.2,Bilateral osteoarthritis resulting from hip dysplasia
+12,M16.30,"Unilateral osteoarth resulting from hip dysplasia, unsp hip"
+13,M16.31,"Unilateral osteoarth resulting from hip dysplasia, right hip"
+14,M16.32,"Unilateral osteoarth resulting from hip dysplasia, left hip"
+15,M16.4,Bilateral posttraumatic osteoarthritis of hip
+16,M16.50,"Unilateral posttraumatic osteoarthritis, unspecified hip"
+17,M16.51,"Unilateral posttraumatic osteoarthritis, right hip"
+18,M16.52,"Unilateral posttraumatic osteoarthritis, left hip"
+19,M16.6,Other bilateral secondary osteoarthritis of hip
+20,M16.7,Other unilateral secondary osteoarthritis of hip
+21,M16.9,"Osteoarthritis of hip, unspecified"
+22,M17.0,Bilateral primary osteoarthritis of knee
+23,M17.10,"Unilateral primary osteoarthritis, unspecified knee"
+24,M17.11,"Unilateral primary osteoarthritis, right knee"
+25,M17.12,"Unilateral primary osteoarthritis, left knee"
+26,M17.2,Bilateral posttraumatic osteoarthritis of knee
+27,M17.30,"Unilateral posttraumatic osteoarthritis, unspecified knee"
+28,M17.31,"Unilateral posttraumatic osteoarthritis, right knee"
+29,M17.32,"Unilateral posttraumatic osteoarthritis, left knee"
+30,M17.4,Other bilateral secondary osteoarthritis of knee
+31,M17.5,Other unilateral secondary osteoarthritis of knee
+32,M17.9,"Osteoarthritis of knee, unspecified"
+33,M18.0,Bilateral primary osteoarth of first carpometacarp joints
+34,M18.10,"Unil prim osteoarth of first carpometacarp joint, unsp hand"
+35,M18.11,"Unil primary osteoarth of first carpometacarp joint, r hand"
+36,M18.12,"Unil primary osteoarth of first carpometacarp joint, l hand"
+37,M18.2,Bi posttrauma osteoarth of first carpometacarp joints
+38,M18.30,"Unil posttrauma osteoarth of 1st carpometacarp jt,unsp hand"
+39,M18.31,"Unil posttrauma osteoarth of 1st carpometacarp jt, r hand"
+40,M18.32,"Unil posttrauma osteoarth of 1st carpometacarp jt, l hand"
+41,M18.4,Oth bi secondary osteoarth of first carpometacarp joints
+42,M18.50,"Oth unil sec osteoarth of 1st carpometacarp joint, unsp hand"
+43,M18.51,"Oth unil sec osteoarth of first carpometacarp joint, r hand"
+44,M18.52,"Oth unil sec osteoarth of first carpometacarp joint, l hand"
+45,M18.9,"Osteoarthritis of first carpometacarpal joint, unspecified"
+46,M19.011,"Primary osteoarthritis, right shoulder"
+47,M19.012,"Primary osteoarthritis, left shoulder"
+48,M19.019,"Primary osteoarthritis, unspecified shoulder"
+49,M19.021,"Primary osteoarthritis, right elbow"
+50,M19.022,"Primary osteoarthritis, left elbow"
+51,M19.029,"Primary osteoarthritis, unspecified elbow"
+52,M19.031,"Primary osteoarthritis, right wrist"
+53,M19.032,"Primary osteoarthritis, left wrist"
+54,M19.039,"Primary osteoarthritis, unspecified wrist"
+55,M19.041,"Primary osteoarthritis, right hand"
+56,M19.042,"Primary osteoarthritis, left hand"
+57,M19.049,"Primary osteoarthritis, unspecified hand"
+58,M19.071,"Primary osteoarthritis, right ankle and foot"
+59,M19.072,"Primary osteoarthritis, left ankle and foot"
+60,M19.079,"Primary osteoarthritis, unspecified ankle and foot"
+61,M19.111,"Posttraumatic osteoarthritis, right shoulder"
+62,M19.112,"Posttraumatic osteoarthritis, left shoulder"
+63,M19.119,"Posttraumatic osteoarthritis, unspecified shoulder"
+64,M19.121,"Posttraumatic osteoarthritis, right elbow"
+65,M19.122,"Posttraumatic osteoarthritis, left elbow"
+66,M19.129,"Posttraumatic osteoarthritis, unspecified elbow"
+67,M19.131,"Posttraumatic osteoarthritis, right wrist"
+68,M19.132,"Posttraumatic osteoarthritis, left wrist"
+69,M19.139,"Posttraumatic osteoarthritis, unspecified wrist"
+70,M19.141,"Posttraumatic osteoarthritis, right hand"
+71,M19.142,"Posttraumatic osteoarthritis, left hand"
+72,M19.149,"Posttraumatic osteoarthritis, unspecified hand"
+73,M19.171,"Posttraumatic osteoarthritis, right ankle and foot"
+74,M19.172,"Posttraumatic osteoarthritis, left ankle and foot"
+75,M19.179,"Posttraumatic osteoarthritis, unspecified ankle and foot"
+76,M19.211,"Secondary osteoarthritis, right shoulder"
+77,M19.212,"Secondary osteoarthritis, left shoulder"
+78,M19.219,"Secondary osteoarthritis, unspecified shoulder"
+79,M19.221,"Secondary osteoarthritis, right elbow"
+80,M19.222,"Secondary osteoarthritis, left elbow"
+81,M19.229,"Secondary osteoarthritis, unspecified elbow"
+82,M19.231,"Secondary osteoarthritis, right wrist"
+83,M19.232,"Secondary osteoarthritis, left wrist"
+84,M19.239,"Secondary osteoarthritis, unspecified wrist"
+85,M19.241,"Secondary osteoarthritis, right hand"
+86,M19.242,"Secondary osteoarthritis, left hand"
+87,M19.249,"Secondary osteoarthritis, unspecified hand"
+88,M19.271,"Secondary osteoarthritis, right ankle and foot"
+89,M19.272,"Secondary osteoarthritis, left ankle and foot"
+90,M19.279,"Secondary osteoarthritis, unspecified ankle and foot"
+91,M19.90,"Unspecified osteoarthritis, unspecified site"
+92,M19.91,"Primary osteoarthritis, unspecified site"
+93,M19.92,"Posttraumatic osteoarthritis, unspecified site"
+94,M19.93,"Secondary osteoarthritis, unspecified site"

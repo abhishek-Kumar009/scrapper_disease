@@ -1,0 +1,92 @@
+,category,condition
+0,M99.00,Segmental and somatic dysfunction of head region
+1,M99.01,Segmental and somatic dysfunction of cervical region
+2,M99.02,Segmental and somatic dysfunction of thoracic region
+3,M99.03,Segmental and somatic dysfunction of lumbar region
+4,M99.04,Segmental and somatic dysfunction of sacral region
+5,M99.05,Segmental and somatic dysfunction of pelvic region
+6,M99.06,Segmental and somatic dysfunction of lower extremity
+7,M99.07,Segmental and somatic dysfunction of upper extremity
+8,M99.08,Segmental and somatic dysfunction of rib cage
+9,M99.09,Segmental and somatic dysfunction of abdomen and oth regions
+10,M99.10,Subluxation complex (vertebral) of head region
+11,M99.11,Subluxation complex (vertebral) of cervical region
+12,M99.12,Subluxation complex (vertebral) of thoracic region
+13,M99.13,Subluxation complex (vertebral) of lumbar region
+14,M99.14,Subluxation complex (vertebral) of sacral region
+15,M99.15,Subluxation complex (vertebral) of pelvic region
+16,M99.16,Subluxation complex (vertebral) of lower extremity
+17,M99.17,Subluxation complex (vertebral) of upper extremity
+18,M99.18,Subluxation complex (vertebral) of rib cage
+19,M99.19,Subluxation complex (vertebral) of abdomen and other regions
+20,M99.20,Subluxation stenosis of neural canal of head region
+21,M99.21,Subluxation stenosis of neural canal of cervical region
+22,M99.22,Subluxation stenosis of neural canal of thoracic region
+23,M99.23,Subluxation stenosis of neural canal of lumbar region
+24,M99.24,Subluxation stenosis of neural canal of sacral region
+25,M99.25,Subluxation stenosis of neural canal of pelvic region
+26,M99.26,Subluxation stenosis of neural canal of lower extremity
+27,M99.27,Subluxation stenosis of neural canal of upper extremity
+28,M99.28,Subluxation stenosis of neural canal of rib cage
+29,M99.29,Sublux stenosis of neural canal of abdomen and oth regions
+30,M99.30,Osseous stenosis of neural canal of head region
+31,M99.31,Osseous stenosis of neural canal of cervical region
+32,M99.32,Osseous stenosis of neural canal of thoracic region
+33,M99.33,Osseous stenosis of neural canal of lumbar region
+34,M99.34,Osseous stenosis of neural canal of sacral region
+35,M99.35,Osseous stenosis of neural canal of pelvic region
+36,M99.36,Osseous stenosis of neural canal of lower extremity
+37,M99.37,Osseous stenosis of neural canal of upper extremity
+38,M99.38,Osseous stenosis of neural canal of rib cage
+39,M99.39,Osseous stenosis of neural canal of abdomen and oth regions
+40,M99.40,Connective tissue stenosis of neural canal of head region
+41,M99.41,Connective tiss stenosis of neural canal of cervical region
+42,M99.42,Connective tiss stenosis of neural canal of thoracic region
+43,M99.43,Connective tissue stenosis of neural canal of lumbar region
+44,M99.44,Connective tissue stenosis of neural canal of sacral region
+45,M99.45,Connective tissue stenosis of neural canal of pelvic region
+46,M99.46,Connective tiss stenosis of neural canal of lower extremity
+47,M99.47,Connective tiss stenosis of neural canal of upper extremity
+48,M99.48,Connective tissue stenosis of neural canal of rib cage
+49,M99.49,Conn tiss stenos of neural canal of abdomen and oth regions
+50,M99.50,Intervertebral disc stenosis of neural canal of head region
+51,M99.51,Intvrt disc stenosis of neural canal of cervical region
+52,M99.52,Intvrt disc stenosis of neural canal of thoracic region
+53,M99.53,Intvrt disc stenosis of neural canal of lumbar region
+54,M99.54,Intvrt disc stenosis of neural canal of sacral region
+55,M99.55,Intvrt disc stenosis of neural canal of pelvic region
+56,M99.56,Intervertebral disc stenosis of neural canal of low extrm
+57,M99.57,Intervertebral disc stenosis of neural canal of up extrem
+58,M99.58,Intervertebral disc stenosis of neural canal of rib cage
+59,M99.59,Intvrt disc stenos of neural canal of abd and oth regions
+60,M99.60,Osseous and sublux stenosis of intvrt foramin of head region
+61,M99.61,Osseous and sublux stenosis of intvrt foramin of cerv region
+62,M99.62,Osseous and sublux stenos of intvrt foramin of thor region
+63,M99.63,Osseous and sublux stenos of intvrt foramin of lumbar region
+64,M99.64,Osseous and sublux stenos of intvrt foramin of sacral region
+65,M99.65,Osseous and sublux stenos of intvrt foramin of pelvic region
+66,M99.66,Osseous and sublux stenosis of intvrt foramina of low extrm
+67,M99.67,Osseous and sublux stenosis of intvrt foramina of up extrem
+68,M99.68,Osseous and sublux stenosis of intvrt foramina of rib cage
+69,M99.69,Osseous & sublux stenos of intvrt foramin of abd and oth rgn
+70,M99.70,Conn tiss and disc stenosis of intvrt foramin of head region
+71,M99.71,Conn tiss and disc stenosis of intvrt foramin of cerv region
+72,M99.72,Conn tiss and disc stenos of intvrt foramin of thor region
+73,M99.73,Conn tiss and disc stenos of intvrt foramin of lumbar region
+74,M99.74,Conn tiss and disc stenos of intvrt foramin of sacral region
+75,M99.75,Conn tiss and disc stenos of intvrt foramin of pelvic region
+76,M99.76,Conn tiss and disc stenosis of intvrt foramina of low extrm
+77,M99.77,Conn tiss and disc stenosis of intvrt foramina of up extrem
+78,M99.78,Conn tiss and disc stenosis of intvrt foramina of rib cage
+79,M99.79,Conn tiss & disc stenos of intvrt foramin of abd and oth rgn
+80,M99.80,Other biomechanical lesions of head region
+81,M99.81,Other biomechanical lesions of cervical region
+82,M99.82,Other biomechanical lesions of thoracic region
+83,M99.83,Other biomechanical lesions of lumbar region
+84,M99.84,Other biomechanical lesions of sacral region
+85,M99.85,Other biomechanical lesions of pelvic region
+86,M99.86,Other biomechanical lesions of lower extremity
+87,M99.87,Other biomechanical lesions of upper extremity
+88,M99.88,Other biomechanical lesions of rib cage
+89,M99.89,Other biomechanical lesions of abdomen and other regions
+90,M99.9,"Biomechanical lesion, unspecified"

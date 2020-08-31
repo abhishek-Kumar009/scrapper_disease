@@ -1,0 +1,357 @@
+,category,condition
+0,M70.031,"Crepitant synovitis (acute) (chronic), right wrist"
+1,M70.032,"Crepitant synovitis (acute) (chronic), left wrist"
+2,M70.039,"Crepitant synovitis (acute) (chronic), unspecified wrist"
+3,M70.041,"Crepitant synovitis (acute) (chronic), right hand"
+4,M70.042,"Crepitant synovitis (acute) (chronic), left hand"
+5,M70.049,"Crepitant synovitis (acute) (chronic), unspecified hand"
+6,M70.10,"Bursitis, unspecified hand"
+7,M70.11,"Bursitis, right hand"
+8,M70.12,"Bursitis, left hand"
+9,M70.20,"Olecranon bursitis, unspecified elbow"
+10,M70.21,"Olecranon bursitis, right elbow"
+11,M70.22,"Olecranon bursitis, left elbow"
+12,M70.30,"Other bursitis of elbow, unspecified elbow"
+13,M70.31,"Other bursitis of elbow, right elbow"
+14,M70.32,"Other bursitis of elbow, left elbow"
+15,M70.40,"Prepatellar bursitis, unspecified knee"
+16,M70.41,"Prepatellar bursitis, right knee"
+17,M70.42,"Prepatellar bursitis, left knee"
+18,M70.50,"Other bursitis of knee, unspecified knee"
+19,M70.51,"Other bursitis of knee, right knee"
+20,M70.52,"Other bursitis of knee, left knee"
+21,M70.60,"Trochanteric bursitis, unspecified hip"
+22,M70.61,"Trochanteric bursitis, right hip"
+23,M70.62,"Trochanteric bursitis, left hip"
+24,M70.70,"Other bursitis of hip, unspecified hip"
+25,M70.71,"Other bursitis of hip, right hip"
+26,M70.72,"Other bursitis of hip, left hip"
+27,M70.80,Oth soft tissue disord related to use/pressure of unsp site
+28,M70.811,"Oth soft tissue disord related to use/pressure, r shoulder"
+29,M70.812,"Oth soft tissue disord related to use/pressure, l shoulder"
+30,M70.819,"Oth soft tissue disord related to use/pressure, unsp shldr"
+31,M70.821,"Oth soft tissue disorders related to use/pressure, r up arm"
+32,M70.822,"Oth soft tissue disorders related to use/pressure, l up arm"
+33,M70.829,"Oth soft tissue disord rel to use/pressure, unsp upper arms"
+34,M70.831,"Oth soft tissue disorders related to use/pressure, r forearm"
+35,M70.832,"Oth soft tissue disorders related to use/pressure, l forearm"
+36,M70.839,"Oth soft tissue disord related to use/pressure, unsp forearm"
+37,M70.841,"Oth soft tissue disorders related to use/pressure, r hand"
+38,M70.842,"Oth soft tissue disorders related to use/pressure, left hand"
+39,M70.849,"Oth soft tissue disorders related to use/pressure, unsp hand"
+40,M70.851,"Oth soft tissue disord related to use/pressure, right thigh"
+41,M70.852,"Oth soft tissue disord related to use/pressure, left thigh"
+42,M70.859,"Oth soft tissue disord related to use/pressure, unsp thigh"
+43,M70.861,"Oth soft tissue disorders related to use/pressure, r low leg"
+44,M70.862,"Oth soft tissue disorders related to use/pressure, l low leg"
+45,M70.869,"Oth soft tissue disorders related to use/pressure, unsp leg"
+46,M70.871,"Oth soft tissue disord related to use/pressure, right ank/ft"
+47,M70.872,"Oth soft tissue disord related to use/pressure, left ank/ft"
+48,M70.879,"Oth soft tissue disord related to use/pressure, unsp ank/ft"
+49,M70.88,Oth soft tissue disorders related to use/pressure oth site
+50,M70.89,Oth soft tissue disord related to use/pressure mult sites
+51,M70.90,Unsp soft tissue disord related to use/pressure of unsp site
+52,M70.911,"Unsp soft tissue disord related to use/pressure, r shoulder"
+53,M70.912,"Unsp soft tissue disord related to use/pressure, l shoulder"
+54,M70.919,"Unsp soft tissue disord related to use/pressure, unsp shldr"
+55,M70.921,"Unsp soft tissue disorder related to use/pressure, r up arm"
+56,M70.922,"Unsp soft tissue disorder related to use/pressure, l up arm"
+57,M70.929,"Unsp soft tissue disord related to use/pressure, unsp up arm"
+58,M70.931,"Unsp soft tissue disorder related to use/pressure, r forearm"
+59,M70.932,"Unsp soft tissue disorder related to use/pressure, l forearm"
+60,M70.939,"Unsp soft tissue disord rel to use/pressure, unsp forearm"
+61,M70.941,"Unsp soft tissue disorder related to use/pressure, r hand"
+62,M70.942,"Unsp soft tissue disorder related to use/pressure, left hand"
+63,M70.949,"Unsp soft tissue disorder related to use/pressure, unsp hand"
+64,M70.951,"Unsp soft tissue disord related to use/pressure, right thigh"
+65,M70.952,"Unsp soft tissue disord related to use/pressure, left thigh"
+66,M70.959,"Unsp soft tissue disord related to use/pressure, unsp thigh"
+67,M70.961,"Unsp soft tissue disorder related to use/pressure, r low leg"
+68,M70.962,"Unsp soft tissue disorder related to use/pressure, l low leg"
+69,M70.969,"Unsp soft tissue disord rel to use/pressure, unsp low leg"
+70,M70.971,"Unsp soft tissue disord rel to use/pressure, right ank/ft"
+71,M70.972,"Unsp soft tissue disord related to use/pressure, left ank/ft"
+72,M70.979,"Unsp soft tissue disord related to use/pressure, unsp ank/ft"
+73,M70.98,Unsp soft tissue disorder related to use/pressure oth
+74,M70.99,Unsp soft tissue disord related to use/pressure mult sites
+75,M71.00,"Abscess of bursa, unspecified site"
+76,M71.011,"Abscess of bursa, right shoulder"
+77,M71.012,"Abscess of bursa, left shoulder"
+78,M71.019,"Abscess of bursa, unspecified shoulder"
+79,M71.021,"Abscess of bursa, right elbow"
+80,M71.022,"Abscess of bursa, left elbow"
+81,M71.029,"Abscess of bursa, unspecified elbow"
+82,M71.031,"Abscess of bursa, right wrist"
+83,M71.032,"Abscess of bursa, left wrist"
+84,M71.039,"Abscess of bursa, unspecified wrist"
+85,M71.041,"Abscess of bursa, right hand"
+86,M71.042,"Abscess of bursa, left hand"
+87,M71.049,"Abscess of bursa, unspecified hand"
+88,M71.051,"Abscess of bursa, right hip"
+89,M71.052,"Abscess of bursa, left hip"
+90,M71.059,"Abscess of bursa, unspecified hip"
+91,M71.061,"Abscess of bursa, right knee"
+92,M71.062,"Abscess of bursa, left knee"
+93,M71.069,"Abscess of bursa, unspecified knee"
+94,M71.071,"Abscess of bursa, right ankle and foot"
+95,M71.072,"Abscess of bursa, left ankle and foot"
+96,M71.079,"Abscess of bursa, unspecified ankle and foot"
+97,M71.08,"Abscess of bursa, other site"
+98,M71.09,"Abscess of bursa, multiple sites"
+99,M71.10,"Other infective bursitis, unspecified site"
+100,M71.111,"Other infective bursitis, right shoulder"
+101,M71.112,"Other infective bursitis, left shoulder"
+102,M71.119,"Other infective bursitis, unspecified shoulder"
+103,M71.121,"Other infective bursitis, right elbow"
+104,M71.122,"Other infective bursitis, left elbow"
+105,M71.129,"Other infective bursitis, unspecified elbow"
+106,M71.131,"Other infective bursitis, right wrist"
+107,M71.132,"Other infective bursitis, left wrist"
+108,M71.139,"Other infective bursitis, unspecified wrist"
+109,M71.141,"Other infective bursitis, right hand"
+110,M71.142,"Other infective bursitis, left hand"
+111,M71.149,"Other infective bursitis, unspecified hand"
+112,M71.151,"Other infective bursitis, right hip"
+113,M71.152,"Other infective bursitis, left hip"
+114,M71.159,"Other infective bursitis, unspecified hip"
+115,M71.161,"Other infective bursitis, right knee"
+116,M71.162,"Other infective bursitis, left knee"
+117,M71.169,"Other infective bursitis, unspecified knee"
+118,M71.171,"Other infective bursitis, right ankle and foot"
+119,M71.172,"Other infective bursitis, left ankle and foot"
+120,M71.179,"Other infective bursitis, unspecified ankle and foot"
+121,M71.18,"Other infective bursitis, other site"
+122,M71.19,"Other infective bursitis, multiple sites"
+123,M71.20,"Synovial cyst of popliteal space [Baker], unspecified knee"
+124,M71.21,"Synovial cyst of popliteal space [Baker], right knee"
+125,M71.22,"Synovial cyst of popliteal space [Baker], left knee"
+126,M71.30,"Other bursal cyst, unspecified site"
+127,M71.311,"Other bursal cyst, right shoulder"
+128,M71.312,"Other bursal cyst, left shoulder"
+129,M71.319,"Other bursal cyst, unspecified shoulder"
+130,M71.321,"Other bursal cyst, right elbow"
+131,M71.322,"Other bursal cyst, left elbow"
+132,M71.329,"Other bursal cyst, unspecified elbow"
+133,M71.331,"Other bursal cyst, right wrist"
+134,M71.332,"Other bursal cyst, left wrist"
+135,M71.339,"Other bursal cyst, unspecified wrist"
+136,M71.341,"Other bursal cyst, right hand"
+137,M71.342,"Other bursal cyst, left hand"
+138,M71.349,"Other bursal cyst, unspecified hand"
+139,M71.351,"Other bursal cyst, right hip"
+140,M71.352,"Other bursal cyst, left hip"
+141,M71.359,"Other bursal cyst, unspecified hip"
+142,M71.371,"Other bursal cyst, right ankle and foot"
+143,M71.372,"Other bursal cyst, left ankle and foot"
+144,M71.379,"Other bursal cyst, unspecified ankle and foot"
+145,M71.38,"Other bursal cyst, other site"
+146,M71.39,"Other bursal cyst, multiple sites"
+147,M71.40,"Calcium deposit in bursa, unspecified site"
+148,M71.421,"Calcium deposit in bursa, right elbow"
+149,M71.422,"Calcium deposit in bursa, left elbow"
+150,M71.429,"Calcium deposit in bursa, unspecified elbow"
+151,M71.431,"Calcium deposit in bursa, right wrist"
+152,M71.432,"Calcium deposit in bursa, left wrist"
+153,M71.439,"Calcium deposit in bursa, unspecified wrist"
+154,M71.441,"Calcium deposit in bursa, right hand"
+155,M71.442,"Calcium deposit in bursa, left hand"
+156,M71.449,"Calcium deposit in bursa, unspecified hand"
+157,M71.451,"Calcium deposit in bursa, right hip"
+158,M71.452,"Calcium deposit in bursa, left hip"
+159,M71.459,"Calcium deposit in bursa, unspecified hip"
+160,M71.461,"Calcium deposit in bursa, right knee"
+161,M71.462,"Calcium deposit in bursa, left knee"
+162,M71.469,"Calcium deposit in bursa, unspecified knee"
+163,M71.471,"Calcium deposit in bursa, right ankle and foot"
+164,M71.472,"Calcium deposit in bursa, left ankle and foot"
+165,M71.479,"Calcium deposit in bursa, unspecified ankle and foot"
+166,M71.48,"Calcium deposit in bursa, other site"
+167,M71.49,"Calcium deposit in bursa, multiple sites"
+168,M71.50,"Other bursitis, not elsewhere classified, unspecified site"
+169,M71.521,"Other bursitis, not elsewhere classified, right elbow"
+170,M71.522,"Other bursitis, not elsewhere classified, left elbow"
+171,M71.529,"Other bursitis, not elsewhere classified, unspecified elbow"
+172,M71.531,"Other bursitis, not elsewhere classified, right wrist"
+173,M71.532,"Other bursitis, not elsewhere classified, left wrist"
+174,M71.539,"Other bursitis, not elsewhere classified, unspecified wrist"
+175,M71.541,"Other bursitis, not elsewhere classified, right hand"
+176,M71.542,"Other bursitis, not elsewhere classified, left hand"
+177,M71.549,"Other bursitis, not elsewhere classified, unspecified hand"
+178,M71.551,"Other bursitis, not elsewhere classified, right hip"
+179,M71.552,"Other bursitis, not elsewhere classified, left hip"
+180,M71.559,"Other bursitis, not elsewhere classified, unspecified hip"
+181,M71.561,"Other bursitis, not elsewhere classified, right knee"
+182,M71.562,"Other bursitis, not elsewhere classified, left knee"
+183,M71.569,"Other bursitis, not elsewhere classified, unspecified knee"
+184,M71.571,"Oth bursitis, not elsewhere classified, right ankle and foot"
+185,M71.572,"Oth bursitis, not elsewhere classified, left ankle and foot"
+186,M71.579,"Oth bursitis, not elsewhere classified, unsp ankle and foot"
+187,M71.58,"Other bursitis, not elsewhere classified, other site"
+188,M71.80,"Other specified bursopathies, unspecified site"
+189,M71.811,"Other specified bursopathies, right shoulder"
+190,M71.812,"Other specified bursopathies, left shoulder"
+191,M71.819,"Other specified bursopathies, unspecified shoulder"
+192,M71.821,"Other specified bursopathies, right elbow"
+193,M71.822,"Other specified bursopathies, left elbow"
+194,M71.829,"Other specified bursopathies, unspecified elbow"
+195,M71.831,"Other specified bursopathies, right wrist"
+196,M71.832,"Other specified bursopathies, left wrist"
+197,M71.839,"Other specified bursopathies, unspecified wrist"
+198,M71.841,"Other specified bursopathies, right hand"
+199,M71.842,"Other specified bursopathies, left hand"
+200,M71.849,"Other specified bursopathies, unspecified hand"
+201,M71.851,"Other specified bursopathies, right hip"
+202,M71.852,"Other specified bursopathies, left hip"
+203,M71.859,"Other specified bursopathies, unspecified hip"
+204,M71.861,"Other specified bursopathies, right knee"
+205,M71.862,"Other specified bursopathies, left knee"
+206,M71.869,"Other specified bursopathies, unspecified knee"
+207,M71.871,"Other specified bursopathies, right ankle and foot"
+208,M71.872,"Other specified bursopathies, left ankle and foot"
+209,M71.879,"Other specified bursopathies, unspecified ankle and foot"
+210,M71.88,"Other specified bursopathies, other site"
+211,M71.89,"Other specified bursopathies, multiple sites"
+212,M71.9,"Bursopathy, unspecified"
+213,M72.0,Palmar fascial fibromatosis [Dupuytren]
+214,M72.1,Knuckle pads
+215,M72.2,Plantar fascial fibromatosis
+216,M72.4,Pseudosarcomatous fibromatosis
+217,M72.6,Necrotizing fasciitis
+218,M72.8,Other fibroblastic disorders
+219,M72.9,"Fibroblastic disorder, unspecified"
+220,M75.00,Adhesive capsulitis of unspecified shoulder
+221,M75.01,Adhesive capsulitis of right shoulder
+222,M75.02,Adhesive capsulitis of left shoulder
+223,M75.100,"Unsp rotatrcuff tear/ruptr of unsp shoulder, not trauma"
+224,M75.101,"Unsp rotatrcuff tear/ruptr of right shoulder, not trauma"
+225,M75.102,"Unsp rotatrcuff tear/ruptr of left shoulder, not trauma"
+226,M75.110,"Incmpl rotatrcuff tear/ruptr of unsp shoulder, not trauma"
+227,M75.111,"Incomplete rotatrcuff tear/ruptr of r shoulder, not trauma"
+228,M75.112,"Incomplete rotatrcuff tear/ruptr of l shoulder, not trauma"
+229,M75.120,"Complete rotatrcuff tear/ruptr of unsp shoulder, not trauma"
+230,M75.121,"Complete rotatrcuff tear/ruptr of r shoulder, not trauma"
+231,M75.122,"Complete rotatrcuff tear/ruptr of left shoulder, not trauma"
+232,M75.20,"Bicipital tendinitis, unspecified shoulder"
+233,M75.21,"Bicipital tendinitis, right shoulder"
+234,M75.22,"Bicipital tendinitis, left shoulder"
+235,M75.30,Calcific tendinitis of unspecified shoulder
+236,M75.31,Calcific tendinitis of right shoulder
+237,M75.32,Calcific tendinitis of left shoulder
+238,M75.40,Impingement syndrome of unspecified shoulder
+239,M75.41,Impingement syndrome of right shoulder
+240,M75.42,Impingement syndrome of left shoulder
+241,M75.50,Bursitis of unspecified shoulder
+242,M75.51,Bursitis of right shoulder
+243,M75.52,Bursitis of left shoulder
+244,M75.80,"Other shoulder lesions, unspecified shoulder"
+245,M75.81,"Other shoulder lesions, right shoulder"
+246,M75.82,"Other shoulder lesions, left shoulder"
+247,M75.90,"Shoulder lesion, unspecified, unspecified shoulder"
+248,M75.91,"Shoulder lesion, unspecified, right shoulder"
+249,M75.92,"Shoulder lesion, unspecified, left shoulder"
+250,M76.00,"Gluteal tendinitis, unspecified hip"
+251,M76.01,"Gluteal tendinitis, right hip"
+252,M76.02,"Gluteal tendinitis, left hip"
+253,M76.10,"Psoas tendinitis, unspecified hip"
+254,M76.11,"Psoas tendinitis, right hip"
+255,M76.12,"Psoas tendinitis, left hip"
+256,M76.20,"Iliac crest spur, unspecified hip"
+257,M76.21,"Iliac crest spur, right hip"
+258,M76.22,"Iliac crest spur, left hip"
+259,M76.30,"Iliotibial band syndrome, unspecified leg"
+260,M76.31,"Iliotibial band syndrome, right leg"
+261,M76.32,"Iliotibial band syndrome, left leg"
+262,M76.40,"Tibial collateral bursitis, unspecified leg"
+263,M76.41,"Tibial collateral bursitis [PellegriniStieda], right leg"
+264,M76.42,"Tibial collateral bursitis [PellegriniStieda], left leg"
+265,M76.50,"Patellar tendinitis, unspecified knee"
+266,M76.51,"Patellar tendinitis, right knee"
+267,M76.52,"Patellar tendinitis, left knee"
+268,M76.60,"Achilles tendinitis, unspecified leg"
+269,M76.61,"Achilles tendinitis, right leg"
+270,M76.62,"Achilles tendinitis, left leg"
+271,M76.70,"Peroneal tendinitis, unspecified leg"
+272,M76.71,"Peroneal tendinitis, right leg"
+273,M76.72,"Peroneal tendinitis, left leg"
+274,M76.811,"Anterior tibial syndrome, right leg"
+275,M76.812,"Anterior tibial syndrome, left leg"
+276,M76.819,"Anterior tibial syndrome, unspecified leg"
+277,M76.821,"Posterior tibial tendinitis, right leg"
+278,M76.822,"Posterior tibial tendinitis, left leg"
+279,M76.829,"Posterior tibial tendinitis, unspecified leg"
+280,M76.891,"Oth enthesopathies of right lower limb, excluding foot"
+281,M76.892,"Oth enthesopathies of left lower limb, excluding foot"
+282,M76.899,"Oth enthesopathies of unspecified lower limb, excluding foot"
+283,M76.9,"Unspecified enthesopathy, lower limb, excluding foot"
+284,M77.00,"Medial epicondylitis, unspecified elbow"
+285,M77.01,"Medial epicondylitis, right elbow"
+286,M77.02,"Medial epicondylitis, left elbow"
+287,M77.10,"Lateral epicondylitis, unspecified elbow"
+288,M77.11,"Lateral epicondylitis, right elbow"
+289,M77.12,"Lateral epicondylitis, left elbow"
+290,M77.20,"Periarthritis, unspecified wrist"
+291,M77.21,"Periarthritis, right wrist"
+292,M77.22,"Periarthritis, left wrist"
+293,M77.30,"Calcaneal spur, unspecified foot"
+294,M77.31,"Calcaneal spur, right foot"
+295,M77.32,"Calcaneal spur, left foot"
+296,M77.40,"Metatarsalgia, unspecified foot"
+297,M77.41,"Metatarsalgia, right foot"
+298,M77.42,"Metatarsalgia, left foot"
+299,M77.50,Other enthesopathy of unspecified foot and ankle  UPDATED CODE
+300,M77.51,Other enthesopathy of right foot and ankle  UPDATED CODE
+301,M77.52,Other enthesopathy of left foot and ankle  UPDATED CODE
+302,M77.8,"Other enthesopathies, not elsewhere classified"
+303,M77.9,"Enthesopathy, unspecified"
+304,M79.0,"Rheumatism, unspecified"
+305,M79.10,"Myalgia, unspecified site"
+306,M79.11,Myalgia of mastication muscle
+307,M79.12,"Myalgia of auxiliary muscles, head and neck"
+308,M79.18,"Myalgia, other site"
+309,M79.2,"Neuralgia and neuritis, unspecified"
+310,M79.3,"Panniculitis, unspecified"
+311,M79.4,Hypertrophy of (infrapatellar) fat pad
+312,M79.5,Residual foreign body in soft tissue
+313,M79.601,Pain in right arm
+314,M79.602,Pain in left arm
+315,M79.603,"Pain in arm, unspecified"
+316,M79.604,Pain in right leg
+317,M79.605,Pain in left leg
+318,M79.606,"Pain in leg, unspecified"
+319,M79.609,Pain in unspecified limb
+320,M79.621,Pain in right upper arm
+321,M79.622,Pain in left upper arm
+322,M79.629,Pain in unspecified upper arm
+323,M79.631,Pain in right forearm
+324,M79.632,Pain in left forearm
+325,M79.639,Pain in unspecified forearm
+326,M79.641,Pain in right hand
+327,M79.642,Pain in left hand
+328,M79.643,Pain in unspecified hand
+329,M79.644,Pain in right finger(s)
+330,M79.645,Pain in left finger(s)
+331,M79.646,Pain in unspecified finger(s)
+332,M79.651,Pain in right thigh
+333,M79.652,Pain in left thigh
+334,M79.659,Pain in unspecified thigh
+335,M79.661,Pain in right lower leg
+336,M79.662,Pain in left lower leg
+337,M79.669,Pain in unspecified lower leg
+338,M79.671,Pain in right foot
+339,M79.672,Pain in left foot
+340,M79.673,Pain in unspecified foot
+341,M79.674,Pain in right toe(s)
+342,M79.675,Pain in left toe(s)
+343,M79.676,Pain in unspecified toe(s)
+344,M79.7,Fibromyalgia
+345,M79.81,Nontraumatic hematoma of soft tissue
+346,M79.89,Other specified soft tissue disorders
+347,M79.9,"Soft tissue disorder, unspecified"
+348,M79.A11,Nontraumatic compartment syndrome of right upper extremity
+349,M79.A12,Nontraumatic compartment syndrome of left upper extremity
+350,M79.A19,Nontraumatic compartment syndrome of unsp upper extremity
+351,M79.A21,Nontraumatic compartment syndrome of right lower extremity
+352,M79.A22,Nontraumatic compartment syndrome of left lower extremity
+353,M79.A29,Nontraumatic compartment syndrome of unsp lower extremity
+354,M79.A3,Nontraumatic compartment syndrome of abdomen
+355,M79.A9,Nontraumatic compartment syndrome of other sites

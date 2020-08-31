@@ -1,0 +1,87 @@
+,category,condition
+0,M26.00,Unspecified anomaly of jaw size
+1,M26.01,Maxillary hyperplasia
+2,M26.02,Maxillary hypoplasia
+3,M26.03,Mandibular hyperplasia
+4,M26.04,Mandibular hypoplasia
+5,M26.05,Macrogenia
+6,M26.06,Microgenia
+7,M26.07,Excessive tuberosity of jaw
+8,M26.09,Other specified anomalies of jaw size
+9,M26.10,Unspecified anomaly of jawcranial base relationship
+10,M26.11,Maxillary asymmetry
+11,M26.12,Other jaw asymmetry
+12,M26.19,Other specified anomalies of jawcranial base relationship
+13,M26.20,Unspecified anomaly of dental arch relationship
+14,M26.211,"Malocclusion, Angle's class I"
+15,M26.212,"Malocclusion, Angle's class II"
+16,M26.213,"Malocclusion, Angle's class III"
+17,M26.219,"Malocclusion, Angle's class, unspecified"
+18,M26.220,Open anterior occlusal relationship
+19,M26.221,Open posterior occlusal relationship
+20,M26.23,Excessive horizontal overlap
+21,M26.24,Reverse articulation
+22,M26.25,Anomalies of interarch distance
+23,M26.29,Other anomalies of dental arch relationship
+24,M26.30,Unsp anomaly of tooth position of fully erupted tooth/teeth
+25,M26.31,Crowding of fully erupted teeth
+26,M26.32,Excessive spacing of fully erupted teeth
+27,M26.33,Horizontal displacement of fully erupted tooth or teeth
+28,M26.34,Vertical displacement of fully erupted tooth or teeth
+29,M26.35,Rotation of fully erupted tooth or teeth
+30,M26.36,Insufficient interocclusal distance of fully erupted teeth
+31,M26.37,Excessive interocclusal distance of fully erupted teeth
+32,M26.39,Oth anomalies of tooth position of fully erupted tooth/teeth
+33,M26.4,"Malocclusion, unspecified"
+34,M26.50,"Dentofacial functional abnormalities, unspecified"
+35,M26.51,Abnormal jaw closure
+36,M26.52,Limited mandibular range of motion
+37,M26.53,Deviation in opening and closing of the mandible
+38,M26.54,Insufficient anterior guidance
+39,M26.55,Centric occlusion maximum intercuspation discrepancy
+40,M26.56,Nonworking side interference
+41,M26.57,Lack of posterior occlusal support
+42,M26.59,Other dentofacial functional abnormalities
+43,M26.601,"Right temporomandibular joint disorder, unspecified"
+44,M26.602,"Left temporomandibular joint disorder, unspecified"
+45,M26.603,"Bilateral temporomandibular joint disorder, unspecified"
+46,M26.609,"Unspecified TMJ joint disorder, unspecified side"
+47,M26.611,Adhesions and ankylosis of right temporomandibular joint
+48,M26.612,Adhesions and ankylosis of left temporomandibular joint
+49,M26.613,Adhesions and ankylosis of bilateral temporomandibular joint
+50,M26.619,"Adhesions and ankylosis of TMJ joint, unspecified side"
+51,M26.621,Arthralgia of right temporomandibular joint
+52,M26.622,Arthralgia of left temporomandibular joint
+53,M26.623,Arthralgia of bilateral temporomandibular joint
+54,M26.629,"Arthralgia of temporomandibular joint, unspecified side"
+55,M26.631,Articular disc disorder of right temporomandibular joint
+56,M26.632,Articular disc disorder of left temporomandibular joint
+57,M26.633,Articular disc disorder of bilateral temporomandibular joint
+58,M26.639,"Articular disc disorder of TMJ joint, unspecified side"
+59,M26.69,Other specified disorders of temporomandibular joint
+60,M26.70,Unspecified alveolar anomaly
+61,M26.71,Alveolar maxillary hyperplasia
+62,M26.72,Alveolar mandibular hyperplasia
+63,M26.73,Alveolar maxillary hypoplasia
+64,M26.74,Alveolar mandibular hypoplasia
+65,M26.79,Other specified alveolar anomalies
+66,M26.81,Anterior soft tissue impingement
+67,M26.82,Posterior soft tissue impingement
+68,M26.89,Other dentofacial anomalies
+69,M26.9,"Dentofacial anomaly, unspecified"
+70,M27.0,Developmental disorders of jaws
+71,M27.1,"Giant cell granuloma, central"
+72,M27.2,Inflammatory conditions of jaws
+73,M27.3,Alveolitis of jaws
+74,M27.40,Unspecified cyst of jaw
+75,M27.49,Other cysts of jaw
+76,M27.51,Perforation of root canal space due to endodontic treatment
+77,M27.52,Endodontic overfill
+78,M27.53,Endodontic underfill
+79,M27.59,Oth periradicular pathology assoc w prev endodontic trtmt
+80,M27.61,Osseointegration failure of dental implant
+81,M27.62,Postosseointegration biological failure of dental implant
+82,M27.63,Postosseointegration mechanical failure of dental implant
+83,M27.69,Other endosseous dental implant failure
+84,M27.8,Other specified diseases of jaws
+85,M27.9,"Disease of jaws, unspecified"

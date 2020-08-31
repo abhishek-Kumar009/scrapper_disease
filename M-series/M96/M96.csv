@@ -1,0 +1,32 @@
+,category,condition
+0,M96.0,Pseudarthrosis after fusion or arthrodesis
+1,M96.1,"Postlaminectomy syndrome, not elsewhere classified"
+2,M96.2,Postradiation kyphosis
+3,M96.3,Postlaminectomy kyphosis
+4,M96.4,Postsurgical lordosis
+5,M96.5,Postradiation scoliosis
+6,M96.621,"Fx humerus fol insrt ortho implnt/prosth/bone plt, right arm"
+7,M96.622,"Fx humerus fol insrt ortho implnt/prosth/bone plt, left arm"
+8,M96.629,"Fx humerus fol insrt ortho implnt/prosth/bone plt, unsp arm"
+9,M96.631,"Fx rad/ulna fol insrt ortho implnt/prosth/bone plt, r arm"
+10,M96.632,"Fx rad/ulna fol insrt ortho implnt/prosth/bone plt, left arm"
+11,M96.639,"Fx rad/ulna fol insrt ortho implnt/prosth/bone plt, unsp arm"
+12,M96.65,Fx pelvis following insrt ortho implnt/prosth/bone plt
+13,M96.661,"Fx femur fol insrt ortho implnt/prosth/bone plt, right leg"
+14,M96.662,"Fx femur fol insrt ortho implnt/prosth/bone plt, left leg"
+15,M96.669,"Fx femur fol insrt ortho implnt/prosth/bone plt, unsp leg"
+16,M96.671,"Fx tib/fib fol insrt ortho implnt/prosth/bone plt, right leg"
+17,M96.672,"Fx tib/fib fol insrt ortho implnt/prosth/bone plt, left leg"
+18,M96.679,"Fx tib/fib fol insrt ortho implnt/prosth/bone plt, unsp leg"
+19,M96.69,Fx bone following insrt ortho implnt/prosth/bone plt
+20,M96.810,Intraop hemor/hemtom of a ms structure comp a ms sys proc
+21,M96.811,Intraop hemor/hemtom of a ms structure comp oth procedure
+22,M96.820,Acc pnctr & lac of a ms structure during a ms sys procedure
+23,M96.821,Acc pnctr & lac of a ms structure during oth procedure
+24,M96.830,Postproc hemor of a ms structure fol a ms sys procedure
+25,M96.831,Postproc hemor of a ms structure following other procedure
+26,M96.840,Postproc hematoma of a ms structure fol a ms sys procedure
+27,M96.841,Postproc hematoma of a ms structure fol other procedure
+28,M96.842,Postproc seroma of a ms structure fol a ms sys procedure
+29,M96.843,Postproc seroma of a ms structure following other procedure
+30,M96.89,Oth intraop and postproc comp and disorders of the ms sys
