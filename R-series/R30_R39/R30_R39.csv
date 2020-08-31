@@ -1,0 +1,41 @@
+,category,condition
+0,R30.0,Dysuria
+1,R30.1,Vesical tenesmus
+2,R30.9,"Painful micturition, unspecified"
+3,R31.0,Gross hematuria
+4,R31.1,Benign essential microscopic hematuria
+5,R31.21,Asymptomatic microscopic hematuria
+6,R31.29,Other microscopic hematuria
+7,R31.9,"Hematuria, unspecified"
+8,Unspecified urinary incontinence (R32),R32  Unspecified urinary incontinence
+9,R32,Unspecified urinary incontinence
+10,R33.0,Drug induced retention of urine
+11,R33.8,Other retention of urine
+12,R33.9,"Retention of urine, unspecified"
+13,Anuria and oliguria (R34),R34  Anuria and oliguria
+14,R34,Anuria and oliguria
+15,R35.0,Frequency of micturition
+16,R35.1,Nocturia
+17,R35.8,Other polyuria
+18,R36.0,Urethral discharge without blood
+19,R36.1,Hematospermia
+20,R36.9,"Urethral discharge, unspecified"
+21,"Sexual dysfunction, unspecified (R37)","R37  Sexual dysfunction, unspecified"
+22,R37,"Sexual dysfunction, unspecified"
+23,R39.0,Extravasation of urine
+24,R39.11,Hesitancy of micturition
+25,R39.12,Poor urinary stream
+26,R39.13,Splitting of urinary stream
+27,R39.14,Feeling of incomplete bladder emptying
+28,R39.15,Urgency of urination
+29,R39.16,Straining to void
+30,R39.191,Need to immediately revoid
+31,R39.192,Position dependent micturition
+32,R39.198,Other difficulties with micturition
+33,R39.2,Extrarenal uremia
+34,R39.81,Functional urinary incontinence
+35,R39.82,Chronic bladder pain
+36,R39.83,Unilateral nonpalpable testicle
+37,R39.84,Bilateral nonpalpable testicles
+38,R39.89,Other symptoms and signs involving the genitourinary system
+39,R39.9,Unsp symptoms and signs involving the genitourinary system

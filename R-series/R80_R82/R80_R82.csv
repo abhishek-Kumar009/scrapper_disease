@@ -1,0 +1,27 @@
+,category,condition
+0,R80.0,Isolated proteinuria
+1,R80.1,"Persistent proteinuria, unspecified"
+2,R80.2,"Orthostatic proteinuria, unspecified"
+3,R80.3,Bence Jones proteinuria
+4,R80.8,Other proteinuria
+5,R80.9,"Proteinuria, unspecified"
+6,Glycosuria (R81),R81  Glycosuria
+7,R81,Glycosuria
+8,R82.0,Chyluria
+9,R82.1,Myoglobinuria
+10,R82.2,Biliuria
+11,R82.3,Hemoglobinuria
+12,R82.4,Acetonuria
+13,R82.5,Elevated urine levels of drug/meds/biol subst
+14,R82.6,Abnormal urine levels of substances chiefly nonmed source
+15,R82.71,Bacteriuria
+16,R82.79,Other abnormal findings on microbiolog examination of urine
+17,R82.81,Pyuria  NEW CODE
+18,R82.89,Other abn findings on cytolog and histolog exam of urine  NEW CODE
+19,R82.90,Unspecified abnormal findings in urine
+20,R82.91,Other chromoabnormalities of urine
+21,R82.991,Hypocitraturia
+22,R82.992,Hyperoxaluria
+23,R82.993,Hyperuricosuria  UPDATED CODE
+24,R82.994,Hypercalciuria
+25,R82.998,Other abnormal findings in urine

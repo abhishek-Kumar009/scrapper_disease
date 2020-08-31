@@ -1,0 +1,73 @@
+,category,condition
+0,R25.0,Abnormal head movements
+1,R25.1,"Tremor, unspecified"
+2,R25.2,Cramp and spasm
+3,R25.3,Fasciculation
+4,R25.8,Other abnormal involuntary movements
+5,R25.9,Unspecified abnormal involuntary movements
+6,R26.0,Ataxic gait
+7,R26.1,Paralytic gait
+8,R26.2,"Difficulty in walking, not elsewhere classified"
+9,R26.81,Unsteadiness on feet
+10,R26.89,Other abnormalities of gait and mobility
+11,R26.9,Unspecified abnormalities of gait and mobility
+12,R27.0,"Ataxia, unspecified"
+13,R27.8,Other lack of coordination
+14,R27.9,Unspecified lack of coordination
+15,R29.0,Tetany
+16,R29.1,Meningismus
+17,R29.2,Abnormal reflex
+18,R29.3,Abnormal posture
+19,R29.4,Clicking hip
+20,R29.5,Transient paralysis
+21,R29.6,Repeated falls
+22,R29.700,NIHSS score 0
+23,R29.701,NIHSS score 1
+24,R29.702,NIHSS score 2
+25,R29.703,NIHSS score 3
+26,R29.704,NIHSS score 4
+27,R29.705,NIHSS score 5
+28,R29.706,NIHSS score 6
+29,R29.707,NIHSS score 7
+30,R29.708,NIHSS score 8
+31,R29.709,NIHSS score 9
+32,R29.710,NIHSS score 10
+33,R29.711,NIHSS score 11
+34,R29.712,NIHSS score 12
+35,R29.713,NIHSS score 13
+36,R29.714,NIHSS score 14
+37,R29.715,NIHSS score 15
+38,R29.716,NIHSS score 16
+39,R29.717,NIHSS score 17
+40,R29.718,NIHSS score 18
+41,R29.719,NIHSS score 19
+42,R29.720,NIHSS score 20
+43,R29.721,NIHSS score 21
+44,R29.722,NIHSS score 22
+45,R29.723,NIHSS score 23
+46,R29.724,NIHSS score 24
+47,R29.725,NIHSS score 25
+48,R29.726,NIHSS score 26
+49,R29.727,NIHSS score 27
+50,R29.728,NIHSS score 28
+51,R29.729,NIHSS score 29
+52,R29.730,NIHSS score 30
+53,R29.731,NIHSS score 31
+54,R29.732,NIHSS score 32
+55,R29.733,NIHSS score 33
+56,R29.734,NIHSS score 34
+57,R29.735,NIHSS score 35
+58,R29.736,NIHSS score 36
+59,R29.737,NIHSS score 37
+60,R29.738,NIHSS score 38
+61,R29.739,NIHSS score 39
+62,R29.740,NIHSS score 40
+63,R29.741,NIHSS score 41
+64,R29.742,NIHSS score 42
+65,R29.810,Facial weakness
+66,R29.818,Other symptoms and signs involving the nervous system
+67,R29.890,Loss of height
+68,R29.891,Ocular torticollis
+69,R29.898,Oth symptoms and signs involving the musculoskeletal system
+70,R29.90,Unspecified symptoms and signs involving the nervous system
+71,R29.91,Unsp symptoms and signs involving the musculoskeletal system

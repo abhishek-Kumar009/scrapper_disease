@@ -1,0 +1,156 @@
+,category,condition
+0,R40.0,Somnolence
+1,R40.1,Stupor
+2,R40.20,Unspecified coma
+3,R40.2110,"Coma scale, eyes open, never, unspecified time"
+4,R40.2111,"Coma scale, eyes open, never, in the field"
+5,R40.2112,"Coma scale, eyes open, never, EMR"
+6,R40.2113,"Coma scale, eyes open, never, at hospital admission"
+7,R40.2114,"Coma scale, eyes open, never, 24+hrs"
+8,R40.2120,"Coma scale, eyes open, to pain, unspecified time"
+9,R40.2121,"Coma scale, eyes open, to pain, in the field"
+10,R40.2122,"Coma scale, eyes open, to pain, EMR"
+11,R40.2123,"Coma scale, eyes open, to pain, at hospital admission"
+12,R40.2124,"Coma scale, eyes open, to pain, 24+hrs"
+13,R40.2130,"Coma scale, eyes open, to sound, unspecified time"
+14,R40.2131,"Coma scale, eyes open, to sound, in the field"
+15,R40.2132,"Coma scale, eyes open, to sound, EMR"
+16,R40.2133,"Coma scale, eyes open, to sound, at hospital admission"
+17,R40.2134,"Coma scale, eyes open, to sound, 24+hrs"
+18,R40.2140,"Coma scale, eyes open, spontaneous, unspecified time"
+19,R40.2141,"Coma scale, eyes open, spontaneous, in the field"
+20,R40.2142,"Coma scale, eyes open, spontaneous, EMR"
+21,R40.2143,"Coma scale, eyes open, spontaneous, at hospital admission"
+22,R40.2144,"Coma scale, eyes open, spontaneous, 24+hrs"
+23,R40.2210,"Coma scale, best verbal response, none, unspecified time"
+24,R40.2211,"Coma scale, best verbal response, none, in the field"
+25,R40.2212,"Coma scale, best verbal response, none, EMR"
+26,R40.2213,"Coma scale, best verbal response, none, admit"
+27,R40.2214,"Coma scale, best verbal response, none, 24+hrs"
+28,R40.2220,"Coma scale, best verb, incomprehensible words, unsp time"
+29,R40.2221,"Coma scale, best verb, incomprehensible words, in the field"
+30,R40.2222,"Coma scale, best verb, incomprehensible words, EMR"
+31,R40.2223,"Coma scale, best verb, incomprehensible words, admit"
+32,R40.2224,"Coma scale, best verb, incomprehensible words, 24+hrs"
+33,R40.2230,"Coma scale, best verb, inappropriate words, unsp time"
+34,R40.2231,"Coma scale, best verb, inappropriate words, in the field"
+35,R40.2232,"Coma scale, best verbal response, inappropriate words, EMR"
+36,R40.2233,"Coma scale, best verbal response, inappropriate words, admit"
+37,R40.2234,"Coma scale, best verb, inappropriate words, 24+hrs"
+38,R40.2240,"Coma scale, best verb, confused conversation, unsp time"
+39,R40.2241,"Coma scale, best verb, confused conversation, in the field"
+40,R40.2242,"Coma scale, best verbal response, confused conversation, EMR"
+41,R40.2243,"Coma scale, best verb, confused conversation, admit"
+42,R40.2244,"Coma scale, best verb, confused conversation, 24+hrs"
+43,R40.2250,"Coma scale, best verbal response, oriented, unspecified time"
+44,R40.2251,"Coma scale, best verbal response, oriented, in the field"
+45,R40.2252,"Coma scale, best verbal response, oriented, EMR"
+46,R40.2253,"Coma scale, best verbal response, oriented, admit"
+47,R40.2254,"Coma scale, best verbal response, oriented, 24+hrs"
+48,R40.2310,"Coma scale, best motor response, none, unspecified time"
+49,R40.2311,"Coma scale, best motor response, none, in the field"
+50,R40.2312,"Coma scale, best motor response, none, EMR"
+51,R40.2313,"Coma scale, best motor response, none, at hospital admission"
+52,R40.2314,"Coma scale, best motor response, none, 24+hrs"
+53,R40.2320,"Coma scale, best motor response, extension, unspecified time"
+54,R40.2321,"Coma scale, best motor response, extension, in the field"
+55,R40.2322,"Coma scale, best motor response, extension, EMR"
+56,R40.2323,"Coma scale, best motor response, extension, admit"
+57,R40.2324,"Coma scale, best motor response, extension, 24+hrs"
+58,R40.2330,"Coma scale, best motor, abnormal flexion, unspecified time"
+59,R40.2331,"Coma scale, best motor, abnormal flexion, in the field"
+60,R40.2332,"Coma scale, best motor response, abnormal flexion, EMR"
+61,R40.2333,"Coma scale, best motor response, abnormal flexion, admit"
+62,R40.2334,"Coma scale, best motor response, abnormal flexion, 24+hrs"
+63,R40.2340,"Coma scale, best motor, flexion withdrawal, unsp time"
+64,R40.2341,"Coma scale, best motor, flexion withdrawal, in the field"
+65,R40.2342,"Coma scale, best motor response, flexion withdrawal, EMR"
+66,R40.2343,"Coma scale, best motor response, flexion withdrawal, admit"
+67,R40.2344,"Coma scale, best motor response, flexion withdrawal, 24+hrs"
+68,R40.2350,"Coma scale, best motor response, localizes pain, unsp time"
+69,R40.2351,"Coma scale, best motor, localizes pain, in the field"
+70,R40.2352,"Coma scale, best motor response, localizes pain, EMR"
+71,R40.2353,"Coma scale, best motor response, localizes pain, admit"
+72,R40.2354,"Coma scale, best motor response, localizes pain, 24+hrs"
+73,R40.2360,"Coma scale, best motor response, obeys commands, unsp time"
+74,R40.2361,"Coma scale, best motor, obeys commands, in the field"
+75,R40.2362,"Coma scale, best motor response, obeys commands, EMR"
+76,R40.2363,"Coma scale, best motor response, obeys commands, admit"
+77,R40.2364,"Coma scale, best motor response, obeys commands, 24+hrs"
+78,R40.2410,"Glasgow coma scale score 1315, unspecified time"
+79,R40.2411,"Glasgow coma scale score 1315, in the field"
+80,R40.2412,"Glasgow coma scale score 1315, EMR"
+81,R40.2413,"Glasgow coma scale score 1315, at hospital admission"
+82,R40.2414,"Glasgow coma scale score 1315, 24+hrs"
+83,R40.2420,"Glasgow coma scale score 912, unspecified time"
+84,R40.2421,"Glasgow coma scale score 912, in the field"
+85,R40.2422,"Glasgow coma scale score 912, EMR"
+86,R40.2423,"Glasgow coma scale score 912, at hospital admission"
+87,R40.2424,"Glasgow coma scale score 912, 24+hrs"
+88,R40.2430,"Glasgow coma scale score 38, unspecified time"
+89,R40.2431,"Glasgow coma scale score 38, in the field"
+90,R40.2432,"Glasgow coma scale score 38, EMR"
+91,R40.2433,"Glasgow coma scale score 38, at hospital admission"
+92,R40.2434,"Glasgow coma scale score 38, 24+hrs"
+93,R40.2440,"Other coma, without Glasgow, or w/part score, unsp time"
+94,R40.2441,"Other coma, without Glasgow, or w/part score, in the field"
+95,R40.2442,"Other coma, without documented Glasgow, or w/part score, EMR"
+96,R40.2443,"Other coma, without Glasgow, or w/part score, admit"
+97,R40.2444,"Other coma, without Glasgow, or w/part score, 24+hrs"
+98,R40.3,Persistent vegetative state
+99,R40.4,Transient alteration of awareness
+100,R41.0,"Disorientation, unspecified"
+101,R41.1,Anterograde amnesia
+102,R41.2,Retrograde amnesia
+103,R41.3,Other amnesia
+104,R41.4,Neurologic neglect syndrome
+105,R41.81,Agerelated cognitive decline
+106,R41.82,"Altered mental status, unspecified"
+107,R41.83,Borderline intellectual functioning
+108,R41.840,Attention and concentration deficit
+109,R41.841,Cognitive communication deficit
+110,R41.842,Visuospatial deficit
+111,R41.843,Psychomotor deficit
+112,R41.844,Frontal lobe and executive function deficit
+113,R41.89,Oth symptoms and signs w cognitive functions and awareness
+114,R41.9,Unsp symptoms and signs w cognitive functions and awareness
+115,Dizziness and giddiness (R42),R42  Dizziness and giddiness
+116,R42,Dizziness and giddiness
+117,R43.0,Anosmia
+118,R43.1,Parosmia
+119,R43.2,Parageusia
+120,R43.8,Other disturbances of smell and taste
+121,R43.9,Unspecified disturbances of smell and taste
+122,R44.0,Auditory hallucinations
+123,R44.1,Visual hallucinations
+124,R44.2,Other hallucinations
+125,R44.3,"Hallucinations, unspecified"
+126,R44.8,Oth symptoms and signs w general sensations and perceptions
+127,R44.9,Unsp symptoms and signs w general sensations and perceptions
+128,R45.0,Nervousness
+129,R45.1,Restlessness and agitation
+130,R45.2,Unhappiness
+131,R45.3,Demoralization and apathy
+132,R45.4,Irritability and anger
+133,R45.5,Hostility
+134,R45.6,Violent behavior
+135,R45.7,"State of emotional shock and stress, unspecified"
+136,R45.81,Low selfesteem
+137,R45.82,Worries
+138,R45.83,"Excessive crying of child, adolescent or adult"
+139,R45.84,Anhedonia
+140,R45.850,Homicidal ideations
+141,R45.851,Suicidal ideations
+142,R45.86,Emotional lability
+143,R45.87,Impulsiveness
+144,R45.89,Other symptoms and signs involving emotional state
+145,R46.0,Very low level of personal hygiene
+146,R46.1,Bizarre personal appearance
+147,R46.2,Strange and inexplicable behavior
+148,R46.3,Overactivity
+149,R46.4,Slowness and poor responsiveness
+150,R46.5,Suspiciousness and marked evasiveness
+151,R46.6,Undue concern and preoccupation with stressful events
+152,R46.7,Verbosity and circumstantial detail obscuring rsn for cntct
+153,R46.81,Obsessivecompulsive behavior
+154,R46.89,Other symptoms and signs involving appearance and behavior

@@ -1,0 +1,43 @@
+,category,condition
+0,R70.0,Elevated erythrocyte sedimentation rate
+1,R70.1,Abnormal plasma viscosity
+2,R71.0,Precipitous drop in hematocrit
+3,R71.8,Other abnormality of red blood cells
+4,R73.01,Impaired fasting glucose
+5,R73.02,Impaired glucose tolerance (oral)
+6,R73.03,Prediabetes
+7,R73.09,Other abnormal glucose
+8,R73.9,"Hyperglycemia, unspecified"
+9,R74.0,Nonspec elev of levels of transamns & lactic acid dehydrgnse
+10,R74.8,Abnormal levels of other serum enzymes
+11,R74.9,"Abnormal serum enzyme level, unspecified"
+12,Inconclusive laboratory evidence of human immunodef virus (R75),R75  Inconclusive laboratory evidence of human immunodef virus
+13,R75,Inconclusive laboratory evidence of human immunodef virus
+14,R76.0,Raised antibody titer
+15,R76.11,Nonspecific reaction to skin test w/o active tuberculosis
+16,R76.12,Nonspec reaction to gamma intrfrn respns w/o actv tubrclosis
+17,R76.8,Other specified abnormal immunological findings in serum
+18,R76.9,"Abnormal immunological finding in serum, unspecified"
+19,R77.0,Abnormality of albumin
+20,R77.1,Abnormality of globulin
+21,R77.2,Abnormality of alphafetoprotein
+22,R77.8,Other specified abnormalities of plasma proteins
+23,R77.9,"Abnormality of plasma protein, unspecified"
+24,R78.0,Finding of alcohol in blood
+25,R78.1,Finding of opiate drug in blood
+26,R78.2,Finding of cocaine in blood
+27,R78.3,Finding of hallucinogen in blood
+28,R78.4,Finding of other drugs of addictive potential in blood
+29,R78.5,Finding of other psychotropic drug in blood
+30,R78.6,Finding of steroid agent in blood
+31,R78.71,Abnormal lead level in blood
+32,R78.79,Finding of abnormal level of heavy metals in blood
+33,R78.81,Bacteremia
+34,R78.89,"Finding of oth substances, not normally found in blood"
+35,R78.9,"Finding of unsp substance, not normally found in blood"
+36,R79.0,Abnormal level of blood mineral
+37,R79.1,Abnormal coagulation profile
+38,R79.81,Abnormal bloodgas level
+39,R79.82,Elevated Creactive protein (CRP)
+40,R79.89,Other specified abnormal findings of blood chemistry
+41,R79.9,"Abnormal finding of blood chemistry, unspecified"

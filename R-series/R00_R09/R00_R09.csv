@@ -1,0 +1,51 @@
+,category,condition
+0,R00.0,"Tachycardia, unspecified"
+1,R00.1,"Bradycardia, unspecified"
+2,R00.2,Palpitations
+3,R00.8,Other abnormalities of heart beat
+4,R00.9,Unspecified abnormalities of heart beat
+5,R01.0,Benign and innocent cardiac murmurs
+6,R01.1,"Cardiac murmur, unspecified"
+7,R01.2,Other cardiac sounds
+8,R03.0,"Elevated bloodpressure reading, w/o diagnosis of htn"
+9,R03.1,Nonspecific low bloodpressure reading
+10,R04.0,Epistaxis
+11,R04.1,Hemorrhage from throat
+12,R04.2,Hemoptysis
+13,R04.81,Acute idiopathic pulmonary hemorrhage in infants
+14,R04.89,Hemorrhage from other sites in respiratory passages
+15,R04.9,"Hemorrhage from respiratory passages, unspecified"
+16,Cough (R05),R05  Cough
+17,R05,Cough
+18,R06.00,"Dyspnea, unspecified"
+19,R06.01,Orthopnea
+20,R06.02,Shortness of breath
+21,R06.03,Acute respiratory distress
+22,R06.09,Other forms of dyspnea
+23,R06.1,Stridor
+24,R06.2,Wheezing
+25,R06.3,Periodic breathing
+26,R06.4,Hyperventilation
+27,R06.5,Mouth breathing
+28,R06.6,Hiccough
+29,R06.7,Sneezing
+30,R06.81,"Apnea, not elsewhere classified"
+31,R06.82,"Tachypnea, not elsewhere classified"
+32,R06.83,Snoring
+33,R06.89,Other abnormalities of breathing
+34,R06.9,Unspecified abnormalities of breathing
+35,R07.0,Pain in throat
+36,R07.1,Chest pain on breathing
+37,R07.2,Precordial pain
+38,R07.81,Pleurodynia
+39,R07.82,Intercostal pain
+40,R07.89,Other chest pain
+41,R07.9,"Chest pain, unspecified"
+42,R09.01,Asphyxia
+43,R09.02,Hypoxemia
+44,R09.1,Pleurisy
+45,R09.2,Respiratory arrest
+46,R09.3,Abnormal sputum
+47,R09.81,Nasal congestion
+48,R09.82,Postnasal drip
+49,R09.89,Oth symptoms and signs involving the circ and resp systems

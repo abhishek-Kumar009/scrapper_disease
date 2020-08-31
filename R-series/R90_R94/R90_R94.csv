@@ -1,0 +1,52 @@
+,category,condition
+0,R90.0,Intcrn spaceoccupying lesion found on dx imaging of cnsl
+1,R90.81,Abnormal echoencephalogram
+2,R90.82,"White matter disease, unspecified"
+3,R90.89,Oth abnormal findings on diagnostic imaging of cnsl
+4,R91.1,Solitary pulmonary nodule
+5,R91.8,Other nonspecific abnormal finding of lung field
+6,R92.0,Mammographic microcalcification found on dx imaging of brst
+7,R92.1,Mammographic calcifcn found on diagnostic imaging of breast
+8,R92.2,Inconclusive mammogram
+9,R92.8,Oth abn and inconclusive findings on dx imaging of breast
+10,R93.0,"Abnormal findings on dx imaging of skull and head, NEC"
+11,R93.1,Abnormal findings on dx imaging of heart and cor circ
+12,R93.2,Abnormal findings on dx imaging of liver and biliary tract
+13,R93.3,Abnormal findings on dx imaging of prt digestive tract
+14,R93.41,"Abn radlgc find on dx imaging renal pelv, ureter, or blddr"
+15,R93.421,Abnormal radiologic findings on dx imaging of r kidney
+16,R93.422,Abnormal radiologic findings on dx imaging of left kidney
+17,R93.429,Abnormal radiologic findings on dx imaging of unsp kidney
+18,R93.49,Abn radlgc findings on dx imaging of other urinary organs
+19,R93.5,"Abn findings on dx imaging of abd regions, inc retroperiton"
+20,R93.6,Abnormal findings on diagnostic imaging of limbs
+21,R93.7,Abnormal findings on diagnostic imaging of prt ms sys
+22,R93.811,Abnormal radiologic findings on dx imaging of right testicle
+23,R93.812,Abnormal radiologic findings on dx imaging of left testicle
+24,R93.813,"Abnormal radlgc findings on dx imaging of testicles, bi"
+25,R93.819,Abnormal radiologic findings on dx imaging of unsp testicle
+26,R93.89,Abnormal findings on dx imaging of oth body structures
+27,R93.9,Dx imaging inconclusive due to excess body fat of patient
+28,R94.01,Abnormal electroencephalogram [EEG]
+29,R94.02,Abnormal brain scan
+30,R94.09,Abnormal results of function studies of cnsl
+31,R94.110,Abnormal electrooculogram [EOG]
+32,R94.111,Abnormal electroretinogram [ERG]
+33,R94.112,Abnormal visually evoked potential [VEP]
+34,R94.113,Abnormal oculomotor study
+35,R94.118,Abnormal results of other function studies of eye
+36,R94.120,Abnormal auditory function study
+37,R94.121,Abnormal vestibular function study
+38,R94.128,Abn results of function studies of ear and oth sp senses
+39,R94.130,"Abnormal response to nerve stimulation, unspecified"
+40,R94.131,Abnormal electromyogram [EMG]
+41,R94.138,Abnormal results of function studies of prph nervous sys
+42,R94.2,Abnormal results of pulmonary function studies
+43,R94.30,"Abnormal result of cardiovascular function study, unsp"
+44,R94.31,Abnormal electrocardiogram [ECG] [EKG]
+45,R94.39,Abnormal result of other cardiovascular function study
+46,R94.4,Abnormal results of kidney function studies
+47,R94.5,Abnormal results of liver function studies
+48,R94.6,Abnormal results of thyroid function studies
+49,R94.7,Abnormal results of other endocrine function studies
+50,R94.8,Abnormal results of function studies of organs and systems

@@ -1,0 +1,20 @@
+,category,condition
+0,R47.01,Aphasia
+1,R47.02,Dysphasia
+2,R47.1,Dysarthria and anarthria
+3,R47.81,Slurred speech
+4,R47.82,Fluency disorder in conditions classified elsewhere
+5,R47.89,Other speech disturbances
+6,R47.9,Unspecified speech disturbances
+7,R48.0,Dyslexia and alexia
+8,R48.1,Agnosia
+9,R48.2,Apraxia
+10,R48.3,Visual agnosia
+11,R48.8,Other symbolic dysfunctions
+12,R48.9,Unspecified symbolic dysfunctions
+13,R49.0,Dysphonia
+14,R49.1,Aphonia
+15,R49.21,Hypernasality
+16,R49.22,Hyponasality
+17,R49.8,Other voice and resonance disorders
+18,R49.9,Unspecified voice and resonance disorder
