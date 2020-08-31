@@ -1,0 +1,485 @@
+,category,condition
+0,Z77.010,Contact with and (suspected) exposure to arsenic
+1,Z77.011,Contact with and (suspected) exposure to lead
+2,Z77.012,Contact with and (suspected) exposure to uranium
+3,Z77.018,Contact w and (suspected) exposure to oth hazardous metals
+4,Z77.020,Contact with and (suspected) exposure to aromatic amines
+5,Z77.021,Contact with and (suspected) exposure to benzene
+6,Z77.028,Contact w and exposure to oth hazardous aromatic compounds
+7,Z77.090,Contact with and (suspected) exposure to asbestos
+8,Z77.098,"Contact w and expsr to oth hazard, chiefly nonmed, chemicals"
+9,Z77.110,Contact with and (suspected) exposure to air pollution
+10,Z77.111,Contact with and (suspected) exposure to water pollution
+11,Z77.112,Contact with and (suspected) exposure to soil pollution
+12,Z77.118,Contact w and (suspected) exposure to oth environ pollution
+13,Z77.120,Contact with and (suspected) exposure to mold (toxic)
+14,Z77.121,Contact w and exposure to harmful algae and algae toxins
+15,Z77.122,Contact with and (suspected) exposure to noise
+16,Z77.123,Cntct w & expsr to radon and other naturally occur radiation
+17,Z77.128,Contact w and expsr to oth hazards in the physcl environment
+18,Z77.21,Contact w and exposure to potentially hazardous body fluids
+19,Z77.22,Cntct w and expsr to environ tobacco smoke (acute) (chronic)
+20,Z77.29,Contact with and exposure to other hazardous substances
+21,Z77.9,Oth contact w and (suspected) exposures hazardous to health
+22,Z78.0,Asymptomatic menopausal state
+23,Z78.1,Physical restraint status
+24,Z78.9,Other specified health status
+25,Z79.01,Long term (current) use of anticoagulants
+26,Z79.02,Long term (current) use of antithrombotics/antiplatelets
+27,Z79.1,Long term (current) use of nonsteroidal noninflam (NSAID)
+28,Z79.2,Long term (current) use of antibiotics
+29,Z79.3,Long term (current) use of hormonal contraceptives
+30,Z79.4,Long term (current) use of insulin
+31,Z79.51,Long term (current) use of inhaled steroids
+32,Z79.52,Long term (current) use of systemic steroids
+33,Z79.810,Lng trm (crnt) use of slctv estrog receptor modulators
+34,Z79.811,Long term (current) use of aromatase inhibitors
+35,Z79.818,Lng trm (crnt) use of agnt aff estrog recpt & estrog levels
+36,Z79.82,Long term (current) use of aspirin
+37,Z79.83,Long term (current) use of bisphosphonates
+38,Z79.84,Long term (current) use of oral hypoglycemic drugs
+39,Z79.890,Hormone replacement therapy
+40,Z79.891,Long term (current) use of opiate analgesic
+41,Z79.899,Other long term (current) drug therapy
+42,Z80.0,Family history of malignant neoplasm of digestive organs
+43,Z80.1,"Family history of malig neoplasm of trachea, bronc and lung"
+44,Z80.2,Family hx of malig neoplm of resp and intrathorac organs
+45,Z80.3,Family history of malignant neoplasm of breast
+46,Z80.41,Family history of malignant neoplasm of ovary
+47,Z80.42,Family history of malignant neoplasm of prostate
+48,Z80.43,Family history of malignant neoplasm of testis
+49,Z80.49,Family history of malignant neoplasm of other genital organs
+50,Z80.51,Family history of malignant neoplasm of kidney
+51,Z80.52,Family history of malignant neoplasm of bladder
+52,Z80.59,Family history of malignant neoplasm of urinary tract organ
+53,Z80.6,Family history of leukemia
+54,Z80.7,"Fam hx of malig neoplm of lymphoid, hematpoetc and rel tiss"
+55,Z80.8,Family history of malignant neoplasm of organs or systems
+56,Z80.9,"Family history of malignant neoplasm, unspecified"
+57,Z81.0,Family history of intellectual disabilities
+58,Z81.1,Family history of alcohol abuse and dependence
+59,Z81.2,Family history of tobacco abuse and dependence
+60,Z81.3,Family history of psychoactv substance abuse and dependence
+61,Z81.4,Family history of other substance abuse and dependence
+62,Z81.8,Family history of other mental and behavioral disorders
+63,Z82.0,Family history of epilepsy and oth dis of the nervous sys
+64,Z82.1,Family history of blindness and visual loss
+65,Z82.2,Family history of deafness and hearing loss
+66,Z82.3,Family history of stroke
+67,Z82.41,Family history of sudden cardiac death
+68,Z82.49,Family hx of ischem heart dis and oth dis of the circ sys
+69,Z82.5,Family history of asthma and oth chronic lower resp diseases
+70,Z82.61,Family history of arthritis
+71,Z82.62,Family history of osteoporosis
+72,Z82.69,Family history of diseases of the ms sys and connective tiss
+73,Z82.71,Family history of polycystic kidney
+74,Z82.79,"Fam hx of congen malform, deformations and chromsoml abnlt"
+75,Z82.8,"Family hx of disabil and chr dis leading to disablement, NEC"
+76,Z83.0,Family history of human immunodeficiency virus [HIV] disease
+77,Z83.1,Family history of other infectious and parasitic diseases
+78,Z83.2,Family history of dis of the bld/bldform org/immun mechnsm
+79,Z83.3,Family history of diabetes mellitus
+80,Z83.41,Family history of multiple endocrine neoplasia syndrome
+81,Z83.42,Family history of familial hypercholesterolemia
+82,Z83.430,Family history of elevated lipoprotein(a)
+83,Z83.438,Fam hx of disord of lipoprotein metab and other lipidemia
+84,Z83.49,"Family history of endo, nutritional and metabolic diseases"
+85,Z83.511,Family history of glaucoma
+86,Z83.518,Family history of other specified eye disorder
+87,Z83.52,Family history of ear disorders
+88,Z83.6,Family history of other diseases of the respiratory system
+89,Z83.71,Family history of colonic polyps
+90,Z83.79,Family history of other diseases of the digestive system
+91,Z84.0,"Family history of diseases of the skin, subcu"
+92,Z84.1,Family history of disorders of kidney and ureter
+93,Z84.2,Family history of other diseases of the genitourinary system
+94,Z84.3,Family history of consanguinity
+95,Z84.81,Family history of carrier of genetic disease
+96,Z84.82,Family history of sudden infant death syndrome
+97,Z84.89,Family history of other specified conditions
+98,Z85.00,Personal history of malignant neoplasm of unsp dgstv org
+99,Z85.01,Personal history of malignant neoplasm of esophagus
+100,Z85.020,Personal history of malignant carcinoid tumor of stomach
+101,Z85.028,Personal history of other malignant neoplasm of stomach
+102,Z85.030,Personal history of malignant carcinoid tumor of lg int
+103,Z85.038,Personal history of malignant neoplasm of large intestine
+104,Z85.040,Personal history of malignant carcinoid tumor of rectum
+105,Z85.048,"Prsnl hx of malig neoplm of rectum, rectosig junct, and anus"
+106,Z85.05,Personal history of malignant neoplasm of liver
+107,Z85.060,Personal history of malignant carcinoid tumor of sm int
+108,Z85.068,Personal history of malignant neoplasm of small intestine
+109,Z85.07,Personal history of malignant neoplasm of pancreas
+110,Z85.09,Personal history of malignant neoplasm of digestive organs
+111,Z85.110,Personal history of malig carcinoid tumor of bronc and lung
+112,Z85.118,Personal history of malignant neoplasm of bronchus and lung
+113,Z85.12,Personal history of malignant neoplasm of trachea
+114,Z85.20,Personal history of malignant neoplasm of unsp resp organ
+115,Z85.21,Personal history of malignant neoplasm of larynx
+116,Z85.22,"Prsnl hx of malig neoplm of nasl cav, mid ear, & acces sinus"
+117,Z85.230,Personal history of malignant carcinoid tumor of thymus
+118,Z85.238,Personal history of other malignant neoplasm of thymus
+119,Z85.29,Prsnl history of malig neoplm of resp and intrathorac organs
+120,Z85.3,Personal history of malignant neoplasm of breast
+121,Z85.40,Prsnl history of malig neoplm of unsp female genital organ
+122,Z85.41,Personal history of malignant neoplasm of cervix uteri
+123,Z85.42,Personal history of malignant neoplasm of oth prt uterus
+124,Z85.43,Personal history of malignant neoplasm of ovary
+125,Z85.44,Personal history of malig neoplasm of female genital organs
+126,Z85.45,Personal history of malig neoplm of unsp male genital organ
+127,Z85.46,Personal history of malignant neoplasm of prostate
+128,Z85.47,Personal history of malignant neoplasm of testis
+129,Z85.48,Personal history of malignant neoplasm of epididymis
+130,Z85.49,Personal history of malig neoplasm of male genital organs
+131,Z85.50,Personal history of malig neoplm of unsp urinary tract organ
+132,Z85.51,Personal history of malignant neoplasm of bladder
+133,Z85.520,Personal history of malignant carcinoid tumor of kidney
+134,Z85.528,Personal history of other malignant neoplasm of kidney
+135,Z85.53,Personal history of malignant neoplasm of renal pelvis
+136,Z85.54,Personal history of malignant neoplasm of ureter
+137,Z85.59,Personal history of malig neoplasm of urinary tract organ
+138,Z85.6,Personal history of leukemia
+139,Z85.71,Personal history of Hodgkin lymphoma
+140,Z85.72,Personal history of nonHodgkin lymphomas
+141,Z85.79,"Prsnl hx of malig neoplm of lymphoid, hematpoetc & rel tiss"
+142,Z85.810,Personal history of malignant neoplasm of tongue
+143,Z85.818,"Prsnl hx of malig neoplm of site of lip, oral cav, & pharynx"
+144,Z85.819,"Prsnl hx of malig neoplm of unsp site lip,oral cav,& pharynx"
+145,Z85.820,Personal history of malignant melanoma of skin
+146,Z85.821,Personal history of Merkel cell carcinoma
+147,Z85.828,Personal history of other malignant neoplasm of skin
+148,Z85.830,Personal history of malignant neoplasm of bone
+149,Z85.831,Personal history of malignant neoplasm of soft tissue
+150,Z85.840,Personal history of malignant neoplasm of eye
+151,Z85.841,Personal history of malignant neoplasm of brain
+152,Z85.848,Personal history of malignant neoplasm of prt nervous tissue
+153,Z85.850,Personal history of malignant neoplasm of thyroid
+154,Z85.858,Personal history of malignant neoplasm of endocrine glands
+155,Z85.89,Personal history of malignant neoplasm of organs and systems
+156,Z85.9,"Personal history of malignant neoplasm, unspecified"
+157,Z86.000,Personal history of insitu neoplasm of breast
+158,Z86.001,Personal history of insitu neoplasm of cervix uteri
+159,Z86.002,Pers hx of insitu neoplasm of other and unsp genital organs  NEW CODE
+160,Z86.003,"Pers hx of insitu neoplm of oral cavity, esoph and stomach  NEW CODE"
+161,Z86.004,Pers hx of insitu neoplasm of other and unsp dgstv orgs  NEW CODE
+162,Z86.005,Pers hx of insitu neoplasm of middle ear and resp sys  NEW CODE
+163,Z86.006,Personal history of melanoma insitu  NEW CODE
+164,Z86.007,Personal history of insitu neoplasm of skin  NEW CODE
+165,Z86.008,Personal history of insitu neoplasm of other site
+166,Z86.010,Personal history of colonic polyps
+167,Z86.011,Personal history of benign neoplasm of the brain
+168,Z86.012,Personal history of benign carcinoid tumor
+169,Z86.018,Personal history of other benign neoplasm
+170,Z86.03,Personal history of neoplasm of uncertain behavior
+171,Z86.11,Personal history of tuberculosis
+172,Z86.12,Personal history of poliomyelitis
+173,Z86.13,Personal history of malaria
+174,Z86.14,Personal history of methicillin resis staph infection
+175,Z86.15,Personal history of latent tuberculosis infection  NEW CODE
+176,Z86.19,Personal history of other infectious and parasitic diseases
+177,Z86.2,Prsnl history of dis of the bld/bldform org/immun mechnsm
+178,Z86.31,Personal history of diabetic foot ulcer
+179,Z86.32,Personal history of gestational diabetes
+180,Z86.39,"Personal history of endo, nutritional and metabolic disease"
+181,Z86.51,Personal history of combat and operational stress reaction
+182,Z86.59,Personal history of other mental and behavioral disorders
+183,Z86.61,Personal history of infections of the central nervous system
+184,Z86.69,Personal history of dis of the nervous sys and sense organs
+185,Z86.711,Personal history of pulmonary embolism
+186,Z86.718,Personal history of other venous thrombosis and embolism
+187,Z86.72,Personal history of thrombophlebitis
+188,Z86.73,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits"
+189,Z86.74,Personal history of sudden cardiac arrest
+190,Z86.79,Personal history of other diseases of the circulatory system
+191,Z87.01,Personal history of pneumonia (recurrent)
+192,Z87.09,Personal history of other diseases of the respiratory system
+193,Z87.11,Personal history of peptic ulcer disease
+194,Z87.19,Personal history of other diseases of the digestive system
+195,Z87.2,"Personal history of diseases of the skin, subcu"
+196,Z87.310,Personal history of (healed) osteoporosis fracture
+197,Z87.311,Personal history of (healed) other pathological fracture
+198,Z87.312,Personal history of (healed) stress fracture
+199,Z87.39,Personal history of diseases of the ms sys and conn tiss
+200,Z87.410,Personal history of cervical dysplasia
+201,Z87.411,Personal history of vaginal dysplasia
+202,Z87.412,Personal history of vulvar dysplasia
+203,Z87.42,Personal history of oth diseases of the female genital tract
+204,Z87.430,Personal history of prostatic dysplasia
+205,Z87.438,Personal history of other diseases of male genital organs
+206,Z87.440,Personal history of urinary (tract) infections
+207,Z87.441,Personal history of nephrotic syndrome
+208,Z87.442,Personal history of urinary calculi
+209,Z87.448,Personal history of other diseases of urinary system
+210,Z87.51,Personal history of preterm labor
+211,Z87.59,"Personal history of comp of preg, chldbrth and the puerp"
+212,Z87.710,Personal history of (corrected) hypospadias
+213,Z87.718,Personal history of (corrected) congenital malform of GU sys
+214,Z87.720,Personal history of (corrected) congenital malform of eye
+215,Z87.721,Personal history of (corrected) congenital malform of ear
+216,Z87.728,Prsnl hx of congen malform of nervous sys and sense organs
+217,Z87.730,Personal history of (corrected) cleft lip and palate
+218,Z87.738,Personal history of congenital malform of dgstv sys
+219,Z87.74,Personal history of congenital malform of heart and circ sys
+220,Z87.75,Personal history of congenital malform of resp sys
+221,Z87.76,"Prsnl hx of congen malform of integument, limbs and ms sys"
+222,Z87.790,Personal history of congenital malform of face and neck
+223,Z87.798,Personal history of oth (corrected) congenital malformations
+224,Z87.81,Personal history of (healed) traumatic fracture
+225,Z87.820,Personal history of traumatic brain injury
+226,Z87.821,Personal history of retained foreign body fully removed
+227,Z87.828,Personal history of oth (healed) physical injury and trauma
+228,Z87.890,Personal history of sex reassignment
+229,Z87.891,Personal history of nicotine dependence
+230,Z87.892,Personal history of anaphylaxis
+231,Z87.898,Personal history of other specified conditions
+232,Z88.0,Allergy status to penicillin
+233,Z88.1,Allergy status to other antibiotic agents status
+234,Z88.2,Allergy status to sulfonamides status
+235,Z88.3,Allergy status to other antiinfective agents status
+236,Z88.4,Allergy status to anesthetic agent status
+237,Z88.5,Allergy status to narcotic agent status
+238,Z88.6,Allergy status to analgesic agent status
+239,Z88.7,Allergy status to serum and vaccine status
+240,Z88.8,Allergy status to oth drug/meds/biol subst status
+241,Z88.9,Allergy status to unsp drug/meds/biol subst status
+242,Z89.011,Acquired absence of right thumb
+243,Z89.012,Acquired absence of left thumb
+244,Z89.019,Acquired absence of unspecified thumb
+245,Z89.021,Acquired absence of right finger(s)
+246,Z89.022,Acquired absence of left finger(s)
+247,Z89.029,Acquired absence of unspecified finger(s)
+248,Z89.111,Acquired absence of right hand
+249,Z89.112,Acquired absence of left hand
+250,Z89.119,Acquired absence of unspecified hand
+251,Z89.121,Acquired absence of right wrist
+252,Z89.122,Acquired absence of left wrist
+253,Z89.129,Acquired absence of unspecified wrist
+254,Z89.201,"Acquired absence of right upper limb, unspecified level"
+255,Z89.202,"Acquired absence of left upper limb, unspecified level"
+256,Z89.209,"Acquired absence of unsp upper limb, unspecified level"
+257,Z89.211,Acquired absence of right upper limb below elbow
+258,Z89.212,Acquired absence of left upper limb below elbow
+259,Z89.219,Acquired absence of unspecified upper limb below elbow
+260,Z89.221,Acquired absence of right upper limb above elbow
+261,Z89.222,Acquired absence of left upper limb above elbow
+262,Z89.229,Acquired absence of unspecified upper limb above elbow
+263,Z89.231,Acquired absence of right shoulder
+264,Z89.232,Acquired absence of left shoulder
+265,Z89.239,Acquired absence of unspecified shoulder
+266,Z89.411,Acquired absence of right great toe
+267,Z89.412,Acquired absence of left great toe
+268,Z89.419,Acquired absence of unspecified great toe
+269,Z89.421,Acquired absence of other right toe(s)
+270,Z89.422,Acquired absence of other left toe(s)
+271,Z89.429,"Acquired absence of other toe(s), unspecified side"
+272,Z89.431,Acquired absence of right foot
+273,Z89.432,Acquired absence of left foot
+274,Z89.439,Acquired absence of unspecified foot
+275,Z89.441,Acquired absence of right ankle
+276,Z89.442,Acquired absence of left ankle
+277,Z89.449,Acquired absence of unspecified ankle
+278,Z89.511,Acquired absence of right leg below knee
+279,Z89.512,Acquired absence of left leg below knee
+280,Z89.519,Acquired absence of unspecified leg below knee
+281,Z89.521,Acquired absence of right knee
+282,Z89.522,Acquired absence of left knee
+283,Z89.529,Acquired absence of unspecified knee
+284,Z89.611,Acquired absence of right leg above knee
+285,Z89.612,Acquired absence of left leg above knee
+286,Z89.619,Acquired absence of unspecified leg above knee
+287,Z89.621,Acquired absence of right hip joint
+288,Z89.622,Acquired absence of left hip joint
+289,Z89.629,Acquired absence of unspecified hip joint
+290,Z89.9,"Acquired absence of limb, unspecified"
+291,Z90.01,Acquired absence of eye
+292,Z90.02,Acquired absence of larynx
+293,Z90.09,Acquired absence of other part of head and neck
+294,Z90.10,Acquired absence of unspecified breast and nipple
+295,Z90.11,Acquired absence of right breast and nipple
+296,Z90.12,Acquired absence of left breast and nipple
+297,Z90.13,Acquired absence of bilateral breasts and nipples
+298,Z90.2,Acquired absence of lung [part of]
+299,Z90.3,Acquired absence of stomach [part of]
+300,Z90.410,Acquired total absence of pancreas
+301,Z90.411,Acquired partial absence of pancreas
+302,Z90.49,Acquired absence of other specified parts of digestive tract
+303,Z90.5,Acquired absence of kidney
+304,Z90.6,Acquired absence of other parts of urinary tract
+305,Z90.710,Acquired absence of both cervix and uterus
+306,Z90.711,Acquired absence of uterus with remaining cervical stump
+307,Z90.712,Acquired absence of cervix with remaining uterus
+308,Z90.721,"Acquired absence of ovaries, unilateral"
+309,Z90.722,"Acquired absence of ovaries, bilateral"
+310,Z90.79,Acquired absence of other genital organ(s)
+311,Z90.81,Acquired absence of spleen
+312,Z90.89,Acquired absence of other organs
+313,Z91.010,Allergy to peanuts
+314,Z91.011,Allergy to milk products
+315,Z91.012,Allergy to eggs
+316,Z91.013,Allergy to seafood
+317,Z91.018,Allergy to other foods
+318,Z91.02,Food additives allergy status
+319,Z91.030,Bee allergy status
+320,Z91.038,Other insect allergy status
+321,Z91.040,Latex allergy status
+322,Z91.041,Radiographic dye allergy status
+323,Z91.048,Other nonmedicinal substance allergy status
+324,Z91.09,"Oth allergy status, oth than to drugs and biolg substances"
+325,Z91.11,Patient's noncompliance with dietary regimen
+326,Z91.120,Pt intentl undrdose of meds regimen due to financl hardship
+327,Z91.128,Patient's intentl undrdose of meds regimen for oth reason
+328,Z91.130,Pt unintent undrdose of meds regimen due to agerel debility
+329,Z91.138,Patient's unintent undrdose of meds regimen for oth reason
+330,Z91.14,Patient's other noncompliance with medication regimen
+331,Z91.15,Patient's noncompliance with renal dialysis
+332,Z91.19,Patient's noncompliance w oth medical treatment and regimen
+333,Z91.410,Personal history of adult physical and sexual abuse
+334,Z91.411,Personal history of adult psychological abuse
+335,Z91.412,Personal history of adult neglect
+336,Z91.419,Personal history of unspecified adult abuse
+337,Z91.42,Personal history of forced labor or sexual exploitation
+338,Z91.49,"Oth personal history of psychological trauma, NEC"
+339,Z91.5,Personal history of selfharm
+340,Z91.81,History of falling
+341,Z91.82,Personal history of military deployment
+342,Z91.83,Wandering in diseases classified elsewhere
+343,Z91.841,"Risk for dental caries, low"
+344,Z91.842,"Risk for dental caries, moderate"
+345,Z91.843,"Risk for dental caries, high"
+346,Z91.849,Unspecified risk for dental caries
+347,Z91.89,"Oth personal risk factors, not elsewhere classified"
+348,Z92.0,Personal history of contraception
+349,Z92.21,Personal history of antineoplastic chemotherapy
+350,Z92.22,Personal history of monoclonal drug therapy
+351,Z92.23,Personal history of estrogen therapy
+352,Z92.240,Personal history of inhaled steroid therapy
+353,Z92.241,Personal history of systemic steroid therapy
+354,Z92.25,Personal history of immunosupression therapy
+355,Z92.29,Personal history of other drug therapy
+356,Z92.3,Personal history of irradiation
+357,Z92.81,Prsnl history of extracorporeal membrane oxygenation (ECMO)
+358,Z92.82,S/p admn tPA in diff fac w/n last 24 hr bef adm to crnt fac
+359,Z92.83,Personal history of failed moderate sedation
+360,Z92.84,Pers hx of unintended awareness under general anesthesia
+361,Z92.89,Personal history of other medical treatment
+362,Z93.0,Tracheostomy status
+363,Z93.1,Gastrostomy status
+364,Z93.2,Ileostomy status
+365,Z93.3,Colostomy status
+366,Z93.4,Other artificial openings of gastrointestinal tract status
+367,Z93.50,Unspecified cystostomy status
+368,Z93.51,Cutaneousvesicostomy status
+369,Z93.52,Appendicovesicostomy status
+370,Z93.59,Other cystostomy status
+371,Z93.6,Other artificial openings of urinary tract status
+372,Z93.8,Other artificial opening status
+373,Z93.9,"Artificial opening status, unspecified"
+374,Z94.0,Kidney transplant status
+375,Z94.1,Heart transplant status
+376,Z94.2,Lung transplant status
+377,Z94.3,Heart and lungs transplant status
+378,Z94.4,Liver transplant status
+379,Z94.5,Skin transplant status
+380,Z94.6,Bone transplant status
+381,Z94.7,Corneal transplant status
+382,Z94.81,Bone marrow transplant status
+383,Z94.82,Intestine transplant status
+384,Z94.83,Pancreas transplant status
+385,Z94.84,Stem cells transplant status
+386,Z94.89,Other transplanted organ and tissue status
+387,Z94.9,"Transplanted organ and tissue status, unspecified"
+388,Z95.0,Presence of cardiac pacemaker
+389,Z95.1,Presence of aortocoronary bypass graft
+390,Z95.2,Presence of prosthetic heart valve
+391,Z95.3,Presence of xenogenic heart valve
+392,Z95.4,Presence of other heartvalve replacement
+393,Z95.5,Presence of coronary angioplasty implant and graft
+394,Z95.810,Presence of automatic (implantable) cardiac defibrillator
+395,Z95.811,Presence of heart assist device
+396,Z95.812,Presence of fully implantable artificial heart
+397,Z95.818,Presence of other cardiac implants and grafts
+398,Z95.820,Peripheral vascular angioplasty status w implants and grafts
+399,Z95.828,Presence of other vascular implants and grafts
+400,Z95.9,"Presence of cardiac and vascular implant and graft, unsp"
+401,Z96.0,Presence of urogenital implants
+402,Z96.1,Presence of intraocular lens
+403,Z96.20,"Presence of otological and audiological implant, unspecified"
+404,Z96.21,Cochlear implant status
+405,Z96.22,Myringotomy tube(s) status
+406,Z96.29,Presence of other otological and audiological implants
+407,Z96.3,Presence of artificial larynx
+408,Z96.41,Presence of insulin pump (external) (internal)
+409,Z96.49,Presence of other endocrine implants
+410,Z96.5,Presence of toothroot and mandibular implants
+411,Z96.60,Presence of unspecified orthopedic joint implant
+412,Z96.611,Presence of right artificial shoulder joint
+413,Z96.612,Presence of left artificial shoulder joint
+414,Z96.619,Presence of unspecified artificial shoulder joint
+415,Z96.621,Presence of right artificial elbow joint
+416,Z96.622,Presence of left artificial elbow joint
+417,Z96.629,Presence of unspecified artificial elbow joint
+418,Z96.631,Presence of right artificial wrist joint
+419,Z96.632,Presence of left artificial wrist joint
+420,Z96.639,Presence of unspecified artificial wrist joint
+421,Z96.641,Presence of right artificial hip joint
+422,Z96.642,Presence of left artificial hip joint
+423,Z96.643,"Presence of artificial hip joint, bilateral"
+424,Z96.649,Presence of unspecified artificial hip joint
+425,Z96.651,Presence of right artificial knee joint
+426,Z96.652,Presence of left artificial knee joint
+427,Z96.653,"Presence of artificial knee joint, bilateral"
+428,Z96.659,Presence of unspecified artificial knee joint
+429,Z96.661,Presence of right artificial ankle joint
+430,Z96.662,Presence of left artificial ankle joint
+431,Z96.669,Presence of unspecified artificial ankle joint
+432,Z96.691,Fingerjoint replacement of right hand
+433,Z96.692,Fingerjoint replacement of left hand
+434,Z96.693,"Fingerjoint replacement, bilateral"
+435,Z96.698,Presence of other orthopedic joint implants
+436,Z96.7,Presence of other bone and tendon implants
+437,Z96.81,Presence of artificial skin
+438,Z96.82,Presence of neurostimulator  NEW CODE
+439,Z96.89,Presence of other specified functional implants
+440,Z96.9,"Presence of functional implant, unspecified"
+441,Z97.0,Presence of artificial eye
+442,Z97.10,"Presence of artificial limb (complete) (partial), unsp"
+443,Z97.11,Presence of artificial right arm (complete) (partial)
+444,Z97.12,Presence of artificial left arm (complete) (partial)
+445,Z97.13,Presence of artificial right leg (complete) (partial)
+446,Z97.14,Presence of artificial left leg (complete) (partial)
+447,Z97.15,"Presence of artificial arms, bilateral (complete) (partial)"
+448,Z97.16,"Presence of artificial legs, bilateral (complete) (partial)"
+449,Z97.2,Presence of dental prosthetic device (complete) (partial)
+450,Z97.3,Presence of spectacles and contact lenses
+451,Z97.4,Presence of external hearingaid
+452,Z97.5,Presence of (intrauterine) contraceptive device
+453,Z97.8,Presence of other specified devices
+454,Z98.0,Intestinal bypass and anastomosis status
+455,Z98.1,Arthrodesis status
+456,Z98.2,Presence of cerebrospinal fluid drainage device
+457,Z98.3,Post therapeutic collapse of lung status
+458,Z98.41,"Cataract extraction status, right eye"
+459,Z98.42,"Cataract extraction status, left eye"
+460,Z98.49,"Cataract extraction status, unspecified eye"
+461,Z98.51,Tubal ligation status
+462,Z98.52,Vasectomy status
+463,Z98.61,Coronary angioplasty status
+464,Z98.62,Peripheral vascular angioplasty status
+465,Z98.810,Dental sealant status
+466,Z98.811,Dental restoration status
+467,Z98.818,Other dental procedure status
+468,Z98.82,Breast implant status
+469,Z98.83,Filtering (vitreous) bleb after glaucoma surgery status
+470,Z98.84,Bariatric surgery status
+471,Z98.85,Transplanted organ removal status
+472,Z98.86,Personal history of breast implant removal
+473,Z98.870,Personal history of in utero procedure during pregnancy
+474,Z98.871,Personal history of in utero procedure while a fetus
+475,Z98.890,Other specified postprocedural states
+476,Z98.891,History of uterine scar from previous surgery
+477,Z99.0,Dependence on aspirator
+478,Z99.11,Dependence on respirator [ventilator] status
+479,Z99.12,Encounter for respirator dependence during power failure
+480,Z99.2,Dependence on renal dialysis
+481,Z99.3,Dependence on wheelchair
+482,Z99.81,Dependence on supplemental oxygen
+483,Z99.89,Dependence on other enabling machines and devices

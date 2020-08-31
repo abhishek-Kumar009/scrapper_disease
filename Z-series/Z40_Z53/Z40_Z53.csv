@@ -1,0 +1,162 @@
+,category,condition
+0,Z40.00,Encounter for prophylactic removal of unspecified organ
+1,Z40.01,Encounter for prophylactic removal of breast
+2,Z40.02,Encounter for prophylactic removal of ovary(s)
+3,Z40.03,Encounter for prophylactic removal of fallopian tube(s)
+4,Z40.09,Encounter for prophylactic removal of other organ
+5,Z40.8,Encounter for other prophylactic surgery
+6,Z40.9,"Encounter for prophylactic surgery, unspecified"
+7,Z41.1,Encounter for cosmetic surgery
+8,Z41.2,Encounter for routine and ritual male circumcision
+9,Z41.3,Encounter for ear piercing
+10,Z41.8,Encntr for oth proc for purpose oth than remedy health state
+11,Z41.9,"Encntr for proc for purpose oth than remedy hlth state, unsp"
+12,Z42.1,Encounter for breast reconstruction following mastectomy
+13,Z42.8,Encntr for oth plast/recnst surg fol med proc or heal injury
+14,Z43.0,Encounter for attention to tracheostomy
+15,Z43.1,Encounter for attention to gastrostomy
+16,Z43.2,Encounter for attention to ileostomy
+17,Z43.3,Encounter for attention to colostomy
+18,Z43.4,Encounter for attn to oth artif openings of digestive tract
+19,Z43.5,Encounter for attention to cystostomy
+20,Z43.6,Encounter for attn to oth artif openings of urinary tract
+21,Z43.7,Encounter for attention to artificial vagina
+22,Z43.8,Encounter for attention to other artificial openings
+23,Z43.9,Encounter for attention to unspecified artificial opening
+24,Z44.001,Encounter for fit/adjst of unsp right artificial arm
+25,Z44.002,Encounter for fit/adjst of unsp left artificial arm
+26,Z44.009,"Encounter for fit/adjst of unsp artificial arm, unsp arm"
+27,Z44.011,Encounter for fit/adjst of complete right artificial arm
+28,Z44.012,Encounter for fit/adjst of complete left artificial arm
+29,Z44.019,"Encounter for fit/adjst of complete artificial arm, unsp arm"
+30,Z44.021,Encounter for fit/adjst of partial artificial right arm
+31,Z44.022,Encounter for fit/adjst of partial artificial left arm
+32,Z44.029,"Encounter for fit/adjst of partial artificial arm, unsp arm"
+33,Z44.101,Encounter for fit/adjst of unsp right artificial leg
+34,Z44.102,Encounter for fit/adjst of unsp left artificial leg
+35,Z44.109,"Encounter for fit/adjst of unsp artificial leg, unsp leg"
+36,Z44.111,Encounter for fit/adjst of complete right artificial leg
+37,Z44.112,Encounter for fit/adjst of complete left artificial leg
+38,Z44.119,"Encounter for fit/adjst of complete artificial leg, unsp leg"
+39,Z44.121,Encounter for fit/adjst of partial artificial right leg
+40,Z44.122,Encounter for fit/adjst of partial artificial left leg
+41,Z44.129,"Encounter for fit/adjst of partial artificial leg, unsp leg"
+42,Z44.20,"Encounter for fitting and adjustment of artificial eye, unsp"
+43,Z44.21,Encounter for fitting and adjustment of artificial right eye
+44,Z44.22,Encounter for fitting and adjustment of artificial left eye
+45,Z44.30,"Encntr for fit/adjst of external breast prosth, unsp breast"
+46,Z44.31,Encounter for fit/adjst of external right breast prosthesis
+47,Z44.32,Encounter for fit/adjst of external left breast prosthesis
+48,Z44.8,Encounter for fit/adjst of external prosthetic devices
+49,Z44.9,Encounter for fit/adjst of unsp external prosthetic device
+50,Z45.010,Encntr for checking and test of card pacemaker pulse gnrtr
+51,Z45.018,Encounter for adjust and mgmt oth prt cardiac pacemaker
+52,Z45.02,Encntr for adjust and mgmt of automatic implntbl card defib
+53,Z45.09,Encounter for adjustment and management of cardiac device
+54,Z45.1,Encounter for adjustment and management of infusion pump
+55,Z45.2,Encounter for adjustment and management of VAD
+56,Z45.31,Encntr for adjust and mgmt of implnt visual substitution dev
+57,Z45.320,Encounter for adjust and mgmt of bone conduction device
+58,Z45.321,Encounter for adjustment and management of cochlear device
+59,Z45.328,Encounter for adjust and management of implanted hear dev
+60,Z45.41,Encounter for adjustment and management of CSF drain dev
+61,Z45.42,Encounter for adjustment and management of neurostimulator  UPDATED CODE
+62,Z45.49,Encntr for adjust and mgmt of implanted nervous sys device
+63,Z45.811,Encounter for adjustment or removal of right breast implant
+64,Z45.812,Encounter for adjustment or removal of left breast implant
+65,Z45.819,Encounter for adjustment or removal of unsp breast implant
+66,Z45.82,Encntr for adjust or removal of myringotomy device (tube)
+67,Z45.89,Encounter for adjustment and management of implanted devices
+68,Z45.9,Encounter for adjust and management of unsp implanted device
+69,Z46.0,Encounter for fit/adjst of spectacles and contact lenses
+70,Z46.1,Encounter for fitting and adjustment of hearing aid
+71,Z46.2,Encntr for fit/adjst of dev rel to nrv sys and specl senses
+72,Z46.3,Encounter for fit/adjst of dental prosthetic device
+73,Z46.4,Encounter for fitting and adjustment of orthodontic device
+74,Z46.51,Encounter for fitting and adjustment of gastric lap band
+75,Z46.59,Encounter for fit/adjst of GI appliance and device
+76,Z46.6,Encounter for fitting and adjustment of urinary device
+77,Z46.81,Encounter for fitting and adjustment of insulin pump
+78,Z46.82,Encounter for fit/adjst of nonvascular catheter
+79,Z46.89,Encounter for fitting and adjustment of oth devices
+80,Z46.9,Encounter for fitting and adjustment of unspecified device
+81,Z47.1,Aftercare following joint replacement surgery
+82,Z47.2,Encounter for removal of internal fixation device
+83,Z47.31,Aftercare following explantation of shoulder jt prosthesis
+84,Z47.32,Aftercare following explantation of hip joint prosthesis
+85,Z47.33,Aftercare following explantation of knee joint prosthesis
+86,Z47.81,Encounter for orthopedic aftercare following surgical amp
+87,Z47.82,Encounter for orth aftercare following scoliosis surgery
+88,Z47.89,Encounter for other orthopedic aftercare
+89,Z48.00,Encounter for change or removal of nonsurg wound dressing
+90,Z48.01,Encounter for change or removal of surgical wound dressing
+91,Z48.02,Encounter for removal of sutures
+92,Z48.03,Encounter for change or removal of drains
+93,Z48.1,Encounter for planned postprocedural wound closure
+94,Z48.21,Encounter for aftercare following heart transplant
+95,Z48.22,Encounter for aftercare following kidney transplant
+96,Z48.23,Encounter for aftercare following liver transplant
+97,Z48.24,Encounter for aftercare following lung transplant
+98,Z48.280,Encounter for aftercare following heartlung transplant
+99,Z48.288,Encounter for aftercare following multiple organ transplant
+100,Z48.290,Encounter for aftercare following bone marrow transplant
+101,Z48.298,Encounter for aftercare following other organ transplant
+102,Z48.3,Aftercare following surgery for neoplasm
+103,Z48.810,Encntr for surgical aftcr fol surgery on the sense organs
+104,Z48.811,Encntr for surgical aftcr fol surgery on the nervous sys
+105,Z48.812,Encntr for surgical aftcr following surgery on the circ sys
+106,Z48.813,Encntr for surgical aftcr following surgery on the resp sys
+107,Z48.814,Encntr for surg aftcr fol surg on the teeth or oral cavity
+108,Z48.815,Encntr for surgical aftcr following surgery on the dgstv sys
+109,Z48.816,Encounter for surgical aftcr following surgery on the GU sys
+110,Z48.817,"Encntr for surgical aftcr fol surgery on the skin, subcu"
+111,Z48.89,Encounter for other specified surgical aftercare
+112,Z49.01,Encounter for fit/adjst of extracorporeal dialysis catheter
+113,Z49.02,Encounter for fit/adjst of peritoneal dialysis catheter
+114,Z49.31,Encounter for adequacy testing for hemodialysis
+115,Z49.32,Encounter for adequacy testing for peritoneal dialysis
+116,Z51.0,Encounter for antineoplastic radiation therapy
+117,Z51.11,Encounter for antineoplastic chemotherapy
+118,Z51.12,Encounter for antineoplastic immunotherapy
+119,Z51.5,Encounter for palliative care
+120,Z51.6,Encounter for desensitization to allergens
+121,Z51.81,Encounter for therapeutic drug level monitoring
+122,Z51.89,Encounter for other specified aftercare
+123,Z52.000,"Unspecified donor, whole blood"
+124,Z52.001,"Unspecified donor, stem cells"
+125,Z52.008,"Unspecified donor, other blood"
+126,Z52.010,"Autologous donor, whole blood"
+127,Z52.011,"Autologous donor, stem cells"
+128,Z52.018,"Autologous donor, other blood"
+129,Z52.090,"Other blood donor, whole blood"
+130,Z52.091,"Other blood donor, stem cells"
+131,Z52.098,"Other blood donor, other blood"
+132,Z52.10,"Skin donor, unspecified"
+133,Z52.11,"Skin donor, autologous"
+134,Z52.19,"Skin donor, other"
+135,Z52.20,"Bone donor, unspecified"
+136,Z52.21,"Bone donor, autologous"
+137,Z52.29,"Bone donor, other"
+138,Z52.3,Bone marrow donor
+139,Z52.4,Kidney donor
+140,Z52.5,Cornea donor
+141,Z52.6,Liver donor
+142,Z52.810,"Egg (Oocyte) donor under age 35, anonymous recipient"
+143,Z52.811,"Egg (Oocyte) donor under age 35, designated recipient"
+144,Z52.812,"Egg (Oocyte) donor age 35 and over, anonymous recipient"
+145,Z52.813,"Egg (Oocyte) donor age 35 and over, designated recipient"
+146,Z52.819,"Egg (Oocyte) donor, unspecified"
+147,Z52.89,Donor of other specified organs or tissues
+148,Z52.9,Donor of unspecified organ or tissue
+149,Z53.01,Proc/trtmt not carried out due to patient smoking
+150,Z53.09,Proc/trtmt not carried out because of contraindication
+151,Z53.1,Proc/trtmt not crd out bec pt belief and group pressure
+152,Z53.20,Proc/trtmt not crd out bec pt decision for unsp reasons
+153,Z53.21,Proc/trtmt not crd out d/t pt lv bef seen by hlth care prov
+154,Z53.29,Proc/trtmt not crd out bec pt decision for oth reasons
+155,Z53.31,Laparoscopic surgical procedure converted to open procedure
+156,Z53.32,Thoracoscopic surgical procedure converted to open procedure
+157,Z53.33,Arthroscopic surgical procedure converted to open procedure
+158,Z53.39,Other specified procedure converted to open procedure
+159,Z53.8,Procedure and treatment not carried out for other reasons
+160,Z53.9,"Procedure and treatment not carried out, unspecified reason"

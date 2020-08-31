@@ -1,0 +1,161 @@
+,category,condition
+0,Z30.011,Encounter for initial prescription of contraceptive pills
+1,Z30.012,Encounter for prescription of emergency contraception
+2,Z30.013,Encounter for initial prescription of injectable contracep
+3,Z30.014,Encounter for initial prescription of uterin contracep dev
+4,Z30.015,Encounter for initial prescription of vagnl ring
+5,Z30.016,Enctr for init prescription of patch hormonal contracep dev
+6,Z30.017,Enctr for init prescription of implntbl subdermal contracep
+7,Z30.018,Encounter for initial prescription of other contraceptives
+8,Z30.019,"Encounter for initial prescription of contraceptives, unsp"
+9,Z30.02,Cnsl and instruction in natrl family planning to avoid preg
+10,Z30.09,Encounter for oth general cnsl and advice on contraception
+11,Z30.2,Encounter for sterilization
+12,Z30.40,"Encounter for surveillance of contraceptives, unspecified"
+13,Z30.41,Encounter for surveillance of contraceptive pills
+14,Z30.42,Encounter for surveillance of injectable contraceptive
+15,Z30.430,Encounter for insertion of intrauterine contraceptive device
+16,Z30.431,Encounter for routine checking of intrauterine contracep dev
+17,Z30.432,Encounter for removal of intrauterine contraceptive device
+18,Z30.433,Encntr for removal and reinsertion of uterin contracep dev
+19,Z30.44,Encounter for surveillance of vagnl ring
+20,Z30.45,Enctr srvlnc transdermal patch hormonal contraceptive device
+21,Z30.46,Enctr srvlnc implantable subdermal contraceptive
+22,Z30.49,Encounter for surveillance of other contraceptives
+23,Z30.8,Encounter for other contraceptive management
+24,Z30.9,"Encounter for contraceptive management, unspecified"
+25,Z31.0,Encounter for reversal of previous sterilization
+26,Z31.41,Encounter for fertility testing
+27,Z31.42,Aftercare following sterilization reversal
+28,Z31.430,Encntr fem for test for genetc dis carrier stat for pro mgmt
+29,Z31.438,Encounter for oth genetic testing of female for pro mgmt
+30,Z31.440,Encntr male test for genetic dis carrier status for pro mgmt
+31,Z31.441,Encntr for testing of male prtnr of pt w recur preg loss
+32,Z31.448,Encounter for oth genetic testing of male for pro mgmt
+33,Z31.49,Encounter for other procreative investigation and testing
+34,Z31.5,Encounter for procreative genetic counseling
+35,Z31.61,Procreat counseling and advice using natural family planning
+36,Z31.62,Encounter for fertility preservation counseling
+37,Z31.69,Encounter for oth general cnsl and advice on procreation
+38,Z31.7,Enctr for pro mgmt and counseling for gestational carrier
+39,Z31.81,Encounter for male factor infertility in female patient
+40,Z31.82,Encounter for Rh incompatibility status
+41,Z31.83,Encounter for assisted reprodctv fertility procedure cycle
+42,Z31.84,Encounter for fertility preservation procedure
+43,Z31.89,Encounter for other procreative management
+44,Z31.9,"Encounter for procreative management, unspecified"
+45,Z32.00,"Encounter for pregnancy test, result unknown"
+46,Z32.01,"Encounter for pregnancy test, result positive"
+47,Z32.02,"Encounter for pregnancy test, result negative"
+48,Z32.2,Encounter for childbirth instruction
+49,Z32.3,Encounter for childcare instruction
+50,Z33.1,"Pregnant state, incidental"
+51,Z33.2,Encounter for elective termination of pregnancy
+52,Z33.3,"Pregnant state, gestational carrier"
+53,Z34.00,"Encntr for suprvsn of normal first pregnancy, unsp trimester"
+54,Z34.01,"Encntr for suprvsn of normal first preg, first trimester"
+55,Z34.02,"Encntr for suprvsn of normal first preg, second trimester"
+56,Z34.03,"Encntr for suprvsn of normal first preg, third trimester"
+57,Z34.80,"Encounter for suprvsn of normal pregnancy, unsp trimester"
+58,Z34.81,"Encounter for suprvsn of normal pregnancy, first trimester"
+59,Z34.82,"Encounter for suprvsn of normal pregnancy, second trimester"
+60,Z34.83,"Encounter for suprvsn of normal pregnancy, third trimester"
+61,Z34.90,"Encntr for suprvsn of normal pregnancy, unsp, unsp trimester"
+62,Z34.91,"Encntr for suprvsn of normal preg, unsp, first trimester"
+63,Z34.92,"Encntr for suprvsn of normal preg, unsp, second trimester"
+64,Z34.93,"Encntr for suprvsn of normal preg, unsp, third trimester"
+65,Z36.0,Encounter for antenatal screening for chromosomal anomalies
+66,Z36.1,Enctr for antenat screen for raised alphafetoprotein level
+67,Z36.2,Encounter for other antenatal screening followup
+68,Z36.3,Encounter for antenatal screening for malformations
+69,Z36.4,Enctr for antenatal screening for fetal growth retardation
+70,Z36.5,Encounter for antenatal screening for isoimmunization
+71,Z36.81,Encounter for antenatal screening for hydrops fetalis
+72,Z36.82,Encounter for antenatal screening for nuchal translucency
+73,Z36.83,Encounter for fetal screening for congenital cardiac abnlt
+74,Z36.84,Encounter for antenatal screening for fetal lung maturity
+75,Z36.85,Encounter for antenatal screening for Streptococcus B
+76,Z36.86,Encounter for antenatal screening for cervical length
+77,Z36.87,Encounter for antenatal screening for uncertain dates
+78,Z36.88,Encounter for antenatal screening for fetal macrosomia
+79,Z36.89,Encounter for other specified antenatal screening
+80,Z36.8A,Encounter for antenatal screening for other genetic defects
+81,Z36.9,"Encounter for antenatal screening, unspecified"
+82,Z37.0,Single live birth
+83,Z37.1,Single stillbirth
+84,Z37.2,"Twins, both liveborn"
+85,Z37.3,"Twins, one liveborn and one stillborn"
+86,Z37.4,"Twins, both stillborn"
+87,Z37.50,"Multiple births, unspecified, all liveborn"
+88,Z37.51,"Triplets, all liveborn"
+89,Z37.52,"Quadruplets, all liveborn"
+90,Z37.53,"Quintuplets, all liveborn"
+91,Z37.54,"Sextuplets, all liveborn"
+92,Z37.59,"Other multiple births, all liveborn"
+93,Z37.60,"Multiple births, unspecified, some liveborn"
+94,Z37.61,"Triplets, some liveborn"
+95,Z37.62,"Quadruplets, some liveborn"
+96,Z37.63,"Quintuplets, some liveborn"
+97,Z37.64,"Sextuplets, some liveborn"
+98,Z37.69,"Other multiple births, some liveborn"
+99,Z37.7,"Other multiple births, all stillborn"
+100,Z37.9,"Outcome of delivery, unspecified"
+101,Z38.00,"Single liveborn infant, delivered vaginally"
+102,Z38.01,"Single liveborn infant, delivered by cesarean"
+103,Z38.1,"Single liveborn infant, born outside hospital"
+104,Z38.2,"Single liveborn infant, unspecified as to place of birth"
+105,Z38.30,"Twin liveborn infant, delivered vaginally"
+106,Z38.31,"Twin liveborn infant, delivered by cesarean"
+107,Z38.4,"Twin liveborn infant, born outside hospital"
+108,Z38.5,"Twin liveborn infant, unspecified as to place of birth"
+109,Z38.61,"Triplet liveborn infant, delivered vaginally"
+110,Z38.62,"Triplet liveborn infant, delivered by cesarean"
+111,Z38.63,"Quadruplet liveborn infant, delivered vaginally"
+112,Z38.64,"Quadruplet liveborn infant, delivered by cesarean"
+113,Z38.65,"Quintuplet liveborn infant, delivered vaginally"
+114,Z38.66,"Quintuplet liveborn infant, delivered by cesarean"
+115,Z38.68,"Other multiple liveborn infant, delivered vaginally"
+116,Z38.69,"Other multiple liveborn infant, delivered by cesarean"
+117,Z38.7,"Other multiple liveborn infant, born outside hospital"
+118,Z38.8,"Other multiple liveborn infant, unsp as to place of birth"
+119,Z39.0,Encntr for care and exam of mother immediately after del
+120,Z39.1,Encounter for care and examination of lactating mother
+121,Z39.2,Encounter for routine postpartum followup
+122,Z3A.00,Weeks of gestation of pregnancy not specified
+123,Z3A.01,Less than 8 weeks gestation of pregnancy
+124,Z3A.08,8 weeks gestation of pregnancy
+125,Z3A.09,9 weeks gestation of pregnancy
+126,Z3A.10,10 weeks gestation of pregnancy
+127,Z3A.11,11 weeks gestation of pregnancy
+128,Z3A.12,12 weeks gestation of pregnancy
+129,Z3A.13,13 weeks gestation of pregnancy
+130,Z3A.14,14 weeks gestation of pregnancy
+131,Z3A.15,15 weeks gestation of pregnancy
+132,Z3A.16,16 weeks gestation of pregnancy
+133,Z3A.17,17 weeks gestation of pregnancy
+134,Z3A.18,18 weeks gestation of pregnancy
+135,Z3A.19,19 weeks gestation of pregnancy
+136,Z3A.20,20 weeks gestation of pregnancy
+137,Z3A.21,21 weeks gestation of pregnancy
+138,Z3A.22,22 weeks gestation of pregnancy
+139,Z3A.23,23 weeks gestation of pregnancy
+140,Z3A.24,24 weeks gestation of pregnancy
+141,Z3A.25,25 weeks gestation of pregnancy
+142,Z3A.26,26 weeks gestation of pregnancy
+143,Z3A.27,27 weeks gestation of pregnancy
+144,Z3A.28,28 weeks gestation of pregnancy
+145,Z3A.29,29 weeks gestation of pregnancy
+146,Z3A.30,30 weeks gestation of pregnancy
+147,Z3A.31,31 weeks gestation of pregnancy
+148,Z3A.32,32 weeks gestation of pregnancy
+149,Z3A.33,33 weeks gestation of pregnancy
+150,Z3A.34,34 weeks gestation of pregnancy
+151,Z3A.35,35 weeks gestation of pregnancy
+152,Z3A.36,36 weeks gestation of pregnancy
+153,Z3A.37,37 weeks gestation of pregnancy
+154,Z3A.38,38 weeks gestation of pregnancy
+155,Z3A.39,39 weeks gestation of pregnancy
+156,Z3A.40,40 weeks gestation of pregnancy
+157,Z3A.41,41 weeks gestation of pregnancy
+158,Z3A.42,42 weeks gestation of pregnancy
+159,Z3A.49,Greater than 42 weeks gestation of pregnancy

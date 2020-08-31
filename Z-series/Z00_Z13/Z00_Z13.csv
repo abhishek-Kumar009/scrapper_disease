@@ -1,0 +1,152 @@
+,category,condition
+0,Z00.00,Encntr for general adult medical exam w/o abnormal findings
+1,Z00.01,Encounter for general adult medical exam w abnormal findings
+2,Z00.110,Health examination for newborn under 8 days old
+3,Z00.111,Health examination for newborn 8 to 28 days old
+4,Z00.121,Encounter for routine child health exam w abnormal findings
+5,Z00.129,Encntr for routine child health exam w/o abnormal findings
+6,Z00.2,Encounter for exam for period of rapid growth in childhood
+7,Z00.3,Encounter for examination for adolescent development state
+8,Z00.5,Encounter for exam of potential donor of organ and tissue
+9,Z00.6,Encntr for exam for nrml cmprsn and ctrl in clncl rsrch prog
+10,Z00.70,Encntr for exam for delay growth in chldhd w/o abn findings
+11,Z00.71,Encntr for exam for delay growth in chldhd w abn findings
+12,Z00.8,Encounter for other general examination
+13,Z01.00,Encounter for exam of eyes and vision w/o abnormal findings
+14,Z01.01,Encounter for exam of eyes and vision w abnormal findings
+15,Z01.020,Enctr for ex of eyes and vis fol fail vis scrn w/o abn find  NEW CODE
+16,Z01.021,Enctr for exam of eyes and vis fol fail vis scrn wbn find  NEW CODE
+17,Z01.10,Encounter for exam of ears and hearing w/o abnormal findings
+18,Z01.110,Encounter for hearing exam following failed hear screening
+19,Z01.118,Encntr for exam of ears and hearing w oth abnormal findings
+20,Z01.12,Encounter for hearing conservation and treatment
+21,Z01.20,Encounter for dental exam and cleaning w/o abnormal findings
+22,Z01.21,Encounter for dental exam and cleaning w abnormal findings
+23,Z01.30,Encounter for exam of blood pressure w/o abnormal findings
+24,Z01.31,Encounter for exam of blood pressure w abnormal findings
+25,Z01.411,Encntr for gyn exam (general) (routine) w abnormal findings
+26,Z01.419,Encntr for gyn exam (general) (routine) w/o abn findings
+27,Z01.42,Encntr for cerv smear to cnfrm norm smr fol init abn smear
+28,Z01.810,Encounter for preprocedural cardiovascular examination
+29,Z01.811,Encounter for preprocedural respiratory examination
+30,Z01.812,Encounter for preprocedural laboratory examination
+31,Z01.818,Encounter for other preprocedural examination
+32,Z01.82,Encounter for allergy testing
+33,Z01.83,Encounter for blood typing
+34,Z01.84,Encounter for antibody response examination
+35,Z01.89,Encounter for other specified special examinations
+36,Z02.0,Encounter for exam for admission to educational institution
+37,Z02.1,Encounter for preemployment examination
+38,Z02.2,Encounter for exam for admission to residential institution
+39,Z02.3,Encounter for examination for recruitment to armed forces
+40,Z02.4,Encounter for examination for driving license
+41,Z02.5,Encounter for examination for participation in sport
+42,Z02.6,Encounter for examination for insurance purposes
+43,Z02.71,Encounter for disability determination
+44,Z02.79,Encounter for issue of other medical certificate
+45,Z02.81,Encounter for paternity testing
+46,Z02.82,Encounter for adoption services
+47,Z02.83,Encounter for bloodalcohol and blooddrug test
+48,Z02.89,Encounter for other administrative examinations
+49,Z02.9,"Encounter for administrative examinations, unspecified"
+50,Z03.6,Encntr for obs for susp toxic eff from ingest sub ruled out
+51,Z03.71,Encntr for susp prob w amnio cavity and membrane ruled out
+52,Z03.72,Encounter for suspected placental problem ruled out
+53,Z03.73,Encounter for suspected fetal anomaly ruled out
+54,Z03.74,Encounter for suspected problem with fetal growth ruled out
+55,Z03.75,Encounter for suspected cervical shortening ruled out
+56,Z03.79,Encntr for oth suspected maternal and fetal cond ruled out
+57,Z03.810,Encntr for obs for suspected exposure to anthrax ruled out
+58,Z03.818,Encntr for obs for susp expsr to oth biolg agents ruled out
+59,Z03.89,Encntr for obs for oth suspected diseases and cond ruled out
+60,Z04.1,Encounter for exam and obs following transport accident
+61,Z04.2,Encounter for exam and observation following work accident
+62,Z04.3,Encounter for exam and observation following oth accident
+63,Z04.41,Encounter for exam and obs following alleged adult rape
+64,Z04.42,Encounter for exam and obs following alleged child rape
+65,Z04.6,"Encntr for general psychiatric exam, requested by authority"
+66,Z04.71,Encntr for exam and obs fol alleged adult physical abuse
+67,Z04.72,Encntr for exam and obs fol alleged child physical abuse
+68,Z04.81,Enctr for exam and obs of victim fol forced sex exploitation
+69,Z04.82,Enctr for exam and obs of vctm fol forced labor exploitation
+70,Z04.89,Encounter for examination and observation for oth reasons
+71,Z04.9,Encounter for examination and observation for unsp reason
+72,Z05.0,Obs & eval of NB for suspected cardiac condition ruled out
+73,Z05.1,Obs & eval of NB for suspected infect condition ruled out
+74,Z05.2,Obs & eval of NB for suspected neuro condition ruled out
+75,Z05.3,Obs & eval of NB for suspected resp condition ruled out
+76,Z05.41,Obs & eval of NB for suspected genetic condition ruled out
+77,Z05.42,Obs & eval of NB for suspected metabolic condition ruled out
+78,Z05.43,Obs & eval of NB for suspected immunologic cond ruled out
+79,Z05.5,Obs & eval of NB for suspected GI condition ruled out
+80,Z05.6,Obs & eval of NB for suspected GU condition ruled out
+81,Z05.71,"Obs & eval of NB for suspected skin, subcu cond ruled out"
+82,Z05.72,Obs & eval of NB for suspected ms condition ruled out
+83,Z05.73,Obs & eval of NB for suspected conn tiss condition ruled out
+84,Z05.8,Obs & eval of NB for oth suspected condition ruled out
+85,Z05.9,Obs & eval of NB for unsp suspected condition ruled out
+86,Encntr for follow-up exam after trtmt for malignant neoplasm (Z08),Z08  Encntr for followup exam after trtmt for malignant neoplasm
+87,Z08,Encntr for followup exam after trtmt for malignant neoplasm
+88,Encntr for f/u exam aft trtmt for cond oth than malig neoplm (Z09),Z09  Encntr for f/u exam aft trtmt for cond oth than malig neoplm
+89,Z09,Encntr for f/u exam aft trtmt for cond oth than malig neoplm
+90,Z11.0,Encounter for screening for intestinal infectious diseases
+91,Z11.1,Encounter for screening for respiratory tuberculosis
+92,Z11.2,Encounter for screening for other bacterial diseases
+93,Z11.3,Encntr screen for infections w sexl mode of transmiss
+94,Z11.4,Encounter for screening for human immunodeficiency virus
+95,Z11.51,Encounter for screening for human papillomavirus (HPV)
+96,Z11.59,Encounter for screening for other viral diseases
+97,Z11.6,Encntr screen for oth protozoal diseases and helminthiases
+98,Z11.7,Encounter for testing for latent tuberculosis infection  NEW CODE
+99,Z11.8,Encounter for screening for oth infec/parastc diseases
+100,Z11.9,"Encounter for screening for infec/parastc diseases, unsp"
+101,Z12.0,Encounter for screening for malignant neoplasm of stomach
+102,Z12.10,"Encntr screen for malignant neoplasm of intest tract, unsp"
+103,Z12.11,Encounter for screening for malignant neoplasm of colon
+104,Z12.12,Encounter for screening for malignant neoplasm of rectum
+105,Z12.13,Encntr screen for malignant neoplasm of small intestine
+106,Z12.2,Encntr screen for malignant neoplasm of respiratory organs
+107,Z12.31,Encntr screen mammogram for malignant neoplasm of breast
+108,Z12.39,Encounter for oth screening for malignant neoplasm of breast
+109,Z12.4,Encounter for screening for malignant neoplasm of cervix
+110,Z12.5,Encounter for screening for malignant neoplasm of prostate
+111,Z12.6,Encounter for screening for malignant neoplasm of bladder
+112,Z12.71,Encounter for screening for malignant neoplasm of testis
+113,Z12.72,Encounter for screening for malignant neoplasm of vagina
+114,Z12.73,Encounter for screening for malignant neoplasm of ovary
+115,Z12.79,Encntr screen for malignant neoplasm of genitourinary organs
+116,Z12.81,Encntr screen for malignant neoplasm of oral cavity
+117,Z12.82,Encntr screen for malignant neoplasm of nervous system
+118,Z12.83,Encounter for screening for malignant neoplasm of skin
+119,Z12.89,Encounter for screening for malignant neoplasm of oth sites
+120,Z12.9,"Encounter for screening for malignant neoplasm, site unsp"
+121,Z13.0,Encntr screen for dis of the bld/bldform org/immun mechnsm
+122,Z13.1,Encounter for screening for diabetes mellitus
+123,Z13.21,Encounter for screening for nutritional disorder
+124,Z13.220,Encounter for screening for lipoid disorders
+125,Z13.228,Encounter for screening for other metabolic disorders
+126,Z13.29,Encounter for screening for oth suspected endocrine disorder
+127,Z13.30,"Encntr screen exam for mental hlth and behavrl disord, unsp"
+128,Z13.31,Encounter for screening for depression
+129,Z13.32,Encounter for screening for maternal depression
+130,Z13.39,Encntr screen exam for other mental hlth and behavrl disord
+131,Z13.40,Encounter for screening for unspecified developmental delays
+132,Z13.41,Encounter for autism screening
+133,Z13.42,Encntr screen for global developmental delays (milestones)
+134,Z13.49,Encounter for screening for other developmental delays
+135,Z13.5,Encounter for screening for eye and ear disorders
+136,Z13.6,Encounter for screening for cardiovascular disorders
+137,Z13.71,Encntr for nonprocreat screen for genetic dis carrier status
+138,Z13.79,Encntr for oth screening for genetic and chromsoml anomalies
+139,Z13.810,Encounter for screening for upper gastrointestinal disorder
+140,Z13.811,Encounter for screening for lower gastrointestinal disorder
+141,Z13.818,Encounter for screening for other digestive system disorders
+142,Z13.820,Encounter for screening for osteoporosis
+143,Z13.828,Encounter for screening for other musculoskeletal disorder
+144,Z13.83,Encounter for screening for respiratory disorder NEC
+145,Z13.84,Encounter for screening for dental disorders
+146,Z13.850,Encounter for screening for traumatic brain injury
+147,Z13.858,Encounter for screening for other nervous system disorders
+148,Z13.88,Encntr screen for disorder due to exposure to contaminants
+149,Z13.89,Encounter for screening for other disorder
+150,Z13.9,"Encounter for screening, unspecified"

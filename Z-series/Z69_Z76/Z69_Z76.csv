@@ -1,0 +1,82 @@
+,category,condition
+0,Z69.010,Encntr for mental hlth serv for victim of prntl child abuse
+1,Z69.011,Encntr for mental health serv for perp of prntl child abuse
+2,Z69.020,Encntr for mntl hlth serv for vctm of nonprntl child abuse
+3,Z69.021,Encntr for mntl hlth serv for perp of nonprntl child abuse
+4,Z69.11,Encntr for mntl hlth serv for victim of spous or prtnr abuse
+5,Z69.12,Encntr for mental hlth serv for perp of spous or prtnr abuse
+6,Z69.81,Encounter for mental health services for victim of oth abuse
+7,Z69.82,Encounter for mental health services for perp of abuse
+8,Z70.0,Counseling related to sexual attitude
+9,Z70.1,Counseling related to patient's sexual behavior and orientn
+10,Z70.2,Cnsl related to sexual behavior and orientn of third party
+11,Z70.3,"Cnsl rel to comb concrn rgrd sex attitude, behav and orientn"
+12,Z70.8,Other sex counseling
+13,Z70.9,"Sex counseling, unspecified"
+14,Z71.0,Prsn encntr hlth serv to consult on behalf of another person
+15,Z71.1,Person w feared hlth complaint in whom no diagnosis is made
+16,Z71.2,Person consulting for explanation of exam or test findings
+17,Z71.3,Dietary counseling and surveillance
+18,Z71.41,Alcohol abuse counseling and surveillance of alcoholic
+19,Z71.42,Counseling for family member of alcoholic
+20,Z71.51,Drug abuse counseling and surveillance of drug abuser
+21,Z71.52,Counseling for family member of drug abuser
+22,Z71.6,Tobacco abuse counseling
+23,Z71.7,Human immunodeficiency virus [HIV] counseling
+24,Z71.81,Spiritual or religious counseling
+25,Z71.82,Exercise counseling
+26,Z71.83,Encounter for nonprocreative genetic counseling
+27,Z71.84,Encounter for health counseling related to travel  NEW CODE
+28,Z71.89,Other specified counseling
+29,Z71.9,"Counseling, unspecified"
+30,Z72.0,Tobacco use
+31,Z72.3,Lack of physical exercise
+32,Z72.4,Inappropriate diet and eating habits
+33,Z72.51,High risk heterosexual behavior
+34,Z72.52,High risk homosexual behavior
+35,Z72.53,High risk bisexual behavior
+36,Z72.6,Gambling and betting
+37,Z72.810,Child and adolescent antisocial behavior
+38,Z72.811,Adult antisocial behavior
+39,Z72.820,Sleep deprivation
+40,Z72.821,Inadequate sleep hygiene
+41,Z72.89,Other problems related to lifestyle
+42,Z72.9,"Problem related to lifestyle, unspecified"
+43,Z73.0,Burnout
+44,Z73.1,Type A behavior pattern
+45,Z73.2,Lack of relaxation and leisure
+46,Z73.3,"Stress, not elsewhere classified"
+47,Z73.4,"Inadequate social skills, not elsewhere classified"
+48,Z73.5,"Social role conflict, not elsewhere classified"
+49,Z73.6,Limitation of activities due to disability
+50,Z73.810,"Behavioral insomnia of childhood, sleeponset assoc type"
+51,Z73.811,"Behavioral insomnia of childhood, limit setting type"
+52,Z73.812,"Behavioral insomnia of childhood, combined type"
+53,Z73.819,"Behavioral insomnia of childhood, unspecified type"
+54,Z73.82,Dual sensory impairment
+55,Z73.89,Other problems related to life management difficulty
+56,Z73.9,"Problem related to life management difficulty, unspecified"
+57,Z74.01,Bed confinement status
+58,Z74.09,Other reduced mobility
+59,Z74.1,Need for assistance with personal care
+60,Z74.2,Need for assist at home & no house memb able to render care
+61,Z74.3,Need for continuous supervision
+62,Z74.8,Other problems related to care provider dependency
+63,Z74.9,"Problem related to care provider dependency, unspecified"
+64,Z75.0,Medical services not available in home
+65,Z75.1,Person awaiting admission to adequate facility elsewhere
+66,Z75.2,Other waiting period for investigation and treatment
+67,Z75.3,Unavailability and inaccessibility of healthcare facilities
+68,Z75.4,Unavailability and inaccessibility of other helping agencies
+69,Z75.5,Holiday relief care
+70,Z75.8,Oth prob related to medical facilities and oth health care
+71,Z75.9,Unsp problem related to med facilities and oth health care
+72,Z76.0,Encounter for issue of repeat prescription
+73,Z76.1,Encounter for health supervision and care of foundling
+74,Z76.2,Encntr for hlth suprvsn and care of healthy infant and child
+75,Z76.3,Healthy person accompanying sick person
+76,Z76.4,Other boarder to healthcare facility
+77,Z76.5,Malingerer [conscious simulation]
+78,Z76.81,Expectant parent(s) prebirth pediatrician visit
+79,Z76.82,Awaiting organ transplant status
+80,Z76.89,Persons encountering health services in oth circumstances

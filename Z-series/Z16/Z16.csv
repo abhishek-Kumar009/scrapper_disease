@@ -1,0 +1,19 @@
+,category,condition
+0,Z16.10,Resistance to unspecified beta lactam antibiotics
+1,Z16.11,Resistance to penicillins
+2,Z16.12,Extended spectrum beta lactamase (ESBL) resistance
+3,Z16.19,Resistance to other specified beta lactam antibiotics
+4,Z16.20,Resistance to unspecified antibiotic
+5,Z16.21,Resistance to vancomycin
+6,Z16.22,Resistance to vancomycin related antibiotics
+7,Z16.23,Resistance to quinolones and fluoroquinolones
+8,Z16.24,Resistance to multiple antibiotics
+9,Z16.29,Resistance to other single specified antibiotic
+10,Z16.30,Resistance to unspecified antimicrobial drugs
+11,Z16.31,Resistance to antiparasitic drug(s)
+12,Z16.32,Resistance to antifungal drug(s)
+13,Z16.33,Resistance to antiviral drug(s)
+14,Z16.341,Resistance to single antimycobacterial drug
+15,Z16.342,Resistance to multiple antimycobacterial drugs
+16,Z16.35,Resistance to multiple antimicrobial drugs
+17,Z16.39,Resistance to other specified antimicrobial drug

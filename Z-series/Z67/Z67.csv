@@ -1,0 +1,11 @@
+,category,condition
+0,Z67.10,"Type A blood, Rh positive"
+1,Z67.11,"Type A blood, Rh negative"
+2,Z67.20,"Type B blood, Rh positive"
+3,Z67.21,"Type B blood, Rh negative"
+4,Z67.30,"Type AB blood, Rh positive"
+5,Z67.31,"Type AB blood, Rh negative"
+6,Z67.40,"Type O blood, Rh positive"
+7,Z67.41,"Type O blood, Rh negative"
+8,Z67.90,"Unspecified blood type, Rh positive"
+9,Z67.91,"Unspecified blood type, Rh negative"

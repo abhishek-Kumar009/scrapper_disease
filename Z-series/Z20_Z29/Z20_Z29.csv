@@ -1,0 +1,58 @@
+,category,condition
+0,Z20.01,Cntct w and expsr to intestnl infct dis d/t E coli (E. coli)
+1,Z20.09,Contact w and exposure to oth intestinal infectious diseases
+2,Z20.1,Contact with and (suspected) exposure to tuberculosis
+3,Z20.2,Contact w and exposure to infect w a sexl mode of transmiss
+4,Z20.3,Contact with and (suspected) exposure to rabies
+5,Z20.4,Contact with and (suspected) exposure to rubella
+6,Z20.5,Contact with and (suspected) exposure to viral hepatitis
+7,Z20.6,Contact w and (suspected) exposure to human immunodef virus
+8,Z20.7,"Cntct w & expsr to pediculosis, acariasis & oth infestations"
+9,Z20.810,Contact with and (suspected) exposure to anthrax
+10,Z20.811,Contact with and (suspected) exposure to meningococcus
+11,Z20.818,Contact w and exposure to oth bact communicable diseases
+12,Z20.820,Contact with and (suspected) exposure to varicella
+13,Z20.821,Contact with and (suspected) exposure to Zika virus
+14,Z20.828,Contact w and exposure to oth viral communicable diseases
+15,Z20.89,Contact w and exposure to oth communicable diseases
+16,Z20.9,Contact w and exposure to unsp communicable disease
+17,Asymptomatic human immunodeficiency virus infection status (Z21),Z21  Asymptomatic human immunodeficiency virus infection status
+18,Z21,Asymptomatic human immunodeficiency virus infection status
+19,Z22.0,Carrier of typhoid
+20,Z22.1,Carrier of other intestinal infectious diseases
+21,Z22.2,Carrier of diphtheria
+22,Z22.31,Carrier of bacterial disease due to meningococci
+23,Z22.321,Carrier or suspected carrier of methicillin suscep staph
+24,Z22.322,Carrier or suspected carrier of methicillin resis staph
+25,Z22.330,Carrier of Group B streptococcus
+26,Z22.338,Carrier of other streptococcus
+27,Z22.39,Carrier of other specified bacterial diseases
+28,Z22.4,Carrier of infections w sexl mode of transmiss
+29,Z22.6,Carrier of human Tlymphotropic virus type1 infection
+30,Z22.7,Latent tuberculosis  NEW CODE
+31,Z22.8,Carrier of other infectious diseases
+32,Z22.9,"Carrier of infectious disease, unspecified"
+33,Encounter for immunization (Z23),Z23  Encounter for immunization
+34,Z23,Encounter for immunization
+35,Z28.01,Immunization not crd out because of acute illness of patient
+36,Z28.02,Immuniz not crd out bec chronic illness or cond of patient
+37,Z28.03,Immuniz not crd out bec immune compromised state of patient
+38,Z28.04,Immuniz not crd out bec patient allergy to vaccine or cmpnt
+39,Z28.09,Immunization not carried out because of oth contraindication
+40,Z28.1,Immuniz not crd out because of patient belief/grp pressr
+41,Z28.20,Immuniz not crd out bec patient decision for unsp reason
+42,Z28.21,Immunization not carried out because of patient refusal
+43,Z28.29,Immuniz not crd out bec patient decision for oth reason
+44,Z28.3,Underimmunization status
+45,Z28.81,Immuniz not crd out due to patient having had the disease
+46,Z28.82,Immunization not carried out because of caregiver refusal
+47,Z28.83,Immunization not crd out due to unavailability of vaccine
+48,Z28.89,Immunization not carried out for other reason
+49,Z28.9,Immunization not carried out for unspecified reason
+50,Z29.11,Enctr for prphylc immther for resp syncytial virus (RSV)
+51,Z29.12,Encounter for prophylactic antivenin
+52,Z29.13,Encounter for prophylactic Rho(D) immune globulin
+53,Z29.14,Encounter for prophylactic rabies immune globin
+54,Z29.3,Encounter for prophylactic fluoride administration
+55,Z29.8,Encounter for other specified prophylactic measures
+56,Z29.9,"Encounter for prophylactic measures, unspecified"
