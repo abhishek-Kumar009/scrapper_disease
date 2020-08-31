@@ -1,0 +1,64 @@
+,category,condition
+0,Q60.0,"Renal agenesis, unilateral"
+1,Q60.1,"Renal agenesis, bilateral"
+2,Q60.2,"Renal agenesis, unspecified"
+3,Q60.3,"Renal hypoplasia, unilateral"
+4,Q60.4,"Renal hypoplasia, bilateral"
+5,Q60.5,"Renal hypoplasia, unspecified"
+6,Q60.6,Potter's syndrome
+7,Q61.00,"Congenital renal cyst, unspecified"
+8,Q61.01,Congenital single renal cyst
+9,Q61.02,Congenital multiple renal cysts
+10,Q61.11,Cystic dilatation of collecting ducts
+11,Q61.19,"Other polycystic kidney, infantile type"
+12,Q61.2,"Polycystic kidney, adult type"
+13,Q61.3,"Polycystic kidney, unspecified"
+14,Q61.4,Renal dysplasia
+15,Q61.5,Medullary cystic kidney
+16,Q61.8,Other cystic kidney diseases
+17,Q61.9,"Cystic kidney disease, unspecified"
+18,Q62.0,Congenital hydronephrosis
+19,Q62.10,"Congenital occlusion of ureter, unspecified"
+20,Q62.11,Congenital occlusion of ureteropelvic junction
+21,Q62.12,Congenital occlusion of ureterovesical orifice
+22,Q62.2,Congenital megaureter
+23,Q62.31,"Congenital ureterocele, orthotopic"
+24,Q62.32,Cecoureterocele
+25,Q62.39,Other obstructive defects of renal pelvis and ureter
+26,Q62.4,Agenesis of ureter
+27,Q62.5,Duplication of ureter
+28,Q62.60,"Malposition of ureter, unspecified"
+29,Q62.61,Deviation of ureter
+30,Q62.62,Displacement of ureter
+31,Q62.63,Anomalous implantation of ureter
+32,Q62.69,Other malposition of ureter
+33,Q62.7,Congenital vesicoureterorenal reflux
+34,Q62.8,Other congenital malformations of ureter
+35,Q63.0,Accessory kidney
+36,Q63.1,"Lobulated, fused and horseshoe kidney"
+37,Q63.2,Ectopic kidney
+38,Q63.3,Hyperplastic and giant kidney
+39,Q63.8,Other specified congenital malformations of kidney
+40,Q63.9,"Congenital malformation of kidney, unspecified"
+41,Q64.0,Epispadias
+42,Q64.10,"Exstrophy of urinary bladder, unspecified"
+43,Q64.11,Supravesical fissure of urinary bladder
+44,Q64.12,Cloacal exstrophy of urinary bladder
+45,Q64.19,Other exstrophy of urinary bladder
+46,Q64.2,Congenital posterior urethral valves
+47,Q64.31,Congenital bladder neck obstruction
+48,Q64.32,Congenital stricture of urethra
+49,Q64.33,Congenital stricture of urinary meatus
+50,Q64.39,Other atresia and stenosis of urethra and bladder neck
+51,Q64.4,Malformation of urachus
+52,Q64.5,Congenital absence of bladder and urethra
+53,Q64.6,Congenital diverticulum of bladder
+54,Q64.70,Unspecified congenital malformation of bladder and urethra
+55,Q64.71,Congenital prolapse of urethra
+56,Q64.72,Congenital prolapse of urinary meatus
+57,Q64.73,Congenital urethrorectal fistula
+58,Q64.74,Double urethra
+59,Q64.75,Double urinary meatus
+60,Q64.79,Other congenital malformations of bladder and urethra
+61,Q64.8,Other specified congenital malformations of urinary system
+62,Q64.9,"Congenital malformation of urinary system, unspecified"

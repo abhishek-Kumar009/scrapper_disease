@@ -1,0 +1,60 @@
+,category,condition
+0,Q38.0,"Congenital malformations of lips, not elsewhere classified"
+1,Q38.1,Ankyloglossia
+2,Q38.2,Macroglossia
+3,Q38.3,Other congenital malformations of tongue
+4,Q38.4,Congenital malformations of salivary glands and ducts
+5,Q38.5,"Congenital malformations of palate, not elsewhere classified"
+6,Q38.6,Other congenital malformations of mouth
+7,Q38.7,Congenital pharyngeal pouch
+8,Q38.8,Other congenital malformations of pharynx
+9,Q39.0,Atresia of esophagus without fistula
+10,Q39.1,Atresia of esophagus with tracheoesophageal fistula
+11,Q39.2,Congenital tracheoesophageal fistula without atresia
+12,Q39.3,Congenital stenosis and stricture of esophagus
+13,Q39.4,Esophageal web
+14,Q39.5,Congenital dilatation of esophagus
+15,Q39.6,Congenital diverticulum of esophagus
+16,Q39.8,Other congenital malformations of esophagus
+17,Q39.9,"Congenital malformation of esophagus, unspecified"
+18,Q40.0,Congenital hypertrophic pyloric stenosis
+19,Q40.1,Congenital hiatus hernia
+20,Q40.2,Other specified congenital malformations of stomach
+21,Q40.3,"Congenital malformation of stomach, unspecified"
+22,Q40.8,Oth congenital malformations of upper alimentary tract
+23,Q40.9,"Congenital malformation of upper alimentary tract, unsp"
+24,Q41.0,"Congenital absence, atresia and stenosis of duodenum"
+25,Q41.1,"Congenital absence, atresia and stenosis of jejunum"
+26,Q41.2,"Congenital absence, atresia and stenosis of ileum"
+27,Q41.8,"Congenital absence, atresia and stenosis of prt sm int"
+28,Q41.9,"Congen absence, atresia and stenosis of sm int, part unsp"
+29,Q42.0,"Congenital absence, atresia and stenosis of rectum w fistula"
+30,Q42.1,"Congen absence, atresia and stenosis of rectum w/o fistula"
+31,Q42.2,"Congenital absence, atresia and stenosis of anus w fistula"
+32,Q42.3,"Congenital absence, atresia and stenosis of anus w/o fistula"
+33,Q42.8,"Congenital absence, atresia and stenosis of prt lg int"
+34,Q42.9,"Congen absence, atresia and stenosis of lg int, part unsp"
+35,Q43.0,Meckel's diverticulum (displaced) (hypertrophic)
+36,Q43.1,Hirschsprung's disease
+37,Q43.2,Other congenital functional disorders of colon
+38,Q43.3,Congenital malformations of intestinal fixation
+39,Q43.4,Duplication of intestine
+40,Q43.5,Ectopic anus
+41,Q43.6,Congenital fistula of rectum and anus
+42,Q43.7,Persistent cloaca
+43,Q43.8,Other specified congenital malformations of intestine
+44,Q43.9,"Congenital malformation of intestine, unspecified"
+45,Q44.0,"Agenesis, aplasia and hypoplasia of gallbladder"
+46,Q44.1,Other congenital malformations of gallbladder
+47,Q44.2,Atresia of bile ducts
+48,Q44.3,Congenital stenosis and stricture of bile ducts
+49,Q44.4,Choledochal cyst
+50,Q44.5,Other congenital malformations of bile ducts
+51,Q44.6,Cystic disease of liver
+52,Q44.7,Other congenital malformations of liver
+53,Q45.0,"Agenesis, aplasia and hypoplasia of pancreas"
+54,Q45.1,Annular pancreas
+55,Q45.2,Congenital pancreatic cyst
+56,Q45.3,Oth congenital malformations of pancreas and pancreatic duct
+57,Q45.8,Other specified congenital malformations of digestive system
+58,Q45.9,"Congenital malformation of digestive system, unspecified"
