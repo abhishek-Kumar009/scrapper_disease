@@ -1,0 +1,88 @@
+,category,condition
+0,N30.00,Acute cystitis without hematuria
+1,N30.01,Acute cystitis with hematuria
+2,N30.10,Interstitial cystitis (chronic) without hematuria
+3,N30.11,Interstitial cystitis (chronic) with hematuria
+4,N30.20,Other chronic cystitis without hematuria
+5,N30.21,Other chronic cystitis with hematuria
+6,N30.30,Trigonitis without hematuria
+7,N30.31,Trigonitis with hematuria
+8,N30.40,Irradiation cystitis without hematuria
+9,N30.41,Irradiation cystitis with hematuria
+10,N30.80,Other cystitis without hematuria
+11,N30.81,Other cystitis with hematuria
+12,N30.90,"Cystitis, unspecified without hematuria"
+13,N30.91,"Cystitis, unspecified with hematuria"
+14,N31.0,"Uninhibited neuropathic bladder, not elsewhere classified"
+15,N31.1,"Reflex neuropathic bladder, not elsewhere classified"
+16,N31.2,"Flaccid neuropathic bladder, not elsewhere classified"
+17,N31.8,Other neuromuscular dysfunction of bladder
+18,N31.9,"Neuromuscular dysfunction of bladder, unspecified"
+19,N32.0,Bladderneck obstruction
+20,N32.1,Vesicointestinal fistula
+21,N32.2,"Vesical fistula, not elsewhere classified"
+22,N32.3,Diverticulum of bladder
+23,N32.81,Overactive bladder
+24,N32.89,Other specified disorders of bladder
+25,N32.9,"Bladder disorder, unspecified"
+26,Bladder disorders in diseases classified elsewhere (N33),N33  Bladder disorders in diseases classified elsewhere
+27,N33,Bladder disorders in diseases classified elsewhere
+28,N34.0,Urethral abscess
+29,N34.1,Nonspecific urethritis
+30,N34.2,Other urethritis
+31,N34.3,"Urethral syndrome, unspecified"
+32,N35.010,"Posttraumatic urethral stricture, male, meatal"
+33,N35.011,Posttraumatic bulbous urethral stricture
+34,N35.012,Posttraumatic membranous urethral stricture
+35,N35.013,Posttraumatic anterior urethral stricture
+36,N35.014,"Posttraumatic urethral stricture, male, unspecified"
+37,N35.016,"Posttraumatic urethral stricture, male, overlapping sites"
+38,N35.021,Urethral stricture due to childbirth
+39,N35.028,"Other posttraumatic urethral stricture, female"
+40,N35.111,"Postinfective urethral stricture, NEC, male, meatal"
+41,N35.112,"Postinfective bulbous urethral stricture, NEC, male"
+42,N35.113,"Postinfective membranous urethral stricture, NEC, male"
+43,N35.114,"Postinfective anterior urethral stricture, NEC, male"
+44,N35.116,"Postinfective urethral stricture, NEC, male, ovrlp sites"
+45,N35.119,"Postinfective urethral stricture, NEC, male, unsp"
+46,N35.12,"Postinfective urethral stricture, NEC, female"
+47,N35.811,"Other urethral stricture, male, meatal"
+48,N35.812,"Other urethral bulbous stricture, male"
+49,N35.813,"Other membranous urethral stricture, male"
+50,N35.814,"Other anterior urethral stricture, male  UPDATED CODE"
+51,N35.816,"Other urethral stricture, male, overlapping sites"
+52,N35.819,"Other urethral stricture, male, unspecified site"
+53,N35.82,"Other urethral stricture, female"
+54,N35.911,"Unspecified urethral stricture, male, meatal"
+55,N35.912,"Unspecified bulbous urethral stricture, male"
+56,N35.913,"Unspecified membranous urethral stricture, male"
+57,N35.914,"Unspecified anterior urethral stricture, male"
+58,N35.916,"Unspecified urethral stricture, male, overlapping sites"
+59,N35.919,"Unspecified urethral stricture, male, unspecified site"
+60,N35.92,"Unspecified urethral stricture, female"
+61,N36.0,Urethral fistula
+62,N36.1,Urethral diverticulum
+63,N36.2,Urethral caruncle
+64,N36.41,Hypermobility of urethra
+65,N36.42,Intrinsic sphincter deficiency (ISD)
+66,N36.43,Combined hypermobility of urethra and intrns sphincter defic
+67,N36.44,Muscular disorders of urethra
+68,N36.5,Urethral false passage
+69,N36.8,Other specified disorders of urethra
+70,N36.9,"Urethral disorder, unspecified"
+71,Urethral disorders in diseases classified elsewhere (N37),N37  Urethral disorders in diseases classified elsewhere
+72,N37,Urethral disorders in diseases classified elsewhere
+73,N39.0,"Urinary tract infection, site not specified"
+74,N39.3,Stress incontinence (female) (male)
+75,N39.41,Urge incontinence
+76,N39.42,Incontinence without sensory awareness
+77,N39.43,Postvoid dribbling
+78,N39.44,Nocturnal enuresis
+79,N39.45,Continuous leakage
+80,N39.46,Mixed incontinence
+81,N39.490,Overflow incontinence
+82,N39.491,Coital incontinence
+83,N39.492,Postural (urinary) incontinence
+84,N39.498,Other specified urinary incontinence
+85,N39.8,Other specified disorders of urinary system
+86,N39.9,"Disorder of urinary system, unspecified"

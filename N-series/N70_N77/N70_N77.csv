@@ -1,0 +1,41 @@
+,category,condition
+0,N70.01,Acute salpingitis
+1,N70.02,Acute oophoritis
+2,N70.03,Acute salpingitis and oophoritis
+3,N70.11,Chronic salpingitis
+4,N70.12,Chronic oophoritis
+5,N70.13,Chronic salpingitis and oophoritis
+6,N70.91,"Salpingitis, unspecified"
+7,N70.92,"Oophoritis, unspecified"
+8,N70.93,"Salpingitis and oophoritis, unspecified"
+9,N71.0,Acute inflammatory disease of uterus
+10,N71.1,Chronic inflammatory disease of uterus
+11,N71.9,"Inflammatory disease of uterus, unspecified"
+12,Inflammatory disease of cervix uteri (N72),N72  Inflammatory disease of cervix uteri
+13,N72,Inflammatory disease of cervix uteri
+14,N73.0,Acute parametritis and pelvic cellulitis
+15,N73.1,Chronic parametritis and pelvic cellulitis
+16,N73.2,Unspecified parametritis and pelvic cellulitis
+17,N73.3,Female acute pelvic peritonitis
+18,N73.4,Female chronic pelvic peritonitis
+19,N73.5,"Female pelvic peritonitis, unspecified"
+20,N73.6,Female pelvic peritoneal adhesions (postinfective)
+21,N73.8,Other specified female pelvic inflammatory diseases
+22,N73.9,"Female pelvic inflammatory disease, unspecified"
+23,Female pelvic inflam disorders in diseases classd elswhr (N74),N74  Female pelvic inflam disorders in diseases classd elswhr
+24,N74,Female pelvic inflam disorders in diseases classd elswhr
+25,N75.0,Cyst of Bartholin's gland
+26,N75.1,Abscess of Bartholin's gland
+27,N75.8,Other diseases of Bartholin's gland
+28,N75.9,"Disease of Bartholin's gland, unspecified"
+29,N76.0,Acute vaginitis
+30,N76.1,Subacute and chronic vaginitis
+31,N76.2,Acute vulvitis
+32,N76.3,Subacute and chronic vulvitis
+33,N76.4,Abscess of vulva
+34,N76.5,Ulceration of vagina
+35,N76.6,Ulceration of vulva
+36,N76.81,Mucositis (ulcerative) of vagina and vulva
+37,N76.89,Other specified inflammation of vagina and vulva
+38,N77.0,Ulceration of vulva in diseases classified elsewhere
+39,N77.1,"Vaginitis, vulvitis and vulvovaginitis in dis classd elswhr"

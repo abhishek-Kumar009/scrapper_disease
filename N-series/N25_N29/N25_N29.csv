@@ -1,0 +1,24 @@
+,category,condition
+0,N25.0,Renal osteodystrophy
+1,N25.1,Nephrogenic diabetes insipidus
+2,N25.81,Secondary hyperparathyroidism of renal origin
+3,N25.89,Oth disorders resulting from impaired renal tubular function
+4,N25.9,"Disorder rslt from impaired renal tubular function, unsp"
+5,N26.1,Atrophy of kidney (terminal)
+6,N26.2,Page kidney
+7,N26.9,"Renal sclerosis, unspecified"
+8,N27.0,"Small kidney, unilateral"
+9,N27.1,"Small kidney, bilateral"
+10,N27.9,"Small kidney, unspecified"
+11,N28.0,Ischemia and infarction of kidney
+12,N28.1,"Cyst of kidney, acquired"
+13,N28.81,Hypertrophy of kidney
+14,N28.82,Megaloureter
+15,N28.83,Nephroptosis
+16,N28.84,Pyelitis cystica
+17,N28.85,Pyeloureteritis cystica
+18,N28.86,Ureteritis cystica
+19,N28.89,Other specified disorders of kidney and ureter
+20,N28.9,"Disorder of kidney and ureter, unspecified"
+21,Oth disorders of kidney and ureter in diseases classd elswhr (N29),N29  Oth disorders of kidney and ureter in diseases classd elswhr
+22,N29,Oth disorders of kidney and ureter in diseases classd elswhr

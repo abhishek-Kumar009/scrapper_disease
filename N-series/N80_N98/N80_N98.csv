@@ -1,0 +1,173 @@
+,category,condition
+0,N80.0,Endometriosis of uterus
+1,N80.1,Endometriosis of ovary
+2,N80.2,Endometriosis of fallopian tube
+3,N80.3,Endometriosis of pelvic peritoneum
+4,N80.4,Endometriosis of rectovaginal septum and vagina
+5,N80.5,Endometriosis of intestine
+6,N80.6,Endometriosis in cutaneous scar
+7,N80.8,Other endometriosis
+8,N80.9,"Endometriosis, unspecified"
+9,N81.0,Urethrocele
+10,N81.10,"Cystocele, unspecified"
+11,N81.11,"Cystocele, midline"
+12,N81.12,"Cystocele, lateral"
+13,N81.2,Incomplete uterovaginal prolapse
+14,N81.3,Complete uterovaginal prolapse
+15,N81.4,"Uterovaginal prolapse, unspecified"
+16,N81.5,Vaginal enterocele
+17,N81.6,Rectocele
+18,N81.81,Perineocele
+19,N81.82,Incompetence or weakening of pubocervical tissue
+20,N81.83,Incompetence or weakening of rectovaginal tissue
+21,N81.84,Pelvic muscle wasting
+22,N81.85,Cervical stump prolapse
+23,N81.89,Other female genital prolapse
+24,N81.9,"Female genital prolapse, unspecified"
+25,N82.0,Vesicovaginal fistula
+26,N82.1,Other female urinarygenital tract fistulae
+27,N82.2,Fistula of vagina to small intestine
+28,N82.3,Fistula of vagina to large intestine
+29,N82.4,Other female intestinalgenital tract fistulae
+30,N82.5,Female genital tractskin fistulae
+31,N82.8,Other female genital tract fistulae
+32,N82.9,"Female genital tract fistula, unspecified"
+33,N83.00,"Follicular cyst of ovary, unspecified side"
+34,N83.01,Follicular cyst of right ovary
+35,N83.02,Follicular cyst of left ovary
+36,N83.10,"Corpus luteum cyst of ovary, unspecified side"
+37,N83.11,Corpus luteum cyst of right ovary
+38,N83.12,Corpus luteum cyst of left ovary
+39,N83.201,"Unspecified ovarian cyst, right side"
+40,N83.202,"Unspecified ovarian cyst, left side"
+41,N83.209,"Unspecified ovarian cyst, unspecified side"
+42,N83.291,"Other ovarian cyst, right side"
+43,N83.292,"Other ovarian cyst, left side"
+44,N83.299,"Other ovarian cyst, unspecified side"
+45,N83.311,Acquired atrophy of right ovary
+46,N83.312,Acquired atrophy of left ovary
+47,N83.319,"Acquired atrophy of ovary, unspecified side"
+48,N83.321,Acquired atrophy of right fallopian tube
+49,N83.322,Acquired atrophy of left fallopian tube
+50,N83.329,"Acquired atrophy of fallopian tube, unspecified side"
+51,N83.331,Acquired atrophy of right ovary and fallopian tube
+52,N83.332,Acquired atrophy of left ovary and fallopian tube
+53,N83.339,"Acquired atrophy of ovary and fallop, unspecified side"
+54,N83.40,"Prolapse and hernia of ovary and fallop, unspecified side"
+55,N83.41,Prolapse and hernia of right ovary and fallopian tube
+56,N83.42,Prolapse and hernia of left ovary and fallopian tube
+57,N83.511,Torsion of right ovary and ovarian pedicle
+58,N83.512,Torsion of left ovary and ovarian pedicle
+59,N83.519,"Torsion of ovary and ovarian pedicle, unspecified side"
+60,N83.521,Torsion of right fallopian tube
+61,N83.522,Torsion of left fallopian tube
+62,N83.529,"Torsion of fallopian tube, unspecified side"
+63,N83.53,"Torsion of ovary, ovarian pedicle and fallopian tube"
+64,N83.6,Hematosalpinx
+65,N83.7,Hematoma of broad ligament
+66,N83.8,"Oth noninflammatory disord of ovary, fallop and broad ligmt"
+67,N83.9,"Noninflammatory disord of ovary, fallop & broad ligmt, unsp"
+68,N84.0,Polyp of corpus uteri
+69,N84.1,Polyp of cervix uteri
+70,N84.2,Polyp of vagina
+71,N84.3,Polyp of vulva
+72,N84.8,Polyp of other parts of female genital tract
+73,N84.9,"Polyp of female genital tract, unspecified"
+74,N85.00,"Endometrial hyperplasia, unspecified"
+75,N85.01,Benign endometrial hyperplasia
+76,N85.02,Endometrial intraepithelial neoplasia [EIN]
+77,N85.2,Hypertrophy of uterus
+78,N85.3,Subinvolution of uterus
+79,N85.4,Malposition of uterus
+80,N85.5,Inversion of uterus
+81,N85.6,Intrauterine synechiae
+82,N85.7,Hematometra
+83,N85.8,Other specified noninflammatory disorders of uterus
+84,N85.9,"Noninflammatory disorder of uterus, unspecified"
+85,Erosion and ectropion of cervix uteri (N86),N86  Erosion and ectropion of cervix uteri
+86,N86,Erosion and ectropion of cervix uteri
+87,N87.0,Mild cervical dysplasia
+88,N87.1,Moderate cervical dysplasia
+89,N87.9,"Dysplasia of cervix uteri, unspecified"
+90,N88.0,Leukoplakia of cervix uteri
+91,N88.1,Old laceration of cervix uteri
+92,N88.2,Stricture and stenosis of cervix uteri
+93,N88.3,Incompetence of cervix uteri
+94,N88.4,Hypertrophic elongation of cervix uteri
+95,N88.8,Other specified noninflammatory disorders of cervix uteri
+96,N88.9,"Noninflammatory disorder of cervix uteri, unspecified"
+97,N89.0,Mild vaginal dysplasia
+98,N89.1,Moderate vaginal dysplasia
+99,N89.3,"Dysplasia of vagina, unspecified"
+100,N89.4,Leukoplakia of vagina
+101,N89.5,Stricture and atresia of vagina
+102,N89.6,Tight hymenal ring
+103,N89.7,Hematocolpos
+104,N89.8,Other specified noninflammatory disorders of vagina
+105,N89.9,"Noninflammatory disorder of vagina, unspecified"
+106,N90.0,Mild vulvar dysplasia
+107,N90.1,Moderate vulvar dysplasia
+108,N90.3,"Dysplasia of vulva, unspecified"
+109,N90.4,Leukoplakia of vulva
+110,N90.5,Atrophy of vulva
+111,N90.60,Unspecified hypertrophy of vulva
+112,N90.61,Childhood asymmetric labium majus enlargement
+113,N90.69,Other specified hypertrophy of vulva
+114,N90.7,Vulvar cyst
+115,N90.810,"Female genital mutilation status, unspecified"
+116,N90.811,Female genital mutilation Type I status
+117,N90.812,Female genital mutilation Type II status
+118,N90.813,Female genital mutilation Type III status
+119,N90.818,Other female genital mutilation status
+120,N90.89,Oth noninflammatory disorders of vulva and perineum
+121,N90.9,"Noninflammatory disorder of vulva and perineum, unspecified"
+122,N91.0,Primary amenorrhea
+123,N91.1,Secondary amenorrhea
+124,N91.2,"Amenorrhea, unspecified"
+125,N91.3,Primary oligomenorrhea
+126,N91.4,Secondary oligomenorrhea
+127,N91.5,"Oligomenorrhea, unspecified"
+128,N92.0,Excessive and frequent menstruation with regular cycle
+129,N92.1,Excessive and frequent menstruation with irregular cycle
+130,N92.2,Excessive menstruation at puberty
+131,N92.3,Ovulation bleeding
+132,N92.4,Excessive bleeding in the premenopausal period
+133,N92.5,Other specified irregular menstruation
+134,N92.6,"Irregular menstruation, unspecified"
+135,N93.0,Postcoital and contact bleeding
+136,N93.1,Prepubertal vaginal bleeding
+137,N93.8,Other specified abnormal uterine and vaginal bleeding
+138,N93.9,"Abnormal uterine and vaginal bleeding, unspecified"
+139,N94.0,Mittelschmerz
+140,N94.10,Unspecified dyspareunia
+141,N94.11,Superficial (introital) dyspareunia
+142,N94.12,Deep dyspareunia
+143,N94.19,Other specified dyspareunia
+144,N94.2,Vaginismus
+145,N94.3,Premenstrual tension syndrome
+146,N94.4,Primary dysmenorrhea
+147,N94.5,Secondary dysmenorrhea
+148,N94.6,"Dysmenorrhea, unspecified"
+149,N94.810,Vulvar vestibulitis
+150,N94.818,Other vulvodynia
+151,N94.819,"Vulvodynia, unspecified"
+152,N94.89,Oth cond assoc w female genital organs and menstrual cycle
+153,N94.9,Unsp cond assoc w female genital organs and menstrual cycle
+154,N95.0,Postmenopausal bleeding
+155,N95.1,Menopausal and female climacteric states
+156,N95.2,Postmenopausal atrophic vaginitis
+157,N95.8,Other specified menopausal and perimenopausal disorders
+158,N95.9,Unspecified menopausal and perimenopausal disorder
+159,Recurrent pregnancy loss (N96),N96  Recurrent pregnancy loss
+160,N96,Recurrent pregnancy loss
+161,N97.0,Female infertility associated with anovulation
+162,N97.1,Female infertility of tubal origin
+163,N97.2,Female infertility of uterine origin
+164,N97.8,Female infertility of other origin
+165,N97.9,"Female infertility, unspecified"
+166,N98.0,Infection associated with artificial insemination
+167,N98.1,Hyperstimulation of ovaries
+168,N98.2,Comp of attempt introduce of fertilized ovum fol in vitro
+169,N98.3,Comp of attempted introduction of embryo in embryo transfer
+170,N98.8,Other complications associated with artificial fertilization
+171,N98.9,"Complication associated with artificial fertilization, unsp"

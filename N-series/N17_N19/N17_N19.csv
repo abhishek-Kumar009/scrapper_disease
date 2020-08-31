@@ -1,0 +1,15 @@
+,category,condition
+0,N17.0,Acute kidney failure with tubular necrosis
+1,N17.1,Acute kidney failure with acute cortical necrosis
+2,N17.2,Acute kidney failure with medullary necrosis
+3,N17.8,Other acute kidney failure
+4,N17.9,"Acute kidney failure, unspecified"
+5,N18.1,"Chronic kidney disease, stage 1"
+6,N18.2,"Chronic kidney disease, stage 2 (mild)"
+7,N18.3,"Chronic kidney disease, stage 3 (moderate)"
+8,N18.4,"Chronic kidney disease, stage 4 (severe)"
+9,N18.5,"Chronic kidney disease, stage 5"
+10,N18.6,End stage renal disease
+11,N18.9,"Chronic kidney disease, unspecified"
+12,Unspecified kidney failure (N19),N19  Unspecified kidney failure
+13,N19,Unspecified kidney failure

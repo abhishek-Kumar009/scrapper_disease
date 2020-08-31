@@ -1,0 +1,43 @@
+,category,condition
+0,N99.0,Postprocedural (acute) (chronic) kidney failure
+1,N99.110,"Postprocedural urethral stricture, male, meatal"
+2,N99.111,"Postprocedural bulbous urethral stricture, male"
+3,N99.112,"Postprocedural membranous urethral stricture, male"
+4,N99.113,"Postprocedural anterior bulbous urethral stricture, male"
+5,N99.114,"Postprocedural urethral stricture, male, unspecified"
+6,N99.115,Postprocedural fossa navicularis urethral stricture
+7,N99.116,"Postprocedural urethral stricture, male, overlapping sites"
+8,N99.12,"Postprocedural urethral stricture, female"
+9,N99.2,Postprocedural adhesions of vagina
+10,N99.3,Prolapse of vaginal vault after hysterectomy
+11,N99.4,Postprocedural pelvic peritoneal adhesions
+12,N99.510,Cystostomy hemorrhage
+13,N99.511,Cystostomy infection
+14,N99.512,Cystostomy malfunction
+15,N99.518,Other cystostomy complication
+16,N99.520,Hemorrhage of incontinent external stoma of urinary tract
+17,N99.521,Infection of incontinent external stoma of urinary tract
+18,N99.522,Malfunction of incontinent external stoma of urinary tract
+19,N99.523,Herniation of incontinent stoma of urinary tract
+20,N99.524,Stenosis of incontinent stoma of urinary tract
+21,N99.528,Other comp of incontinent external stoma of urinary tract
+22,N99.530,Hemorrhage of continent stoma of urinary tract
+23,N99.531,Infection of continent stoma of urinary tract
+24,N99.532,Malfunction of continent stoma of urinary tract
+25,N99.533,Herniation of continent stoma of urinary tract
+26,N99.534,Stenosis of continent stoma of urinary tract
+27,N99.538,Other complication of continent stoma of urinary tract
+28,N99.61,Intraop hemor/hemtom of a GU sys org comp a GU sys procedure
+29,N99.62,Intraop hemor/hemtom of a GU sys org comp oth procedure
+30,N99.71,Acc pnctr & lac of a GU sys org during a GU sys procedure
+31,N99.72,Accidental pnctr & lac of a GU sys org during oth procedure
+32,N99.81,Other intraoperative complications of genitourinary system
+33,N99.820,Postproc hemor of a GU sys org following a GU sys procedure
+34,N99.821,Postproc hemor of a GU sys org following other procedure
+35,N99.83,Residual ovary syndrome
+36,N99.840,Postproc hematoma of a GU sys org fol a GU sys procedure
+37,N99.841,Postproc hematoma of a GU sys org following other procedure
+38,N99.842,Postproc seroma of a GU sys org following a GU sys procedure
+39,N99.843,Postproc seroma of a GU sys org following other procedure
+40,N99.85,Post endometrial ablation syndrome  NEW CODE
+41,N99.89,Oth postprocedural complications and disorders of GU sys

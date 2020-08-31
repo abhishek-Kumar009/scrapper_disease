@@ -1,0 +1,37 @@
+,category,condition
+4,N10,Acute pyelonephritis
+5,N11.0,Nonobstructive refluxassociated chronic pyelonephritis
+6,N11.1,Chronic obstructive pyelonephritis
+7,N11.8,Other chronic tubulointerstitial nephritis
+8,N11.9,"Chronic tubulointerstitial nephritis, unspecified"
+9,"Tubulo-interstitial nephritis, not spcf as acute or chronic (N12)","N12  Tubulointerstitial nephritis, not spcf as acute or chronic"
+10,N12,"Tubulointerstitial nephritis, not spcf as acute or chronic"
+11,N13.0,Hydronephrosis with ureteropelvic junction obstruction
+12,N13.1,"Hydronephrosis w ureteral stricture, NEC"
+13,N13.2,Hydronephrosis with renal and ureteral calculous obstruction
+14,N13.30,Unspecified hydronephrosis
+15,N13.39,Other hydronephrosis
+16,N13.4,Hydroureter
+17,N13.5,Crossing vessel and stricture of ureter w/o hydronephrosis
+18,N13.6,Pyonephrosis
+19,N13.70,"Vesicoureteralreflux, unspecified"
+20,N13.71,Vesicoureteralreflux without reflux nephropathy
+21,N13.721,"Vesicoureterreflux w reflux neuropath w/o hydrourt, unil"
+22,N13.722,"Vesicoureterreflux w reflux neuropath w/o hydrourt, bi"
+23,N13.729,"Vesicoureterreflux w reflux nephropathy w/o hydrourt, unsp"
+24,N13.731,"Vesicoureterreflux w reflux neuropath w hydrourt, unil"
+25,N13.732,"Vesicoureterreflux w reflux neuropath w hydrourt, bilateral"
+26,N13.739,"Vesicoureterreflux w reflux nephropathy w hydroureter, unsp"
+27,N13.8,Other obstructive and reflux uropathy
+28,N13.9,"Obstructive and reflux uropathy, unspecified"
+29,N14.0,Analgesic nephropathy
+30,N14.1,Nephropathy induced by oth drug/meds/biol subst
+31,N14.2,"Neuropath induced by unsp drug, medicament or biolg sub"
+32,N14.3,Nephropathy induced by heavy metals
+33,N14.4,"Toxic nephropathy, not elsewhere classified"
+34,N15.0,Balkan nephropathy
+35,N15.1,Renal and perinephric abscess
+36,N15.8,Other specified renal tubulointerstitial diseases
+37,N15.9,"Renal tubulointerstitial disease, unspecified"
+38,Renal tubulo-interstitial disord in diseases classd elswhr (N16),N16  Renal tubulointerstitial disord in diseases classd elswhr
+39,N16,Renal tubulointerstitial disord in diseases classd elswhr

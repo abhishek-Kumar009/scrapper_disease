@@ -1,0 +1,58 @@
+,category,condition
+0,N60.01,Solitary cyst of right breast
+1,N60.02,Solitary cyst of left breast
+2,N60.09,Solitary cyst of unspecified breast
+3,N60.11,Diffuse cystic mastopathy of right breast
+4,N60.12,Diffuse cystic mastopathy of left breast
+5,N60.19,Diffuse cystic mastopathy of unspecified breast
+6,N60.21,Fibroadenosis of right breast
+7,N60.22,Fibroadenosis of left breast
+8,N60.29,Fibroadenosis of unspecified breast
+9,N60.31,Fibrosclerosis of right breast
+10,N60.32,Fibrosclerosis of left breast
+11,N60.39,Fibrosclerosis of unspecified breast
+12,N60.41,Mammary duct ectasia of right breast
+13,N60.42,Mammary duct ectasia of left breast
+14,N60.49,Mammary duct ectasia of unspecified breast
+15,N60.81,Other benign mammary dysplasias of right breast
+16,N60.82,Other benign mammary dysplasias of left breast
+17,N60.89,Other benign mammary dysplasias of unspecified breast
+18,N60.91,Unspecified benign mammary dysplasia of right breast
+19,N60.92,Unspecified benign mammary dysplasia of left breast
+20,N60.99,Unspecified benign mammary dysplasia of unspecified breast
+21,N61.0,Mastitis without abscess
+22,N61.1,Abscess of the breast and nipple
+23,Hypertrophy of breast (N62),N62  Hypertrophy of breast
+24,N62,Hypertrophy of breast
+25,N63.0,Unspecified lump in unspecified breast
+26,N63.10,"Unspecified lump in the right breast, unspecified quadrant"
+27,N63.11,"Unspecified lump in the right breast, upper outer quadrant"
+28,N63.12,"Unspecified lump in the right breast, upper inner quadrant"
+29,N63.13,"Unspecified lump in the right breast, lower outer quadrant"
+30,N63.14,"Unspecified lump in the right breast, lower inner quadrant"
+31,N63.15,"Unspecified lump in the right breast, overlapping quadrants  NEW CODE"
+32,N63.20,"Unspecified lump in the left breast, unspecified quadrant"
+33,N63.21,"Unspecified lump in the left breast, upper outer quadrant"
+34,N63.22,"Unspecified lump in the left breast, upper inner quadrant"
+35,N63.23,"Unspecified lump in the left breast, lower outer quadrant"
+36,N63.24,"Unspecified lump in the left breast, lower inner quadrant"
+37,N63.25,"Unspecified lump in the left breast, overlapping quadrants  NEW CODE"
+38,N63.31,Unspecified lump in axillary tail of the right breast
+39,N63.32,Unspecified lump in axillary tail of the left breast
+40,N63.41,"Unspecified lump in right breast, subareolar"
+41,N63.42,"Unspecified lump in left breast, subareolar"
+42,N64.0,Fissure and fistula of nipple
+43,N64.1,Fat necrosis of breast
+44,N64.2,Atrophy of breast
+45,N64.3,Galactorrhea not associated with childbirth
+46,N64.4,Mastodynia
+47,N64.51,Induration of breast
+48,N64.52,Nipple discharge
+49,N64.53,Retraction of nipple
+50,N64.59,Other signs and symptoms in breast
+51,N64.81,Ptosis of breast
+52,N64.82,Hypoplasia of breast
+53,N64.89,Other specified disorders of breast
+54,N64.9,"Disorder of breast, unspecified"
+55,N65.0,Deformity of reconstructed breast
+56,N65.1,Disproportion of reconstructed breast

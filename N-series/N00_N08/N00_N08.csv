@@ -1,0 +1,83 @@
+,category,condition
+0,N00.0,Acute nephritic syndrome with minor glomerular abnormality
+1,N00.1,Acute neph syndrome w focal and segmental glomerular lesions
+2,N00.2,Acute nephritic syndrome w diffuse membranous glomrlneph
+3,N00.3,Acute neph syndrome w diffuse mesangial prolif glomrlneph
+4,N00.4,Acute neph syndrome w diffuse endocaplry prolif glomrlneph
+5,N00.5,Acute nephritic syndrome w diffuse mesangiocap glomrlneph
+6,N00.6,Acute nephritic syndrome with dense deposit disease
+7,N00.7,Acute nephritic syndrome w diffuse crescentic glomrlneph
+8,N00.8,Acute nephritic syndrome with other morphologic changes
+9,N00.9,Acute nephritic syndrome with unsp morphologic changes
+10,N01.0,Rapidly progr nephritic syndrome w minor glomerular abnlt
+11,N01.1,Rapidly progr neph synd w focal and seg glomerular lesions
+12,N01.2,Rapidly progr neph syndrome w diffuse membranous glomrlneph
+13,N01.3,Rapidly progr neph synd w diffus mesangial prolif glomrlneph
+14,N01.4,Rapid progr neph synd w diffus endocaplry prolif glomrlneph
+15,N01.5,Rapidly progr neph syndrome w diffuse mesangiocap glomrlneph
+16,N01.6,Rapidly progr nephritic syndrome w dense deposit disease
+17,N01.7,Rapidly progr neph syndrome w diffuse crescentic glomrlneph
+18,N01.8,Rapidly progr nephritic syndrome w oth morphologic changes
+19,N01.9,Rapidly progr nephritic syndrome w unsp morphologic changes
+20,N02.0,Recurrent and persistent hematuria w minor glomerular abnlt
+21,N02.1,Recur and perst hematur w focal and seg glomerular lesions
+22,N02.2,Recurrent and perst hematur w diffuse membranous glomrlneph
+23,N02.3,Recur and perst hematur w diffus mesangial prolif glomrlneph
+24,N02.4,Recur & perst hematur w diffus endocaplry prolif glomrlneph
+25,N02.5,Recurrent and perst hematur w diffuse mesangiocap glomrlneph
+26,N02.6,Recurrent and persistent hematuria w dense deposit disease
+27,N02.7,Recurrent and perst hematur w diffuse crescentic glomrlneph
+28,N02.8,Recurrent and persistent hematuria w oth morphologic changes
+29,N02.9,Recurrent and perst hematuria w unsp morphologic changes
+30,N03.0,Chronic nephritic syndrome with minor glomerular abnormality
+31,N03.1,Chronic neph syndrome w focal and seg glomerular lesions
+32,N03.2,Chronic nephritic syndrome w diffuse membranous glomrlneph
+33,N03.3,Chronic neph syndrome w diffuse mesangial prolif glomrlneph
+34,N03.4,Chronic neph syndrome w diffuse endocaplry prolif glomrlneph
+35,N03.5,Chronic nephritic syndrome w diffuse mesangiocap glomrlneph
+36,N03.6,Chronic nephritic syndrome with dense deposit disease
+37,N03.7,Chronic nephritic syndrome w diffuse crescentic glomrlneph
+38,N03.8,Chronic nephritic syndrome with other morphologic changes
+39,N03.9,Chronic nephritic syndrome with unsp morphologic changes
+40,N04.0,Nephrotic syndrome with minor glomerular abnormality
+41,N04.1,Nephrotic syndrome w focal and segmental glomerular lesions
+42,N04.2,Nephrotic syndrome w diffuse membranous glomerulonephritis
+43,N04.3,Nephrotic syndrome w diffuse mesangial prolif glomrlneph
+44,N04.4,Nephrotic syndrome w diffuse endocaplry prolif glomrlneph
+45,N04.5,Nephrotic syndrome w diffuse mesangiocapillary glomrlneph
+46,N04.6,Nephrotic syndrome with dense deposit disease
+47,N04.7,Nephrotic syndrome w diffuse crescentic glomerulonephritis
+48,N04.8,Nephrotic syndrome with other morphologic changes
+49,N04.9,Nephrotic syndrome with unspecified morphologic changes
+50,N05.0,Unsp nephritic syndrome with minor glomerular abnormality
+51,N05.1,Unsp neph syndrome w focal and segmental glomerular lesions
+52,N05.2,Unsp nephritic syndrome w diffuse membranous glomrlneph
+53,N05.3,Unsp neph syndrome w diffuse mesangial prolif glomrlneph
+54,N05.4,Unsp neph syndrome w diffuse endocaplry prolif glomrlneph
+55,N05.5,Unsp nephritic syndrome w diffuse mesangiocap glomrlneph
+56,N05.6,Unspecified nephritic syndrome with dense deposit disease
+57,N05.7,Unsp nephritic syndrome w diffuse crescentic glomrlneph
+58,N05.8,Unsp nephritic syndrome with other morphologic changes
+59,N05.9,Unsp nephritic syndrome with unspecified morphologic changes
+60,N06.0,Isolated proteinuria with minor glomerular abnormality
+61,N06.1,Isolated protein w focal and segmental glomerular lesions
+62,N06.2,Isolated proteinuria w diffuse membranous glomerulonephritis
+63,N06.3,Isolated proteinuria w diffuse mesangial prolif glomrlneph
+64,N06.4,Isolated proteinuria w diffuse endocaplry prolif glomrlneph
+65,N06.5,Isolated proteinuria w diffuse mesangiocapillary glomrlneph
+66,N06.6,Isolated proteinuria with dense deposit disease
+67,N06.7,Isolated proteinuria w diffuse crescentic glomerulonephritis
+68,N06.8,Isolated proteinuria with other morphologic lesion
+69,N06.9,Isolated proteinuria with unspecified morphologic lesion
+70,N07.0,"Hereditary nephropathy, NEC w minor glomerular abnormality"
+71,N07.1,"Heredit neuropath, NEC w focal and seg glomerular lesions"
+72,N07.2,"Hereditary nephropathy, NEC w diffuse membranous glomrlneph"
+73,N07.3,"Heredit neuropath, NEC w diffuse mesangial prolif glomrlneph"
+74,N07.4,"Heredit neuropath, NEC w diffus endocaplry prolif glomrlneph"
+75,N07.5,"Hereditary nephropathy, NEC w diffuse mesangiocap glomrlneph"
+76,N07.6,"Hereditary nephropathy, NEC w dense deposit disease"
+77,N07.7,"Hereditary nephropathy, NEC w diffuse crescentic glomrlneph"
+78,N07.8,"Hereditary nephropathy, NEC w oth morphologic lesions"
+79,N07.9,"Hereditary nephropathy, NEC w unsp morphologic lesions"
+80,Glomerular disorders in diseases classified elsewhere (N08),N08  Glomerular disorders in diseases classified elsewhere
+81,N08,Glomerular disorders in diseases classified elsewhere
