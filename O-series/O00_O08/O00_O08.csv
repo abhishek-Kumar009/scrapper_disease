@@ -1,0 +1,95 @@
+,category,condition
+0,O00.00,Abdominal pregnancy without intrauterine pregnancy
+1,O00.01,Abdominal pregnancy with intrauterine pregnancy
+2,O00.101,Right tubal pregnancy without intrauterine pregnancy
+3,O00.102,Left tubal pregnancy without intrauterine pregnancy
+4,O00.109,Unspecified tubal pregnancy without intrauterine pregnancy
+5,O00.111,Right tubal pregnancy with intrauterine pregnancy
+6,O00.112,Left tubal pregnancy with intrauterine pregnancy
+7,O00.119,Unspecified tubal pregnancy with intrauterine pregnancy
+8,O00.201,Right ovarian pregnancy without intrauterine pregnancy
+9,O00.202,Left ovarian pregnancy without intrauterine pregnancy
+10,O00.209,Unspecified ovarian pregnancy without intrauterine pregnancy
+11,O00.211,Right ovarian pregnancy with intrauterine pregnancy
+12,O00.212,Left ovarian pregnancy with intrauterine pregnancy
+13,O00.219,Unspecified ovarian pregnancy with intrauterine pregnancy
+14,O00.80,Other ectopic pregnancy without intrauterine pregnancy
+15,O00.81,Other ectopic pregnancy with intrauterine pregnancy
+16,O00.90,Unspecified ectopic pregnancy without intrauterine pregnancy
+17,O00.91,Unspecified ectopic pregnancy with intrauterine pregnancy
+18,O01.0,Classical hydatidiform mole
+19,O01.1,Incomplete and partial hydatidiform mole
+20,O01.9,"Hydatidiform mole, unspecified"
+21,O02.0,Blighted ovum and nonhydatidiform mole
+22,O02.1,Missed abortion
+23,O02.81,Inapprop chg quantitav hCG in early pregnancy
+24,O02.89,Other abnormal products of conception
+25,O02.9,"Abnormal product of conception, unspecified"
+26,O03.0,Genitl trct and pelvic infection fol incmpl spon abortion
+27,O03.1,Delayed or excessive hemor following incmpl spon abortion
+28,O03.2,Embolism following incomplete spontaneous abortion
+29,O03.30,Unsp complication following incomplete spontaneous abortion
+30,O03.31,Shock following incomplete spontaneous abortion
+31,O03.32,Renal failure following incomplete spontaneous abortion
+32,O03.33,Metabolic disorder following incomplete spontaneous abortion
+33,O03.34,Damage to pelvic organs following incomplete spon abortion
+34,O03.35,Oth venous comp following incomplete spontaneous abortion
+35,O03.36,Cardiac arrest following incomplete spontaneous abortion
+36,O03.37,Sepsis following incomplete spontaneous abortion
+37,O03.38,Urinary tract infection following incomplete spon abortion
+38,O03.39,Incomplete spontaneous abortion with other complications
+39,O03.4,Incomplete spontaneous abortion without complication
+40,O03.5,Genitl trct and pelvic infct fol complete or unsp spon abort
+41,O03.6,Delayed or excess hemor fol complete or unsp spon abortion
+42,O03.7,Embolism following complete or unsp spontaneous abortion
+43,O03.80,Unsp comp following complete or unsp spontaneous abortion
+44,O03.81,Shock following complete or unspecified spontaneous abortion
+45,O03.82,Renal failure following complete or unsp spon abortion
+46,O03.83,Metabolic disorder following complete or unsp spon abortion
+47,O03.84,Damage to pelvic organs fol complete or unsp spon abortion
+48,O03.85,Oth venous comp following complete or unsp spon abortion
+49,O03.86,Cardiac arrest following complete or unsp spon abortion
+50,O03.87,Sepsis following complete or unsp spontaneous abortion
+51,O03.88,Urinary tract infection fol complete or unsp spon abortion
+52,O03.89,Complete or unsp spontaneous abortion with oth complications
+53,O03.9,Complete or unsp spontaneous abortion without complication
+54,O04.5,Genitl trct and pelvic infct fol (induced) term of pregnancy
+55,O04.6,Delayed or excess hemor fol (induced) term of pregnancy
+56,O04.7,Embolism following (induced) termination of pregnancy
+57,O04.80,(Induced) termination of pregnancy with unsp complications
+58,O04.81,Shock following (induced) termination of pregnancy
+59,O04.82,Renal failure following (induced) termination of pregnancy
+60,O04.83,Metabolic disorder following (induced) term of pregnancy
+61,O04.84,Damage to pelvic organs fol (induced) term of pregnancy
+62,O04.85,Oth venous comp following (induced) termination of pregnancy
+63,O04.86,Cardiac arrest following (induced) termination of pregnancy
+64,O04.87,Sepsis following (induced) termination of pregnancy
+65,O04.88,Urinary tract infection fol (induced) term of pregnancy
+66,O04.89,(Induced) termination of pregnancy with other complications
+67,O07.0,Genitl trct and pelvic infct fol failed attempt term of preg
+68,O07.1,Delayed or excess hemor fol failed attempt term of pregnancy
+69,O07.2,Embolism following failed attempted termination of pregnancy
+70,O07.30,Failed attempted termination of pregnancy w unsp comp
+71,O07.31,Shock following failed attempted termination of pregnancy
+72,O07.32,Renal failure following failed attempted term of pregnancy
+73,O07.33,Metabolic disorder fol failed attempt term of pregnancy
+74,O07.34,Damage to pelvic organs fol failed attempt term of pregnancy
+75,O07.35,Oth venous comp following failed attempted term of pregnancy
+76,O07.36,Cardiac arrest following failed attempted term of pregnancy
+77,O07.37,Sepsis following failed attempted termination of pregnancy
+78,O07.38,Urinary tract infection fol failed attempt term of pregnancy
+79,O07.39,Failed attempted termination of pregnancy w oth comp
+80,O07.4,Failed attempted termination of pregnancy w/o complication
+81,O08.0,Genitl trct and pelvic infct fol ectopic and molar pregnancy
+82,O08.1,Delayed or excess hemor fol ectopic and molar pregnancy
+83,O08.2,Embolism following ectopic and molar pregnancy
+84,O08.3,Shock following ectopic and molar pregnancy
+85,O08.4,Renal failure following ectopic and molar pregnancy
+86,O08.5,Metabolic disorders following an ectopic and molar pregnancy
+87,O08.6,Damage to pelvic organs and tiss fol an ect and molar preg
+88,O08.7,Oth venous comp following an ectopic and molar pregnancy
+89,O08.81,Cardiac arrest following an ectopic and molar pregnancy
+90,O08.82,Sepsis following ectopic and molar pregnancy
+91,O08.83,Urinary tract infection fol an ectopic and molar pregnancy
+92,O08.89,Other complications following an ectopic and molar pregnancy
+93,O08.9,Unsp complication following an ectopic and molar pregnancy

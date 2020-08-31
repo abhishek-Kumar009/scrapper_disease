@@ -1,0 +1,114 @@
+,category,condition
+4,O85,Puerperal sepsis
+5,O86.00,"Infection of obstetric surgical wound, unspecified"
+6,O86.01,"Infct of obstetric surgical wound, superfic incisional site"
+7,O86.02,"Infection of obstetric surgical wound, deep incisional site"
+8,O86.03,"Infection of obstetric surgical wound, organ and space site"
+9,O86.04,Sepsis following an obstetrical procedure
+10,O86.09,"Infection of obstetric surgical wound, other surgical site"
+11,O86.11,Cervicitis following delivery
+12,O86.12,Endometritis following delivery
+13,O86.13,Vaginitis following delivery
+14,O86.19,Other infection of genital tract following delivery
+15,O86.20,"Urinary tract infection following delivery, unspecified"
+16,O86.21,Infection of kidney following delivery
+17,O86.22,Infection of bladder following delivery
+18,O86.29,Other urinary tract infection following delivery
+19,O86.4,Pyrexia of unknown origin following delivery
+20,O86.81,Puerperal septic thrombophlebitis
+21,O86.89,Other specified puerperal infections
+22,O87.0,Superficial thrombophlebitis in the puerperium
+23,O87.1,Deep phlebothrombosis in the puerperium
+24,O87.2,Hemorrhoids in the puerperium
+25,O87.3,Cerebral venous thrombosis in the puerperium
+26,O87.4,Varicose veins of lower extremity in the puerperium
+27,O87.8,Other venous complications in the puerperium
+28,O87.9,"Venous complication in the puerperium, unspecified"
+29,O88.011,"Air embolism in pregnancy, first trimester"
+30,O88.012,"Air embolism in pregnancy, second trimester"
+31,O88.013,"Air embolism in pregnancy, third trimester"
+32,O88.019,"Air embolism in pregnancy, unspecified trimester"
+33,O88.02,Air embolism in childbirth
+34,O88.03,Air embolism in the puerperium
+35,O88.111,"Amniotic fluid embolism in pregnancy, first trimester"
+36,O88.112,"Amniotic fluid embolism in pregnancy, second trimester"
+37,O88.113,"Amniotic fluid embolism in pregnancy, third trimester"
+38,O88.119,"Amniotic fluid embolism in pregnancy, unspecified trimester"
+39,O88.12,Amniotic fluid embolism in childbirth
+40,O88.13,Amniotic fluid embolism in the puerperium
+41,O88.211,"Thromboembolism in pregnancy, first trimester"
+42,O88.212,"Thromboembolism in pregnancy, second trimester"
+43,O88.213,"Thromboembolism in pregnancy, third trimester"
+44,O88.219,"Thromboembolism in pregnancy, unspecified trimester"
+45,O88.22,Thromboembolism in childbirth
+46,O88.23,Thromboembolism in the puerperium
+47,O88.311,"Pyemic and septic embolism in pregnancy, first trimester"
+48,O88.312,"Pyemic and septic embolism in pregnancy, second trimester"
+49,O88.313,"Pyemic and septic embolism in pregnancy, third trimester"
+50,O88.319,"Pyemic and septic embolism in pregnancy, unsp trimester"
+51,O88.32,Pyemic and septic embolism in childbirth
+52,O88.33,Pyemic and septic embolism in the puerperium
+53,O88.811,"Other embolism in pregnancy, first trimester"
+54,O88.812,"Other embolism in pregnancy, second trimester"
+55,O88.813,"Other embolism in pregnancy, third trimester"
+56,O88.819,"Other embolism in pregnancy, unspecified trimester"
+57,O88.82,Other embolism in childbirth
+58,O88.83,Other embolism in the puerperium
+59,O89.01,Aspiration pneumonitis due to anesth during the puerperium
+60,O89.09,Oth pulmonary comp of anesthesia during the puerperium
+61,O89.1,Cardiac complications of anesthesia during the puerperium
+62,O89.2,Cnsl complications of anesthesia during the puerperium
+63,O89.3,Toxic reaction to local anesthesia during the puerperium
+64,O89.4,Spinal and epidur anesthesiainduced hdache during the puerp
+65,O89.5,Oth comp of spinal and epidural anesth during the puerperium
+66,O89.6,Failed or difficult intubation for anesth during the puerp
+67,O89.8,Other complications of anesthesia during the puerperium
+68,O89.9,"Complication of anesthesia during the puerperium, unsp"
+69,O90.0,Disruption of cesarean delivery wound
+70,O90.1,Disruption of perineal obstetric wound
+71,O90.2,Hematoma of obstetric wound
+72,O90.3,Peripartum cardiomyopathy
+73,O90.4,Postpartum acute kidney failure
+74,O90.5,Postpartum thyroiditis
+75,O90.6,Postpartum mood disturbance
+76,O90.81,Anemia of the puerperium
+77,O90.89,"Oth complications of the puerperium, NEC"
+78,O90.9,"Complication of the puerperium, unspecified"
+79,O91.011,"Infection of nipple associated w pregnancy, first trimester"
+80,O91.012,"Infection of nipple associated w pregnancy, second trimester"
+81,O91.013,"Infection of nipple associated w pregnancy, third trimester"
+82,O91.019,"Infection of nipple associated w pregnancy, unsp trimester"
+83,O91.02,Infection of nipple associated with the puerperium
+84,O91.03,Infection of nipple associated with lactation
+85,O91.111,"Abscess of breast associated with pregnancy, first trimester"
+86,O91.112,"Abscess of breast associated w pregnancy, second trimester"
+87,O91.113,"Abscess of breast associated with pregnancy, third trimester"
+88,O91.119,"Abscess of breast associated with pregnancy, unsp trimester"
+89,O91.12,Abscess of breast associated with the puerperium
+90,O91.13,Abscess of breast associated with lactation
+91,O91.211,"Nonpurulent mastitis associated w pregnancy, first trimester"
+92,O91.212,"Nonpurulent mastitis assoc w pregnancy, second trimester"
+93,O91.213,"Nonpurulent mastitis associated w pregnancy, third trimester"
+94,O91.219,"Nonpurulent mastitis associated w pregnancy, unsp trimester"
+95,O91.22,Nonpurulent mastitis associated with the puerperium
+96,O91.23,Nonpurulent mastitis associated with lactation
+97,O92.011,"Retracted nipple associated with pregnancy, first trimester"
+98,O92.012,"Retracted nipple associated with pregnancy, second trimester"
+99,O92.013,"Retracted nipple associated with pregnancy, third trimester"
+100,O92.019,"Retracted nipple associated with pregnancy, unsp trimester"
+101,O92.02,Retracted nipple associated with the puerperium
+102,O92.03,Retracted nipple associated with lactation
+103,O92.111,"Cracked nipple associated with pregnancy, first trimester"
+104,O92.112,"Cracked nipple associated with pregnancy, second trimester"
+105,O92.113,"Cracked nipple associated with pregnancy, third trimester"
+106,O92.119,"Cracked nipple associated with pregnancy, unsp trimester"
+107,O92.12,Cracked nipple associated with the puerperium
+108,O92.13,Cracked nipple associated with lactation
+109,O92.20,Unsp disorder of breast assoc w pregnancy and the puerperium
+110,O92.29,Oth disorders of breast assoc w pregnancy and the puerperium
+111,O92.3,Agalactia
+112,O92.4,Hypogalactia
+113,O92.5,Suppressed lactation
+114,O92.6,Galactorrhea
+115,O92.70,Unspecified disorders of lactation
+116,O92.79,Other disorders of lactation

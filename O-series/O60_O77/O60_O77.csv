@@ -1,0 +1,272 @@
+,category,condition
+0,O60.00,"Preterm labor without delivery, unspecified trimester"
+1,O60.02,"Preterm labor without delivery, second trimester"
+2,O60.03,"Preterm labor without delivery, third trimester"
+3,O60.10X0,"Preterm labor w preterm delivery, unsp trimester, unsp"
+4,O60.10X1,"Preterm labor with preterm delivery, unsp trimester, fetus 1"
+5,O60.10X2,"Preterm labor with preterm delivery, unsp trimester, fetus 2"
+6,O60.10X3,"Preterm labor with preterm delivery, unsp trimester, fetus 3"
+7,O60.10X4,"Preterm labor with preterm delivery, unsp trimester, fetus 4"
+8,O60.10X5,"Preterm labor with preterm delivery, unsp trimester, fetus 5"
+9,O60.10X9,"Preterm labor w preterm delivery, unsp trimester, oth fetus"
+10,O60.12X0,"Preterm labor second tri w preterm delivery second tri, unsp"
+11,O60.12X1,"Preterm labor second tri w preterm del second tri, fetus 1"
+12,O60.12X2,"Preterm labor second tri w preterm del second tri, fetus 2"
+13,O60.12X3,"Preterm labor second tri w preterm del second tri, fetus 3"
+14,O60.12X4,"Preterm labor second tri w preterm del second tri, fetus 4"
+15,O60.12X5,"Preterm labor second tri w preterm del second tri, fetus 5"
+16,O60.12X9,"Preterm labor second tri w preterm delivery second tri, oth"
+17,O60.13X0,"Preterm labor second tri w preterm delivery third tri, unsp"
+18,O60.13X1,"Preterm labor second tri w preterm del third tri, fetus 1"
+19,O60.13X2,"Preterm labor second tri w preterm del third tri, fetus 2"
+20,O60.13X3,"Preterm labor second tri w preterm del third tri, fetus 3"
+21,O60.13X4,"Preterm labor second tri w preterm del third tri, fetus 4"
+22,O60.13X5,"Preterm labor second tri w preterm del third tri, fetus 5"
+23,O60.13X9,"Preterm labor second tri w preterm delivery third tri, oth"
+24,O60.14X0,"Preterm labor third tri w preterm delivery third tri, unsp"
+25,O60.14X1,"Preterm labor third tri w preterm del third tri, fetus 1"
+26,O60.14X2,"Preterm labor third tri w preterm del third tri, fetus 2"
+27,O60.14X3,"Preterm labor third tri w preterm del third tri, fetus 3"
+28,O60.14X4,"Preterm labor third tri w preterm del third tri, fetus 4"
+29,O60.14X5,"Preterm labor third tri w preterm del third tri, fetus 5"
+30,O60.14X9,"Preterm labor third tri w preterm delivery third tri, oth"
+31,O60.20X0,"Term delivery w preterm labor, unsp trimester, unsp"
+32,O60.20X1,"Term delivery with preterm labor, unsp trimester, fetus 1"
+33,O60.20X2,"Term delivery with preterm labor, unsp trimester, fetus 2"
+34,O60.20X3,"Term delivery with preterm labor, unsp trimester, fetus 3"
+35,O60.20X4,"Term delivery with preterm labor, unsp trimester, fetus 4"
+36,O60.20X5,"Term delivery with preterm labor, unsp trimester, fetus 5"
+37,O60.20X9,"Term delivery with preterm labor, unsp trimester, oth fetus"
+38,O60.22X0,"Term delivery w preterm labor, second trimester, unsp"
+39,O60.22X1,"Term delivery with preterm labor, second trimester, fetus 1"
+40,O60.22X2,"Term delivery with preterm labor, second trimester, fetus 2"
+41,O60.22X3,"Term delivery with preterm labor, second trimester, fetus 3"
+42,O60.22X4,"Term delivery with preterm labor, second trimester, fetus 4"
+43,O60.22X5,"Term delivery with preterm labor, second trimester, fetus 5"
+44,O60.22X9,"Term delivery w preterm labor, second trimester, oth fetus"
+45,O60.23X0,"Term delivery w preterm labor, third trimester, unsp"
+46,O60.23X1,"Term delivery with preterm labor, third trimester, fetus 1"
+47,O60.23X2,"Term delivery with preterm labor, third trimester, fetus 2"
+48,O60.23X3,"Term delivery with preterm labor, third trimester, fetus 3"
+49,O60.23X4,"Term delivery with preterm labor, third trimester, fetus 4"
+50,O60.23X5,"Term delivery with preterm labor, third trimester, fetus 5"
+51,O60.23X9,"Term delivery with preterm labor, third trimester, oth fetus"
+52,O61.0,Failed medical induction of labor
+53,O61.1,Failed instrumental induction of labor
+54,O61.8,Other failed induction of labor
+55,O61.9,"Failed induction of labor, unspecified"
+56,O62.0,Primary inadequate contractions
+57,O62.1,Secondary uterine inertia
+58,O62.2,Other uterine inertia
+59,O62.3,Precipitate labor
+60,O62.4,"Hypertonic, incoordinate, and prolonged uterine contractions"
+61,O62.8,Other abnormalities of forces of labor
+62,O62.9,"Abnormality of forces of labor, unspecified"
+63,O63.0,Prolonged first stage (of labor)
+64,O63.1,Prolonged second stage (of labor)
+65,O63.2,"Delayed delivery of second twin, triplet, etc."
+66,O63.9,"Long labor, unspecified"
+67,O64.0XX0,"Obstructed labor due to incmpl rotation of fetal head, unsp"
+68,O64.0XX1,"Obst labor due to incmpl rotation of fetal head, fetus 1"
+69,O64.0XX2,"Obst labor due to incmpl rotation of fetal head, fetus 2"
+70,O64.0XX3,"Obst labor due to incmpl rotation of fetal head, fetus 3"
+71,O64.0XX4,"Obst labor due to incmpl rotation of fetal head, fetus 4"
+72,O64.0XX5,"Obst labor due to incmpl rotation of fetal head, fetus 5"
+73,O64.0XX9,"Obstructed labor due to incmpl rotation of fetal head, oth"
+74,O64.1XX0,"Obstructed labor due to breech presentation, unsp"
+75,O64.1XX1,"Obstructed labor due to breech presentation, fetus 1"
+76,O64.1XX2,"Obstructed labor due to breech presentation, fetus 2"
+77,O64.1XX3,"Obstructed labor due to breech presentation, fetus 3"
+78,O64.1XX4,"Obstructed labor due to breech presentation, fetus 4"
+79,O64.1XX5,"Obstructed labor due to breech presentation, fetus 5"
+80,O64.1XX9,"Obstructed labor due to breech presentation, other fetus"
+81,O64.2XX0,"Obstructed labor due to face presentation, unsp"
+82,O64.2XX1,"Obstructed labor due to face presentation, fetus 1"
+83,O64.2XX2,"Obstructed labor due to face presentation, fetus 2"
+84,O64.2XX3,"Obstructed labor due to face presentation, fetus 3"
+85,O64.2XX4,"Obstructed labor due to face presentation, fetus 4"
+86,O64.2XX5,"Obstructed labor due to face presentation, fetus 5"
+87,O64.2XX9,"Obstructed labor due to face presentation, other fetus"
+88,O64.3XX0,"Obstructed labor due to brow presentation, unsp"
+89,O64.3XX1,"Obstructed labor due to brow presentation, fetus 1"
+90,O64.3XX2,"Obstructed labor due to brow presentation, fetus 2"
+91,O64.3XX3,"Obstructed labor due to brow presentation, fetus 3"
+92,O64.3XX4,"Obstructed labor due to brow presentation, fetus 4"
+93,O64.3XX5,"Obstructed labor due to brow presentation, fetus 5"
+94,O64.3XX9,"Obstructed labor due to brow presentation, other fetus"
+95,O64.4XX0,"Obstructed labor due to shoulder presentation, unsp"
+96,O64.4XX1,"Obstructed labor due to shoulder presentation, fetus 1"
+97,O64.4XX2,"Obstructed labor due to shoulder presentation, fetus 2"
+98,O64.4XX3,"Obstructed labor due to shoulder presentation, fetus 3"
+99,O64.4XX4,"Obstructed labor due to shoulder presentation, fetus 4"
+100,O64.4XX5,"Obstructed labor due to shoulder presentation, fetus 5"
+101,O64.4XX9,"Obstructed labor due to shoulder presentation, other fetus"
+102,O64.5XX0,"Obstructed labor due to compound presentation, unsp"
+103,O64.5XX1,"Obstructed labor due to compound presentation, fetus 1"
+104,O64.5XX2,"Obstructed labor due to compound presentation, fetus 2"
+105,O64.5XX3,"Obstructed labor due to compound presentation, fetus 3"
+106,O64.5XX4,"Obstructed labor due to compound presentation, fetus 4"
+107,O64.5XX5,"Obstructed labor due to compound presentation, fetus 5"
+108,O64.5XX9,"Obstructed labor due to compound presentation, other fetus"
+109,O64.8XX0,"Obstructed labor due to oth malposition and malpresent, unsp"
+110,O64.8XX1,"Obstructed labor due to oth malpos and malpresent, fetus 1"
+111,O64.8XX2,"Obstructed labor due to oth malpos and malpresent, fetus 2"
+112,O64.8XX3,"Obstructed labor due to oth malpos and malpresent, fetus 3"
+113,O64.8XX4,"Obstructed labor due to oth malpos and malpresent, fetus 4"
+114,O64.8XX5,"Obstructed labor due to oth malpos and malpresent, fetus 5"
+115,O64.8XX9,"Obstructed labor due to oth malposition and malpresent, oth"
+116,O64.9XX0,"Obstructed labor due to malpos and malpresent, unsp, unsp"
+117,O64.9XX1,"Obstructed labor due to malpos and malpresent, unsp, fetus 1"
+118,O64.9XX2,"Obstructed labor due to malpos and malpresent, unsp, fetus 2"
+119,O64.9XX3,"Obstructed labor due to malpos and malpresent, unsp, fetus 3"
+120,O64.9XX4,"Obstructed labor due to malpos and malpresent, unsp, fetus 4"
+121,O64.9XX5,"Obstructed labor due to malpos and malpresent, unsp, fetus 5"
+122,O64.9XX9,"Obstructed labor due to malpos and malpresent, unsp, oth"
+123,O65.0,Obstructed labor due to deformed pelvis
+124,O65.1,Obstructed labor due to generally contracted pelvis
+125,O65.2,Obstructed labor due to pelvic inlet contraction
+126,O65.3,Obst labor due to pelvic outlet and midcavity contrctn
+127,O65.4,"Obstructed labor due to fetopelvic disproportion, unsp"
+128,O65.5,Obstructed labor due to abnlt of maternal pelvic organs
+129,O65.8,Obstructed labor due to other maternal pelvic abnormalities
+130,O65.9,"Obstructed labor due to maternal pelvic abnormality, unsp"
+131,O66.0,Obstructed labor due to shoulder dystocia
+132,O66.1,Obstructed labor due to locked twins
+133,O66.2,Obstructed labor due to unusually large fetus
+134,O66.3,Obstructed labor due to other abnormalities of fetus
+135,O66.40,"Failed trial of labor, unspecified"
+136,O66.41,Failed attempt vaginal birth after previous cesarean del
+137,O66.5,Attempted application of vacuum extractor and forceps
+138,O66.6,Obstructed labor due to other multiple fetuses
+139,O66.8,Other specified obstructed labor
+140,O66.9,"Obstructed labor, unspecified"
+141,O67.0,Intrapartum hemorrhage with coagulation defect
+142,O67.8,Other intrapartum hemorrhage
+143,O67.9,"Intrapartum hemorrhage, unspecified"
+144,Labor and delivery comp by abnlt of fetal acid-base balance (O68),O68  Labor and delivery comp by abnlt of fetal acidbase balance
+145,O68,Labor and delivery comp by abnlt of fetal acidbase balance
+146,O69.0XX0,"Labor and delivery complicated by prolapse of cord, unsp"
+147,O69.0XX1,"Labor and delivery complicated by prolapse of cord, fetus 1"
+148,O69.0XX2,"Labor and delivery complicated by prolapse of cord, fetus 2"
+149,O69.0XX3,"Labor and delivery complicated by prolapse of cord, fetus 3"
+150,O69.0XX4,"Labor and delivery complicated by prolapse of cord, fetus 4"
+151,O69.0XX5,"Labor and delivery complicated by prolapse of cord, fetus 5"
+152,O69.0XX9,"Labor and delivery complicated by prolapse of cord, oth"
+153,O69.1XX0,"Labor and delivery comp by cord around neck, w comprsn, unsp"
+154,O69.1XX1,"Labor and del comp by cord around neck, w comprsn, fetus 1"
+155,O69.1XX2,"Labor and del comp by cord around neck, w comprsn, fetus 2"
+156,O69.1XX3,"Labor and del comp by cord around neck, w comprsn, fetus 3"
+157,O69.1XX4,"Labor and del comp by cord around neck, w comprsn, fetus 4"
+158,O69.1XX5,"Labor and del comp by cord around neck, w comprsn, fetus 5"
+159,O69.1XX9,"Labor and delivery comp by cord around neck, w comprsn, oth"
+160,O69.2XX0,"Labor and del comp by oth cord entangle, w comprsn, unsp"
+161,O69.2XX1,"Labor and del comp by oth cord entangle, w comprsn, fetus 1"
+162,O69.2XX2,"Labor and del comp by oth cord entangle, w comprsn, fetus 2"
+163,O69.2XX3,"Labor and del comp by oth cord entangle, w comprsn, fetus 3"
+164,O69.2XX4,"Labor and del comp by oth cord entangle, w comprsn, fetus 4"
+165,O69.2XX5,"Labor and del comp by oth cord entangle, w comprsn, fetus 5"
+166,O69.2XX9,"Labor and delivery comp by oth cord entangle, w comprsn, oth"
+167,O69.3XX0,"Labor and delivery complicated by short cord, unsp"
+168,O69.3XX1,"Labor and delivery complicated by short cord, fetus 1"
+169,O69.3XX2,"Labor and delivery complicated by short cord, fetus 2"
+170,O69.3XX3,"Labor and delivery complicated by short cord, fetus 3"
+171,O69.3XX4,"Labor and delivery complicated by short cord, fetus 4"
+172,O69.3XX5,"Labor and delivery complicated by short cord, fetus 5"
+173,O69.3XX9,"Labor and delivery complicated by short cord, other fetus"
+174,O69.4XX0,"Labor and delivery complicated by vasa previa, unsp"
+175,O69.4XX1,"Labor and delivery complicated by vasa previa, fetus 1"
+176,O69.4XX2,"Labor and delivery complicated by vasa previa, fetus 2"
+177,O69.4XX3,"Labor and delivery complicated by vasa previa, fetus 3"
+178,O69.4XX4,"Labor and delivery complicated by vasa previa, fetus 4"
+179,O69.4XX5,"Labor and delivery complicated by vasa previa, fetus 5"
+180,O69.4XX9,"Labor and delivery complicated by vasa previa, other fetus"
+181,O69.5XX0,"Labor and delivery comp by vascular lesion of cord, unsp"
+182,O69.5XX1,"Labor and delivery comp by vascular lesion of cord, fetus 1"
+183,O69.5XX2,"Labor and delivery comp by vascular lesion of cord, fetus 2"
+184,O69.5XX3,"Labor and delivery comp by vascular lesion of cord, fetus 3"
+185,O69.5XX4,"Labor and delivery comp by vascular lesion of cord, fetus 4"
+186,O69.5XX5,"Labor and delivery comp by vascular lesion of cord, fetus 5"
+187,O69.5XX9,"Labor and delivery comp by vascular lesion of cord, oth"
+188,O69.81X0,"Labor and del comp by cord around neck, w/o comprsn, unsp"
+189,O69.81X1,"Labor and del comp by cord around neck, w/o comprsn, fetus 1"
+190,O69.81X2,"Labor and del comp by cord around neck, w/o comprsn, fetus 2"
+191,O69.81X3,"Labor and del comp by cord around neck, w/o comprsn, fetus 3"
+192,O69.81X4,"Labor and del comp by cord around neck, w/o comprsn, fetus 4"
+193,O69.81X5,"Labor and del comp by cord around neck, w/o comprsn, fetus 5"
+194,O69.81X9,"Labor and del comp by cord around neck, w/o comprsn, oth"
+195,O69.82X0,"Labor and del comp by oth cord entangle, w/o comprsn, unsp"
+196,O69.82X1,"Labor and del comp by oth cord entangle, w/o comprsn, fts1"
+197,O69.82X2,"Labor and del comp by oth cord entangle, w/o comprsn, fts2"
+198,O69.82X3,"Labor and del comp by oth cord entangle, w/o comprsn, fts3"
+199,O69.82X4,"Labor and del comp by oth cord entangle, w/o comprsn, fts4"
+200,O69.82X5,"Labor and del comp by oth cord entangle, w/o comprsn, fts5"
+201,O69.82X9,"Labor and del comp by oth cord entangle, w/o comprsn, oth"
+202,O69.89X0,"Labor and delivery complicated by oth cord comp, unsp"
+203,O69.89X1,"Labor and delivery complicated by oth cord comp, fetus 1"
+204,O69.89X2,"Labor and delivery complicated by oth cord comp, fetus 2"
+205,O69.89X3,"Labor and delivery complicated by oth cord comp, fetus 3"
+206,O69.89X4,"Labor and delivery complicated by oth cord comp, fetus 4"
+207,O69.89X5,"Labor and delivery complicated by oth cord comp, fetus 5"
+208,O69.89X9,"Labor and delivery complicated by oth cord comp, oth"
+209,O69.9XX0,"Labor and delivery complicated by cord comp, unsp, unsp"
+210,O69.9XX1,"Labor and delivery complicated by cord comp, unsp, fetus 1"
+211,O69.9XX2,"Labor and delivery complicated by cord comp, unsp, fetus 2"
+212,O69.9XX3,"Labor and delivery complicated by cord comp, unsp, fetus 3"
+213,O69.9XX4,"Labor and delivery complicated by cord comp, unsp, fetus 4"
+214,O69.9XX5,"Labor and delivery complicated by cord comp, unsp, fetus 5"
+215,O69.9XX9,"Labor and delivery complicated by cord comp, unsp, oth"
+216,O70.0,First degree perineal laceration during delivery
+217,O70.1,Second degree perineal laceration during delivery
+218,O70.20,"Third degree perineal laceration during delivery, unsp"
+219,O70.21,"Third degree perineal laceration during delivery, IIIa"
+220,O70.22,"Third degree perineal laceration during delivery, IIIb"
+221,O70.23,"Third degree perineal laceration during delivery, IIIc"
+222,O70.3,Fourth degree perineal laceration during delivery
+223,O70.4,"Anal sphincter tear comp del, not assoc w third degree lac"
+224,O70.9,"Perineal laceration during delivery, unspecified"
+225,O71.00,"Rupture of uterus before onset of labor, unsp trimester"
+226,O71.02,"Rupture of uterus before onset of labor, second trimester"
+227,O71.03,"Rupture of uterus before onset of labor, third trimester"
+228,O71.1,Rupture of uterus during labor
+229,O71.2,Postpartum inversion of uterus
+230,O71.3,Obstetric laceration of cervix
+231,O71.4,Obstetric high vaginal laceration alone
+232,O71.5,Other obstetric injury to pelvic organs
+233,O71.6,Obstetric damage to pelvic joints and ligaments
+234,O71.7,Obstetric hematoma of pelvis
+235,O71.81,"Laceration of uterus, not elsewhere classified"
+236,O71.82,Other specified trauma to perineum and vulva
+237,O71.89,Other specified obstetric trauma
+238,O71.9,"Obstetric trauma, unspecified"
+239,O72.0,Thirdstage hemorrhage
+240,O72.1,Other immediate postpartum hemorrhage
+241,O72.2,Delayed and secondary postpartum hemorrhage
+242,O72.3,Postpartum coagulation defects
+243,O73.0,Retained placenta without hemorrhage
+244,O73.1,"Retained portions of placenta and membranes, w/o hemorrhage"
+245,O74.0,Aspirat pneumonitis due to anesth during labor and delivery
+246,O74.1,Oth pulmonary comp of anesthesia during labor and delivery
+247,O74.2,Cardiac comp of anesthesia during labor and delivery
+248,O74.3,Cnsl complications of anesthesia during labor and delivery
+249,O74.4,Toxic reaction to local anesthesia during labor and delivery
+250,O74.5,Spinal and epidur anesthesiainduced hdache dur labr and del
+251,O74.6,Oth comp of spinal and epidural anesth during labor and del
+252,O74.7,Failed or difficult intubation for anesth dur labor and del
+253,O74.8,Other complications of anesthesia during labor and delivery
+254,O74.9,"Complication of anesthesia during labor and delivery, unsp"
+255,O75.0,Maternal distress during labor and delivery
+256,O75.1,Shock during or following labor and delivery
+257,O75.2,"Pyrexia during labor, not elsewhere classified"
+258,O75.3,Other infection during labor
+259,O75.4,Other complications of obstetric surgery and procedures
+260,O75.5,Delayed delivery after artificial rupture of membranes
+261,O75.81,Maternal exhaustion complicating labor and delivery
+262,O75.82,"Onset labor 3739 weeks, w del by (planned) cesarean section"
+263,O75.89,Other specified complications of labor and delivery
+264,O75.9,"Complication of labor and delivery, unspecified"
+265,Abnlt in fetal heart rate and rhythm comp labor and delivery (O76),O76  Abnlt in fetal heart rate and rhythm comp labor and delivery
+266,O76,Abnlt in fetal heart rate and rhythm comp labor and delivery
+267,O77.0,Labor and delivery complicated by meconium in amniotic fluid
+268,O77.1,Fetal stress in labor or delivery due to drug administration
+269,O77.8,Labor and delivery comp by oth evidence of fetal stress
+270,O77.9,"Labor and delivery complicated by fetal stress, unspecified"

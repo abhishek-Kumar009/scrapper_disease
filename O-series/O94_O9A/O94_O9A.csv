@@ -1,0 +1,186 @@
+,category,condition
+4,O94,"Sequelae of comp of pregnancy, chldbrth, and the puerperium"
+5,O98.011,"Tuberculosis complicating pregnancy, first trimester"
+6,O98.012,"Tuberculosis complicating pregnancy, second trimester"
+7,O98.013,"Tuberculosis complicating pregnancy, third trimester"
+8,O98.019,"Tuberculosis complicating pregnancy, unspecified trimester"
+9,O98.02,Tuberculosis complicating childbirth
+10,O98.03,Tuberculosis complicating the puerperium
+11,O98.111,"Syphilis complicating pregnancy, first trimester"
+12,O98.112,"Syphilis complicating pregnancy, second trimester"
+13,O98.113,"Syphilis complicating pregnancy, third trimester"
+14,O98.119,"Syphilis complicating pregnancy, unspecified trimester"
+15,O98.12,Syphilis complicating childbirth
+16,O98.13,Syphilis complicating the puerperium
+17,O98.211,"Gonorrhea complicating pregnancy, first trimester"
+18,O98.212,"Gonorrhea complicating pregnancy, second trimester"
+19,O98.213,"Gonorrhea complicating pregnancy, third trimester"
+20,O98.219,"Gonorrhea complicating pregnancy, unspecified trimester"
+21,O98.22,Gonorrhea complicating childbirth
+22,O98.23,Gonorrhea complicating the puerperium
+23,O98.311,"Oth infect w sexl mode of transmiss comp preg, first tri"
+24,O98.312,"Oth infect w sexl mode of transmiss comp preg, second tri"
+25,O98.313,"Oth infect w sexl mode of transmiss comp preg, third tri"
+26,O98.319,"Oth infect w sexl mode of transmiss comp preg, unsp tri"
+27,O98.32,Oth infections w sexl mode of transmiss comp childbirth
+28,O98.33,Oth infections w sexl mode of transmiss comp the puerperium
+29,O98.411,"Viral hepatitis complicating pregnancy, first trimester"
+30,O98.412,"Viral hepatitis complicating pregnancy, second trimester"
+31,O98.413,"Viral hepatitis complicating pregnancy, third trimester"
+32,O98.419,"Viral hepatitis complicating pregnancy, unsp trimester"
+33,O98.42,Viral hepatitis complicating childbirth
+34,O98.43,Viral hepatitis complicating the puerperium
+35,O98.511,"Other viral diseases complicating pregnancy, first trimester"
+36,O98.512,"Oth viral diseases complicating pregnancy, second trimester"
+37,O98.513,"Other viral diseases complicating pregnancy, third trimester"
+38,O98.519,"Other viral diseases complicating pregnancy, unsp trimester"
+39,O98.52,Other viral diseases complicating childbirth
+40,O98.53,Other viral diseases complicating the puerperium
+41,O98.611,"Protozoal diseases complicating pregnancy, first trimester"
+42,O98.612,"Protozoal diseases complicating pregnancy, second trimester"
+43,O98.613,"Protozoal diseases complicating pregnancy, third trimester"
+44,O98.619,"Protozoal diseases complicating pregnancy, unsp trimester"
+45,O98.62,Protozoal diseases complicating childbirth
+46,O98.63,Protozoal diseases complicating the puerperium
+47,O98.711,"Human immunodef virus disease comp preg, first trimester"
+48,O98.712,"Human immunodef virus disease comp preg, second trimester"
+49,O98.713,"Human immunodef virus disease comp preg, third trimester"
+50,O98.719,"Human immunodef virus disease comp pregnancy, unsp trimester"
+51,O98.72,Human immunodeficiency virus disease complicating childbirth
+52,O98.73,Human immunodef virus disease complicating the puerperium
+53,O98.811,"Oth maternal infec/parastc diseases comp preg, first tri"
+54,O98.812,"Oth maternal infec/parastc diseases comp preg, second tri"
+55,O98.813,"Oth maternal infec/parastc diseases comp preg, third tri"
+56,O98.819,"Oth maternal infec/parastc diseases comp preg, unsp tri"
+57,O98.82,Oth maternal infec/parastc diseases complicating childbirth
+58,O98.83,Oth maternal infec/parastc diseases comp the puerperium
+59,O98.911,"Unsp maternal infec/parastc disease comp preg, first tri"
+60,O98.912,"Unsp maternal infec/parastc disease comp preg, second tri"
+61,O98.913,"Unsp maternal infec/parastc disease comp preg, third tri"
+62,O98.919,"Unsp maternal infec/parastc disease comp preg, unsp tri"
+63,O98.92,Unsp maternal infec/parastc disease complicating childbirth
+64,O98.93,Unsp maternal infec/parastc disease comp the puerperium
+65,O99.011,"Anemia complicating pregnancy, first trimester"
+66,O99.012,"Anemia complicating pregnancy, second trimester"
+67,O99.013,"Anemia complicating pregnancy, third trimester"
+68,O99.019,"Anemia complicating pregnancy, unspecified trimester"
+69,O99.02,Anemia complicating childbirth
+70,O99.03,Anemia complicating the puerperium
+71,O99.111,"Oth dis of bld/bldform org/immun mechnsm comp preg, 1st tri"
+72,O99.112,"Oth dis of bld/bldform org/immun mechnsm comp preg, 2nd tri"
+73,O99.113,"Oth dis of bld/bldform org/immun mechnsm comp preg, 3rd tri"
+74,O99.119,"Oth dis of bld/bldform org/immun mechnsm comp preg,unsp tri"
+75,O99.12,Oth dis of the bld/bldform org/immun mechnsm comp chldbrth
+76,O99.13,Oth dis of the bld/bldform org/immun mechnsm comp the puerp
+77,O99.210,"Obesity complicating pregnancy, unspecified trimester"
+78,O99.211,"Obesity complicating pregnancy, first trimester"
+79,O99.212,"Obesity complicating pregnancy, second trimester"
+80,O99.213,"Obesity complicating pregnancy, third trimester"
+81,O99.214,Obesity complicating childbirth
+82,O99.215,Obesity complicating the puerperium
+83,O99.280,"Endo, nutritional and metab diseases comp preg, unsp tri"
+84,O99.281,"Endo, nutritional and metab diseases comp preg, first tri"
+85,O99.282,"Endo, nutritional and metab diseases comp preg, second tri"
+86,O99.283,"Endo, nutritional and metab diseases comp preg, third tri"
+87,O99.284,"Endocrine, nutritional and metabolic diseases comp chldbrth"
+88,O99.285,"Endocrine, nutritional and metabolic diseases comp the puerp"
+89,O99.310,"Alcohol use complicating pregnancy, unspecified trimester"
+90,O99.311,"Alcohol use complicating pregnancy, first trimester"
+91,O99.312,"Alcohol use complicating pregnancy, second trimester"
+92,O99.313,"Alcohol use complicating pregnancy, third trimester"
+93,O99.314,Alcohol use complicating childbirth
+94,O99.315,Alcohol use complicating the puerperium
+95,O99.320,"Drug use complicating pregnancy, unspecified trimester"
+96,O99.321,"Drug use complicating pregnancy, first trimester"
+97,O99.322,"Drug use complicating pregnancy, second trimester"
+98,O99.323,"Drug use complicating pregnancy, third trimester"
+99,O99.324,Drug use complicating childbirth
+100,O99.325,Drug use complicating the puerperium
+101,O99.330,"Smoking (tobacco) complicating pregnancy, unsp trimester"
+102,O99.331,"Smoking (tobacco) complicating pregnancy, first trimester"
+103,O99.332,"Smoking (tobacco) complicating pregnancy, second trimester"
+104,O99.333,"Smoking (tobacco) complicating pregnancy, third trimester"
+105,O99.334,Smoking (tobacco) complicating childbirth
+106,O99.335,Smoking (tobacco) complicating the puerperium
+107,O99.340,"Oth mental disorders complicating pregnancy, unsp trimester"
+108,O99.341,"Oth mental disorders complicating pregnancy, first trimester"
+109,O99.342,"Oth mental disorders comp pregnancy, second trimester"
+110,O99.343,"Oth mental disorders complicating pregnancy, third trimester"
+111,O99.344,Other mental disorders complicating childbirth
+112,O99.345,Other mental disorders complicating the puerperium
+113,O99.350,"Diseases of the nervous sys comp pregnancy, unsp trimester"
+114,O99.351,"Diseases of the nervous sys comp pregnancy, first trimester"
+115,O99.352,"Diseases of the nervous sys comp pregnancy, second trimester"
+116,O99.353,"Diseases of the nervous sys comp pregnancy, third trimester"
+117,O99.354,Diseases of the nervous system complicating childbirth
+118,O99.355,Diseases of the nervous system complicating the puerperium
+119,O99.411,"Diseases of the circ sys comp pregnancy, first trimester"
+120,O99.412,"Diseases of the circ sys comp pregnancy, second trimester"
+121,O99.413,"Diseases of the circ sys comp pregnancy, third trimester"
+122,O99.419,"Diseases of the circ sys comp pregnancy, unsp trimester"
+123,O99.42,Diseases of the circulatory system complicating childbirth
+124,O99.43,Diseases of the circ sys complicating the puerperium
+125,O99.511,"Diseases of the resp sys comp pregnancy, first trimester"
+126,O99.512,"Diseases of the resp sys comp pregnancy, second trimester"
+127,O99.513,"Diseases of the resp sys comp pregnancy, third trimester"
+128,O99.519,"Diseases of the resp sys comp pregnancy, unsp trimester"
+129,O99.52,Diseases of the respiratory system complicating childbirth
+130,O99.53,Diseases of the resp sys complicating the puerperium
+131,O99.611,"Diseases of the dgstv sys comp pregnancy, first trimester"
+132,O99.612,"Diseases of the dgstv sys comp pregnancy, second trimester"
+133,O99.613,"Diseases of the dgstv sys comp pregnancy, third trimester"
+134,O99.619,"Diseases of the dgstv sys comp pregnancy, unsp trimester"
+135,O99.62,Diseases of the digestive system complicating childbirth
+136,O99.63,Diseases of the digestive system complicating the puerperium
+137,O99.711,"Diseases of the skin, subcu comp pregnancy, first trimester"
+138,O99.712,"Diseases of the skin, subcu comp pregnancy, second trimester"
+139,O99.713,"Diseases of the skin, subcu comp pregnancy, third trimester"
+140,O99.719,"Diseases of the skin, subcu comp pregnancy, unsp trimester"
+141,O99.72,"Diseases of the skin, subcu complicating childbirth"
+142,O99.73,"Diseases of the skin, subcu complicating the puerperium"
+143,O99.810,Abnormal glucose complicating pregnancy
+144,O99.814,Abnormal glucose complicating childbirth
+145,O99.815,Abnormal glucose complicating the puerperium
+146,O99.820,Streptococcus B carrier state complicating pregnancy
+147,O99.824,Streptococcus B carrier state complicating childbirth
+148,O99.825,Streptococcus B carrier state complicating the puerperium
+149,O99.830,Other infection carrier state complicating pregnancy
+150,O99.834,Other infection carrier state complicating childbirth
+151,O99.835,Other infection carrier state complicating the puerperium
+152,O99.840,"Bariatric surgery status comp pregnancy, unsp trimester"
+153,O99.841,"Bariatric surgery status comp pregnancy, first trimester"
+154,O99.842,"Bariatric surgery status comp pregnancy, second trimester"
+155,O99.843,"Bariatric surgery status comp pregnancy, third trimester"
+156,O99.844,Bariatric surgery status complicating childbirth
+157,O99.845,Bariatric surgery status complicating the puerperium
+158,O99.89,Oth diseases and conditions compl preg/chldbrth
+159,O9A.111,"Malignant neoplasm complicating pregnancy, first trimester"
+160,O9A.112,"Malignant neoplasm complicating pregnancy, second trimester"
+161,O9A.113,"Malignant neoplasm complicating pregnancy, third trimester"
+162,O9A.119,"Malignant neoplasm complicating pregnancy, unsp trimester"
+163,O9A.12,Malignant neoplasm complicating childbirth
+164,O9A.13,Malignant neoplasm complicating the puerperium
+165,O9A.211,"Inj/poisn/oth conseq of external causes comp preg, first tri"
+166,O9A.212,"Inj/poisn/oth conseq of extrn causes comp preg, second tri"
+167,O9A.213,"Inj/poisn/oth conseq of external causes comp preg, third tri"
+168,O9A.219,"Inj/poisn/oth conseq of external causes comp preg, unsp tri"
+169,O9A.22,Inj/poisn/oth conseq of external causes comp childbirth
+170,O9A.23,Inj/poisn/oth conseq of external causes comp the puerperium
+171,O9A.311,"Physical abuse complicating pregnancy, first trimester"
+172,O9A.312,"Physical abuse complicating pregnancy, second trimester"
+173,O9A.313,"Physical abuse complicating pregnancy, third trimester"
+174,O9A.319,"Physical abuse complicating pregnancy, unspecified trimester"
+175,O9A.32,Physical abuse complicating childbirth
+176,O9A.33,Physical abuse complicating the puerperium
+177,O9A.411,"Sexual abuse complicating pregnancy, first trimester"
+178,O9A.412,"Sexual abuse complicating pregnancy, second trimester"
+179,O9A.413,"Sexual abuse complicating pregnancy, third trimester"
+180,O9A.419,"Sexual abuse complicating pregnancy, unspecified trimester"
+181,O9A.42,Sexual abuse complicating childbirth
+182,O9A.43,Sexual abuse complicating the puerperium
+183,O9A.511,"Psychological abuse complicating pregnancy, first trimester"
+184,O9A.512,"Psychological abuse complicating pregnancy, second trimester"
+185,O9A.513,"Psychological abuse complicating pregnancy, third trimester"
+186,O9A.519,"Psychological abuse complicating pregnancy, unsp trimester"
+187,O9A.52,Psychological abuse complicating childbirth
+188,O9A.53,Psychological abuse complicating the puerperium
