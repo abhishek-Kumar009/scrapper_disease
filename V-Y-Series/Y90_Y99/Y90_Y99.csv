@@ -1,0 +1,334 @@
+,category,condition
+0,Y90.0,Blood alcohol level of less than 20 mg/100 ml
+1,Y90.1,Blood alcohol level of 2039 mg/100 ml
+2,Y90.2,Blood alcohol level of 4059 mg/100 ml
+3,Y90.3,Blood alcohol level of 6079 mg/100 ml
+4,Y90.4,Blood alcohol level of 8099 mg/100 ml
+5,Y90.5,Blood alcohol level of 100119 mg/100 ml
+6,Y90.6,Blood alcohol level of 120199 mg/100 ml
+7,Y90.7,Blood alcohol level of 200239 mg/100 ml
+8,Y90.8,Blood alcohol level of 240 mg/100 ml or more
+9,Y90.9,"Presence of alcohol in blood, level not specified"
+10,Y92.000,Kitchen of unsp noninstitut (private) residence as place
+11,Y92.001,Dining room of unsp noninstitut residence as place
+12,Y92.002,Bathrm of unsp noninstitut resdnce snglfmly house as place
+13,Y92.003,Bedroom of unsp noninstitut (private) residence as place
+14,Y92.007,Garden or yard of unsp noninstitut residence as place
+15,Y92.008,Oth place in unsp noninstitut (private) residence as place
+16,Y92.009,Unsp place in unsp noninstitut (private) residence as place
+17,Y92.010,Kitchen of singlefamily (private) house as place
+18,Y92.011,Dining room of singlefamily (private) house as place
+19,Y92.012,Bathroom of singlefamily (private) house as place
+20,Y92.013,Bedroom of singlefamily (private) house as place
+21,Y92.014,Private driveway to singlefamily (private) house as place
+22,Y92.015,Private garage of singlefamily (private) house as place
+23,Y92.016,Swmpool in snglfmly (private) house or garden as place
+24,Y92.017,Garden or yard in singlefamily (private) house as place
+25,Y92.018,Oth place in singlefamily (private) house as place
+26,Y92.019,Unsp place in singlefamily (private) house as place
+27,Y92.020,Kitchen in mobile home as place
+28,Y92.021,Dining room in mobile home as place
+29,Y92.022,Bathroom in mobile home as place
+30,Y92.023,Bedroom in mobile home as place
+31,Y92.024,Driveway of mobile home as place
+32,Y92.025,Garage of mobile home as place
+33,Y92.026,Swimmingpool of mobile home as place
+34,Y92.027,Garden or yard of mobile home as place
+35,Y92.028,Oth place in mobile home as place
+36,Y92.029,Unsp place in mobile home as place
+37,Y92.030,Kitchen in apartment as place
+38,Y92.031,Bathroom in apartment as place
+39,Y92.032,Bedroom in apartment as place
+40,Y92.038,Oth place in apartment as place
+41,Y92.039,Unsp place in apartment as place
+42,Y92.040,Kitchen in boardinghouse as place
+43,Y92.041,Bathroom in boardinghouse as place
+44,Y92.042,Bedroom in boardinghouse as place
+45,Y92.043,Driveway of boardinghouse as place
+46,Y92.044,Garage of boardinghouse as place
+47,Y92.045,Swimmingpool of boardinghouse as place
+48,Y92.046,Garden or yard of boardinghouse as place
+49,Y92.048,Oth place in boardinghouse as place
+50,Y92.049,Unsp place in boardinghouse as place
+51,Y92.090,Kitchen in oth noninstitutional residence as place
+52,Y92.091,Bathroom in oth noninstitutional residence as place
+53,Y92.092,Bedroom in oth noninstitutional residence as place
+54,Y92.093,Driveway of noninstitutional residence as place
+55,Y92.094,Garage of noninstitutional residence as place
+56,Y92.095,Swimmingpool of noninstitutional residence as place
+57,Y92.096,Garden or yard of noninstitutional residence as place
+58,Y92.098,Oth place in oth noninstitutional residence as place
+59,Y92.099,Unsp place in oth noninstitutional residence as place
+60,Y92.10,Unsp residential institution as place
+61,Y92.110,Kitchen in children's home and orphanage as place
+62,Y92.111,Bathroom in children's home and orphanage as place
+63,Y92.112,Bedroom in children's home and orphanage as place
+64,Y92.113,Driveway of children's home and orphanage as place
+65,Y92.114,Garage of children's home and orphanage as place
+66,Y92.115,Swimmingpool of children's home and orphanage as place
+67,Y92.116,Garden or yard of children's home and orphanage as place
+68,Y92.118,Oth place in children's home and orphanage as place
+69,Y92.119,Unsp place in children's home and orphanage as place
+70,Y92.120,Kitchen in nursing home as place
+71,Y92.121,Bathroom in nursing home as place
+72,Y92.122,Bedroom in nursing home as place
+73,Y92.123,Driveway of nursing home as place
+74,Y92.124,Garage of nursing home as place
+75,Y92.125,Swimmingpool of nursing home as place
+76,Y92.126,Garden or yard of nursing home as place
+77,Y92.128,Oth place in nursing home as place
+78,Y92.129,Unsp place in nursing home as place
+79,Y92.130,Kitchen on military base as place
+80,Y92.131,Mess hall on military base as place
+81,Y92.133,Barracks on military base as place
+82,Y92.135,Garage on military base as place
+83,Y92.136,Swimmingpool on military base as place
+84,Y92.137,Garden or yard on military base as place
+85,Y92.138,Oth place on military base as place
+86,Y92.139,Unsp place military base as place
+87,Y92.140,Kitchen in prison as place
+88,Y92.141,Dining room in prison as place
+89,Y92.142,Bathroom in prison as place
+90,Y92.143,Cell of prison as place
+91,Y92.146,Swimmingpool of prison as place
+92,Y92.147,Courtyard of prison as place
+93,Y92.148,Oth place in prison as place
+94,Y92.149,Unsp place in prison as place
+95,Y92.150,Kitchen in reform school as place
+96,Y92.151,Dining room in reform school as place
+97,Y92.152,Bathroom in reform school as place
+98,Y92.153,Bedroom in reform school as place
+99,Y92.154,Driveway of reform school as place
+100,Y92.155,Garage of reform school as place
+101,Y92.156,Swimmingpool of reform school as place
+102,Y92.157,Garden or yard of reform school as place
+103,Y92.158,Oth place in reform school as place
+104,Y92.159,Unsp place in reform school as place
+105,Y92.160,Kitchen in school dormitory as place
+106,Y92.161,Dining room in school dormitory as place
+107,Y92.162,Bathroom in school dormitory as place
+108,Y92.163,Bedroom in school dormitory as place
+109,Y92.168,Oth place in school dormitory as place
+110,Y92.169,Unsp place in school dormitory as place
+111,Y92.190,Kitchen in oth residential institution as place
+112,Y92.191,Dining room in oth residential institution as place
+113,Y92.192,Bathroom in oth residential institution as place
+114,Y92.193,Bedroom in oth residential institution as place
+115,Y92.194,Driveway of residential institution as place
+116,Y92.195,Garage of residential institution as place
+117,Y92.196,Pool of residential institution as place
+118,Y92.197,Garden or yard of residential institution as place
+119,Y92.198,Oth place in oth residential institution as place
+120,Y92.199,Unsp place in oth residential institution as place
+121,Y92.210,Daycare center as place
+122,Y92.211,Elementary school as place
+123,Y92.212,Middle school as place
+124,Y92.213,High school as the place of occurrence of the external cause
+125,Y92.214,College as the place of occurrence of the external cause
+126,Y92.215,Trade school as place
+127,Y92.218,Oth school as the place of occurrence of the external cause
+128,Y92.219,Unsp school as the place of occurrence of the external cause
+129,Y92.22,Religious institution as place
+130,Y92.230,Patient room in hospital as place
+131,Y92.231,Patient bathroom in hospital as place
+132,Y92.232,Corridor of hospital as place
+133,Y92.233,Cafeteria of hospital as place
+134,Y92.234,Operating room of hospital as place
+135,Y92.238,Oth place in hospital as place
+136,Y92.239,Unsp place in hospital as place
+137,Y92.240,Courthouse as the place of occurrence of the external cause
+138,Y92.241,Library as the place of occurrence of the external cause
+139,Y92.242,Post office as the place of occurrence of the external cause
+140,Y92.243,City hall as the place of occurrence of the external cause
+141,Y92.248,Oth public administrative building as place
+142,Y92.250,Art Gallery as the place of occurrence of the external cause
+143,Y92.251,Museum as the place of occurrence of the external cause
+144,Y92.252,Music hall as the place of occurrence of the external cause
+145,Y92.253,Opera house as the place of occurrence of the external cause
+146,Y92.254,Theater (live) as place
+147,Y92.258,Oth cultural public building as place
+148,Y92.26,Movie house or cinema as place
+149,Y92.29,Oth public building as place
+150,Y92.310,Basketball court as place
+151,Y92.311,Squash court as place
+152,Y92.312,Tennis court as place
+153,Y92.318,Oth athletic court as place
+154,Y92.320,Baseball field as place
+155,Y92.321,Football field as place
+156,Y92.322,Soccer field as place
+157,Y92.328,Oth athletic field as place
+158,Y92.330,Ice skating rink (indoor) (outdoor) as place
+159,Y92.331,Roller skating rink as place
+160,Y92.34,Swimming pool (public) as place
+161,Y92.39,Oth sports and athletic area as place
+162,Y92.410,Unsp street and highway as place
+163,Y92.411,Interstate highway as place
+164,Y92.412,Parkway as the place of occurrence of the external cause
+165,Y92.413,State road as the place of occurrence of the external cause
+166,Y92.414,Local residential or business street as place
+167,Y92.415,Exit ramp or entrance ramp of street or highway as place
+168,Y92.480,Sidewalk as the place of occurrence of the external cause
+169,Y92.481,Parking lot as the place of occurrence of the external cause
+170,Y92.482,Bike path as the place of occurrence of the external cause
+171,Y92.488,Oth paved roadways as place
+172,Y92.510,Bank as the place of occurrence of the external cause
+173,Y92.511,Restaurant or cafe as place
+174,Y92.512,"Supermarket, store or market as place"
+175,Y92.513,Shop (commercial) as place
+176,Y92.520,Airport as the place of occurrence of the external cause
+177,Y92.521,Bus station as the place of occurrence of the external cause
+178,Y92.522,Railway station as place
+179,Y92.523,Highway rest stop as place
+180,Y92.524,Gas station as the place of occurrence of the external cause
+181,Y92.530,Ambulatory surgery center as place
+182,Y92.531,Health care provider office as place
+183,Y92.532,Urgent care center as place
+184,Y92.538,Oth ambulatory health services establishments as place
+185,Y92.59,Oth trade areas as place
+186,Y92.61,Building under construction as place
+187,Y92.62,Dock or shipyard as place
+188,Y92.63,Factory as the place of occurrence of the external cause
+189,Y92.64,Mine or pit as the place of occurrence of the external cause
+190,Y92.65,Oil rig as the place of occurrence of the external cause
+191,Y92.69,Oth industrial and construction area as place
+192,Y92.71,Barn as the place of occurrence of the external cause
+193,Y92.72,Chicken coop as place
+194,Y92.73,Farm field as the place of occurrence of the external cause
+195,Y92.74,Orchard as the place of occurrence of the external cause
+196,Y92.79,Oth farm location as place
+197,Y92.810,Car as the place of occurrence of the external cause
+198,Y92.811,Bus as the place of occurrence of the external cause
+199,Y92.812,Truck as the place of occurrence of the external cause
+200,Y92.813,Airplane as the place of occurrence of the external cause
+201,Y92.814,Boat as the place of occurrence of the external cause
+202,Y92.815,Train as the place of occurrence of the external cause
+203,Y92.816,Subway car as the place of occurrence of the external cause
+204,Y92.818,Oth transport vehicle as place
+205,Y92.820,Desert as the place of occurrence of the external cause
+206,Y92.821,Forest as the place of occurrence of the external cause
+207,Y92.828,Oth wilderness area as place
+208,Y92.830,Public park as the place of occurrence of the external cause
+209,Y92.831,Amusement park as place
+210,Y92.832,Beach as the place of occurrence of the external cause
+211,Y92.833,Campsite as the place of occurrence of the external cause
+212,Y92.834,Zoological garden (Zoo) as place
+213,Y92.838,Oth recreation area as place
+214,Y92.84,Military training ground as place
+215,Y92.85,Railroad track as place
+216,Y92.86,Slaughter house as place
+217,Y92.89,Oth places as the place of occurrence of the external cause
+218,Y92.9,Unspecified place or not applicable
+219,Y93.01,"Activity, walking, marching and hiking"
+220,Y93.02,"Activity, running"
+221,Y93.11,"Activity, swimming"
+222,Y93.12,"Activity, springboard and platform diving"
+223,Y93.13,"Activity, water polo"
+224,Y93.14,"Activity, water aerobics and water exercise"
+225,Y93.15,"Activity, underwater diving and snorkeling"
+226,Y93.16,"Activity, rowing, canoeing, kayaking, rafting and tubing"
+227,Y93.17,"Activity, water skiing and wake boarding"
+228,Y93.18,"Activity, surfing, windsurfing and boogie boarding"
+229,Y93.19,"Activity, other involving water and watercraft"
+230,Y93.21,"Activity, ice skating"
+231,Y93.22,"Activity, ice hockey"
+232,Y93.23,"Actvty,snow (alp/dwnhl) ski,snowboard,sled,tobogn & tubing"
+233,Y93.24,"Activity, cross country skiing"
+234,Y93.29,"Activity, other involving ice and snow"
+235,Y93.31,"Activity, mountain climbing, rock climbing and wall climbing"
+236,Y93.32,"Activity, rappelling"
+237,Y93.33,"Activity, BASE jumping"
+238,Y93.34,"Activity, bungee jumping"
+239,Y93.35,"Activity, hang gliding"
+240,Y93.39,"Activity, oth involving climbing, rappelling and jumping off"
+241,Y93.41,"Activity, dancing"
+242,Y93.42,"Activity, yoga"
+243,Y93.43,"Activity, gymnastics"
+244,Y93.44,"Activity, trampolining"
+245,Y93.45,"Activity, cheerleading"
+246,Y93.49,"Activity, oth involving dancing and other rhythmic movements"
+247,Y93.51,"Activity, roller skating (inline) and skateboarding"
+248,Y93.52,"Activity, horseback riding"
+249,Y93.53,"Activity, golf"
+250,Y93.54,"Activity, bowling"
+251,Y93.55,"Activity, bike riding"
+252,Y93.56,"Activity, jumping rope"
+253,Y93.57,"Activity, nonrunning track and field events"
+254,Y93.59,"Activity, oth w oth sports and athletics played individ"
+255,Y93.61,"Activity, american tackle football"
+256,Y93.62,"Activity, american flag or touch football"
+257,Y93.63,"Activity, rugby"
+258,Y93.64,"Activity, baseball"
+259,Y93.65,"Activity, lacrosse and field hockey"
+260,Y93.66,"Activity, soccer"
+261,Y93.67,"Activity, basketball"
+262,Y93.68,"Activity, volleyball (beach) (court)"
+263,Y93.69,"Actvty, oth w oth sports & athletics played as a team or grp"
+264,Y93.6A,"Actvty,physcl games assoc w school recess, sumr camp & child"
+265,Y93.71,"Activity, boxing"
+266,Y93.72,"Activity, wrestling"
+267,Y93.73,"Activity, racquet and hand sports"
+268,Y93.74,"Activity, frisbee"
+269,Y93.75,"Activity, martial arts"
+270,Y93.79,"Activity, other specified sports and athletics"
+271,Y93.81,"Activity, refereeing a sports activity"
+272,Y93.82,"Activity, spectator at an event"
+273,Y93.83,"Activity, rough housing and horseplay"
+274,Y93.84,"Activity, sleeping"
+275,Y93.85,"Activity, choking game"
+276,Y93.89,"Activity, other specified"
+277,Y93.9,"Activity, unspecified"
+278,Y93.A1,"Activity, exercise machines prim for cardioresp conditioning"
+279,Y93.A2,"Activity, calisthenics"
+280,Y93.A3,"Activity, aerobic and step exercise"
+281,Y93.A4,"Activity, circuit training"
+282,Y93.A5,"Activity, obstacle course"
+283,Y93.A6,"Activity, grass drills"
+284,Y93.A9,"Activity, other involving cardiorespiratory exercise"
+285,Y93.B1,"Activity, exercise machines prim for muscle strengthening"
+286,Y93.B2,"Activity, pushups, pullups, situps"
+287,Y93.B3,"Activity, free weights"
+288,Y93.B4,"Activity, pilates"
+289,Y93.B9,"Activity, other involving muscle strengthening exercises"
+290,Y93.C1,"Activity, computer keyboarding"
+291,Y93.C2,"Activity, hand held interactive electronic device"
+292,Y93.C9,"Activity, oth involving computer tech and electrnc devices"
+293,Y93.D1,"Activity, knitting and crocheting"
+294,Y93.D2,"Activity, sewing"
+295,Y93.D3,"Activity, furniture building and finishing"
+296,Y93.D9,"Activity, other involving arts and handcrafts"
+297,Y93.E1,"Activity, personal bathing and showering"
+298,Y93.E2,"Activity, laundry"
+299,Y93.E3,"Activity, vacuuming"
+300,Y93.E4,"Activity, ironing"
+301,Y93.E5,"Activity, floor mopping and cleaning"
+302,Y93.E6,"Activity, residential relocation"
+303,Y93.E8,"Activity, other personal hygiene"
+304,Y93.E9,"Activity, other interior property and clothing maintenance"
+305,Y93.F1,"Activity, caregiving, bathing"
+306,Y93.F2,"Activity, caregiving, lifting"
+307,Y93.F9,"Activity, other caregiving"
+308,Y93.G1,"Activity, food preparation and clean up"
+309,Y93.G2,"Activity, grilling and smoking food"
+310,Y93.G3,"Activity, cooking and baking"
+311,Y93.G9,"Activity, other involving cooking and grilling"
+312,Y93.H1,"Activity, digging, shoveling and raking"
+313,Y93.H2,"Activity, gardening and landscaping"
+314,Y93.H3,"Activity, building and construction"
+315,Y93.H9,"Actvty,oth w exter property & land maint, bldg and construct"
+316,Y93.I1,"Activity, roller coaster riding"
+317,Y93.I9,"Activity, other involving external motion"
+318,Y93.J1,"Activity, piano playing"
+319,Y93.J2,"Activity, drum and other percussion instrument playing"
+320,Y93.J3,"Activity, string instrument playing"
+321,Y93.J4,"Activity, winds and brass instrument playing"
+322,Y93.K1,"Activity, walking an animal"
+323,Y93.K2,"Activity, milking an animal"
+324,Y93.K3,"Activity, grooming and shearing an animal"
+325,Y93.K9,"Activity, other involving animal care"
+326,Nosocomial condition (Y95),Y95  Nosocomial condition
+327,Y95,Nosocomial condition
+328,Y99.0,Civilian activity done for income or pay
+329,Y99.1,Military activity
+330,Y99.2,Volunteer activity
+331,Y99.8,Other external cause status
+332,Y99.9,Unspecified external cause status

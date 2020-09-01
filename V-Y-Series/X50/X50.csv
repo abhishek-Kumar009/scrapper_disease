@@ -1,0 +1,13 @@
+,category,condition
+0,X50.0XXA,"Overexertion from strenuous movement or load, init"
+1,X50.0XXD,"Overexertion from strenuous movement or load, subs"
+2,X50.0XXS,"Overexertion from strenuous movement or load, sequela"
+3,X50.1XXA,"Overexertion from prolonged static or awkward postures, init"
+4,X50.1XXD,"Overexertion from prolonged static or awkward postures, subs"
+5,X50.1XXS,"Overexertion from prolonged static or awkward postures, sqla"
+6,X50.3XXA,"Overexertion from repetitive movements, initial encounter"
+7,X50.3XXD,"Overexertion from repetitive movements, subsequent encounter"
+8,X50.3XXS,"Overexertion from repetitive movements, sequela"
+9,X50.9XXA,"Other and unspecified ovrexrtn or strnous move/pstr, init"
+10,X50.9XXD,"Other and unspecified ovrexrtn or strnous move/pstr, subs"
+11,X50.9XXS,"Other and unspecified ovrexrtn or strnous move/pstr, sequela"

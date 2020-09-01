@@ -1,0 +1,117 @@
+,category,condition
+0,Y62.0,Failure of sterile precautions during surgical operation
+1,Y62.1,Failure of sterile precautions during infusn/transfusn
+2,Y62.2,Fail of steril precaut dur kidney dialysis and oth perfusion
+3,Y62.3,Failure of steril precaut during injection or immunization
+4,Y62.4,Failure of sterile precautions during endoscopic examination
+5,Y62.5,Failure of sterile precautions during heart catheterization
+6,Y62.6,"Failure of steril precaut during aspirat, pnctr and oth cath"
+7,Y62.8,Failure of steril precaut during oth surg and medical care
+8,Y62.9,Failure of steril precaut during unsp surg and medical care
+9,Y63.0,Excess amount of bld or oth fluid given dur tranfs or infusn
+10,Y63.1,Incorrect dilution of fluid used during infusion
+11,Y63.2,Overdose of radiation given during therapy
+12,Y63.3,Inadvertent expsr of patient to radiation during med care
+13,Y63.4,Failure in dosage in electroshock or insulinshock therapy
+14,Y63.5,Inappropriate temperature in local application and packing
+15,Y63.6,"Undrdose & nonadmin of necess drug, medicament or biolg sub"
+16,Y63.8,Failure in dosage during other surgical and medical care
+17,Y63.9,Failure in dosage during unsp surgical and medical care
+18,Y64.0,"Contaminated med/biolog sub, transfused or infused"
+19,Y64.1,"Contaminated med/biolog sub, injected or used for immuniz"
+20,Y64.8,Contaminated med/biolog sub administered by oth means
+21,Y64.9,Contaminated med/biolog sub administered by unsp means
+22,Y65.0,Mismatched blood in transfusion
+23,Y65.1,Wrong fluid used in infusion
+24,Y65.2,Failure in suture or ligature during surgical operation
+25,Y65.3,Endotracheal tube wrongly placed during anesthetic procedure
+26,Y65.4,Failure to introduce or to remove other tube or instrument
+27,Y65.51,Performance of wrong procedure (op) on correct patient
+28,Y65.52,Perform of proc (op) on patient not scheduled for surgery
+29,Y65.53,Perform of correct procedure (op) on wrong side or body part
+30,Y65.8,Oth misadventures during surgical and medical care
+31,Nonadministration of surgical and medical care (Y66),Y66  Nonadministration of surgical and medical care
+32,Y66,Nonadministration of surgical and medical care
+33,Unspecified misadventure during surgical and medical care (Y69),Y69  Unspecified misadventure during surgical and medical care
+34,Y69,Unspecified misadventure during surgical and medical care
+35,Y70.0,Diagnostic and monitoring anesth devices assoc w incdt
+36,Y70.1,Therapeutic and rehab anesth devices assoc w incdt
+37,Y70.2,Prosth/oth implnt/mtrls anesthesiology devices assoc w incdt
+38,Y70.3,"Surgical instrumnt, matrl and anesth devices assoc w incdt"
+39,Y70.8,"Miscellaneous anesthesiology devices assoc w incdt, NEC"
+40,Y71.0,Diagnostic and monitoring cardiovasc devices assoc w incdt
+41,Y71.1,Therapeutic and rehab cardiovasc devices assoc w incdt
+42,Y71.2,Prosth/oth implnt/mtrls cardiovascular devices assoc w incdt
+43,Y71.3,"Surg instrumnt, matrl and cardiovasc devices assoc w incdt"
+44,Y71.8,"Miscellaneous cardiovascular devices assoc w incdt, NEC"
+45,Y72.0,Diagnostic and monitoring otorhino devices assoc w incdt
+46,Y72.1,Therapeutic and rehab otorhino devices assoc w incdt
+47,Y72.2,Prosth/oth implnt/mtrls otorhino devices assoc w incdt
+48,Y72.3,"Surgical instrumnt, matrl and otorhino devices assoc w incdt"
+49,Y72.8,"Miscellaneous otorhino devices assoc w incdt, NEC"
+50,Y73.0,Dx and monitor gastroent and urology devices assoc w incdt
+51,Y73.1,Theraputc and rehab gastroent and urology dev assoc w incdt
+52,Y73.2,Prosth/oth implnt/mtrls gastroent and urol dev assoc w incdt
+53,Y73.3,"Surg instrumnt, matrl & gastroent and urol dev assoc w incdt"
+54,Y73.8,"Misc gastroent and urology devices assoc w incdt, NEC"
+55,Y74.0,Dx and monitoring gen hosp/persnluse devices assoc w incdt
+56,Y74.1,Theraputc and rehab gen hosp/persnluse dev assoc w incdt
+57,Y74.2,"Prosth/oth implnt, matrl & hosp/persnluse dev assoc w incdt"
+58,Y74.3,"Surg instrumnt,matrl & gen hosp/persnluse dev assoc w incdt"
+59,Y74.8,"Miscellaneous gen hosp/persnluse devices assoc w incdt, NEC"
+60,Y75.0,Diagnostic and monitoring neurological devices assoc w incdt
+61,Y75.1,Therapeutic and rehab neurological devices assoc w incdt
+62,Y75.2,"Prosth/oth implants, matrl and neuro devices assoc w incdt"
+63,Y75.3,"Surgical instrumnt, matrl and neuro devices assoc w incdt"
+64,Y75.8,"Miscellaneous neurological devices assoc w incdt, NEC"
+65,Y76.0,Diagnostic and monitoring ob/gyn devices assoc w incdt
+66,Y76.1,Therapeutic and rehab ob/gyn devices assoc w incdt
+67,Y76.2,Prosth/oth implnt/mtrls ob/gyn devices assoc w incdt
+68,Y76.3,"Surgical instrumnt, matrl and ob/gyn devices assoc w incdt"
+69,Y76.8,"Miscellaneous ob/gyn devices assoc w incdt, NEC"
+70,Y77.0,Diagnostic and monitoring ophthalmic devices assoc w incdt
+71,Y77.1,Therapeutic and rehab ophthalmic devices assoc w incdt
+72,Y77.2,Prosth/oth implnt/mtrls ophthalmic devices assoc w incdt
+73,Y77.3,"Surgical instrumnt, materials and opth devices assoc w incdt"
+74,Y77.8,"Miscellaneous ophthalmic devices assoc w incdt, NEC"
+75,Y78.0,Diagnostic and monitoring radiological devices assoc w incdt
+76,Y78.1,Therapeutic and rehab radiological devices assoc w incdt
+77,Y78.2,Prosth/oth implnt/mtrls radiological devices assoc w incdt
+78,Y78.3,"Surgical instrumnt, matrl and radiolog devices assoc w incdt"
+79,Y78.8,"Miscellaneous radiological devices assoc w incdt, NEC"
+80,Y79.0,Diagnostic and monitoring orthopedic devices assoc w incdt
+81,Y79.1,Therapeutic and rehab orthopedic devices assoc w incdt
+82,Y79.2,Prosth/oth implnt/mtrls orthopedic devices assoc w incdt
+83,Y79.3,"Surgical instrumnt, materials and orth devices assoc w incdt"
+84,Y79.8,"Miscellaneous orthopedic devices assoc w incdt, NEC"
+85,Y80.0,Dx and monitoring physical medicine devices assoc w incdt
+86,Y80.1,Theraputc and rehab physical medicine devices assoc w incdt
+87,Y80.2,Prosth/oth implnt/mtrls physical med devices assoc w incdt
+88,Y80.3,"Surg instrumnt, matrl and physcl med devices assoc w incdt"
+89,Y80.8,"Miscellaneous physical medicine devices assoc w incdt, NEC"
+90,Y81.0,Dx and monitoring gen/plastsurg devices assoc w incdt
+91,Y81.1,Therapeutic and rehab gen/plastsurg devices assoc w incdt
+92,Y81.2,Prosth/oth implnt/mtrls gen/plastsurg devices assoc w incdt
+93,Y81.3,"Surg instrumnt, matrl and gen/plastsurg dev assoc w incdt"
+94,Y81.8,"Miscellaneous gen/plastsurg devices assoc w incdt, NEC"
+95,Y82.8,Other medical devices associated with adverse incidents
+96,Y82.9,Unsp medical devices associated with adverse incidents
+97,Y83.0,"Txplt of whole organ cause abn react/compl, w/o misadvnt"
+98,Y83.1,"Implnt of artif int dev cause abn react/compl, w/o misadvnt"
+99,Y83.2,"Anastomos,bypass or grft cause abn react/compl, w/o misadvnt"
+100,Y83.3,"Form of external stoma cause abn react/compl, w/o misadvnt"
+101,Y83.4,"Oth recnst surgery cause abn react/compl, w/o misadvnt"
+102,Y83.5,"Amputation of limb(s) cause abn react/compl, w/o misadvnt"
+103,Y83.6,"Remov org (total) cause abn react/compl, w/o misadvnt"
+104,Y83.8,"Oth surgical procedures cause abn react/compl, w/o misadvnt"
+105,Y83.9,"Surgical proc, unsp cause abn react/compl, w/o misadvnt"
+106,Y84.0,"Cardiac catheterization cause abn react/compl, w/o misadvnt"
+107,Y84.1,"Kidney dialysis cause abn react/compl, w/o misadvnt"
+108,Y84.2,"Radiolog proc/radiothrpy cause abn react/compl, w/o misadvnt"
+109,Y84.3,"Shock therapy cause abn react/compl, w/o misadvnt"
+110,Y84.4,"Aspiration of fluid cause abn react/compl, w/o misadvnt"
+111,Y84.5,"Insrt gastr/duodnl sound cause abn react/compl, w/o misadvnt"
+112,Y84.6,"Urinary catheterization cause abn react/compl, w/o misadvnt"
+113,Y84.7,"Bloodsampling cause abn react/compl, w/o misadvnt"
+114,Y84.8,"Oth medical procedures cause abn react/compl, w/o misadvnt"
+115,Y84.9,"Medical procedure, unsp cause abn react/compl, w/o misadvnt"
