@@ -1,0 +1,113 @@
+,category,condition
+0,T30.0,"Burn of unspecified body region, unspecified degree"
+1,T30.4,"Corrosion of unspecified body region, unspecified degree"
+2,T31.0,Burns involving less than 10% of body surface
+3,T31.10,Burns of 1019% of body surfc w 0% to 9% third degree burns
+4,T31.11,Burns of 1019% of body surface w 1019% third degree burns
+5,T31.20,Burns of 2029% of body surfc w 0% to 9% third degree burns
+6,T31.21,Burns of 2029% of body surface w 1019% third degree burns
+7,T31.22,Burns of 2029% of body surface w 2029% third degree burns
+8,T31.30,Burns of 3039% of body surfc w 0% to 9% third degree burns
+9,T31.31,Burns of 3039% of body surface w 1019% third degree burns
+10,T31.32,Burns of 3039% of body surface w 2029% third degree burns
+11,T31.33,Burns of 3039% of body surface w 3039% third degree burns
+12,T31.40,Burns of 4049% of body surfc w 0% to 9% third degree burns
+13,T31.41,Burns of 4049% of body surface w 1019% third degree burns
+14,T31.42,Burns of 4049% of body surface w 2029% third degree burns
+15,T31.43,Burns of 4049% of body surface w 3039% third degree burns
+16,T31.44,Burns of 4049% of body surface w 4049% third degree burns
+17,T31.50,Burns of 5059% of body surfc w 0% to 9% third degree burns
+18,T31.51,Burns of 5059% of body surface w 1019% third degree burns
+19,T31.52,Burns of 5059% of body surface w 2029% third degree burns
+20,T31.53,Burns of 5059% of body surface w 3039% third degree burns
+21,T31.54,Burns of 5059% of body surface w 4049% third degree burns
+22,T31.55,Burns of 5059% of body surface w 5059% third degree burns
+23,T31.60,Burns of 6069% of body surfc w 0% to 9% third degree burns
+24,T31.61,Burns of 6069% of body surface w 1019% third degree burns
+25,T31.62,Burns of 6069% of body surface w 2029% third degree burns
+26,T31.63,Burns of 6069% of body surface w 3039% third degree burns
+27,T31.64,Burns of 6069% of body surface w 4049% third degree burns
+28,T31.65,Burns of 6069% of body surface w 5059% third degree burns
+29,T31.66,Burns of 6069% of body surface w 6069% third degree burns
+30,T31.70,Burns of 7079% of body surfc w 0% to 9% third degree burns
+31,T31.71,Burns of 7079% of body surface w 1019% third degree burns
+32,T31.72,Burns of 7079% of body surface w 2029% third degree burns
+33,T31.73,Burns of 7079% of body surface w 3039% third degree burns
+34,T31.74,Burns of 7079% of body surface w 4049% third degree burns
+35,T31.75,Burns of 7079% of body surface w 5059% third degree burns
+36,T31.76,Burns of 7079% of body surface w 6069% third degree burns
+37,T31.77,Burns of 7079% of body surface w 7079% third degree burns
+38,T31.80,Burns of 8089% of body surfc w 0% to 9% third degree burns
+39,T31.81,Burns of 8089% of body surface w 1019% third degree burns
+40,T31.82,Burns of 8089% of body surface w 2029% third degree burns
+41,T31.83,Burns of 8089% of body surface w 3039% third degree burns
+42,T31.84,Burns of 8089% of body surface w 4049% third degree burns
+43,T31.85,Burns of 8089% of body surface w 5059% third degree burns
+44,T31.86,Burns of 8089% of body surface w 6069% third degree burns
+45,T31.87,Burns of 8089% of body surface w 7079% third degree burns
+46,T31.88,Burns of 8089% of body surface w 8089% third degree burns
+47,T31.90,Burns of 90%/more of body surfc w 0% to 9% third deg burns
+48,T31.91,Burns of 90%/more of body surfc w 1019% third degree burns
+49,T31.92,Burns of 90%/more of body surfc w 2029% third degree burns
+50,T31.93,Burns of 90%/more of body surfc w 3039% third degree burns
+51,T31.94,Burns of 90%/more of body surfc w 4049% third degree burns
+52,T31.95,Burns of 90%/more of body surfc w 5059% third degree burns
+53,T31.96,Burns of 90%/more of body surfc w 6069% third degree burns
+54,T31.97,Burns of 90%/more of body surfc w 7079% third degree burns
+55,T31.98,Burns of 90%/more of body surfc w 8089% third degree burns
+56,T31.99,Burns of 90%/more of body surfc w 90%/more third deg burns
+57,T32.0,Corrosions involving less than 10% of body surface
+58,T32.10,Corros 1019% of body surface w 0% to 9% third degree corros
+59,T32.11,Corros 1019% of body surface w 1019% third degree corros
+60,T32.20,Corros 2029% of body surface w 0% to 9% third degree corros
+61,T32.21,Corros 2029% of body surface w 1019% third degree corros
+62,T32.22,Corros 2029% of body surface w 2029% third degree corros
+63,T32.30,Corros 3039% of body surface w 0% to 9% third degree corros
+64,T32.31,Corros 3039% of body surface w 1019% third degree corros
+65,T32.32,Corros 3039% of body surface w 2029% third degree corros
+66,T32.33,Corros 3039% of body surface w 3039% third degree corros
+67,T32.40,Corros 4049% of body surface w 0% to 9% third degree corros
+68,T32.41,Corros 4049% of body surface w 1019% third degree corros
+69,T32.42,Corros 4049% of body surface w 2029% third degree corros
+70,T32.43,Corros 4049% of body surface w 3039% third degree corros
+71,T32.44,Corros 4049% of body surface w 4049% third degree corros
+72,T32.50,Corros 5059% of body surface w 0% to 9% third degree corros
+73,T32.51,Corros 5059% of body surface w 1019% third degree corros
+74,T32.52,Corros 5059% of body surface w 2029% third degree corros
+75,T32.53,Corros 5059% of body surface w 3039% third degree corros
+76,T32.54,Corros 5059% of body surface w 4049% third degree corros
+77,T32.55,Corros 5059% of body surface w 5059% third degree corros
+78,T32.60,Corros 6069% of body surface w 0% to 9% third degree corros
+79,T32.61,Corros 6069% of body surface w 1019% third degree corros
+80,T32.62,Corros 6069% of body surface w 2029% third degree corros
+81,T32.63,Corros 6069% of body surface w 3039% third degree corros
+82,T32.64,Corros 6069% of body surface w 4049% third degree corros
+83,T32.65,Corros 6069% of body surface w 5059% third degree corros
+84,T32.66,Corros 6069% of body surface w 6069% third degree corros
+85,T32.70,Corros 7079% of body surface w 0% to 9% third degree corros
+86,T32.71,Corros 7079% of body surface w 1019% third degree corros
+87,T32.72,Corros 7079% of body surface w 2029% third degree corros
+88,T32.73,Corros 7079% of body surface w 3039% third degree corros
+89,T32.74,Corros 7079% of body surface w 4049% third degree corros
+90,T32.75,Corros 7079% of body surface w 5059% third degree corros
+91,T32.76,Corros 7079% of body surface w 6069% third degree corros
+92,T32.77,Corros 7079% of body surface w 7079% third degree corros
+93,T32.80,Corros 8089% of body surface w 0% to 9% third degree corros
+94,T32.81,Corros 8089% of body surface w 1019% third degree corros
+95,T32.82,Corros 8089% of body surface w 2029% third degree corros
+96,T32.83,Corros 8089% of body surface w 3039% third degree corros
+97,T32.84,Corros 8089% of body surface w 4049% third degree corros
+98,T32.85,Corros 8089% of body surface w 5059% third degree corros
+99,T32.86,Corros 8089% of body surface w 6069% third degree corros
+100,T32.87,Corros 8089% of body surface w 7079% third degree corros
+101,T32.88,Corros 8089% of body surface w 8089% third degree corros
+102,T32.90,Corros 90%/more of body surfc w 0% to 9% third degree corros
+103,T32.91,Corros 90%/more of body surface w 1019% third degree corros
+104,T32.92,Corros 90%/more of body surface w 2029% third degree corros
+105,T32.93,Corros 90%/more of body surface w 3039% third degree corros
+106,T32.94,Corros 90%/more of body surface w 4049% third degree corros
+107,T32.95,Corros 90%/more of body surface w 5059% third degree corros
+108,T32.96,Corros 90%/more of body surface w 6069% third degree corros
+109,T32.97,Corros 90%/more of body surface w 7079% third degree corros
+110,T32.98,Corros 90%/more of body surface w 8089% third degree corros
+111,T32.99,Corros 90%/more of body surfc w 90%/more third degree corros

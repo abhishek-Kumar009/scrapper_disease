@@ -1,0 +1,10 @@
+,category,condition
+0,T14.8XXA,"Other injury of unspecified body region, initial encounter"
+1,T14.8XXD,"Other injury of unspecified body region, subs"
+2,T14.8XXS,"Other injury of unspecified body region, sequela"
+3,T14.90XA,"Injury, unspecified, initial encounter"
+4,T14.90XD,"Injury, unspecified, subsequent encounter"
+5,T14.90XS,"Injury, unspecified, sequela"
+6,T14.91XA,"Suicide attempt, initial encounter"
+7,T14.91XD,"Suicide attempt, subsequent encounter"
+8,T14.91XS,"Suicide attempt, sequela"
