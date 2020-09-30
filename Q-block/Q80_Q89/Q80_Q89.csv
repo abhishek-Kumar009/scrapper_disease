@@ -1,0 +1,72 @@
+,category,condition
+0,Q80.0,Ichthyosis vulgaris
+1,Q80.1,Xlinked ichthyosis
+2,Q80.2,Lamellar ichthyosis
+3,Q80.3,Congenital bullous ichthyosiform erythroderma
+4,Q80.4,Harlequin fetus
+5,Q80.8,Other congenital ichthyosis
+6,Q80.9,"Congenital ichthyosis, unspecified"
+7,Q81.0,Epidermolysis bullosa simplex
+8,Q81.1,Epidermolysis bullosa letalis
+9,Q81.2,Epidermolysis bullosa dystrophica
+10,Q81.8,Other epidermolysis bullosa
+11,Q81.9,"Epidermolysis bullosa, unspecified"
+12,Q82.0,Hereditary lymphedema
+13,Q82.1,Xeroderma pigmentosum
+14,Q82.2,Congenital cutaneous mastocytosis
+15,Q82.3,Incontinentia pigmenti
+16,Q82.4,Ectodermal dysplasia (anhidrotic)
+17,Q82.5,Congenital nonneoplastic nevus
+18,Q82.6,Congenital sacral dimple
+19,Q82.8,Other specified congenital malformations of skin
+20,Q82.9,"Congenital malformation of skin, unspecified"
+21,Q83.0,Congenital absence of breast with absent nipple
+22,Q83.1,Accessory breast
+23,Q83.2,Absent nipple
+24,Q83.3,Accessory nipple
+25,Q83.8,Other congenital malformations of breast
+26,Q83.9,"Congenital malformation of breast, unspecified"
+27,Q84.0,Congenital alopecia
+28,Q84.1,"Congenital morphological disturbances of hair, NEC"
+29,Q84.2,Other congenital malformations of hair
+30,Q84.3,Anonychia
+31,Q84.4,Congenital leukonychia
+32,Q84.5,Enlarged and hypertrophic nails
+33,Q84.6,Other congenital malformations of nails
+34,Q84.8,Other specified congenital malformations of integument
+35,Q84.9,"Congenital malformation of integument, unspecified"
+36,Q85.00,"Neurofibromatosis, unspecified"
+37,Q85.01,"Neurofibromatosis, type 1"
+38,Q85.02,"Neurofibromatosis, type 2"
+39,Q85.03,Schwannomatosis
+40,Q85.09,Other neurofibromatosis
+41,Q85.1,Tuberous sclerosis
+42,Q85.8,"Other phakomatoses, not elsewhere classified"
+43,Q85.9,"Phakomatosis, unspecified"
+44,Q86.0,Fetal alcohol syndrome (dysmorphic)
+45,Q86.1,Fetal hydantoin syndrome
+46,Q86.2,Dysmorphism due to warfarin
+47,Q86.8,Oth congen malform syndromes due to known exogenous causes
+48,Q87.0,Congen malform syndromes predom affecting facial appearance
+49,Q87.11,PraderWilli syndrome  NEW CODE
+50,Q87.19,Other congen malform synd predom assoc with short stature  NEW CODE
+51,Q87.2,Congenital malformation syndromes predom involving limbs
+52,Q87.3,Congenital malformation syndromes involving early overgrowth
+53,Q87.40,"Marfan's syndrome, unspecified"
+54,Q87.410,Marfan's syndrome with aortic dilation
+55,Q87.418,Marfan's syndrome with other cardiovascular manifestations
+56,Q87.42,Marfan's syndrome with ocular manifestations
+57,Q87.43,Marfan's syndrome with skeletal manifestation
+58,Q87.5,Oth congenital malformation syndromes w oth skeletal changes
+59,Q87.81,Alport syndrome
+60,Q87.82,Arterial tortuosity syndrome
+61,Q87.89,"Oth congenital malformation syndromes, NEC"
+62,Q89.01,Asplenia (congenital)
+63,Q89.09,Congenital malformations of spleen
+64,Q89.1,Congenital malformations of adrenal gland
+65,Q89.2,Congenital malformations of other endocrine glands
+66,Q89.3,Situs inversus
+67,Q89.4,Conjoined twins
+68,Q89.7,"Multiple congenital malformations, not elsewhere classified"
+69,Q89.8,Other specified congenital malformations
+70,Q89.9,"Congenital malformation, unspecified"

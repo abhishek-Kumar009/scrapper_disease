@@ -1,0 +1,32 @@
+,category,condition
+0,Q30.0,Choanal atresia
+1,Q30.1,Agenesis and underdevelopment of nose
+2,Q30.2,"Fissured, notched and cleft nose"
+3,Q30.3,Congenital perforated nasal septum
+4,Q30.8,Other congenital malformations of nose
+5,Q30.9,"Congenital malformation of nose, unspecified"
+6,Q31.0,Web of larynx
+7,Q31.1,Congenital subglottic stenosis
+8,Q31.2,Laryngeal hypoplasia
+9,Q31.3,Laryngocele
+10,Q31.5,Congenital laryngomalacia
+11,Q31.8,Other congenital malformations of larynx
+12,Q31.9,"Congenital malformation of larynx, unspecified"
+13,Q32.0,Congenital tracheomalacia
+14,Q32.1,Other congenital malformations of trachea
+15,Q32.2,Congenital bronchomalacia
+16,Q32.3,Congenital stenosis of bronchus
+17,Q32.4,Other congenital malformations of bronchus
+18,Q33.0,Congenital cystic lung
+19,Q33.1,Accessory lobe of lung
+20,Q33.2,Sequestration of lung
+21,Q33.3,Agenesis of lung
+22,Q33.4,Congenital bronchiectasis
+23,Q33.5,Ectopic tissue in lung
+24,Q33.6,Congenital hypoplasia and dysplasia of lung
+25,Q33.8,Other congenital malformations of lung
+26,Q33.9,"Congenital malformation of lung, unspecified"
+27,Q34.0,Anomaly of pleura
+28,Q34.1,Congenital cyst of mediastinum
+29,Q34.8,Oth congenital malformations of respiratory system
+30,Q34.9,"Congenital malformation of respiratory system, unspecified"
